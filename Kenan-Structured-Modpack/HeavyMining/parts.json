@@ -1,11 +1,13 @@
 [
   {
     "id": "ROADHEAD",
-    "type": "json_flag"
+    "type": "json_flag",
+    "context": [ "vehicle_part" ]
   },
   {
     "id": "CRASH_TERRAIN_AROUND",
-    "type": "json_flag"
+    "type": "json_flag",
+    "context": [ "vehicle_part" ]
   },
   {
     "type": "GENERIC",

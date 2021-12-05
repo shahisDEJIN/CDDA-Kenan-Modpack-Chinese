@@ -110,7 +110,7 @@
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
       { "id": "WRENCH_FINE", "level": 1 },
-      { "id": "GLARE", "level": 1 }
+      { "id": "GLARE", "level": 2 }
     ],
     "components": [
       [ [ "welder", 1 ] ],
@@ -198,8 +198,6 @@
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
     "result": "multi_cooker",
-    "category": "CC_ELECTRONIC",
-    "subcategory": "CSC_ELECTRONIC_TOOLS",
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 180000,

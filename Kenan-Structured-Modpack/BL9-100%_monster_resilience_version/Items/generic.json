@@ -272,7 +272,7 @@
   {
     "id": "BL9_castlemap",
     "looks_like": "survivormap",
-    "category": "maps",
+    "category": "books",
     "type": "GENERIC",
     "symbol": ";",
     "color": "blue",
@@ -292,7 +292,7 @@
   {
     "id": "BL9_islandmap",
     "looks_like": "militarymap",
-    "category": "maps",
+    "category": "books",
     "type": "GENERIC",
     "symbol": ";",
     "color": "red",
@@ -312,7 +312,7 @@
   {
     "id": "BL9_biomesmap",
     "looks_like": "subwaymap",
-    "category": "maps",
+    "category": "books",
     "type": "GENERIC",
     "symbol": ";",
     "color": "green",

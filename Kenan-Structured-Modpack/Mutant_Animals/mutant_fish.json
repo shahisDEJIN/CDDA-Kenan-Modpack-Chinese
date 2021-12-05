@@ -23,6 +23,7 @@
     "reproduction": { "baby_egg": "egg_fish", "baby_count": 3, "baby_timer": 150 },
     "baby_flags": [ "AUTUMN", "WINTER" ],
     "fear_triggers": [ "PLAYER_CLOSE", "SOUND" ],
+    "death_function": [ "NORMAL" ],
     "harvest": "fish_large",
     "flags": [ "FISHABLE", "SEES", "SMELLS", "WARM", "SWIMS", "AQUATIC" ]
   },
@@ -67,7 +68,7 @@
     "name": { "str": "bloatball fish", "str_pl": "bloatball fish" },
     "description": "A mutant fish the size and shape of a basketball.  When threatened the fish will inflate itself to massive size.  If attacked the fish and its attacker will be caught in a violent explosion.",
     "hp": 1,
-    "death_function": { "effect": { "id": "death_explosion", "hit_self": true }, "corpse_type": "NO_CORPSE", "message": "The %s explodes!" },
+    "death_function": [ "EXPLODE" ],
     "color": "white"
   },
   {
@@ -144,12 +145,7 @@
     "description": "A mutant fish the size of a carp.  It controls its bouyancy by producing and releasing a thick oil which might be harvestable.",
     "color": "yellow",
     "starting_ammo": { "cooking_oil": 10 },
-    "petfood": {
-      "food": [ "CATFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "extend": { "flags": [ "MILKABLE" ] }
+    "extend": { "flags": [ "MILKABLE", "DOGFOOD" ] }
   },
   {
     "id": "mon_fish_mutant_spit",

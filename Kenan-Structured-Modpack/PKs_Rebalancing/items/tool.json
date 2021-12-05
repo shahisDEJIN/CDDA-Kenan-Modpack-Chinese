@@ -30,14 +30,16 @@
     "material": [ "aluminum" ],
     "symbol": ",",
     "color": "light_gray",
+    "coverage": 1,
+    "encumbrance": 0,
     "warmth": 0,
+    "material_thickness": 1,
     "ammo": [ "gasoline" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "watertight": true, "ammo_restriction": { "gasoline": 50 } } ],
     "rand_charges": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 5, 7, 11, 13, 17, 21, 27 ],
     "charges_per_use": 1,
     "use_action": [ { "type": "firestarter", "moves": 60, "moves_slow": 600 } ],
-    "flags": [ "FIRE", "FLAMING" ],
-    "armor": [ { "encumbrance": 0, "coverage": 1, "material": [ "aluminium" ], "material_thickness": 1 } ]
+    "flags": [ "FIRE", "FLAMING" ]
   },
   {
     "id": "candle_smoke",
@@ -264,6 +266,7 @@
     "initial_charges": 1,
     "max_charges": 4,
     "turns_per_charge": 1,
+    "emits": [ "emit_radiation_plume" ],
     "use_action": {
       "type": "explosion",
       "draw_explosion_radius": 2,

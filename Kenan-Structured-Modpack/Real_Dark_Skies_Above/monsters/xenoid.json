@@ -46,7 +46,7 @@
     ],
     "path_settings": { "max_dist": 5 },
     "death_drops": { "groups": [ [ "robots", 4 ], [ "eyebot", 1 ], [ "turret_searchlight", 1 ] ] },
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -116,7 +116,7 @@
     "path_settings": { "max_dist": 5 },
     "anger_triggers": [ "HURT", "PLAYER_WEAK", "STALK" ],
     "death_drops": { "groups": [ [ "robots", 4 ], [ "skitterbot", 1 ] ] },
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -188,6 +188,7 @@
     "death_drops": "dkz_mon_xenoid_ranger",
     "path_settings": { "max_dist": 20 },
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
+    "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 30, "into_group": "DKZ_GROUP_RANGER_UPGRADE" },
     "flags": [
       "SEES",
@@ -262,6 +263,7 @@
     "death_drops": "dkz_mon_xenoid_hunter",
     "path_settings": { "max_dist": 20 },
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -337,6 +339,7 @@
     ],
     "death_drops": "dkz_mon_xenoid_enforcer",
     "path_settings": { "max_dist": 5 },
+    "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 30, "into_group": "DKZ_GROUP_ENFORCER_UPGRADE" },
     "flags": [
       "SEES",
@@ -412,6 +415,7 @@
     ],
     "death_drops": "dkz_mon_xenoid_oppressor",
     "path_settings": { "max_dist": 5 },
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -485,6 +489,7 @@
     ],
     "death_drops": "dkz_xenoid_fumigator",
     "path_settings": { "max_dist": 5 },
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -560,7 +565,7 @@
     ],
     "death_drops": "dkz_mon_xenoid_pyro",
     "path_settings": { "max_dist": 15 },
-    "death_function": { "effect": { "id": "death_fireball", "hit_self": true } },
+    "death_function": [ "FIREBALL", "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -635,6 +640,7 @@
     ],
     "death_drops": "dkz_mon_xenoid_knight",
     "path_settings": { "max_dist": 10 },
+    "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 30, "into_group": "DKZ_GROUP_KNIGHT_UPGRADE" },
     "flags": [
       "SEES",
@@ -709,6 +715,7 @@
     ],
     "death_drops": "dkz_mon_xenoid_templar",
     "path_settings": { "max_dist": 10 },
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -782,7 +789,7 @@
         "description": "<color_light_green>The %1$s fires a stream of blue hazy gas!</color>"
       }
     ],
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -857,7 +864,7 @@
         "description": "Putrid gas rolls across the landscape!"
       }
     ],
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -934,7 +941,7 @@
         "description": "<color_light_red>A blinding lazer causes widespread devastation.</color>"
       }
     ],
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -1007,7 +1014,7 @@
         "description": "Sound returns as the emissary's cannon roars to life!!"
       }
     ],
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -1061,13 +1068,13 @@
       [ "GRAB_DRAG", 3 ],
       {
         "type": "bite",
-        "infection_chance": 10,
+        "no_infection_chance": 10,
         "damage_max_instance": [ { "damage_type": "stab", "amount": 12, "armor_multiplier": 0.8 } ],
         "cooldown": 10
       }
     ],
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK" ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "SWIMS", "AQUATIC", "POISON", "HARDTOSHOOT" ]
   },
   {
@@ -1111,7 +1118,7 @@
       [ "SMASH", 20 ]
     ],
     "anger_triggers": [ "FRIEND_ATTACKED", "HURT" ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "BASHES", "DESTROYS", "ACIDPROOF", "CAN_DIG" ]
   }
 ]

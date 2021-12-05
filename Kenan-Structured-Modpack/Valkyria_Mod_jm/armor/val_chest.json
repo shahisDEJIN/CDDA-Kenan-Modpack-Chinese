@@ -13,6 +13,9 @@
     "symbol": "[",
     "looks_like": "coat_winter",
     "color": "green",
+    "covers": [ "torso", "arm_l", "arm_r" ],
+    "coverage": 95,
+    "encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "800 ml", "max_contains_weight": "2 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "800 ml", "max_contains_weight": "2 kg", "moves": 80 },
@@ -20,18 +23,10 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "450 ml", "max_contains_weight": "1 kg", "moves": 65 }
     ],
     "warmth": 20,
+    "material_thickness": 4,
+    "environmental_protection": 3,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 95,
-        "covers": [ "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 4,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER" ]
   },
   {
     "id": "galwebbing",
@@ -46,6 +41,9 @@
     "symbol": "[",
     "looks_like": "ragpouch",
     "color": "dark_gray",
+    "covers": [ "torso" ],
+    "coverage": 15,
+    "material_thickness": 4,
     "pocket_data": [
       {
         "moves": 40,
@@ -57,8 +55,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s" },
-    "flags": [ "WATER_FRIENDLY", "BELTED" ],
-    "armor": [ { "coverage": 15, "covers": [ "torso" ], "material": [ "leather" ], "material_thickness": 4 } ]
+    "flags": [ "WATER_FRIENDLY", "BELTED" ]
   },
   {
     "id": "galchestarmor",
@@ -77,9 +74,12 @@
     "symbol": "[",
     "looks_like": "cuirass_lightplate",
     "color": "light_gray",
+    "covers": [ "torso" ],
+    "coverage": 35,
+    "encumbrance": 6,
     "warmth": 20,
-    "flags": [ "OUTER" ],
-    "armor": [ { "encumbrance": 6, "coverage": 35, "covers": [ "torso" ], "material": [ "steel" ], "material_thickness": 5 } ]
+    "material_thickness": 5,
+    "flags": [ "OUTER" ]
   },
   {
     "id": "imparmyjacket",
@@ -95,6 +95,9 @@
     "symbol": "[",
     "looks_like": "coat_winter",
     "color": "green",
+    "covers": [ "torso", "arm_l", "arm_r" ],
+    "coverage": 95,
+    "encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "800 ml", "max_contains_weight": "2 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "800 ml", "max_contains_weight": "2 kg", "moves": 80 },
@@ -102,18 +105,10 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "450 ml", "max_contains_weight": "1 kg", "moves": 65 }
     ],
     "warmth": 20,
+    "material_thickness": 4,
+    "environmental_protection": 2,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 95,
-        "covers": [ "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 4,
-        "environmental_protection": 2
-      }
-    ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER" ]
   },
   {
     "id": "impwebbing",
@@ -128,6 +123,9 @@
     "symbol": "[",
     "looks_like": "ragpouch",
     "color": "dark_gray",
+    "covers": [ "torso" ],
+    "coverage": 25,
+    "material_thickness": 4,
     "pocket_data": [
       {
         "moves": 40,
@@ -139,8 +137,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s" },
-    "flags": [ "WATER_FRIENDLY", "BELTED" ],
-    "armor": [ { "coverage": 25, "covers": [ "torso" ], "material": [ "leather" ], "material_thickness": 4 } ]
+    "flags": [ "WATER_FRIENDLY", "BELTED" ]
   },
   {
     "id": "impchestarmor",
@@ -159,18 +156,13 @@
     "symbol": "[",
     "looks_like": "cuirass_lightplate",
     "color": "light_gray",
+    "covers": [ "torso" ],
+    "coverage": 80,
+    "encumbrance": 17,
     "warmth": 20,
-    "flags": [ "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 17,
-        "coverage": 80,
-        "covers": [ "torso" ],
-        "material": [ "steel" ],
-        "material_thickness": 4,
-        "environmental_protection": 5
-      }
-    ]
+    "material_thickness": 4,
+    "environmental_protection": 5,
+    "flags": [ "OUTER" ]
   },
   {
     "id": "galwomjacket",
@@ -186,6 +178,9 @@
     "symbol": "[",
     "looks_like": "coat_winter",
     "color": "green",
+    "covers": [ "torso", "arm_l", "arm_r" ],
+    "coverage": 95,
+    "encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "600 ml", "max_contains_weight": "1500 g", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "600 ml", "max_contains_weight": "1500 g", "moves": 80 },
@@ -193,18 +188,10 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "400 ml", "max_contains_weight": "1 kg", "moves": 65 }
     ],
     "warmth": 16,
+    "material_thickness": 2,
+    "environmental_protection": 3,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 95,
-        "covers": [ "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER" ]
   },
   {
     "id": "galwomtunic",
@@ -220,6 +207,9 @@
     "symbol": "[",
     "looks_like": "coat_winter",
     "color": "green",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 95,
+    "encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "300 ml", "max_contains_weight": "1 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "300 ml", "max_contains_weight": "1 kg", "moves": 80 },
@@ -227,18 +217,10 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "200 ml", "max_contains_weight": "1 kg", "moves": 65 }
     ],
     "warmth": 16,
+    "material_thickness": 2,
+    "environmental_protection": 2,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 95,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER" ]
   },
   {
     "id": "gallian_pack",
@@ -253,6 +235,10 @@
     "symbol": "[",
     "looks_like": "backpack",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 30,
+    "encumbrance": 4,
+    "max_encumbrance": 17,
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -264,16 +250,8 @@
       }
     ],
     "warmth": 9,
-    "flags": [ "BELTED", "WATER_FRIENDLY" ],
-    "armor": [
-      {
-        "encumbrance": [ 4, 17 ],
-        "coverage": 30,
-        "covers": [ "torso" ],
-        "material": [ "leather", "cotton" ],
-        "material_thickness": 3
-      }
-    ]
+    "material_thickness": 3,
+    "flags": [ "BELTED", "WATER_FRIENDLY" ]
   },
   {
     "id": "imperial_pack",
@@ -288,6 +266,10 @@
     "symbol": "[",
     "looks_like": "backpack",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 30,
+    "encumbrance": 4,
+    "max_encumbrance": 17,
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -299,16 +281,8 @@
       }
     ],
     "warmth": 9,
-    "flags": [ "BELTED", "WATER_FRIENDLY" ],
-    "armor": [
-      {
-        "encumbrance": [ 4, 17 ],
-        "coverage": 30,
-        "covers": [ "torso" ],
-        "material": [ "leather", "cotton" ],
-        "material_thickness": 3
-      }
-    ]
+    "material_thickness": 3,
+    "flags": [ "BELTED", "WATER_FRIENDLY" ]
   },
   {
     "id": "valdarcshawl",
@@ -324,18 +298,13 @@
     "symbol": "[",
     "looks_like": "coat_rain",
     "color": "blue",
+    "covers": [ "torso", "arm_l", "arm_r" ],
+    "coverage": 65,
+    "encumbrance": 4,
     "warmth": 25,
-    "flags": [ "OVERSIZE", "HOOD", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 4,
-        "coverage": 65,
-        "covers": [ "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "HOOD", "OUTER" ]
   },
   {
     "id": "val_gallian_dress",
@@ -351,21 +320,16 @@
     "symbol": "[",
     "looks_like": "dress",
     "color": "blue",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 75,
+    "encumbrance": 7,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 80 }
     ],
     "warmth": 10,
+    "material_thickness": 4,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 7,
-        "coverage": 75,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 4
-      }
-    ]
+    "flags": [ "VARSIZE", "FANCY" ]
   }
 ]

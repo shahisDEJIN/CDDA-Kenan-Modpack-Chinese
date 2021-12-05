@@ -11,7 +11,7 @@
     "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
-    "skill": "speech",
+    "skill": "barter",
     "max_level": 6,
     "intelligence": 3,
     "time": 30,

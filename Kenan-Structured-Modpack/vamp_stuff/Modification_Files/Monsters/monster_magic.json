@@ -23,7 +23,7 @@
     "valid_targets": [ "ground", "ally" ],
     "min_aoe": 8,
     "max_aoe": 8,
-    "effect": "short_range_teleport",
+    "effect": "teleport_random",
     "shape": "blast"
   },
   {

@@ -15,19 +15,14 @@
     "material": [ "kevlar", "leather" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "head" ],
+    "coverage": 100,
+    "encumbrance": 25,
     "warmth": 15,
+    "material_thickness": 5,
+    "environmental_protection": 3,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 25,
-        "coverage": 100,
-        "covers": [ "head" ],
-        "material": [ "kevlar", "leather" ],
-        "material_thickness": 5,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "helmet_xlsurvivor",
@@ -44,19 +39,14 @@
     "material": [ "kevlar", "leather" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "head" ],
+    "coverage": 100,
+    "encumbrance": 50,
     "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 3,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 50,
-        "coverage": 100,
-        "covers": [ "head" ],
-        "material": [ "kevlar", "leather" ],
-        "material_thickness": 4,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "helmet_hsurvivor",
@@ -73,19 +63,14 @@
     "material": [ "kevlar", "steel" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "head" ],
+    "coverage": 100,
+    "encumbrance": 40,
     "warmth": 25,
+    "material_thickness": 6,
+    "environmental_protection": 5,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 40,
-        "coverage": 100,
-        "covers": [ "head" ],
-        "material": [ "kevlar", "steel" ],
-        "material_thickness": 6,
-        "environmental_protection": 5
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_survivorhelmet",
@@ -103,19 +88,14 @@
     "material": [ "BL9", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 20,
     "warmth": 10,
+    "material_thickness": 2,
+    "environmental_protection": 2,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "BL9", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ]
   },
   {
     "id": "BL9_survivorpants",
@@ -131,6 +111,10 @@
     "material": [ "BL9", "BL9_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 10,
+    "max_encumbrance": 17,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "1250 ml", "max_contains_weight": "3500 g", "moves": 65 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "1250 ml", "max_contains_weight": "3500 g", "moves": 65 },
@@ -142,17 +126,9 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "400 ml", "max_contains_weight": "1250 g", "moves": 80 }
     ],
     "warmth": 10,
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 10, 17 ],
-        "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "material": [ "BL9", "BL9_mid1" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ]
   },
   {
     "id": "BL9_survivorsuit",
@@ -169,6 +145,10 @@
     "material": [ "BL9", "BL9_mid2" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 85,
+    "encumbrance": 12,
+    "max_encumbrance": 20,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "8 kg", "moves": 60 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "8 kg", "moves": 60 },
@@ -176,17 +156,9 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "4 kg", "moves": 90 }
     ],
     "warmth": 15,
-    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 12, 20 ],
-        "coverage": 85,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "BL9", "BL9_mid2" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ]
   },
   {
     "id": "BL9_survivorgloves",
@@ -203,18 +175,13 @@
     "material": [ "BL9", "BL9_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 15,
     "warmth": 20,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "BL9", "BL9_mid1" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_survivorboots",
@@ -232,18 +199,13 @@
     "material": [ "BL9", "leather" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 20,
     "warmth": 20,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "BL9", "leather" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_survivorbodyarmor",
@@ -260,17 +222,12 @@
     "material": [ "BL9", "plastic" ],
     "symbol": "[",
     "color": "red",
-    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 90,
-        "covers": [ "torso" ],
-        "material": [ "BL9", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "covers": [ "torso" ],
+    "coverage": 90,
+    "encumbrance": 15,
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
   },
   {
     "id": "BL9_hitech_survivorhelmet",
@@ -288,6 +245,9 @@
     "material": [ "BL9_hitech", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 15,
     "warmth": 10,
     "relic_data": {
       "passive_effects": [
@@ -298,18 +258,10 @@
         }
       ]
     },
+    "material_thickness": 2,
+    "environmental_protection": 2,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "BL9_hitech", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ]
   },
   {
     "id": "BL9_hitech_survivorpants",
@@ -325,6 +277,10 @@
     "material": [ "BL9_hitech", "BL9_hitech_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 8,
+    "max_encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "1600 ml", "max_contains_weight": "4500 g", "moves": 55 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "1600 ml", "max_contains_weight": "4500 g", "moves": 55 },
@@ -345,17 +301,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 8, 15 ],
-        "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "material": [ "BL9_hitech", "BL9_hitech_mid1" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ]
   },
   {
     "id": "BL9_hitech_survivorsuit",
@@ -372,6 +320,10 @@
     "material": [ "BL9_hitech", "BL9_hitech_mid2" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 85,
+    "encumbrance": 8,
+    "max_encumbrance": 16,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "3750 ml", "max_contains_weight": "10 kg", "moves": 55 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "3750 ml", "max_contains_weight": "10 kg", "moves": 55 },
@@ -395,17 +347,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 8, 16 ],
-        "coverage": 85,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "BL9_hitech", "BL9_hitech_mid2" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ]
   },
   {
     "id": "BL9_hitech_survivorgloves",
@@ -422,6 +366,9 @@
     "material": [ "BL9_hitech", "BL9_hitech_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 8,
     "warmth": 20,
     "relic_data": {
       "passive_effects": [
@@ -432,17 +379,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 8,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "BL9_hitech", "BL9_hitech_mid1" ],
-        "material_thickness": 1,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 1,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_hitech_survivorboots",
@@ -460,6 +399,9 @@
     "material": [ "BL9_hitech", "leather" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 8,
     "warmth": 20,
     "relic_data": {
       "passive_effects": [
@@ -470,17 +412,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 8,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "BL9_hitech", "leather" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_hitech_survivorbodyarmor",
@@ -497,18 +431,13 @@
     "material": [ "BL9_hitech", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso" ],
+    "coverage": 90,
+    "encumbrance": 8,
     "relic_data": { "passive_effects": [ { "has": "WORN", "condition": "ALWAYS", "values": [ { "value": "STRENGTH", "add": 2 } ] } ] },
-    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 8,
-        "coverage": 90,
-        "covers": [ "torso" ],
-        "material": [ "BL9_hitech", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
   },
   {
     "id": "BL9_survivorhelmet_mk2",
@@ -526,19 +455,14 @@
     "material": [ "BL9_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 30,
     "warmth": 15,
+    "material_thickness": 2,
+    "environmental_protection": 3,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 30,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "BL9_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ]
   },
   {
     "id": "BL9_survivorpants_mk2",
@@ -554,6 +478,10 @@
     "material": [ "BL9_mk2_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 12,
+    "max_encumbrance": 23,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "1800 ml", "max_contains_weight": "4 kg", "moves": 60 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "1800 ml", "max_contains_weight": "4 kg", "moves": 60 },
@@ -565,17 +493,9 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "800 ml", "max_contains_weight": "1500 g", "moves": 75 }
     ],
     "warmth": 15,
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 12, 23 ],
-        "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "material": [ "BL9_mk2_mid1" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ]
   },
   {
     "id": "BL9_survivorsuit_mk2",
@@ -592,6 +512,10 @@
     "material": [ "BL9_mk2_mid2" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 90,
+    "encumbrance": 18,
+    "max_encumbrance": 35,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "4500 ml", "max_contains_weight": "8 kg", "moves": 45 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "4500 ml", "max_contains_weight": "8 kg", "moves": 45 },
@@ -599,17 +523,9 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "3500 ml", "max_contains_weight": "5 kg", "moves": 80 }
     ],
     "warmth": 20,
-    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 18, 35 ],
-        "coverage": 90,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "BL9_mk2_mid2" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ]
   },
   {
     "id": "BL9_survivorgloves_mk2",
@@ -626,18 +542,13 @@
     "material": [ "BL9_mk2_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 25,
     "warmth": 20,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 25,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "BL9_mk2_mid1" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_survivorboots_mk2",
@@ -655,18 +566,13 @@
     "material": [ "BL9_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 25,
     "warmth": 20,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 25,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "BL9_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_survivorbodyarmor_mk2",
@@ -683,17 +589,12 @@
     "material": [ "BL9_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
-    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 30,
-        "coverage": 90,
-        "covers": [ "torso" ],
-        "material": [ "BL9_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "covers": [ "torso" ],
+    "coverage": 90,
+    "encumbrance": 30,
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
   },
   {
     "id": "BL9_hitech_survivorhelmet_mk2",
@@ -711,6 +612,9 @@
     "material": [ "BL9_hitech_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 22,
     "warmth": 15,
     "relic_data": {
       "passive_effects": [
@@ -721,18 +625,10 @@
         }
       ]
     },
+    "material_thickness": 2,
+    "environmental_protection": 3,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 22,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "BL9_hitech_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "SUN_GLASSES", "WATERPROOF", "STURDY", "OUTER" ]
   },
   {
     "id": "BL9_hitech_survivorpants_mk2",
@@ -748,6 +644,10 @@
     "material": [ "BL9_hitech_mk2_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 7,
+    "max_encumbrance": 18,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "2250 ml", "max_contains_weight": "5 kg", "moves": 45 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "2250 ml", "max_contains_weight": "5 kg", "moves": 45 },
@@ -768,17 +668,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 7, 18 ],
-        "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "material": [ "BL9_hitech_mk2_mid1" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ]
   },
   {
     "id": "BL9_hitech_survivorsuit_mk2",
@@ -795,6 +687,10 @@
     "material": [ "BL9_hitech_mk2_mid2" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 90,
+    "encumbrance": 10,
+    "max_encumbrance": 25,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "5600 ml", "max_contains_weight": "10 kg", "moves": 35 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "5600 ml", "max_contains_weight": "10 kg", "moves": 35 },
@@ -818,17 +714,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ],
-    "armor": [
-      {
-        "encumbrance": [ 10, 25 ],
-        "coverage": 90,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "BL9_hitech_mk2_mid2" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "STURDY", "WATERPROOF", "RAINPROOF" ]
   },
   {
     "id": "BL9_hitech_survivorgloves_mk2",
@@ -845,6 +733,9 @@
     "material": [ "BL9_hitech_mk2_mid1" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 15,
     "warmth": 20,
     "relic_data": {
       "passive_effects": [
@@ -855,17 +746,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 15,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "BL9_hitech_mk2_mid1" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_hitech_survivorboots_mk2",
@@ -883,6 +766,9 @@
     "material": [ "BL9_hitech_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 18,
     "warmth": 20,
     "relic_data": {
       "passive_effects": [
@@ -893,17 +779,9 @@
         }
       ]
     },
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 18,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "BL9_hitech_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "BL9_hitech_survivorbodyarmor_mk2",
@@ -920,17 +798,12 @@
     "material": [ "BL9_hitech_mk2", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso" ],
+    "coverage": 90,
+    "encumbrance": 22,
     "relic_data": { "passive_effects": [ { "has": "WORN", "condition": "ALWAYS", "values": [ { "value": "STRENGTH", "add": 5 } ] } ] },
-    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ],
-    "armor": [
-      {
-        "encumbrance": 22,
-        "coverage": 90,
-        "covers": [ "torso" ],
-        "material": [ "BL9_hitech_mk2", "plastic" ],
-        "material_thickness": 2,
-        "environmental_protection": 3
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
   }
 ]

@@ -28,7 +28,7 @@
         [ "fanny", 2 ]
       ],
       [ [ "duct_tape", 400 ] ],
-      [ [ "kevlar", 1 ], [ "ballistic_vest_empty", 1 ], [ "swat_armor", 1 ], [ "sheet_kevlar_layered", 24 ] ],
+      [ [ "kevlar", 1 ], [ "modularvest", 1 ], [ "swat_armor", 1 ], [ "sheet_kevlar_layered", 24 ] ],
       [ [ "bio_armor_torso", 2 ], [ "alloy_sheet", 8 ], [ "alloy_plate", 2 ] ],
       [ [ "bio_armor_arms", 1 ], [ "alloy_sheet", 4 ], [ "alloy_plate", 1 ] ],
       [ [ "bio_armor_legs", 1 ], [ "alloy_sheet", 4 ], [ "alloy_plate", 1 ] ],
@@ -61,7 +61,7 @@
     "time": "2 d 12 h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "tools": [ [ [ "laptop", 500 ] ] ],
+    "tools": [ [ [ "laptop", 500 ], [ "control_laptop", 500 ] ] ],
     "components": [
       [ [ "cbma_bionic_armor", 1 ] ],
       [ [ "bio_str_enhancer", 1 ], [ "cbma_myomer_fiber", 2 ] ],
@@ -90,7 +90,7 @@
     "time": "1 h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_enhanced_armor", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_enhanced_armor", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   },
   {
     "result": "cbma_bionic_helmet",
@@ -186,7 +186,7 @@
     "time": "2d",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "tools": [ [ [ "laptop", 500 ] ] ],
+    "tools": [ [ [ "laptop", 500 ], [ "control_laptop", 500 ] ] ],
     "components": [
       [ [ "cbma_bionic_helmet", 1 ] ],
       [ [ "cbma_bionic_mask", 1 ] ],
@@ -216,7 +216,7 @@
     "time": "1h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_enhanced_helmet", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_enhanced_helmet", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   },
   {
     "result": "cbma_bionic_gloves",
@@ -273,7 +273,7 @@
     "time": "2d 12h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "tools": [ [ [ "laptop", 500 ] ] ],
+    "tools": [ [ [ "laptop", 500 ], [ "control_laptop", 500 ] ] ],
     "components": [
       [ [ "cbma_bionic_gloves", 1 ] ],
       [ [ "bio_magnet", 1 ] ],
@@ -298,7 +298,7 @@
     "time": "1h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_enhanced_gloves", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_enhanced_gloves", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   },
   {
     "result": "cbma_bionic_boots",
@@ -350,7 +350,7 @@
     "time": "2d 12h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "tools": [ [ [ "laptop", 500 ] ] ],
+    "tools": [ [ [ "laptop", 500 ], [ "control_laptop", 500 ] ] ],
     "components": [
       [ [ "cbma_bionic_boots", 1 ] ],
       [ [ "bio_dex_enhancer", 1 ] ],
@@ -375,7 +375,7 @@
     "time": "1h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_enhanced_boots", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_enhanced_boots", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   },
   {
     "result": "cbma_bionic_duster",
@@ -392,7 +392,7 @@
     "using": [ [ "cbma_req_qualities", 1 ], [ "tailoring_nomex_patchwork", 4 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
     "components": [
       [ [ "trenchcoat_survivor", 1 ], [ "duster_survivor", 1 ] ],
-      [ [ "kevlar", 1 ], [ "ballistic_vest_empty", 1 ], [ "swat_armor", 1 ], [ "sheet_kevlar_layered", 24 ] ],
+      [ [ "kevlar", 1 ], [ "modularvest", 1 ], [ "swat_armor", 1 ], [ "sheet_kevlar_layered", 24 ] ],
       [ [ "bio_carbon", 1 ] ],
       [ [ "snapfastener_steel", 12 ] ],
       [ [ "duct_tape", 100 ] ],
@@ -423,7 +423,7 @@
     "time": "2d",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "tools": [ [ [ "laptop", 500 ] ] ],
+    "tools": [ [ [ "laptop", 500 ], [ "control_laptop", 500 ] ] ],
     "components": [
       [ [ "cbma_bionic_duster", 1 ] ],
       [ [ "bio_ads", 1 ] ],
@@ -450,7 +450,7 @@
     "time": "1h",
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_enhanced_duster", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_enhanced_duster", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   },
   {
     "result": "cbma_carry_frame",
@@ -514,6 +514,6 @@
     "time": 60000,
     "autolearn": true,
     "using": [ [ "cbma_req_qualities", 1 ], [ "filament", 200 ], [ "cbma_req_tool_armor", 1 ] ],
-    "components": [ [ [ "cbma_inner_suite", 1 ] ], [ [ "bio_ups", 1 ], [ "UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
+    "components": [ [ [ "cbma_inner_suite", 1 ] ], [ [ "bio_ups", 1 ], [ "adv_UPS_off", 2 ] ], [ [ "solder_wire", 300 ] ] ]
   }
 ]

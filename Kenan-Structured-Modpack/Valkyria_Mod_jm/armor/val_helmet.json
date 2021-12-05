@@ -15,10 +15,13 @@
     "symbol": "[",
     "looks_like": "hat_hard",
     "color": "green",
+    "covers": [ "head" ],
+    "coverage": 80,
+    "encumbrance": 19,
     "warmth": 15,
+    "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [ { "encumbrance": 19, "coverage": 80, "covers": [ "head" ], "material": [ "steel" ], "material_thickness": 4 } ]
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "imp_helmet",
@@ -37,19 +40,14 @@
     "symbol": "[",
     "looks_like": "hat_hard",
     "color": "green",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 75,
+    "encumbrance": 23,
     "warmth": 20,
+    "material_thickness": 3,
+    "environmental_protection": 6,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 23,
-        "coverage": 75,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "steel" ],
-        "material_thickness": 3,
-        "environmental_protection": 6
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "id": "bruhlscarf",
@@ -65,8 +63,10 @@
     "symbol": "[",
     "looks_like": "hat_cotton",
     "color": "dark_gray",
+    "covers": [ "head" ],
+    "coverage": 30,
     "warmth": 10,
-    "flags": [ "VARSIZE", "WATER_FRIENDLY" ],
-    "armor": [ { "coverage": 30, "covers": [ "head" ], "material": [ "cotton" ], "material_thickness": 1 } ]
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY" ]
   }
 ]

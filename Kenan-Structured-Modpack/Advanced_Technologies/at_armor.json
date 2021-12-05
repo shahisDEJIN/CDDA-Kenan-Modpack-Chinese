@@ -6,6 +6,7 @@
     "name": { "str": "robot helmet" },
     "weight": "2043 g",
     "color": "green",
+    "covers": [ "head", "eyes", "mouth" ],
     "techniques": [ "WBLOCK_1" ],
     "to_hit": -1,
     "symbol": "[",
@@ -17,18 +18,12 @@
     "cutting": 0,
     "warmth": 30,
     "phase": "solid",
+    "environmental_protection": 4,
+    "encumbrance": 20,
     "bashing": 12,
     "flags": [ "WATERPROOF", "STURDY", "SUN_GLASSES" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "superalloy", "plastic" ],
-        "material_thickness": 5,
-        "environmental_protection": 4
-      }
-    ]
+    "coverage": 100,
+    "material_thickness": 5
   },
   {
     "type": "ARMOR",
@@ -37,6 +32,7 @@
     "name": { "str": "steel helmet" },
     "weight": "1683 g",
     "color": "dark_gray",
+    "covers": [ "head" ],
     "techniques": [ "WBLOCK_1" ],
     "to_hit": -1,
     "symbol": "[",
@@ -48,18 +44,12 @@
     "cutting": 0,
     "warmth": 10,
     "phase": "solid",
+    "environmental_protection": 0,
+    "encumbrance": 20,
     "bashing": 10,
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 95,
-        "covers": [ "head" ],
-        "material": [ "steel", "plastic" ],
-        "material_thickness": 3,
-        "environmental_protection": 0
-      }
-    ]
+    "coverage": 95,
+    "material_thickness": 3
   },
   {
     "type": "ARMOR",
@@ -68,6 +58,7 @@
     "name": { "str": "pilot helmet" },
     "weight": "2287 g",
     "color": "dark_gray",
+    "covers": [ "head", "eyes", "mouth" ],
     "techniques": [ "WBLOCK_1" ],
     "to_hit": -1,
     "symbol": "[",
@@ -79,17 +70,11 @@
     "cutting": 0,
     "warmth": 30,
     "phase": "solid",
+    "environmental_protection": 8,
+    "encumbrance": 30,
     "bashing": 12,
     "flags": [ "WATCH", "WATERPROOF", "STURDY", "SUN_GLASSES" ],
-    "armor": [
-      {
-        "encumbrance": 30,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "superalloy", "plastic" ],
-        "material_thickness": 6,
-        "environmental_protection": 8
-      }
-    ]
+    "coverage": 100,
+    "material_thickness": 6
   }
 ]

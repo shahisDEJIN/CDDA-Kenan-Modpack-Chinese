@@ -50,7 +50,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   },
   {
@@ -70,7 +71,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   },
   {
@@ -90,7 +92,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   },
   {
@@ -110,7 +113,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   },
   {
@@ -130,7 +134,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   },
   {
@@ -150,7 +155,8 @@
       },
       { "skill": "mechanics", "bonus": { "one_in": 2 } },
       { "skill": "electronics", "bonus": { "rng": [ 0, 2 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 6, 11 ] } }
+      { "skill": "speech", "bonus": { "rng": [ 4, 8 ] } },
+      { "skill": "barter", "bonus": { "rng": [ 8, 15 ] } }
     ]
   }
 ]

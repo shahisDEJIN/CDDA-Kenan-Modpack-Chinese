@@ -13,8 +13,8 @@
     "material": [ "wood", "iron" ],
     "symbol": "|",
     "color": "brown",
-    "max_charges": 1,
     "initial_charges": 1,
+    "max_charges": 1,
     "use_action": {
       "type": "musical_instrument",
       "volume": 15,

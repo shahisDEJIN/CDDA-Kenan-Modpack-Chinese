@@ -19,7 +19,7 @@
     "attack_effs": [ { "id": "rad_tenths", "duration": 10 } ],
     "vision_day": 5,
     "vision_night": 5,
-    "special_attacks": [ { "type": "bite", "cooldown": 10, "infection_chance": 8 } ],
+    "special_attacks": [ { "type": "bite", "cooldown": 10, "no_infection_chance": 12 } ],
     "flags": [ "SEES", "HEARS", "SMELLS", "CAN_DIG", "LARVA" ]
   },
   {
@@ -118,7 +118,7 @@
     "armor_bash": 8,
     "vision_day": 10,
     "vision_night": 30,
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "regenerates": 1,
     "flags": [ "NOHEAD", "SEES", "POISON", "HEARS", "SMELLS", "SLUDGEPROOF", "SWIMS", "FLAMMABLE", "NOGIB", "HARDTOSHOOT" ]
   },
@@ -135,7 +135,7 @@
       [ "wound_minor", 30 ],
       [ "GRAB", 30 ],
       [ "scratch", 15 ],
-      { "type": "bite", "cooldown": 20, "infection_chance": 30 }
+      { "type": "bite", "cooldown": 20, "no_infection_chance": 3 }
     ]
   },
   {
@@ -244,7 +244,7 @@
     "dodge": 2,
     "vision_night": 15,
     "special_attacks": [ [ "GRAB", 15 ], [ "TENTACLE", 5 ], [ "VINE", 10 ] ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "SMELLS", "HEARS" ]
   },
   {
@@ -276,7 +276,7 @@
     "dodge": 2,
     "vision_night": 10,
     "special_attacks": [ [ "LUNGE", 60 ], [ "VINE", 10 ], { "type": "leap", "cooldown": 7, "max_range": 2 } ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "SMELLS", "HEARS" ]
   },
   {
@@ -305,7 +305,7 @@
     "dodge": 5,
     "special_attacks": [ [ "TENTACLE", 5 ], [ "GRENADIER", 5 ] ],
     "starting_ammo": { "bot_thing_head": 3, "bot_thing_spider": 3 },
-    "death_function": { "effect": { "id": "death_thing", "hit_self": true }, "corpse_type": "NO_CORPSE", "message": "The %s emerges!" },
+    "death_function": [ "THING" ],
     "flags": [ "SEES", "SMELLS", "HEARS", "BASHES" ],
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_DIED", "SOUND" ],
     "fear_triggers": [ "HURT", "FRIEND_ATTACKED" ]
@@ -330,7 +330,7 @@
     "vision_night": 10,
     "special_attacks": [ [ "TENTACLE", 5 ], [ "GRENADIER", 5 ] ],
     "starting_ammo": { "bot_thing_head": 4, "bot_thing_spider": 4 },
-    "death_function": { "effect": { "id": "death_darkman" }, "corpse_type": "NO_CORPSE", "message": "The %s melts away." }
+    "death_function": [ "DARKMAN", "MELT" ]
   },
   {
     "id": "mon_human_snail",
@@ -469,6 +469,7 @@
         ]
       }
     ],
+    "death_function": [ "JABBERWOCKY" ],
     "harvest": "jabberwock",
     "flags": [
       "SEES",
@@ -523,11 +524,12 @@
       [ "numbing_poison", 5 ],
       [ "SHRIEK_ALERT", 30 ],
       [ "SHRIEK_STUN", 1 ],
-      { "type": "bite", "cooldown": 3, "infection_chance": 12 }
+      { "type": "bite", "cooldown": 3, "no_infection_chance": 8 }
     ],
     "anger_triggers": [ "PLAYER_WEAK", "FIRE", "SOUND" ],
     "fear_triggers": [ "FRIEND_DIED", "PLAYER_CLOSE", "FRIEND_ATTACKED" ],
     "placate_triggers": [ "SOUND" ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -592,6 +594,7 @@
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_WEAK", "PLAYER_CLOSE" ],
     "fear_triggers": [ "FRIEND_DIED", "HURT" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -658,6 +661,7 @@
       { "type": "leap", "cooldown": 15, "max_range": 2 }
     ],
     "death_drops": "mon_zombie_hulk_death_drops",
+    "death_function": [ "NORMAL" ],
     "regen_morale": true,
     "flags": [
       "SEES",
@@ -866,6 +870,7 @@
       { "type": "leap", "cooldown": 20, "max_range": 3 }
     ],
     "death_drops": "default_zombie_death_drops",
+    "death_function": [ "NORMAL" ],
     "regen_morale": true,
     "flags": [
       "SEES",
@@ -924,6 +929,7 @@
         "effects": [ { "id": "grabbed", "duration": 1000, "bp": "torso" } ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SMELLS", "HEARS", "SEES", "CHITIN", "SWIMS", "GRABS", "FAT", "ARTHROPOD_BLOOD" ],
     "anger_triggers": [ "PLAYER_CLOSE", "HURT" ],
     "fear_triggers": [ "FIRE" ]
@@ -961,7 +967,7 @@
         "type": "bite",
         "cooldown": 30,
         "accuracy": 6,
-        "infection_chance": 11,
+        "no_infection_chance": 9,
         "damage_max_instance": [
           { "damage_type": "bash", "amount": 27, "armor_multiplier": 0.85 },
           { "damage_type": "stab", "amount": 9, "armor_multiplier": 0.85 }
@@ -969,11 +975,7 @@
         "effects": [ { "id": "grabbed", "duration": 1000, "bp": "torso" } ]
       }
     ],
-    "death_function": {
-      "effect": { "id": "death_halfworm", "hit_self": true },
-      "corpse_type": "NO_CORPSE",
-      "message": "The %s splits in two!"
-    },
+    "death_function": [ "WORM", "NORMAL" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "DIGS", "BASHES", "POISON", "WARM", "LEATHER", "FAT" ],
     "anger_triggers": [ "SOUND", "FRIEND_ATTACKED", "PLAYER_WEAK" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED", "FIRE" ]
@@ -1027,6 +1029,7 @@
     "attack_effs": [ { "id": "rad_tenths", "duration": 10 } ],
     "armor_bash": 2,
     "harvest": "mutant_meatslug",
+    "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 3, "into_group": "GROUP_WORM" },
     "regenerates": 1,
     "regen_morale": true,
@@ -1068,13 +1071,9 @@
     "armor_fire": 1,
     "vision_day": 35,
     "vision_night": 12,
-    "emit_fields": [ "emit_gas_stream", "emit_gas_stream" ],
+    "emit_fields": [ "emit_gas_stream", "emit_gas_stream", "emit_radiation_plume" ],
     "path_settings": { "max_dist": 30 },
-    "death_function": {
-      "effect": { "id": "death_acid", "hit_self": true },
-      "corpse_type": "NO_CORPSE",
-      "message": "The %s's body melts away."
-    },
+    "death_function": [ "MELT", "ACID" ],
     "flags": [ "SEES", "HEARS", "POISON", "HUMAN", "WARM", "BASHES", "GROUP_BASH", "NO_BREATHE", "LEATHER", "BONES", "STUMBLES" ]
   }
 ]

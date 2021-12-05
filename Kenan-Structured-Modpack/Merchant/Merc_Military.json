@@ -82,12 +82,12 @@
   {
     "type": "item_group",
     "id": "Merc_Military_rifle",
-    "items": [ { "item": "m4_carbine", "variant": "m4a1", "prob": 90 }, [ "m1a", 10 ] ]
+    "items": [ [ "m4a1", 90 ], [ "m1a", 10 ] ]
   },
   {
     "type": "item_group",
     "id": "Merc_Military_weapon_random",
-    "items": [ { "item": "m4_carbine", "variant": "m4a1", "prob": 100 } ]
+    "items": [ [ "m4a1", 100 ] ]
   },
   {
     "type": "item_group",
@@ -134,7 +134,7 @@
       [ "m9", 11 ],
       [ "usp_45", 11 ],
       [ "m1911", 11 ],
-      { "item": "m4_carbine", "variant": "m4a1", "prob": 90 },
+      [ "m4a1", 9 ],
       [ "savage_111f", 11 ],
       [ "remington_700", 11 ],
       [ "ruger_1022", 11 ],
@@ -144,6 +144,7 @@
       [ "shotgun_d", 44 ],
       [ "pipebomb", 10 ],
       [ "molotov", 10 ],
+      [ "matchbomb", 10 ],
       [ "laser_sight", 11 ],
       [ "rail_laser_sight", 15 ],
       [ "rifle_scope", 3 ],
@@ -166,7 +167,7 @@
       [ "helmet_army", 11 ],
       [ "chocolate", 30 ],
       [ "can_beans", 20 ],
-      [ "ballistic_vest_esapi", 5 ],
+      [ "modularvest", 5 ],
       [ "mre_beef_box", 55 ],
       [ "mre_veggy_box", 33 ],
       [ "mre_chicken_box", 33 ],

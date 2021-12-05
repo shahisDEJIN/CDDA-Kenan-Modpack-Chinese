@@ -6,7 +6,7 @@
     "description": "Hefty round projectiles cast from lead, useful as ammunition for slings.",
     "weight": "12 g",
     "volume": "250 ml",
-    "price": "1 USD",
+    "price": 100,
     "bashing": 1,
     "material": [ "lead" ],
     "symbol": "=",
@@ -41,7 +41,7 @@
     "thrown_damage": [ { "damage_type": "bash", "amount": 2 }, { "damage_type": "stab", "amount": 6 } ],
     "effects": [ "RECOVER_25" ],
     "flags": [ "SPEAR" ],
-    "price": "10 USD",
+    "price": 1000,
     "price_postapoc": 75,
     "qualities": [ [ "COOK", 1 ] ]
   },
@@ -59,8 +59,8 @@
     "range": 10,
     "damage": { "damage_type": "stab", "amount": 17, "armor_penetration": 3 },
     "thrown_damage": [ { "damage_type": "bash", "amount": 3 }, { "damage_type": "stab", "amount": 9 } ],
-    "price": "25 USD",
-    "price_postapoc": "1 USD",
+    "price": 2500,
+    "price_postapoc": 100,
     "effects": [ "RECOVER_40" ]
   },
   {
@@ -77,7 +77,7 @@
     "range": 10,
     "damage": { "damage_type": "stab", "amount": 13, "armor_penetration": 2 },
     "thrown_damage": [ { "damage_type": "bash", "amount": 1 }, { "damage_type": "stab", "amount": 7 } ],
-    "price": "15 USD",
+    "price": 1500,
     "price_postapoc": 80,
     "effects": [ "RECOVER_30" ]
   },
@@ -95,7 +95,7 @@
     "range": 10,
     "damage": { "damage_type": "stab", "amount": 16, "armor_penetration": 2 },
     "thrown_damage": [ { "damage_type": "bash", "amount": 3 }, { "damage_type": "stab", "amount": 8 } ],
-    "price": "20 USD",
+    "price": 2000,
     "price_postapoc": 90,
     "effects": [ "RECOVER_35" ]
   },
@@ -107,7 +107,7 @@
     "color": "brown",
     "name": { "str_sp": "pitch" },
     "description": "Sticky resin made from pine or birch tar.  The adhesive isn't strong enough for heavy duty usages, but it can be used as a varnish or holding together small items, or for improvised repairs with the right tools.",
-    "price": "9 USD",
+    "price": 900,
     "material": [ "oil" ],
     "weight": "1 g",
     "volume": "250 ml",

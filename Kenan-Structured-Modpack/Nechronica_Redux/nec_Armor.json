@@ -13,22 +13,17 @@
     "looks_like": "briefcase",
     "symbol": "[",
     "color": "white",
+    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
+    "coverage": 50,
+    "encumbrance": 30,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "5 L", "max_contains_weight": "10 kg", "moves": 90 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "5 L", "max_contains_weight": "10 kg", "moves": 90 }
     ],
     "warmth": 5,
+    "material_thickness": 2,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "WATER_FRIENDLY", "STURDY", "OVERSIZE", "BELTED", "RESTRICT_HANDS", "DURABLE_MELEE" ],
-    "armor": [
-      {
-        "encumbrance": 30,
-        "coverage": 50,
-        "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
-        "material": [ "steel" ],
-        "material_thickness": 2
-      }
-    ]
+    "flags": [ "WATER_FRIENDLY", "STURDY", "OVERSIZE", "BELTED", "RESTRICT_HANDS", "DURABLE_MELEE" ]
   },
   {
     "id": "nec_coffin",
@@ -43,16 +38,17 @@
     "material": [ "steel", "wood" ],
     "symbol": "[",
     "color": "black",
+    "covers": [ "torso" ],
+    "coverage": 50,
+    "encumbrance": 35,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "17500 ml", "max_contains_weight": "35 kg", "moves": 110 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "17500 ml", "max_contains_weight": "35 kg", "moves": 110 }
     ],
     "warmth": 5,
+    "material_thickness": 3,
     "techniques": [ "WBLOCK_3" ],
-    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED", "OVERSIZE", "DURABLE_MELEE" ],
-    "armor": [
-      { "encumbrance": 35, "coverage": 50, "covers": [ "torso" ], "material": [ "steel", "wood" ], "material_thickness": 3 }
-    ]
+    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED", "OVERSIZE", "DURABLE_MELEE" ]
   },
   {
     "id": "nec_ribbon",
@@ -78,8 +74,10 @@
     "material": [ "cotton", "plastic" ],
     "symbol": "[",
     "color": "brown",
-    "flags": [ "BELTED" ],
-    "armor": [ { "encumbrance": 0, "coverage": 5, "covers": [ "torso" ], "material": [ "cotton", "plastic" ] } ]
+    "covers": [ "torso" ],
+    "coverage": 5,
+    "encumbrance": 0,
+    "flags": [ "BELTED" ]
   },
   {
     "id": "nec_gothic_dress",
@@ -93,17 +91,12 @@
     "material": [ "cotton" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
+    "coverage": 90,
+    "encumbrance": 20,
     "warmth": 20,
-    "flags": [ "VARSIZE", "SUPER_FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 90,
-        "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 3
-      }
-    ]
+    "material_thickness": 3,
+    "flags": [ "VARSIZE", "SUPER_FANCY" ]
   },
   {
     "id": "nec_gothic_headdress",
@@ -116,9 +109,12 @@
     "material": [ "cotton" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "head" ],
+    "coverage": 20,
+    "encumbrance": 5,
     "warmth": 5,
-    "flags": [ "FANCY" ],
-    "armor": [ { "encumbrance": 5, "coverage": 20, "covers": [ "head" ], "material": [ "cotton" ], "material_thickness": 1 } ]
+    "material_thickness": 1,
+    "flags": [ "FANCY" ]
   },
   {
     "id": "nec_sgothic_dress",
@@ -132,6 +128,7 @@
     "material": [ "kevlar", "cotton" ],
     "symbol": "[",
     "color": "dark_gray",
+    "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "2500 ml", "max_contains_weight": "5 kg", "moves": 75 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "2500 ml", "max_contains_weight": "5 kg", "moves": 75 },
@@ -144,19 +141,13 @@
         "moves": 150
       }
     ],
+    "environmental_protection": 1,
+    "coverage": 95,
+    "encumbrance": 18,
     "warmth": 25,
+    "material_thickness": 4,
     "use_action": { "type": "holster" },
-    "flags": [ "VARSIZE", "SUPER_FANCY", "OVERSIZE", "WATERPROOF", "RAINPROOF", "STURDY", "POCKETS" ],
-    "armor": [
-      {
-        "encumbrance": 18,
-        "coverage": 95,
-        "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
-        "material": [ "kevlar", "cotton" ],
-        "material_thickness": 4,
-        "environmental_protection": 1
-      }
-    ]
+    "flags": [ "VARSIZE", "SUPER_FANCY", "OVERSIZE", "WATERPROOF", "RAINPROOF", "STURDY", "POCKETS" ]
   },
   {
     "id": "nec_panier",
@@ -169,9 +160,11 @@
     "description": "An underskirt meant to be worn under a dress. It keeps the skirt puffy by way of wires.",
     "price": 500,
     "material": [ "cotton" ],
+    "covers": [ "leg_l", "leg_r" ],
     "warmth": 5,
+    "encumbrance": 5,
     "volume": "250 ml",
     "flags": [ "OVERSIZE" ],
-    "armor": [ { "encumbrance": 5, "covers": [ "leg_l", "leg_r" ], "material": [ "cotton" ], "material_thickness": 1 } ]
+    "material_thickness": 1
   }
 ]

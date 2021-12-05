@@ -84,7 +84,7 @@
     "min_damage": 1,
     "max_damage": 1,
     "effect": "spawn_item",
-    "effect_str": "armor_spirit",
+    "effect_str": "armor_lightplate",
     "shape": "blast",
     "spell_class": "TECHNOMANCER",
     "energy_source": "MANA",
@@ -118,7 +118,7 @@
     "base_energy_cost": 750,
     "min_duration": 100000,
     "max_duration": 1500000,
-    "duration_increment": 45000
+    "duration_increment": 2000
   },
   {
     "id": "recover_bionic_power",
@@ -198,7 +198,7 @@
     "description": "This spell manipulates some quantum something or other to tunnel you through a short distance of space, and even matter, unfortunately there's that whole uncertainty thing as to where you come out.  It leaves you a little dazed on the other side as you reorient yourself.",
     "valid_targets": [ "none" ],
     "flags": [ "NO_LEGS", "NO_HANDS", "SILENT" ],
-    "effect": "short_range_teleport",
+    "effect": "teleport_random",
     "effect_str": "dazed",
     "shape": "blast",
     "spell_class": "TECHNOMANCER",
@@ -401,9 +401,9 @@
     "min_range": 1,
     "max_range": 15,
     "range_increment": 1,
-    "min_duration": 240000,
-    "max_duration": 2160000,
-    "duration_increment": 60000
+    "min_duration": 400000,
+    "max_duration": 14400000,
+    "duration_increment": 200
   },
   {
     "id": "overcharge_burn",

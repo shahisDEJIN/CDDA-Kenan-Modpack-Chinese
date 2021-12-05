@@ -116,19 +116,26 @@
   },
   {
     "type": "effect_type",
-    "id": "nightwail_shadow",
-    "name": [ "Enshrouded" ],
-    "apply_message": "You've been enshrouded in shadows!",
-    "desc": [ "Thick shadow lingers around your body." ],
-    "decay_messages": [ [ "The thick shadow disperses!", "good" ] ],
-    "remove_message": "The shadow vanishes away!",
+    "id": "titan_charge",
+    "name": [ "Charging" ],
+    "show_in_info": true,
+    "base_mods": { "str_mod": [ 2 ], "dex_mod": [ 1 ], "speed_mod": [ 30 ] }
+  },
+  {
+    "type": "effect_type",
+    "id": "omi_curse",
+    "name": [ "Ominous Curse" ],
+    "apply_message": "You've been cursed!",
+    "desc": [ "A terrifying curse eats away your insanity!" ],
+    "decay_messages": [ [ "You withdraw from the curse!", "good" ] ],
+    "remove_message": "The curse lifts away!",
     "int_add_val": 1,
     "max_intensity": 5,
     "int_decay_step": -3,
-    "int_decay_tick": 45,
-    "max_duration": 180,
+    "int_decay_tick": 60,
+    "max_duration": 300,
     "rating": "bad",
-    "scaling_mods": { "int_mod": [ -0.66 ], "dex_mod": [ -0.33 ], "speed_mod": [ -2 ] }
+    "scaling_mods": { "int_mod": [ -2 ] }
   },
   {
     "type": "effect_type",
@@ -1040,7 +1047,7 @@
       "Tentacles are holding you down!",
       "Tentacles are holding you down!",
       "Tentacles are holding you down!",
-      "Tentacles are holding you down and can't move very well!"
+      "Tentacles are holding you down and you can't move very well!"
     ],
     "apply_message": "Membranous tentacles grasped at your leg!",
     "remove_message": "You rid yourself of the tentacles.",
@@ -1056,7 +1063,9 @@
   {
     "type": "effect_type",
     "id": "eff_grubbyworm_limit",
-    "base_mods": { "hurt_min": [ 1 ], "hurt_tick": [ 3 ], "hurt_chance": [ 3 ] }
+    "base_mods": { "hurt_min": [ 1 ], "hurt_tick": [ 3 ], "hurt_chance": [ 3 ] },
+    "removes_effects": [ "bleed" ],
+    "blocks_effects": [ "bleed" ]
   },
   {
     "type": "effect_type",
@@ -1085,12 +1094,6 @@
     "id": "secro_flesh_transmit_attack",
     "removes_effects": [ "docile" ],
     "blocks_effects": [ "docile" ]
-  },
-  {
-    "type": "effect_type",
-    "id": "mon_zombie_tentawraith_stunmore_YES",
-    "apply_message": "You've been constricted!",
-    "rating": "bad"
   },
   {
     "type": "effect_type",

@@ -3,7 +3,8 @@
     "id": "mon_blank",
     "type": "MONSTER",
     "copy-from": "mon_blank",
-    "attack_effs": [ { "id": "rad_tenths", "duration": 20 } ]
+    "attack_effs": [ { "id": "rad_tenths", "duration": 20 } ],
+    "emit_fields": [ "emit_radiation_plume" ]
   },
   {
     "id": "mon_vortex",
@@ -11,7 +12,7 @@
     "copy-from": "mon_vortex",
     "default_faction": "small_animal",
     "attack_effs": [ { "id": "rad_tenths", "duration": 5 } ],
-    "emit_fields": [ "emit_relax_plume" ],
+    "emit_fields": [ "emit_radiation_plume", "emit_relax_plume" ],
     "special_attacks": [ [ "hallucinations", 20 ] ],
     "flags": [
       "HEARS",
@@ -49,7 +50,7 @@
     "luminance": 8,
     "special_attacks": [ [ "wound_minor", 30 ], [ "PARROT", 30 ] ],
     "upgrades": { "half_life": 2, "into_group": "GROUP_NETHER" },
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -101,6 +102,7 @@
       [ "GRAB", 15 ],
       { "id": "scratch", "damage_max_instance": [ { "damage_type": "bash", "amount": 14, "armor_multiplier": 0.8 } ] }
     ],
+    "death_function": [ "NORMAL" ],
     "anger_triggers": [ "PLAYER_WEAK", "FIRE", "PLAYER_CLOSE" ],
     "fear_triggers": [ "MEAT", "FRIEND_DIED" ],
     "placate_triggers": [ "HURT", "SOUND" ],
@@ -145,7 +147,7 @@
       {
         "type": "bite",
         "cooldown": 15,
-        "infection_chance": 11,
+        "no_infection_chance": 9,
         "damage_max_instance": [ { "damage_type": "bash", "amount": 16, "armor_multiplier": 0.8 }, { "damage_type": "cold", "amount": 3 } ]
       }
     ]
@@ -215,7 +217,7 @@
       {
         "type": "bite",
         "cooldown": 25,
-        "infection_chance": 25,
+        "no_infection_chance": 4,
         "damage_max_instance": [
           { "damage_type": "acid", "amount": 4, "armor_multiplier": 0.75 },
           { "damage_type": "bash", "amount": 22, "armor_multiplier": 0.75 }
@@ -229,7 +231,7 @@
         ]
       }
     ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "regen_morale": true,
     "flags": [
       "SEES",

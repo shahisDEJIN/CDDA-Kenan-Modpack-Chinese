@@ -24,6 +24,7 @@
     "reproduction": { "baby_egg": "egg_fish", "baby_count": 2, "baby_timer": 21 },
     "baby_flags": [ "SUMMER" ],
     "fear_triggers": [ "PLAYER_CLOSE", "SOUND" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "FISHABLE", "SEES", "SMELLS", "WARM", "SWIMS", "AQUATIC" ]
   },
   {
@@ -50,12 +51,8 @@
     "harvest": "mirelurk",
     "upgrades": { "age_grow": 3, "into": "mon_mirelurk_softshell" },
     "fear_triggers": [ "PLAYER_CLOSE", "SOUND" ],
-    "petfood": {
-      "food": [ "CATFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wiggles its pincers while you pat their head."
-    },
-    "flags": [ "FISHABLE", "SEES", "SMELLS", "WARM", "SWIMS", "AQUATIC" ]
+    "death_function": [ "NORMAL" ],
+    "flags": [ "FISHABLE", "SEES", "SMELLS", "WARM", "SWIMS", "AQUATIC", "CATFOOD" ]
   },
   {
     "id": "mon_mirelurk_softshell",
@@ -88,12 +85,8 @@
     "upgrades": { "age_grow": 5, "into": "mon_mirelurk" },
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_DIED", "FRIEND_ATTACKED", "HURT" ],
     "fear_triggers": [ "FIRE" ],
-    "petfood": {
-      "food": [ "CATFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wiggles its pincers while you pat their head."
-    },
-    "flags": [ "SMELLS", "HEARS", "SEES", "SWIMS", "GRABS", "ARTHROPOD_BLOOD", "PATH_AVOID_DANGER_2" ]
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SMELLS", "HEARS", "SEES", "SWIMS", "GRABS", "ARTHROPOD_BLOOD", "PATH_AVOID_DANGER_2", "CATFOOD" ]
   },
   {
     "id": "mon_mirelurk",
@@ -126,6 +119,7 @@
     "upgrades": { "age_grow": 15, "into": "mon_mirelurk_queen" },
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_DIED", "FRIEND_ATTACKED", "HURT" ],
     "fear_triggers": [ "FIRE" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SMELLS", "HEARS", "SEES", "SWIMS", "GRABS", "ARTHROPOD_BLOOD", "PATH_AVOID_DANGER_2" ]
   },
   {
@@ -161,6 +155,7 @@
     "path_settings": { "max_dist": 50 },
     "anger_triggers": [ "PLAYER_CLOSE", "HURT" ],
     "fear_triggers": [ "FIRE" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SMELLS", "HEARS", "SEES", "SWIMS", "GRABS", "ARTHROPOD_BLOOD", "PATH_AVOID_DANGER_2", "QUEEN" ]
   }
 ]

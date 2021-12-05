@@ -425,7 +425,7 @@
     "valid": false,
     "purifiable": false,
     "dodge_modifier": 1,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "SPEED", "multiply": 0.35 } ] } ]
+    "speed_modifier": 1.35
   },
   {
     "type": "mutation",
@@ -501,7 +501,7 @@
     "valid": false,
     "purifiable": false,
     "dodge_modifier": 2,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "SPEED", "multiply": 0.75 } ] } ]
+    "speed_modifier": 1.75
   },
   {
     "type": "mutation",
@@ -577,7 +577,7 @@
     "valid": false,
     "purifiable": false,
     "dodge_modifier": 3,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "SPEED", "multiply": 1.15 } ] } ]
+    "speed_modifier": 2.15
   },
   {
     "type": "mutation",

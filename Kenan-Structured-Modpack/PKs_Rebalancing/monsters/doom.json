@@ -34,7 +34,7 @@
       [ "LUNGE", 40 ],
       [ "wound_minor", 30 ],
       { "type": "leap", "cooldown": 25, "max_range": 4 },
-      { "type": "bite", "cooldown": 30, "infection_chance": 11 },
+      { "type": "bite", "cooldown": 30, "no_infection_chance": 9 },
       {
         "type": "gun",
         "cooldown": 8,
@@ -53,6 +53,7 @@
         "description": "The imp lets loose a fireball!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "burn_into": "mon_imp_revive",
     "flags": [ "SEES", "HEARS", "WARM", "BASHES", "POISON", "BONES", "CLIMBS", "PUSH_MON", "GROUP_MORALE" ]
   },
@@ -92,7 +93,7 @@
       [ "slash", 40 ],
       [ "wound_minor", 30 ],
       { "type": "leap", "cooldown": 25, "max_range": 4 },
-      { "type": "bite", "cooldown": 30, "infection_chance": 11 },
+      { "type": "bite", "cooldown": 30, "no_infection_chance": 9 },
       {
         "type": "gun",
         "cooldown": 8,
@@ -112,6 +113,7 @@
         "description": "The imp looses a fireball!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "PATH_AVOID_DANGER_1", "WARM", "BASHES", "POISON", "CLIMBS", "PUSH_MON", "GROUP_MORALE" ]
   },
   {
@@ -152,13 +154,14 @@
         "type": "bite",
         "cooldown": 5,
         "accuracy": 4,
-        "infection_chance": 11,
+        "no_infection_chance": 9,
         "damage_max_instance": [
           { "damage_type": "stab", "amount": 10, "armor_multiplier": 0.5 },
           { "damage_type": "bash", "amount": 18, "armor_multiplier": 0.5 }
         ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "burn_into": "mon_pinky_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "PUSH_MON", "GROUP_BASH", "NIGHT_INVISIBILITY", "GROUP_MORALE" ]
   },
@@ -254,6 +257,7 @@
       "groups": [ [ "revenant_death_drops", 75 ] ],
       "//": "Sometimes drops its manhacks.  Sometimes it drops grenade-style bombs."
     },
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "PRIORITIZE_TARGETS", "NO_BREATHE", "PUSH_MON", "BASHES", "GROUP_BASH" ]
   },
   {
@@ -317,6 +321,7 @@
         "description": "With a clap the knight's hands close!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "burn_into": "mon_hell_knight_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "PATH_AVOID_DANGER_1", "WARM", "BASHES", "GROUP_BASH", "POISON", "PUSH_MON" ]
   },
@@ -382,6 +387,7 @@
         "description": "A ball of plasma is launched from the hand of the baron!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -500,7 +506,7 @@
         "type": "bite",
         "cooldown": 20,
         "accuracy": 4,
-        "infection_chance": 11,
+        "no_infection_chance": 9,
         "damage_max_instance": [ { "damage_type": "stab", "amount": 35, "armor_multiplier": 0.5 } ]
       },
       {
@@ -522,6 +528,7 @@
         "description": "As the cacodemon opens its mouth a torrent of plasma bursts forth!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "burn_into": "mon_cacodemon_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "FLIES", "POISON", "ARTHROPOD_BLOOD", "BASHES", "PUSH_MON" ]
   },
@@ -577,7 +584,7 @@
         "description": "The arachnotron grimaces and fires its carbine!"
       }
     ],
-    "death_function": { "effect": { "id": "death_smokeburst", "hit_self": true }, "message": "A %s explodes!" },
+    "death_function": [ "SMOKEBURST", "BROKEN" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -644,11 +651,7 @@
         "description": "The arachnotron grimaces and fires its carbine!"
       }
     ],
-    "death_function": {
-      "effect": { "id": "death_smokeburst", "hit_self": true },
-      "corpse_type": "NO_CORPSE",
-      "message": "The %s's body melts away."
-    },
+    "death_function": [ "SMOKEBURST", "MELT" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -697,7 +700,7 @@
       { "type": "leap", "cooldown": 20, "max_range": 6 }
     ],
     "upgrades": { "half_life": 128, "into": "mon_cherub_fly" },
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "anger_triggers": [ "PLAYER_WEAK", "STALK" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED" ],
     "flags": [ "SEES", "SMELLS", "HEARS", "WEBWALK", "CLIMBS", "HIT_AND_RUN", "PUSH_MON", "SWARMS", "GROUP_MORALE" ]
@@ -776,7 +779,7 @@
         "description": "A series of explosions is heard as the cyberdemon raises its rifled hand!"
       }
     ],
-    "death_function": { "effect": { "id": "death_smokeburst", "hit_self": true }, "message": "A %s explodes!" },
+    "death_function": [ "NORMAL", "SMOKEBURST" ],
     "flags": [ "SEES", "HEARS", "PRIORITIZE_TARGETS", "WARM", "POISON", "BASHES", "DESTROYS", "NO_BREATHE", "PUSH_MON", "ATTACKMON" ]
   },
   {
@@ -814,6 +817,7 @@
       }
     ],
     "death_drops": { "subtype": "collection", "groups": [ [ "spearmelee_pk", 95 ] ] },
+    "death_function": [ "NORMAL" ],
     "burn_into": "mon_doom_churl_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "PATH_AVOID_DANGER_1", "WARM", "BASHES", "GROUP_BASH", "HUMAN", "CLIMBS" ],
     "anger_triggers": [ "PLAYER_WEAK", "HURT", "PLAYER_CLOSE" ],
@@ -845,6 +849,7 @@
     "armor_bullet": 3,
     "special_attacks": [ [ "scratch", 20 ], [ "wound_minor", 30 ] ],
     "death_drops": "default_zombie_clothes",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "PATH_AVOID_DANGER_2", "WARM", "BASHES", "GROUP_BASH", "HUMAN", "CLIMBS" ],
     "anger_triggers": [ "PLAYER_WEAK" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED" ],
@@ -874,6 +879,7 @@
     "armor_cut": 3,
     "armor_bullet": 2,
     "death_drops": "mon_zombie_survivor_death_drops",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "POISON", "REVIVES", "HIT_AND_RUN", "SWIMS" ]
   },
   {
@@ -955,6 +961,7 @@
     "vision_night": 3,
     "special_attacks": [ [ "FEAR_PARALYZE", 25 ] ],
     "death_drops": "default_zombie_clothes",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "IMMOBILE", "POISON", "REVIVES" ]
   },
   {
@@ -986,7 +993,7 @@
     "revert_to_itype": "soulcube",
     "starting_ammo": { "soulbomb": 1 },
     "special_attacks": [ [ "KAMIKAZE", 0 ] ],
-    "death_function": { "message": "The %s's interior compartment sizzles with destructive energy.", "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN_AMMO" ],
     "flags": [ "SEES", "PRIORITIZE_TARGETS", "FLIES", "NOHEAD", "NO_BREATHE", "INTERIOR_AMMO" ]
   },
   {
@@ -1048,6 +1055,7 @@
       }
     ],
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "PATH_AVOID_DANGER_2", "PRIORITIZE_TARGETS", "WARM", "POISON", "NO_BREATHE" ]
   },
   {
@@ -1143,7 +1151,7 @@
         "description": "em llik tsum uoy emag eht niw ot"
       }
     ],
-    "death_function": { "effect": { "id": "death_smokeburst", "hit_self": true }, "message": "A %s explodes!" },
+    "death_function": [ "JABBERWOCKY", "SMOKEBURST" ],
     "flags": [ "SEES", "WARM", "POISON", "NO_BREATHE", "IMMOBILE", "QUEEN" ]
   }
 ]

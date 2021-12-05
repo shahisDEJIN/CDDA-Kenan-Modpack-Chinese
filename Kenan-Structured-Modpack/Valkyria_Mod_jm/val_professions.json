@@ -170,7 +170,8 @@
           "gallian_pack",
           "galmilboots",
           "beret",
-          "binoculars"
+          "binoculars",
+          "survival_kit"
         ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },
@@ -179,8 +180,7 @@
             "item": "gsr1",
             "ammo-item": "gal792_b",
             "charges": 5
-          },
-          { "group": "full_survival_kit" }
+          }
         ]
       },
       "male": [ "boxer_shorts", "gal_pants_army", "galarmyjacket", "socks" ],
@@ -266,7 +266,7 @@
           "bt_grenade",
           "duct_tape",
           "boltcutters",
-          "toolbox_empty"
+          "toolbox"
         ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },
@@ -431,7 +431,8 @@
           "imp_helmet",
           "socks",
           "binoculars",
-          "val_idticketcard"
+          "val_idticketcard",
+          "survival_kit"
         ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },
@@ -440,8 +441,7 @@
             "item": "zmsg1",
             "ammo-item": "imp762_b",
             "charges": 5
-          },
-          { "group": "full_survival_kit" }
+          }
         ]
       },
       "male": [ "boxer_shorts" ],
@@ -530,7 +530,7 @@
           "duct_tape",
           "boltcutters",
           "val_idticketcard",
-          "toolbox_empty"
+          "toolbox"
         ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },

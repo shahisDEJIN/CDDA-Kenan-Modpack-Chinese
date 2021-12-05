@@ -50,6 +50,7 @@
     "sight_dispersion": 50,
     "recoil": 30,
     "durability": 7,
+    "burst": 2,
     "clip_size": 2,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "bomblet": 2 } } ],
     "reload": 250,
@@ -79,6 +80,7 @@
     "sight_dispersion": 20,
     "recoil": 20,
     "durability": 10,
+    "burst": 4,
     "clip_size": 24,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "bomblet": 24 } } ],
     "reload": 150,
@@ -117,6 +119,7 @@
     "sight_dispersion": 20,
     "recoil": 55,
     "durability": 6,
+    "burst": 2,
     "clip_size": 6,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "bomblet": 6 } } ],
     "reload": 200,
@@ -216,6 +219,7 @@
     "sight_dispersion": 100,
     "recoil": 10,
     "durability": 4,
+    "burst": 3,
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -255,6 +259,7 @@
     "sight_dispersion": 100,
     "recoil": 10,
     "durability": 4,
+    "burst": 3,
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -293,6 +298,7 @@
     "sight_dispersion": 100,
     "recoil": 10,
     "durability": 4,
+    "burst": 3,
     "pocket_data": [
       {
         "magazine_well": "250 ml",
@@ -437,6 +443,7 @@
     "dispersion": 330,
     "recoil": 350,
     "durability": 9,
+    "burst": 2,
     "clip_size": 12,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 12 } } ],
     "reload": 130,

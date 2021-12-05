@@ -4,7 +4,7 @@
     "id": "assassin_teleport",
     "name": { "str": "Assassin Teleport" },
     "description": "This is a sub-spell for Assassin Strike.  It teleports you.",
-    "effect": "short_range_teleport",
+    "effect": "teleport_random",
     "shape": "blast",
     "valid_targets": [ "none" ],
     "flags": [ "SILENT" ],

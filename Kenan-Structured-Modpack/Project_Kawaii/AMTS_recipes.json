@@ -383,7 +383,7 @@
     "components": [ [ [ "kawaii_amts_point", 500 ] ] ]
   },
   {
-    "result": "toolbox_empty",
+    "result": "toolbox",
     "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "id_suffix": "kawaii_amts",
@@ -938,7 +938,7 @@
     "components": [ [ [ "kawaii_amts_point", 300 ] ] ]
   },
   {
-    "result": "sheet_kevlar_layered",
+    "result": "kevlar_plate",
     "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "id_suffix": "kawaii_amts",

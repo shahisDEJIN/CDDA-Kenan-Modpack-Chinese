@@ -14,25 +14,20 @@
     "symbol": "[",
     "looks_like": "armguard_metal",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r" ],
+    "coverage": 40,
+    "encumbrance": 13,
     "warmth": 6,
-    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ],
-    "armor": [
-      {
-        "encumbrance": 13,
-        "coverage": 40,
-        "covers": [ "arm_l", "arm_r" ],
-        "material": [ "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ]
   },
   {
     "id": "gal_trooperarm",
     "type": "ARMOR",
     "category": "armor",
     "name": { "str_sp": "Gallian P.33 Medium Arm Protection" },
-    "description": "Arm protection designed to protect the elbows, upper arm and shoulders from shell fragment and glancing bullet shots. Relatively moderately constructed, this armor is used primarily by gallian stormtroopers.",
+     "description": "Arm protection designed to protect the elbows, upper arm and shoulders from shell fragment and glancing bullet shots. Relatively moderately constructed, this armor is used primarily by gallian stormtroopers.",
     "weight": "2720 g",
     "volume": "3500 ml",
     "price": "200 USD",
@@ -42,18 +37,13 @@
     "symbol": "[",
     "looks_like": "armguard_metal",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r" ],
+    "coverage": 75,
+    "encumbrance": 16,
     "warmth": 10,
-    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ],
-    "armor": [
-      {
-        "encumbrance": 16,
-        "coverage": 75,
-        "covers": [ "arm_l", "arm_r" ],
-        "material": [ "steel" ],
-        "material_thickness": 3,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 3,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ]
   },
   {
     "id": "gal_lancerarm",
@@ -70,18 +60,13 @@
     "symbol": "[",
     "looks_like": "armguard_metal",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r" ],
+    "coverage": 95,
+    "encumbrance": 16,
     "warmth": 10,
-    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ],
-    "armor": [
-      {
-        "encumbrance": 16,
-        "coverage": 95,
-        "covers": [ "arm_l", "arm_r" ],
-        "material": [ "steel" ],
-        "material_thickness": 4,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 4,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ]
   },
   {
     "id": "gallian_leatherglove",
@@ -97,19 +82,14 @@
     "symbol": "[",
     "looks_like": "gloves_light",
     "color": "dark_gray",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 95,
+    "encumbrance": 10,
     "warmth": 25,
+    "material_thickness": 5,
+    "environmental_protection": 3,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": 10,
-        "coverage": 95,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "leather", "fur" ],
-        "material_thickness": 5,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF" ]
   },
   {
     "id": "imp_leatherglove",
@@ -125,26 +105,21 @@
     "symbol": "[",
     "looks_like": "gloves_light",
     "color": "dark_gray",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 95,
+    "encumbrance": 10,
     "warmth": 25,
+    "material_thickness": 4,
+    "environmental_protection": 3,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "WATERPROOF" ],
-    "armor": [
-      {
-        "encumbrance": 10,
-        "coverage": 95,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "leather" ],
-        "material_thickness": 4,
-        "environmental_protection": 3
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF" ]
   },
   {
     "id": "imp_trooperarm",
     "type": "ARMOR",
     "category": "armor",
     "name": { "str_sp": "Model 1929 Arm Protection" },
-    "description": "Arm protection designed to protect the elbows, upper arm and shoulders from shell fragment and glancing bullet shots. Relatively moderately constructed, this armor is used primarily by Imperial stormtroopers.",
+     "description": "Arm protection designed to protect the elbows, upper arm and shoulders from shell fragment and glancing bullet shots. Relatively moderately constructed, this armor is used primarily by Imperial stormtroopers.",
     "weight": "3150 g",
     "volume": "3500 ml",
     "price": "200 USD",
@@ -154,17 +129,12 @@
     "symbol": "[",
     "looks_like": "armguard_metal",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r" ],
+    "coverage": 75,
+    "encumbrance": 16,
     "warmth": 10,
-    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ],
-    "armor": [
-      {
-        "encumbrance": 16,
-        "coverage": 75,
-        "covers": [ "arm_l", "arm_r" ],
-        "material": [ "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "BELTED", "STURDY", "BLOCK_WHILE_WORN" ]
   }
 ]

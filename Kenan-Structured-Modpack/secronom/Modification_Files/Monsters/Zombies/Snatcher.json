@@ -4,7 +4,7 @@
     "id": "mon_zombie_bootlegsmoker",
     "type": "MONSTER",
     "name": { "str": "snatcher zombie" },
-    "description": "A writhing corpse with a unnervingly sly and cautious nature. Its pair of menacingly black eyes greedily seek the living with a predominant set of four protruding fangs. These inhumane teeth furiously gnash away while idle, creating a maddening and repetitive \"clack\".",
+    "description": "A writhing corpse with a unnervingly sly and cautious nature. Its pair of menacingly black eyes greedily seek the living with a predominant set of four protruding fangs. These inhumane teeth furiously gnash away while idle, creating a maddening and reptitive \"clack\".",
     "default_faction": "zombie",
     "species": [ "ZOMBIE", "SECROZED_2" ],
     "volume": "62500 ml",
@@ -23,8 +23,7 @@
     "melee_cut": 4,
     "dodge": 2,
     "vision_day": 35,
-    "path_settings": { "max_dist": 15 },
-    "tracking_distance": 15,
+    "path_settings": { "max_dist": 10 },
     "special_attacks": [
       [ "SHRIEK_ALERT", 10 ],
       {
@@ -42,6 +41,7 @@
       [ "snatcher_tonguewrap", 65 ]
     ],
     "death_drops": "default_zombie_clothes",
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -54,9 +54,7 @@
       "NO_BREATHE",
       "REVIVES",
       "BONES",
-      "PATH_AVOID_DANGER_2",
-      "KEEP_DISTANCE",
-      "RANGED_ATTACKER"
+      "PATH_AVOID_DANGER_2"
     ]
   }
 ]

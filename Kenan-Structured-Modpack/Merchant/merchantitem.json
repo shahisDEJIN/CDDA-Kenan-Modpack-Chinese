@@ -13,6 +13,9 @@
     "material": [ "cotton", "plastic" ],
     "symbol": "[",
     "color": "green",
+    "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
+    "coverage": 1,
+    "encumbrance": 60,
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -22,15 +25,7 @@
         "moves": 600
       }
     ],
-    "flags": [ "VARSIZE", "TARDIS" ],
-    "armor": [
-      {
-        "encumbrance": 60,
-        "coverage": 1,
-        "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
-        "material": [ "cotton", "plastic" ],
-        "material_thickness": 1
-      }
-    ]
+    "material_thickness": 1,
+    "flags": [ "VARSIZE", "TARDIS" ]
   }
 ]

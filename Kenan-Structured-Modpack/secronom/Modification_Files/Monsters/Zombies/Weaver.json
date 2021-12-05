@@ -31,11 +31,12 @@
       {
         "type": "spell",
         "spell_data": { "id": "mon_zombie_skittyweavy_target" },
-        "cooldown": 5,
+        "cooldown": 10,
         "monster_message": "<color_yellow>%1$s injects %3$s!</color>"
       }
     ],
     "upgrades": { "half_life": 12, "into_group": "GROUP_SKITTYWEAVY_UPGRADE" },
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -96,10 +97,11 @@
       {
         "type": "spell",
         "spell_data": { "id": "mon_zombie_skittyweavy_repleshy_target" },
-        "cooldown": 6,
+        "cooldown": 12,
         "monster_message": "<color_yellow>%1$s injects %3$s!</color>"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -160,10 +162,11 @@
       {
         "type": "spell",
         "spell_data": { "id": "mon_zombie_skittyweavy_sickly_target" },
-        "cooldown": 6,
+        "cooldown": 12,
         "monster_message": "<color_yellow>%1$s injects %3$s!</color>"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",

@@ -10,7 +10,12 @@
     "material": [ "essence_bacon_material" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 40,
     "warmth": 65,
+    "material_thickness": 5,
+    "environmental_protection": 25,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "500000 ml", "max_contains_weight": "1000000 kg", "moves": 75 },
       {
@@ -20,17 +25,7 @@
         "moves": 75
       }
     ],
-    "flags": [ "SKINTIGHT", "NONCONDUCTIVE" ],
-    "armor": [
-      {
-        "encumbrance": 40,
-        "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "material": [ "essence_bacon_material" ],
-        "material_thickness": 5,
-        "environmental_protection": 25
-      }
-    ]
+    "flags": [ "SKINTIGHT", "NONCONDUCTIVE" ]
   },
   {
     "id": "afro",
@@ -43,17 +38,12 @@
     "material": [ "essence_bash_material" ],
     "symbol": "n",
     "color": "light_gray",
+    "covers": [ "head" ],
+    "coverage": 100,
+    "encumbrance": 100,
     "warmth": 30,
-    "flags": [ "NONCONDUCTIVE", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 100,
-        "coverage": 100,
-        "covers": [ "head" ],
-        "material": [ "essence_bash_material" ],
-        "material_thickness": 5
-      }
-    ]
+    "material_thickness": 5,
+    "flags": [ "NONCONDUCTIVE", "FANCY" ]
   },
   {
     "id": "immortal_loincloth",
@@ -66,8 +56,10 @@
     "material": [ "cotton" ],
     "symbol": "-",
     "color": "brown",
-    "flags": [ "VARSIZE" ],
-    "armor": [ { "coverage": 5, "covers": [ "leg_l", "leg_r" ], "material": [ "cotton" ], "material_thickness": 999 } ]
+    "covers": [ "leg_l", "leg_r" ],
+    "coverage": 5,
+    "material_thickness": 999,
+    "flags": [ "VARSIZE" ]
   },
   {
     "id": "plutonium_chestplate",
@@ -80,16 +72,11 @@
     "material": [ "scale_plutonium_material" ],
     "symbol": "I",
     "color": "red",
+    "covers": [ "torso" ],
+    "coverage": 85,
+    "material_thickness": 5,
     "flags": [ "OUTER", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 10,
-        "coverage": 85,
-        "covers": [ "torso" ],
-        "material": [ "scale_plutonium_material" ],
-        "material_thickness": 5,
-        "environmental_protection": 30
-      }
-    ]
+    "environmental_protection": 30,
+    "encumbrance": 10
   }
 ]

@@ -25,6 +25,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "STALK", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "SOUND", "HURT", "FRIEND_DIED", "FIRE" ],
     "placate_triggers": [ "SOUND", "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "biosignature": { "biosig_item": "feces_bird", "biosig_timer": 8 }
   },
   {
@@ -49,7 +50,7 @@
       {
         "type": "bite",
         "cooldown": 30,
-        "infection_chance": 2,
+        "no_infection_chance": 50,
         "damage_max_instance": [ { "damage_type": "bash", "amount": 15, "armor_multiplier": 1.35 } ],
         "effects": [
           { "id": "stunned", "duration": 5, "chance": 33 },
@@ -63,6 +64,7 @@
       }
     ],
     "anger_triggers": [ "STALK", "PLAYER_WEAK", "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "SMELLS", "HEARS", "SWIMS" ]
   },
   {
@@ -97,6 +99,7 @@
     "anger_triggers": [ "HURT" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "placate_triggers": [ "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 14, "into": "mon_rattlesnake_giant" },
     "flags": [ "SEES", "HEARS", "SMELLS", "HARDTOSHOOT", "SWIMS" ]
   },
@@ -147,6 +150,7 @@
     ],
     "anger_triggers": [ "HURT", "PLAYER_CLOSE" ],
     "placate_triggers": [ "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "reproduction": { "baby_egg": "egg_reptile", "baby_count": 3, "baby_timer": 10 },
     "baby_flags": [ "SPRING" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "HARDTOSHOOT", "SWIMS" ]
@@ -192,7 +196,7 @@
         "type": "bite",
         "cooldown": 20,
         "accuracy": 6,
-        "infection_chance": 50,
+        "no_infection_chance": 2,
         "damage_max_instance": [
           { "damage_type": "stab", "amount": 14, "armor_multiplier": 0.5 },
           { "damage_type": "bash", "amount": 31, "armor_multiplier": 0.5 }
@@ -203,6 +207,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK" ],
     "fear_triggers": [ "FIRE", "HURT" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "KEENNOSE", "PATH_AVOID_DANGER_1", "ANIMAL", "ATTACKMON", "SWIMS" ]
   },
   {
@@ -234,7 +239,7 @@
     "vision_night": 5,
     "path_settings": { "max_dist": 35 },
     "special_attacks": [ [ "GRAB", 30 ] ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "PATH_AVOID_DANGER_1", "NO_BREATHE", "PLASTIC" ]
   },
   {
@@ -259,7 +264,7 @@
     "melee_dice": 1,
     "melee_dice_sides": 2,
     "melee_cut": 2,
-    "special_attacks": [ [ "wound_minor", 7 ], { "type": "bite", "cooldown": 5, "infection_chance": 5 } ],
+    "special_attacks": [ [ "wound_minor", 7 ], { "type": "bite", "cooldown": 5, "no_infection_chance": 18 } ],
     "attack_effs": [
       { "id": "doom_unhealth", "duration": 1 },
       { "id": "rad_tenths", "duration": 3 },
@@ -289,9 +294,10 @@
     "armor_bullet": 1,
     "vision_day": 25,
     "vision_night": 10,
-    "special_attacks": [ [ "wound_minor", 30 ], { "type": "bite", "cooldown": 5, "infection_chance": 12 } ],
+    "special_attacks": [ [ "wound_minor", 30 ], { "type": "bite", "cooldown": 5, "no_infection_chance": 8 } ],
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED", "FRIEND_DIED", "HURT" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "PATH_AVOID_DANGER_1", "ANIMAL", "SWARMS", "GROUP_MORALE" ]
   },
   {
@@ -387,7 +393,7 @@
       {
         "type": "bite",
         "cooldown": 15,
-        "infection_chance": 5,
+        "no_infection_chance": 18,
         "//": "strong jaws",
         "damage_max_instance": [ { "damage_type": "bash", "amount": 20, "armor_multiplier": 0.75 } ],
         "effects": [ { "id": "infection_minor", "duration": 5200 } ]
@@ -555,7 +561,7 @@
     "vision_day": 40,
     "vision_night": 5,
     "path_settings": { "max_dist": 25 },
-    "special_attacks": [ [ "wound_minor", 60 ], { "type": "bite", "cooldown": 20, "min_mul": 0.4, "infection_chance": 6 } ],
+    "special_attacks": [ [ "wound_minor", 60 ], { "type": "bite", "cooldown": 20, "min_mul": 0.4, "no_infection_chance": 15 } ],
     "anger_triggers": [ "STALK", "HURT", "FRIEND_ATTACKED", "PLAYER_WEAK" ],
     "fear_triggers": [ "FRIEND_DIED" ],
     "placate_triggers": [ "MEAT", "SOUND" ],
@@ -664,7 +670,7 @@
     "path_settings": { "max_dist": 30 },
     "special_attacks": [
       [ "wound_minor", 40 ],
-      { "type": "bite", "cooldown": 7, "min_mul": 0.5, "infection_chance": 5, "//": "strong jaws" }
+      { "type": "bite", "cooldown": 7, "min_mul": 0.5, "no_infection_chance": 18, "//": "strong jaws" }
     ],
     "biosignature": { "biosig_item": "feces_dog", "biosig_timer": 6 },
     "anger_triggers": [ "STALK", "FRIEND_DIED", "PLAYER_WEAK", "PLAYER_CLOSE" ],
@@ -698,6 +704,7 @@
     "anger_triggers": [ "STALK", "FRIEND_ATTACKED", "PLAYER_WEAK", "HURT" ],
     "fear_triggers": [ "SOUND" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "harvest": "mammal_fur",
     "upgrades": { "half_life": 17, "into": "mon_coyote_small" },
     "biosignature": { "biosig_item": "feces_dog", "biosig_timer": 6 },
@@ -731,6 +738,7 @@
     "attack_effs": [ { "id": "skunk_spray", "duration": 12000 } ],
     "anger_triggers": [ "FRIEND_DIED", "HURT" ],
     "fear_triggers": [ "PLAYER_CLOSE", "FRIEND_ATTACKED" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM", "KEENNOSE" ]
   },
   {
@@ -764,6 +772,7 @@
     "anger_triggers": [ "HURT", "STALK", "FRIEND_DIED" ],
     "fear_triggers": [ "SOUND", "FRIEND_ATTACKED" ],
     "placate_triggers": [ "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM" ]
   },
   {
@@ -848,7 +857,7 @@
     "vision_night": 10,
     "special_attacks": [
       [ "FLESH_GOLEM", 20 ],
-      { "type": "bite", "cooldown": 30, "accuracy": 7, "infection_chance": 5 },
+      { "type": "bite", "cooldown": 30, "accuracy": 7, "no_infection_chance": 18 },
       {
         "id": "hammer",
         "cooldown": 30,
@@ -869,6 +878,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "KEENNOSE", "PATH_AVOID_DANGER_1", "ANIMAL", "WARM", "BASHES", "DESTROYS", "PUSH_MON" ]
   },
   {
@@ -907,7 +917,7 @@
     "special_attacks": [
       [ "FLESH_GOLEM", 20 ],
       [ "SMASH", 60 ],
-      { "type": "bite", "cooldown": 30, "accuracy": 8, "infection_chance": 5 },
+      { "type": "bite", "cooldown": 30, "accuracy": 8, "no_infection_chance": 18 },
       {
         "id": "hammer",
         "cooldown": 30,
@@ -928,6 +938,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "SOUND", "STALK", "FIRE", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "HURT", "FIRE" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "WARM", "BASHES", "DESTROYS", "ATTACKMON", "SWARMS" ]
   },
   {
@@ -964,7 +975,7 @@
     "vision_night": 7,
     "special_attacks": [
       [ "hammer", 30 ],
-      { "type": "bite", "cooldown": 20, "accuracy": 6, "infection_chance": 5 },
+      { "type": "bite", "cooldown": 20, "accuracy": 6, "no_infection_chance": 18 },
       {
         "id": "slash",
         "cooldown": 30,
@@ -977,6 +988,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "FRIEND_ATTACKED", "FIRE" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED", "FIRE" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "harvest": "megabear_head",
     "flags": [
       "SEES",
@@ -1026,10 +1038,11 @@
     "armor_bullet": 4,
     "vision_day": 30,
     "vision_night": 7,
-    "special_attacks": [ { "type": "bite", "cooldown": 20, "accuracy": 5, "infection_chance": 5 } ],
+    "special_attacks": [ { "type": "bite", "cooldown": 20, "accuracy": 5, "no_infection_chance": 18 } ],
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED", "FIRE" ],
     "fear_triggers": [ "HURT", "FRIEND_DIED", "FIRE", "PLAYER_CLOSE" ],
     "placate_triggers": [ "MEAT", "FRIEND_ATTACKED" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "WARM", "BASHES", "PUSH_MON", "SWARMS", "GROUP_MORALE", "STUMBLES" ]
   },
   {
@@ -1060,9 +1073,10 @@
     "vision_day": 40,
     "vision_night": 5,
     "path_settings": { "max_dist": 30 },
-    "special_attacks": [ [ "GRAB", 40 ], { "type": "bite", "cooldown": 30, "accuracy": 9, "infection_chance": 8 } ],
+    "special_attacks": [ [ "GRAB", 40 ], { "type": "bite", "cooldown": 30, "accuracy": 9, "no_infection_chance": 12 } ],
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_WEAK", "MEAT", "FIRE" ],
     "fear_triggers": [ "HURT", "PLAYER_CLOSE", "FRIEND_DIED", "SOUND" ],
+    "death_function": [ "NORMAL" ],
     "biosignature": { "biosig_item": "feces_dog", "biosig_timer": 6 },
     "flags": [
       "SEES",
@@ -1109,13 +1123,14 @@
     "path_settings": { "max_dist": 20 },
     "special_attacks": [
       [ "hammer", 60 ],
-      { "type": "bite", "cooldown": 25, "min_mul": 0.5, "infection_chance": 5 },
+      { "type": "bite", "cooldown": 25, "min_mul": 0.5, "no_infection_chance": 18 },
       {
         "id": "slash",
         "cooldown": 40,
         "damage_max_instance": [ { "damage_type": "stab", "amount": 16, "armor_multiplier": 0.85 } ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 12 },
     "flags": [ "SEES", "HEARS", "SMELLS", "KEENNOSE", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM" ],
     "anger_triggers": [ "PLAYER_WEAK", "STALK", "PLAYER_CLOSE" ],
@@ -1150,6 +1165,7 @@
     "vision_night": 7,
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_WEAK" ],
     "fear_triggers": [ "HURT", "SOUND", "FIRE" ],
+    "death_function": [ "NORMAL" ],
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 15 },
     "flags": [ "SEES", "HEARS", "PATH_AVOID_DANGER_1", "ANIMAL", "WARM", "KEENNOSE", "SWARMS", "GROUP_MORALE", "CAN_DIG" ]
   },
@@ -1180,6 +1196,7 @@
     "path_settings": { "max_dist": 12 },
     "fear_triggers": [ "SOUND", "PLAYER_CLOSE" ],
     "anger_triggers": [ "PLAYER_NEAR_BABY" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM" ]
   },
   {
@@ -1211,6 +1228,7 @@
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_CLOSE", "PLAYER_NEAR_BABY" ],
     "fear_triggers": [ "FRIEND_DIED" ],
     "placate_triggers": [ "SOUND" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM" ]
   }
 ]

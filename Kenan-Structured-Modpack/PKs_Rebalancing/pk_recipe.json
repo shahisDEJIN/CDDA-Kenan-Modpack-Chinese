@@ -228,7 +228,7 @@
     "components": [
       [ [ "burnt_out_bionic", 3 ] ],
       [ [ "lens", 4 ] ],
-      [ [ "UPS_off", 1 ] ],
+      [ [ "adv_UPS_off", 1 ] ],
       [ [ "reinforced_glass_sheet", 1 ] ],
       [ [ "e_scrap", 25 ] ],
       [ [ "power_supply", 8 ] ],
@@ -420,69 +420,6 @@
   },
   {
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
-    "result": "firemachete_off",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_CUTTING",
-    "skill_used": "mechanics",
-    "difficulty": 4,
-    "time": "20 m",
-    "reversible": true,
-    "decomp_learn": 4,
-    "book_learn": [ [ "welding_book", 8 ], [ "book_icef", 4 ] ],
-    "using": [ [ "welding_standard", 2 ] ],
-    "components": [
-      [ [ "leather", 5 ] ],
-      [ [ "pipe", 1 ] ],
-      [ [ "machete", 1 ] ],
-      [ [ "pilot_light", 1 ] ],
-      [ [ "aux_pressurized_tank", 1 ] ]
-    ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
-    "result": "broadfire_off",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_CUTTING",
-    "skill_used": "mechanics",
-    "difficulty": 5,
-    "time": "30 m",
-    "reversible": true,
-    "decomp_learn": 4,
-    "book_learn": [ [ "welding_book", 8 ], [ "book_icef", 4 ] ],
-    "using": [ [ "welding_standard", 2 ] ],
-    "components": [
-      [ [ "leather", 5 ] ],
-      [ [ "pipe", 1 ] ],
-      [ [ "broadsword", 1 ] ],
-      [ [ "pilot_light", 1 ] ],
-      [ [ "aux_pressurized_tank", 1 ] ]
-    ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
-    "result": "firekatana_off",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_CUTTING",
-    "skill_used": "mechanics",
-    "difficulty": 5,
-    "time": "30 m",
-    "reversible": true,
-    "decomp_learn": 4,
-    "book_learn": [ [ "welding_book", 8 ], [ "book_icef", 4 ] ],
-    "using": [ [ "welding_standard", 2 ] ],
-    "components": [
-      [ [ "leather", 5 ] ],
-      [ [ "pipe", 1 ] ],
-      [ [ "katana", 1 ] ],
-      [ [ "pilot_light", 1 ] ],
-      [ [ "aux_pressurized_tank", 1 ] ]
-    ]
-  },
-  {
-    "type": "recipe",
     "activity_level": "NO_EXERCISE",
     "result": "bot_manhack_fire",
     "category": "CC_OTHER",
@@ -539,7 +476,7 @@
       { "id": "SAW_M_FINE", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH_FINE", "level": 1 },
-      { "id": "GLARE", "level": 1 }
+      { "id": "GLARE", "level": 2 }
     ],
     "tools": [
       [
@@ -930,19 +867,6 @@
   {
     "type": "recipe",
     "activity_level": "NO_EXERCISE",
-    "result": "acidbomb_micro",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_EXPLOSIVE",
-    "skill_used": "fabrication",
-    "difficulty": 10,
-    "time": "9 s",
-    "reversible": true,
-    "autolearn": true,
-    "components": [ [ [ "clay_canister", 1 ], [ "flask_glass", 1 ] ], [ [ "acid", 1 ] ], [ [ "string_6", 1 ] ], [ [ "rag", 1 ] ] ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "NO_EXERCISE",
     "result": "acidbomb_small",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_EXPLOSIVE",
@@ -956,44 +880,6 @@
       [ [ "acid", 2 ], [ "chem_sulphuric_acid", 1 ] ],
       [ [ "string_6", 2 ] ],
       [ [ "rag", 1 ] ]
-    ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "NO_EXERCISE",
-    "result": "acidbomb_medium",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_EXPLOSIVE",
-    "skill_used": "fabrication",
-    "difficulty": 3,
-    "time": "18 s",
-    "reversible": true,
-    "autolearn": true,
-    "components": [
-      [ [ "bottle_glass", 1 ] ],
-      [ [ "clay_canister", 1 ], [ "flask_glass", 1 ] ],
-      [ [ "acid", 4 ] ],
-      [ [ "string_36", 1 ] ],
-      [ [ "rag", 2 ] ]
-    ]
-  },
-  {
-    "type": "recipe",
-    "activity_level": "NO_EXERCISE",
-    "result": "acidbomb_medium",
-    "id_suffix": "jar",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_EXPLOSIVE",
-    "skill_used": "fabrication",
-    "difficulty": 10,
-    "time": "18 s",
-    "reversible": true,
-    "autolearn": true,
-    "components": [
-      [ [ "jar_glass_sealed", 2 ], [ "clay_canister", 4 ], [ "flask_glass", 4 ] ],
-      [ [ "acid", 4 ] ],
-      [ [ "string_36", 1 ] ],
-      [ [ "rag", 3 ] ]
     ]
   },
   {
@@ -1453,7 +1339,7 @@
       { "id": "HAMMER", "level": 2 },
       { "id": "SAW_M", "level": 1 },
       { "id": "WRENCH", "level": 1 },
-      { "id": "GLARE", "level": 1 }
+      { "id": "GLARE", "level": 2 }
     ],
     "tools": [
       [ [ "soldering_iron", 100 ], [ "toolset", 100 ] ],

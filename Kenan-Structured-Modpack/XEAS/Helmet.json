@@ -14,19 +14,14 @@
     "symbol": "[",
     "looks_like": "helmet_survivor",
     "color": "light_cyan",
+    "covers": [ "head" ],
+    "coverage": 100,
+    "encumbrance": 20,
     "warmth": 15,
+    "material_thickness": 8,
+    "environmental_protection": 8,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "PARTIAL_DEAF" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 100,
-        "covers": [ "head" ],
-        "material": [ "acidchitin" ],
-        "material_thickness": 8,
-        "environmental_protection": 8
-      }
-    ]
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "PARTIAL_DEAF" ]
   },
   {
     "result": "XEAS_helmet",
@@ -43,7 +38,7 @@
       { "id": "SAW_M", "level": 2 },
       { "id": "HAMMER", "level": 3 },
       { "id": "CHISEL", "level": 3 },
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 3 },
       { "id": "ANVIL", "level": 3 }
     ],
     "using": [ [ "adhesive", 1 ], [ "sewing_standard", 80 ] ],

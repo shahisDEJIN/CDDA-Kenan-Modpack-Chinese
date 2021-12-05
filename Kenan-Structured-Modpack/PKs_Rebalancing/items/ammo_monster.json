@@ -135,7 +135,7 @@
     "color": "magenta",
     "count": 1,
     "stack_size": 1,
-    "ammo_type": "battery",
+    "ammo_type": "fusion",
     "range": 55,
     "damage": { "damage_type": "stab", "amount": 9, "armor_penetration": 15 },
     "effects": [ "NEVER_MISFIRES", "RECYCLED", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BEANBAG" ],
@@ -212,7 +212,7 @@
     "max_charges": 5,
     "initial_charges": 5,
     "turns_per_charge": 1,
-    "emits": [ "emit_fvent_vile" ],
+    "emits": [ "emit_fvent_vile", "emit_radiation_plume" ],
     "countdown_interval": 5,
     "countdown_destroy": true,
     "countdown_action": {
@@ -252,7 +252,7 @@
     "max_charges": 5,
     "initial_charges": 5,
     "turns_per_charge": 1,
-    "emits": [ "emit_fvent_archvile", "emit_fvent_vile" ],
+    "emits": [ "emit_fvent_archvile", "emit_fvent_vile", "emit_radiation_plume" ],
     "countdown_interval": 5,
     "countdown_destroy": true,
     "countdown_action": {

@@ -483,8 +483,7 @@
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "sheath", "contents-item": "knife_combat" },
           {
-            "item": "m27_assault_rifle",
-            "variant": "h&k416a5",
+            "item": "h&k416a5",
             "ammo-item": "556",
             "charges": 30,
             "contents-item": [ "shoulder_strap", "acog_scope" ]
@@ -544,7 +543,7 @@
           "wristwatch",
           "mbag",
           "water_mineral",
-          "money_bundle_twenty"
+          "money_bundle"
         ],
         "entries": [ { "group": "charged_smart_phone" } ]
       },

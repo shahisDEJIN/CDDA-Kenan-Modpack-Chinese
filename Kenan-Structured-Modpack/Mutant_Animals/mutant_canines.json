@@ -28,6 +28,7 @@
     "biosignature": { "biosig_item": "feces_dog", "biosig_timer": 6 },
     "anger_triggers": [ "HURT", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "special_attacks": [ [ "EAT_FOOD", 100 ] ],
     "flags": [
       "ANIMAL",
@@ -272,11 +273,6 @@
     "harvest": "mammal_fur",
     "regenerates": 1,
     "upgrades": { "age_grow": 60, "into": "mon_dog_mutant_dire" },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "extend": { "flags": [ "FUR", "CANPLAY" ] }
+    "extend": { "flags": [ "FUR", "DOGFOOD" ] }
   }
 ]

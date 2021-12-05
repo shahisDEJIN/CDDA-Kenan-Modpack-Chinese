@@ -6,6 +6,7 @@
     "traits": [
       { "trait": "FLEET" },
       { "trait": "QUICK" },
+      { "trait": "PARKOUR" },
       { "trait": "PAINRESIST" },
       { "trait": "NIGHTVISION", "prob": 65 },
       { "trait": "THICKSKIN", "prob": 40 },
@@ -23,6 +24,7 @@
     "traits": [
       { "trait": "FLEET" },
       { "trait": "QUICK" },
+      { "trait": "PARKOUR" },
       { "trait": "PAINRESIST" },
       { "trait": "NIGHTVISION", "prob": 80 },
       { "trait": "THICKSKIN", "prob": 80 },

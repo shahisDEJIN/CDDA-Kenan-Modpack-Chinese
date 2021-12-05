@@ -42,6 +42,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": -1 },
     "dispersion": 225,
     "durability": 6,
+    "burst": 13,
     "default_mods": [ "suppressor_compact" ],
     "pocket_data": [
       {
@@ -131,6 +132,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": 1 },
     "dispersion": 225,
     "durability": 6,
+    "burst": 3,
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -191,7 +193,7 @@
         "max_contains_volume": "20 L",
         "magazine_well": "250 ml",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "m1911mag", "m1911bigmag" ]
+        "item_restriction": [ "m1911mag", "m1911mag" ]
       }
     ]
   },
@@ -436,7 +438,7 @@
     "durability": 10,
     "clip_size": 6,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "357mag": 6 } } ],
-    "default_mods": [ "match_trigger", "improve_sights" ]
+    "default_mods": [ "match_trigger", "tuned_mechanism", "improve_sights" ]
   },
   {
     "id": "korthcombat",
@@ -482,7 +484,7 @@
     "durability": 10,
     "clip_size": 6,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "357mag": 6 } } ],
-    "default_mods": [ "match_trigger" ]
+    "default_mods": [ "match_trigger", "tuned_mechanism" ]
   },
   {
     "id": "rohrbaugh_r9s",
@@ -585,6 +587,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": 2 },
     "dispersion": 75,
     "durability": 9,
+    "burst": 6,
     "reload": 50,
     "valid_mod_locations": [
       [ "accessories", 1 ],

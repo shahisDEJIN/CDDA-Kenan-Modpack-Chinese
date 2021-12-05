@@ -83,7 +83,7 @@
     "subtype": "collection",
     "entries": [
       { "item": "lmil_armor" },
-      { "item": "lmil_helm", "prob": 50, "charges": [ 0, 100 ] },
+      { "item": "lmil_helm", "prob": 50 },
       {
         "distribution": [
           { "item": "backpack", "prob": 30 },
@@ -141,8 +141,9 @@
       {
         "distribution": [
           { "item": "sling", "prob": 20 },
-          { "item": "wristrocket", "prob": 25 },
-          { "item": "bullet_crossbow", "prob": 30 },
+          { "item": "wristrocket", "prob": 10 },
+          { "item": "bullet_crossbow", "prob": 20 },
+          { "item": "tihar", "prob": 25 },
           { "item": "sur_pnu_lmg", "prob": 25 }
         ]
       },

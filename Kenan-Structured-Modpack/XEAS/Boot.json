@@ -14,18 +14,13 @@
     "symbol": "[",
     "looks_like": "boots_combat",
     "color": "light_cyan",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 20,
     "warmth": 15,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "acidchitin" ],
-        "material_thickness": 8,
-        "environmental_protection": 8
-      }
-    ]
+    "material_thickness": 8,
+    "environmental_protection": 8,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ]
   },
   {
     "result": "XEAS_boots",
@@ -42,7 +37,7 @@
       { "id": "SAW_M", "level": 2 },
       { "id": "HAMMER", "level": 3 },
       { "id": "CHISEL", "level": 3 },
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 3 },
       { "id": "ANVIL", "level": 3 }
     ],
     "using": [ [ "adhesive", 1 ], [ "sewing_standard", 200 ] ],

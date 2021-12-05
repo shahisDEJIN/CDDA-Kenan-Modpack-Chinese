@@ -32,17 +32,13 @@
     "biosignature": { "biosig_item": "feces_dog", "biosig_timer": 6 },
     "anger_triggers": [ "HURT", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "placate_triggers": [ "MEAT" ],
+    "death_function": [ "NORMAL" ],
     "special_attacks": [ [ "dogbite", 20 ], [ "EAT_FOOD", 100 ] ],
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "flags": [
       "ANIMAL",
+      "DOGFOOD",
       "GROUP_MORALE",
       "HEARS",
-      "CANPLAY",
       "HIT_AND_RUN",
       "KEENNOSE",
       "PATH_AVOID_DANGER_1",
@@ -60,11 +56,6 @@
     "description": "A shaggy Labrador Retriever that has been trained to fight.  Improved agility, attack, health, owner bond, and speed.",
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "revert_to_itype": "mon_dog_atk_crate"
   },
   {
@@ -85,12 +76,7 @@
     "revert_to_itype": "mon_dog_bull_crate",
     "reproduction": { "baby_monster": "mon_dog_bull_pup", "baby_count": 7, "baby_timer": 300 },
     "//": "7 puppies and 300-320 days per-litter for size medium canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "CANPLAY", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkbull",
@@ -102,11 +88,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkbull_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   },
   {
@@ -128,12 +109,7 @@
     "special_attacks": [ { "type": "leap", "cooldown": 8, "max_range": 2 } ],
     "reproduction": { "baby_monster": "mon_dog_auscattle_pup", "baby_count": 4, "baby_timer": 270 },
     "//": "1-4 puppies & 270 days per-litter for size small canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "CLIMBS", "CANPLAY", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
+    "flags": [ "ANIMAL", "CLIMBS", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkauscattle",
@@ -145,11 +121,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkauscattle_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   },
   {
@@ -172,12 +143,7 @@
     "special_attacks": [ [ "dogbite", 5 ], [ "fdogbite", 15 ] ],
     "reproduction": { "baby_monster": "mon_dog_pitbullmix_pup", "baby_count": 4, "baby_timer": 270 },
     "//": "1-4 puppies & 270 days per-litter for size small canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkpitbullmix",
@@ -189,11 +155,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkpitbullmix_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   },
   {
@@ -216,13 +177,9 @@
     "fear_triggers": [ "HURT" ],
     "reproduction": { "baby_monster": "mon_dog_beagle_pup", "baby_count": 4, "baby_timer": 270 },
     "//": "1-4 puppies & 270 days per-litter for size tiny canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "flags": [
       "ANIMAL",
+      "DOGFOOD",
       "GROUP_MORALE",
       "GUILT",
       "HARDTOSHOOT",
@@ -233,8 +190,7 @@
       "SEES",
       "SMELLS",
       "SWARMS",
-      "WARM",
-      "CANPLAY"
+      "WARM"
     ]
   },
   {
@@ -246,11 +202,6 @@
     "description": "A regal Beagle that has been trained to fight.  Improved agility, attack, health, owner bond, and speed.",
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "revert_to_itype": "mon_dog_atkbeagle_crate"
   },
   {
@@ -271,12 +222,7 @@
     "special_attacks": [ { "type": "leap", "cooldown": 8, "max_range": 2 } ],
     "reproduction": { "baby_monster": "mon_dog_bcollie_pup", "baby_count": 4, "baby_timer": 270 },
     "//": "1-4 puppies & 270 days per-litter for size small canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "CLIMBS", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "CLIMBS", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkbcollie",
@@ -288,11 +234,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkbcollie_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   },
   {
@@ -313,12 +254,7 @@
     "revert_to_itype": "mon_dog_boxer_crate",
     "fear_triggers": [ "HURT" ],
     "reproduction": { "baby_monster": "mon_dog_boxer_pup", "baby_count": 4, "baby_timer": 270 },
-    "//": "1-4 puppies & 270 days per-litter for size small canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    }
+    "//": "1-4 puppies & 270 days per-litter for size small canines"
   },
   {
     "id": "mon_dog_atkboxer",
@@ -330,11 +266,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkboxer_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   },
   {
@@ -359,13 +290,9 @@
     "fear_triggers": [ "HURT" ],
     "reproduction": { "baby_monster": "mon_dog_chihuahua_pup", "baby_count": 3, "baby_timer": 240 },
     "//": "1-3 puppies & 240 days per-litter for size tiny canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "flags": [
       "ANIMAL",
+      "DOGFOOD",
       "GUILT",
       "HARDTOSHOOT",
       "HEARS",
@@ -374,8 +301,7 @@
       "PATH_AVOID_DANGER_1",
       "SEES",
       "SMELLS",
-      "WARM",
-      "CANPLAY"
+      "WARM"
     ]
   },
   {
@@ -387,11 +313,6 @@
     "description": "A skittish Chihuahua that has been trained to embrace its bark rather than its bite.  Improved agility, attack, health, owner bond, and speed.",
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "revert_to_itype": "mon_dog_atkchihuahua_crate"
   },
   {
@@ -415,13 +336,9 @@
     "fear_triggers": [ "HURT" ],
     "reproduction": { "baby_monster": "mon_dog_dachshund_pup", "baby_count": 4, "baby_timer": 270 },
     "//": "1-4 puppies & 270 days per-litter for size small canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "flags": [
       "ANIMAL",
+      "DOGFOOD",
       "GUILT",
       "HARDTOSHOOT",
       "HEARS",
@@ -431,8 +348,7 @@
       "SEES",
       "SMELLS",
       "STUMBLES",
-      "WARM",
-      "CANPLAY"
+      "WARM"
     ]
   },
   {
@@ -444,11 +360,6 @@
     "description": "A long-bodied Dachshund that has been trained to fight, or so it wants you to believe.  Improved agility, attack, health, owner bond, and speed.",
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "revert_to_itype": "mon_dog_atkdachshund_crate"
   },
   {
@@ -467,12 +378,7 @@
     "revert_to_itype": "mon_dog_gshepherd_crate",
     "reproduction": { "baby_monster": "mon_dog_gshepherd_pup", "baby_count": 7, "baby_timer": 300 },
     "//": "1-7 puppies & 300-320 days per-litter for size medium canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkgshepherd",
@@ -485,12 +391,7 @@
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkgshepherd_crate",
     "special_attacks": [ [ "LUNGE", 15 ] ],
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "HEARS", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_gpyrenees",
@@ -513,12 +414,7 @@
     "revert_to_itype": "mon_dog_gpyrenees_crate",
     "reproduction": { "baby_monster": "mon_dog_gpyrenees_pup", "baby_count": 7, "baby_timer": 320 },
     "//": "1-7 puppies & 300-320 days per-litter for size medium canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkgpyrenees",
@@ -529,11 +425,6 @@
     "description": "A resilient Great Pyrenees that has been trained to fight.  Improved agility, attack, health, owner bond, and speed.",
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "revert_to_itype": "mon_dog_atkgpyrenees_crate"
   },
   {
@@ -556,12 +447,7 @@
     "revert_to_itype": "mon_dog_rottweiler_crate",
     "reproduction": { "baby_monster": "mon_dog_rottweiler_pup", "baby_count": 7, "baby_timer": 300 },
     "//": "1-7 puppies & 300-320 days per-litter for size medium canines",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "ANIMAL", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM", "CANPLAY" ]
+    "flags": [ "ANIMAL", "DOGFOOD", "HEARS", "HIT_AND_RUN", "KEENNOSE", "PATH_AVOID_DANGER_1", "SEES", "SMELLS", "WARM" ]
   },
   {
     "id": "mon_dog_atkrottweiler",
@@ -573,11 +459,6 @@
     "proportional": { "hp": 1.15, "morale": 1.67, "speed": 1.1 },
     "relative": { "aggression": 10, "dodge": 1, "melee_skill": 1, "melee_dice_sides": 1, "melee_cut": 1 },
     "revert_to_itype": "mon_dog_atkrottweiler_crate",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
     "special_attacks": [ [ "LUNGE", 15 ] ]
   }
 ]

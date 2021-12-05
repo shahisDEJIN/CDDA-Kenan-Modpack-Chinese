@@ -43,12 +43,12 @@
     }
   },
   {
-    "id": "m4_carbine",
+    "id": "mounted_acr",
     "copy-from": "turret",
     "type": "vehicle_part",
-    "name": { "str": "mounted m4 turret" },
-    "item": "m4_carbine",
-    "breaks_into": [ { "item": "m4_carbine", "prob": 50 } ],
+    "name": { "str": "Remington ACR turret" },
+    "item": "acr",
+    "breaks_into": [ { "item": "acr", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
@@ -146,6 +146,19 @@
     "name": { "str": "American-180 turret" },
     "item": "american_180",
     "breaks_into": [ { "item": "american_180", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "mounted_an94",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "AN94 turret" },
+    "item": "an94",
+    "breaks_into": [ { "item": "an94", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
@@ -401,7 +414,23 @@
     }
   },
   {
-    "id": "mounted_flamethrower",
+    "id": "mounted_flamethrower1",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "simple flamethrower turret" },
+    "item": "flamethrower_simple",
+    "color": "red",
+    "broken_color": "red",
+    "breaks_into": [ { "item": "flamethrower_simple", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 5 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 3 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    },
+    "extend": { "flags": [ "USE_TANKS" ] }
+  },
+  {
+    "id": "mounted_flamethrower2",
     "copy-from": "turret",
     "type": "vehicle_part",
     "name": { "str": "flamethrower turret" },
@@ -417,7 +446,7 @@
     "extend": { "flags": [ "USE_TANKS" ] }
   },
   {
-    "id": "mounted_typerm451_flamethrower",
+    "id": "mounted_flamethrower3",
     "copy-from": "turret",
     "type": "vehicle_part",
     "name": { "str": "RM451 flamethrower turret" },
@@ -452,6 +481,19 @@
     "name": { "str": "FN P90 turret" },
     "item": "fn_p90",
     "breaks_into": [ { "item": "fn_p90", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "mounted_h&k416a5",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "H&K 416A5 turret" },
+    "item": "h&k416a5",
+    "breaks_into": [ { "item": "h&k416a5", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
@@ -593,8 +635,8 @@
     "copy-from": "turret",
     "type": "vehicle_part",
     "name": { "str": "M1014 shotgun turret" },
-    "item": "mossberg_930",
-    "breaks_into": [ { "item": "mossberg_930", "prob": 50 } ],
+    "item": "m1014",
+    "breaks_into": [ { "item": "m1014", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
@@ -654,6 +696,19 @@
     }
   },
   {
+    "id": "mounted_m27iar",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "M27 IAR turret" },
+    "item": "m27iar",
+    "breaks_into": [ { "item": "m27iar", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
     "id": "mounted_m2browning_sawn",
     "copy-from": "turret",
     "type": "vehicle_part",
@@ -677,6 +732,19 @@
       "install": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "repair": { "skills": [ [ "mechanics", 3 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "mounted_m4a1",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "M4A1 turret" },
+    "item": "m4a1",
+    "breaks_into": [ { "item": "m4a1", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
     }
   },
   {
@@ -1090,6 +1158,19 @@
     }
   },
   {
+    "id": "mounted_scar_l",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "FN SCAR-L turret" },
+    "item": "scar_l",
+    "breaks_into": [ { "item": "scar_l", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
     "id": "mounted_shotgun_d",
     "copy-from": "turret",
     "type": "vehicle_part",
@@ -1170,6 +1251,19 @@
     }
   },
   {
+    "id": "mounted_survivor_special_700",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "survivor special turret" },
+    "item": "survivor_special_700",
+    "breaks_into": [ { "item": "survivor_special_700", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
     "id": "mounted_tec9",
     "copy-from": "turret",
     "type": "vehicle_part",
@@ -1202,6 +1296,19 @@
     "name": { "str": "V29 laser turret" },
     "item": "v29",
     "breaks_into": [ { "item": "v29", "prob": 50 } ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 6 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 4 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 5 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "mounted_v29_cheap",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "LACP laser turret" },
+    "item": "v29_cheap",
+    "breaks_into": [ { "item": "v29_cheap", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 6 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
       "removal": { "skills": [ [ "mechanics", 4 ] ], "time": "45 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },

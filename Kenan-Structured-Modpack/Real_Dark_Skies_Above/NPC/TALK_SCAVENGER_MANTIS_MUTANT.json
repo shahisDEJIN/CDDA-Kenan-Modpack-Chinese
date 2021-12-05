@@ -63,6 +63,7 @@
     "bonus_dex": { "rng": [ 0, 2 ] },
     "bonus_int": { "rng": [ -3, 0 ] },
     "bonus_per": { "rng": [ -2, 1 ] }
+
   },
   
   {

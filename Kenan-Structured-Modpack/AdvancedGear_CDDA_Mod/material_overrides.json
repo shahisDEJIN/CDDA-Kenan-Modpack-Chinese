@@ -14,6 +14,7 @@
     "repaired_with": "steel_chunk",
     "dmg_adj": [ "marked", "dented", "smashed", "shattered" ],
     "bash_dmg_verb": "dented",
-    "cut_dmg_verb": "scratched"
+    "cut_dmg_verb": "scratched",
+    "compacts_into": [ "alloy_sheet" ]
   }
 ]

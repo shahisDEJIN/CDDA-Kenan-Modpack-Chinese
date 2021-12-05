@@ -26,6 +26,7 @@
     "vision_day": 5,
     "vision_night": 5,
     "harvest": "arachnid",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS" ]
   },
   {
@@ -60,6 +61,7 @@
     "harvest": "arachnid",
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN" ],
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS" ]
   },
   {
@@ -94,6 +96,7 @@
     "harvest": "arachnid",
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN" ],
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "SMELLS", "HEARS" ]
   },
   {
@@ -128,6 +131,7 @@
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN" ],
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
     "harvest": "arachnid",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "SMELLS", "HEARS" ]
   },
   {
@@ -154,6 +158,7 @@
     "melee_cut": 1,
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
     "harvest": "meatslug",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SMELLS", "LARVA", "PET_WONT_FOLLOW" ]
   },
   {
@@ -179,6 +184,7 @@
     "melee_cut": 0,
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
     "harvest": "meatslug",
+    "death_function": [ "NORMAL" ],
     "flags": [ "SMELLS", "LARVA", "PET_WONT_FOLLOW" ]
   },
   {
@@ -199,7 +205,7 @@
     "special_attacks": [ [ "ACID", 23 ], [ "EAT_FOOD", 30 ] ],
     "biosignature": { "biosig_item": "acid_free", "biosig_timer": 10 },
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE" ],
-    "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
+    "death_function": [ "ACID", "NORMAL" ],
     "harvest": "arachnid_acid",
     "flags": [ "ACIDPROOF", "CLIMBS", "HEARS", "POISON", "SEES", "SMELLS", "PET_MOUNTABLE" ]
   },
@@ -223,7 +229,7 @@
     "biosignature": { "biosig_item": "acid_free", "biosig_timer": 10 },
     "special_attacks": [ [ "EAT_FOOD", 30 ] ],
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE" ],
-    "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
+    "death_function": [ "ACID", "NORMAL" ],
     "harvest": "arachnid_acid",
     "flags": [ "ACIDPROOF", "HEARS", "POISON", "SEES", "SMELLS" ]
   },
@@ -249,7 +255,7 @@
     "special_attacks": [ [ "ACID", 15 ] ],
     "biosignature": { "biosig_item": "acid_free", "biosig_timer": 10 },
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE" ],
-    "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
+    "death_function": [ "ACID", "NORMAL" ],
     "harvest": "arachnid_acid",
     "flags": [ "ACIDPROOF", "SHORTACIDTRAIL", "CLIMBS", "HEARS", "POISON", "SEES", "SMELLS", "PET_MOUNTABLE" ]
   },
@@ -273,7 +279,7 @@
     "special_attacks": [ [ "ACID", 15 ] ],
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE" ],
     "biosignature": { "biosig_item": "acid_free", "biosig_timer": 10 },
-    "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
+    "death_function": [ "ACID", "NORMAL" ],
     "harvest": "arachnid_acid",
     "flags": [ "ACIDPROOF", "SHORTACIDTRAIL", "CLIMBS", "HEARS", "POISON", "SEES", "SMELLS", "PET_MOUNTABLE" ]
   },
@@ -299,7 +305,7 @@
     "copy-from": "mon_ant_acid_larva",
     "description": "A yellow grub the size of a dog.  It squirms and oozes gelatinous fluids.  This one seems unusually friendly.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_acid_ant" },
-    "petfood": { "food": [ "CATTLEFOOD" ], "feed": "The %s seems to like you!  It squirms contently" }
+    "extend": { "flags": [ "DOGFOOD" ] }
   },
   {
     "id": "mon_ant",
@@ -360,7 +366,7 @@
     "upgrades": { "half_life": 364, "into": "mon_mega_ant" },
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 99 },
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE" ],
-    "death_function": { "message": "The %s's body leaks acid.", "effect": { "id": "death_acid", "hit_self": true } },
+    "death_function": [ "ACID", "NORMAL" ],
     "flags": [ "CLIMBS", "HEARS", "SEES", "SMELLS", "PET_MOUNTABLE" ]
   },
   {
@@ -404,7 +410,7 @@
     "copy-from": "mon_ant_larva",
     "description": "A pulsating sausage of glistening white flesh, the size of a dog.  On one end is a set of squirming mouth parts.  THis one seems rather playful.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_ant" },
-    "petfood": { "food": [ "CATTLEFOOD" ], "feed": "The %s seems to like you!  It squirms contently" }
+    "extend": { "flags": [ "DOGFOOD" ] }
   },
   {
     "id": "mon_bee",
@@ -470,7 +476,7 @@
     "type": "MONSTER",
     "copy-from": "mon_small_bee_larva",
     "description": "A pulsating sausage of glistening white flesh, the size of a squirrel.  On one end is a set of squirming mouth parts.  This one seems rather playful.",
-    "petfood": { "food": [ "BIRDFOOD" ], "feed": "The %s seems to like you! it seems friendly." }
+    "extend": { "flags": [ "BIRDFOOD" ] }
   },
   {
     "id": "mon_tame_small_bee_queen_larva",
@@ -478,7 +484,7 @@
     "copy-from": "mon_small_bee_larva",
     "description": "A pulsating sausage of glistening white flesh, the size of a squirrel.  On one end is a set of squirming mouth parts.  This one seems proud and commanding.",
     "upgrades": { "age_grow": 15, "into": "mon_mega_bee_queen" },
-    "petfood": { "food": [ "BIRDFOOD" ], "feed": "The %s seems to like you! it seems friendly." }
+    "extend": { "flags": [ "BIRDFOOD" ] }
   },
   {
     "id": "mon_giant_beetle",
@@ -546,7 +552,7 @@
     "copy-from": "mon_large_beetle_larva",
     "description": "A worm-like larva the size of a dog. This one seems fairly tame.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_beetle" },
-    "petfood": { "food": [ "CATTLEFOOD" ], "feed": "The %s seems to like you! It lets you pat its head and seems friendly." }
+    "extend": { "flags": [ "CATTLEFODDER" ] }
   },
   {
     "id": "mon_small_butterfly",
@@ -596,8 +602,7 @@
     "fear_triggers": [ "HURT", "SOUND", "FIRE", "PLAYER_CLOSE" ],
     "upgrades": { "age_grow": 10, "into": "mon_small_butterfly_chrysalis" },
     "baby_flags": [ "SPRING" ],
-    "petfood": { "food": [ "BIRDFOOD" ], "feed": "The %s seems to like you! it seems friendly." },
-    "flags": [ "CLIMBS", "SEES", "SMELLS" ]
+    "flags": [ "CLIMBS", "SEES", "SMELLS", "BIRDFOOD" ]
   },
   {
     "id": "mon_large_centipede",
@@ -693,7 +698,7 @@
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN" ],
     "biosignature": { "biosig_item": "feces_roach", "biosig_timer": 3 },
     "special_attacks": [ [ "EAT_FOOD", 60 ] ],
-    "death_function": { "effect": { "id": "death_preg_roach", "hit_self": true } },
+    "death_function": [ "NORMAL", "PREG_ROACH" ],
     "fear_triggers": [ "SOUND", "FIRE" ],
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_WEAK" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "CLIMBS" ]
@@ -780,6 +785,7 @@
     "dodge": 8,
     "special_attacks": [ [ "DERMATIK", 25 ] ],
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_WEAK" ],
+    "death_function": [ "NORMAL" ],
     "flags": [ "HEARS", "SMELLS", "STUMBLES", "POISON", "FLIES", "HARDTOSHOOT" ]
   },
   {
@@ -828,8 +834,7 @@
     "name": { "str": "mutant dragonfly" },
     "description": "A mutant dragonfly which has grown to the size of a crow.  It darts and weaves through the air.  This one seems especially intelligent.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_dragonfly" },
-    "petfood": { "food": [ "BIRDFOOD" ], "feed": "The %s seems to like you!  It squirms contently" },
-    "flags": [ "CLIMBS", "HEARS", "STUMBLES", "FLIES", "SEES", "SMELLS", "HIT_AND_RUN", "HARDTOSHOOT" ]
+    "flags": [ "CLIMBS", "HEARS", "STUMBLES", "FLIES", "SEES", "SMELLS", "HIT_AND_RUN", "HARDTOSHOOT", "DOGFOOD" ]
   },
   {
     "id": "mon_large_dragonfly",
@@ -996,7 +1001,7 @@
     "copy-from": "mon_small_fly_larva",
     "description": "A pulsating sausage of glistening white flesh, the size of a housecat.  On one end is a set of squirming mouth parts.  This one seems rather playful.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_fly" },
-    "petfood": { "food": [ "BIRDFOOD" ], "feed": "The %s seems to like you! it seems friendly." }
+    "extend": { "flags": [ "DOGFOOD" ] }
   },
   {
     "id": "mon_locust_nymph",
@@ -1087,7 +1092,7 @@
     "color": "yellow",
     "melee_cut": 4,
     "fear_triggers": [ "HURT" ],
-    "upgrades": { "age_grow": 10, "into": "mon_mosquito_small" },
+    "upgrades": { "age_grow": 10, "into": "mon_mosquito" },
     "flags": [ "AQUATIC", "SWIMS", "STUMBLES", "SEES", "FISHABLE" ]
   },
   {
@@ -1158,6 +1163,6 @@
     "copy-from": "mon_large_wasp_larva",
     "description": "A pulsating sausage of glistening white flesh, the size of a dog.  On one end is a set of squirming mouth parts.  This one seems less aggressive.",
     "upgrades": { "age_grow": 30, "into": "mon_mega_wasp" },
-    "petfood": { "food": [ "CATTLEFOOD" ], "feed": "The %s seems to like you! it squirms contently" }
+    "extend": { "flags": [ "DOGFOOD" ] }
   }
 ]

@@ -10,8 +10,8 @@
     "color": "light_gray",
     "cutting": 13,
     "thrown_damage": [ { "damage_type": "bash", "amount": 5 }, { "damage_type": "stab", "amount": 14 } ],
-    "price": "20 USD",
-    "price_postapoc": "3 USD"
+    "price": 2000,
+    "price_postapoc": 275
   },
   {
     "id": "javelin_copper",
@@ -24,8 +24,8 @@
     "color": "light_red",
     "cutting": 16,
     "thrown_damage": [ { "damage_type": "bash", "amount": 5 }, { "damage_type": "stab", "amount": 16 } ],
-    "price": "90 USD",
-    "price_postapoc": "5 USD"
+    "price": 9000,
+    "price_postapoc": 500
   },
   {
     "type": "GENERIC",
@@ -40,7 +40,7 @@
     "volume": "3750 ml",
     "bashing": 5,
     "category": "veh_parts",
-    "price": "5 USD"
+    "price": 500
   },
   {
     "type": "GENERIC",
@@ -55,7 +55,7 @@
     "volume": "5 L",
     "bashing": 3,
     "category": "veh_parts",
-    "price": "10 USD"
+    "price": 1000
   },
   {
     "id": "beehive_empty",
@@ -64,7 +64,7 @@
     "description": "A large, enclosed wooden box with multiple sliding frames in it.  With something to attract bees, it can be used to grow a hive.",
     "weight": "10000 g",
     "volume": "20 L",
-    "price": "92 USD",
+    "price": 9200,
     "material": [ "wood" ],
     "symbol": "-",
     "color": "brown"

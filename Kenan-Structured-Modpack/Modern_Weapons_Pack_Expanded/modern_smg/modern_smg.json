@@ -18,6 +18,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": 1 },
     "dispersion": 25,
     "durability": 8,
+    "burst": 10,
     "default_mods": [ "pistol_grip", "red_dot_sight", "grip", "fold_adjust_stock" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
@@ -75,6 +76,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": 2 },
     "dispersion": 200,
     "durability": 7,
+    "burst": 16,
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "barrel", 1 ],
@@ -160,6 +162,7 @@
     "ammo": [ "9mm", "46", "57" ],
     "dispersion": 250,
     "durability": 7,
+    "burst": 20,
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "barrel", 1 ],
@@ -203,6 +206,7 @@
     "ranged_damage": { "damage_type": "stab", "amount": 2 },
     "dispersion": 35,
     "durability": 9,
+    "burst": 6,
     "default_mods": [ "folding_stock" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],

@@ -8,7 +8,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -22,6 +22,7 @@
       [ [ "bio_nanobots", 1 ] ],
       [ [ "bio_ods", 1 ] ],
       [ [ "bio_magnet", 1 ] ],
+      [ [ "bio_scent_vision", 1 ] ],
       [ [ "motor_small", 4 ] ],
       [ [ "power_supply", 8 ] ],
       [ [ "cable", 12 ] ],
@@ -42,7 +43,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -57,6 +58,7 @@
       [ [ "bio_nanobots", 1 ] ],
       [ [ "bio_ods", 1 ] ],
       [ [ "bio_magnet", 1 ] ],
+      [ [ "bio_scent_vision", 1 ] ],
       [ [ "bio_flashbang", 1 ] ],
       [ [ "motor_small", 4 ] ],
       [ [ "power_supply", 8 ] ],
@@ -78,7 +80,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -106,7 +108,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -115,7 +117,7 @@
       { "id": "SAW_M", "level": 1 }
     ],
     "components": [
-      [ [ "m4_carbine", 1 ] ],
+      [ [ "m4a1", 1 ] ],
       [ [ "motor_small", 2 ] ],
       [ [ "power_supply", 3 ] ],
       [ [ "cable", 12 ] ],
@@ -135,7 +137,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -144,7 +146,7 @@
       { "id": "SAW_M", "level": 1 }
     ],
     "components": [
-      [ [ "laser_cannon", 2 ] ],
+      [ [ "cerberus_laser", 2 ] ],
       [ [ "motor_small", 2 ] ],
       [ [ "power_supply", 3 ] ],
       [ [ "cable", 12 ] ],
@@ -164,7 +166,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -194,7 +196,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -223,7 +225,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -233,7 +235,7 @@
     ],
     "components": [
       [ [ "motor_small", 2 ] ],
-      [ [ "m4_carbine", 1 ] ],
+      [ [ "m4a1", 1 ] ],
       [ [ "power_supply", 3 ] ],
       [ [ "cable", 12 ] ],
       [ [ "plut_cell", 2 ] ],
@@ -252,7 +254,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -262,7 +264,7 @@
     ],
     "components": [
       [ [ "motor_small", 2 ] ],
-      [ [ "mossberg_930", 1 ] ],
+      [ [ "m1014", 1 ] ],
       [ [ "power_supply", 3 ] ],
       [ [ "cable", 12 ] ],
       [ [ "plut_cell", 2 ] ],
@@ -281,7 +283,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -310,7 +312,7 @@
     "time": 450000,
     "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -320,7 +322,7 @@
     ],
     "components": [
       [ [ "motor_small", 2 ] ],
-      [ [ "bio_blaster", 1 ] ],
+      [ [ "unbio_blaster_gun", 1 ] ],
       [ [ "power_supply", 3 ] ],
       [ [ "cable", 12 ] ],
       [ [ "plut_cell", 2 ] ],

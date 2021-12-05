@@ -12,7 +12,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -43,7 +43,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -74,7 +74,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -85,7 +85,7 @@
     "tools": [
       [ [ "welder", 450 ], [ "welder_crude", 600 ], [ "toolset", 600 ], [ "oxy_torch", 90 ] ],
       [ [ "soldering_iron", 160 ] ],
-      [ [ "laptop", 900 ] ]
+      [ [ "control_laptop", 900 ] ]
     ],
     "components": [
       [ [ "super_chassis", 1 ] ],
@@ -123,7 +123,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "textbook_mechanics", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -149,14 +149,14 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
       { "id": "WRENCH_FINE", "level": 1 }
     ],
     "tools": [
-      [ [ "laptop", 600 ] ],
+      [ [ "control_laptop", 600 ] ],
       [ [ "large_repairkit", 600 ] ],
       [ [ "welder", 60 ], [ "welder_crude", 90 ], [ "toolset", 90 ], [ "oxy_torch", 12 ] ]
     ],
@@ -175,7 +175,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [
-      { "id": "GLARE", "level": 1 },
+      { "id": "GLARE", "level": 2 },
       { "id": "SCREW", "level": 1 },
       { "id": "SCREW_FINE", "level": 1 },
       { "id": "WRENCH", "level": 1 },
@@ -186,7 +186,7 @@
     "tools": [
       [ [ "welder", 300 ], [ "welder_crude", 450 ], [ "toolset", 450 ], [ "oxy_torch", 60 ] ],
       [ [ "soldering_iron", 80 ] ],
-      [ [ "laptop", 300 ] ]
+      [ [ "control_laptop", 300 ] ]
     ],
     "components": [
       [ [ "walker_chassis", 1 ] ],
@@ -222,24 +222,25 @@
     "time": 72000,
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
-    "qualities": [ { "id": "GLARE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
+    "qualities": [ { "id": "GLARE", "level": 2 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
     "tools": [
-      [ [ "laptop", 300 ] ],
+      [ [ "control_laptop", 300 ] ],
       [ [ "large_repairkit", 300 ] ],
       [ [ "welder", 20 ], [ "welder_crude", 30 ], [ "toolset", 30 ], [ "oxy_torch", 5 ] ]
     ],
     "components": [
       [ [ "unarmedbot_packed", 1 ] ],
       [
-        [ "m16_auto_rifle", 2 ],
+        [ "acr", 2 ],
         [ "ar15", 2 ],
-        [ "m27_assault_rifle", 2 ],
+        [ "h&k416a5", 2 ],
         [ "hk_g36", 2 ],
+        [ "h&k416a5", 2 ],
         [ "m249", 2 ],
-        [ "m27_assault_rifle", 2 ],
-        [ "m4_carbine", 2 ],
-        [ "m27_assault_rifle", 2 ],
-        [ "sig_assault_rifle", 2 ],
+        [ "m27iar", 2 ],
+        [ "m4a1", 2 ],
+        [ "scar_l", 2 ],
+        [ "sig552", 2 ],
         [ "steyr_aug", 2 ]
       ],
       [ [ "spring", 2 ] ],
@@ -258,15 +259,15 @@
     "time": 72000,
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
-    "qualities": [ { "id": "GLARE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
+    "qualities": [ { "id": "GLARE", "level": 2 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
     "tools": [
-      [ [ "laptop", 300 ] ],
+      [ [ "control_laptop", 300 ] ],
       [ [ "large_repairkit", 300 ] ],
       [ [ "welder", 20 ], [ "welder_crude", 30 ], [ "toolset", 30 ], [ "oxy_torch", 5 ] ]
     ],
     "components": [
       [ [ "unarmedbot_packed", 1 ] ],
-      [ [ "ksg", 2 ], [ "mossberg_930", 2 ], [ "saiga_12", 2 ] ],
+      [ [ "ksg", 2 ], [ "m1014", 2 ], [ "saiga_12", 2 ] ],
       [ [ "spring", 2 ] ],
       [ [ "metal_tank_little", 1 ] ]
     ]
@@ -283,8 +284,8 @@
     "time": 72000,
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
-    "qualities": [ { "id": "GLARE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
-    "tools": [ [ [ "laptop", 300 ] ], [ [ "welder", 20 ], [ "welder_crude", 30 ], [ "toolset", 30 ], [ "oxy_torch", 5 ] ] ],
+    "qualities": [ { "id": "GLARE", "level": 2 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
+    "tools": [ [ [ "control_laptop", 300 ] ], [ [ "welder", 20 ], [ "welder_crude", 30 ], [ "toolset", 30 ], [ "oxy_torch", 5 ] ] ],
     "components": [ [ [ "unarmedbot_packed", 1 ] ], [ [ "lightstrip", 25 ] ], [ [ "motor_small", 2 ] ] ]
   },
   {
@@ -299,15 +300,15 @@
     "time": 72000,
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
-    "qualities": [ { "id": "GLARE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
+    "qualities": [ { "id": "GLARE", "level": 2 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
     "tools": [
-      [ [ "laptop", 300 ] ],
+      [ [ "control_laptop", 300 ] ],
       [ [ "large_repairkit", 300 ] ],
       [ [ "welder", 20 ], [ "welder_crude", 30 ], [ "toolset", 30 ], [ "oxy_torch", 5 ] ]
     ],
     "components": [
       [ [ "unarmedbot_packed", 1 ] ],
-      [ [ "flamethrower", 1 ], [ "rm451_flamethrower", 1 ] ],
+      [ [ "flamethrower", 1 ], [ "flamethrower_simple", 1 ], [ "rm451_flamethrower", 1 ] ],
       [ [ "hose", 2 ] ],
       [ [ "jerrycan", 1 ] ]
     ]
@@ -325,8 +326,8 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [ { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
-    "tools": [ [ [ "laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
-    "components": [ [ [ "unarmedbot_packed", 1 ] ], [ [ "bio_blaster", 2 ] ] ]
+    "tools": [ [ [ "control_laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
+    "components": [ [ [ "unarmedbot_packed", 1 ] ], [ [ "unbio_blaster_gun", 2 ], [ "ftk93", 2 ] ] ]
   },
   {
     "result": "teslabot_packed",
@@ -341,7 +342,7 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [ { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
-    "tools": [ [ [ "laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
+    "tools": [ [ [ "control_laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
     "components": [ [ [ "unarmedbot_packed", 1 ] ], [ [ "bio_chain_lightning", 2 ] ] ]
   },
   {
@@ -357,10 +358,10 @@
     "batch_time_factors": [ 50, 10 ],
     "book_learn": [ [ "walker_schematic", 6 ] ],
     "qualities": [ { "id": "SCREW_FINE", "level": 1 }, { "id": "WRENCH_FINE", "level": 1 } ],
-    "tools": [ [ [ "laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
+    "tools": [ [ [ "control_laptop", 300 ] ], [ [ "large_repairkit", 300 ] ] ],
     "components": [
       [ [ "unarmedbot_packed", 1 ] ],
-      [ [ "laser_cannon", 3 ], [ "laser_rifle", 3 ], [ "v29", 3 ] ]
+      [ [ "laser_cannon", 3 ], [ "laser_rifle", 3 ], [ "v29", 3 ], [ "cerberus_laser", 3 ] ]
     ]
   }
 ]

@@ -22,7 +22,7 @@
     "vision_day": 25,
     "harvest": "exempt",
     "death_drops": "mon_tengu_death_drops",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "fear_triggers": [ "FIRE" ],
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "special_attacks": [
@@ -57,7 +57,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "harvest": "exempt",
     "death_drops": "mon_tengu_monk_death_drops",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "special_attacks": [
       [ "PARROT", 0 ],
       { "type": "leap", "cooldown": 6, "max_range": 7 },
@@ -91,7 +91,7 @@
     "death_drops": "mon_nekomata_death_drops",
     "fear_triggers": [ "FIRE" ],
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_ATTACKED", "FRIEND_DIED" ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "special_attacks": [ { "type": "leap", "cooldown": 6, "max_range": 10 }, [ "PARROT", 0 ] ],
     "flags": [ "SEES", "HEARS", "SMELLS", "NO_BREATHE", "CLIMBS", "HARDTOSHOOT" ]
   },
@@ -122,7 +122,7 @@
     "vision_night": 40,
     "fear_triggers": [ "FIRE" ],
     "anger_triggers": [ "STALK", "PLAYER_CLOSE", "FRIEND_ATTACKED", "FRIEND_DIED" ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "harvest": "exempt",
     "death_drops": "mon_kappa_death_drops",
     "special_attacks": [
@@ -159,7 +159,7 @@
     "vision_night": 40,
     "fear_triggers": [ "FIRE" ],
     "anger_triggers": [ "STALK", "PLAYER_CLOSE", "FRIEND_ATTACKED", "FRIEND_DIED" ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "harvest": "exempt",
     "death_drops": "mon_kappa_engineer_death_drops",
     "special_attacks": [
@@ -180,6 +180,7 @@
     "hp": 300,
     "speed": 80,
     "material": [ "steel" ],
+    "looks_like": "mon_chickenbot",
     "symbol": "K",
     "color": "cyan",
     "aggression": 9,
@@ -196,7 +197,7 @@
     "anger_triggers": [ "FRIEND_DIED", "FRIEND_ATTACKED" ],
     "harvest": "exempt",
     "death_drops": "mon_kappabot_death_drops",
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": [ "BROKEN" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -225,7 +226,7 @@
     "vision_day": 40,
     "harvest": "exempt",
     "death_drops": "mon_oni_bandit_death_drops",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "fear_triggers": [ "FIRE" ],
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "special_attacks": [
@@ -262,7 +263,7 @@
     "harvest": "exempt",
     "death_drops": "mon_kamaitachi_death_drops",
     "fear_triggers": [ "FIRE" ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "special_attacks": [ { "type": "leap", "cooldown": 3, "max_range": 3 }, [ "dust_directing", 4 ], [ "PARROT", 0 ] ],
     "flags": [ "SEES", "HEARS", "SMELLS", "NO_BREATHE", "HARDTOSHOOT", "FLIES" ]
   },
@@ -290,7 +291,7 @@
     "harvest": "exempt",
     "death_drops": "mon_okka_death_drops",
     "fear_triggers": [ "FIRE" ],
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "NO_BREATHE", "HARDTOSHOOT" ]
   },
   {
@@ -317,7 +318,7 @@
     "anger_triggers": [ "PLAYER_CLOSE", "FRIEND_ATTACKED", "FRIEND_DIED" ],
     "harvest": "exempt",
     "death_drops": "mon_kanazuchibo_death_drops",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "special_attacks": [ [ "PARROT", 0 ], { "type": "leap", "cooldown": 6, "max_range": 10 } ],
     "flags": [ "SEES", "HEARS", "SMELLS", "NO_BREATHE", "HARDTOSHOOT", "CLIMBS", "PUSH_MON" ]
   }

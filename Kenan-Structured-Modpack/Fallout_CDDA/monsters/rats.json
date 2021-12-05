@@ -28,13 +28,9 @@
     "path_settings": { "max_dist": 10 },
     "anger_triggers": [ "PLAYER_WEAK" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "special_attacks": [ [ "EAT_FOOD", 120 ] ],
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES" ]
+    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES", "CATFOOD" ]
   },
   {
     "id": "mon_rat_piglet",
@@ -66,15 +62,25 @@
     "path_settings": { "max_dist": 10 },
     "anger_triggers": [ "PLAYER_WEAK" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "upgrades": { "age_grow": 5, "into": "mon_rat_pig" },
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 7 },
     "special_attacks": [ [ "EAT_FOOD", 120 ] ],
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES" ]
+    "flags": [
+      "SEES",
+      "SMELLS",
+      "HEARS",
+      "WARM",
+      "SWIMS",
+      "ANIMAL",
+      "PATH_AVOID_DANGER_1",
+      "FUR",
+      "BONES",
+      "CATFOOD",
+      "DOGFOOD",
+      "BIRDFOOD",
+      "CATTLEFODDER"
+    ]
   },
   {
     "id": "mon_rat_pig",
@@ -108,13 +114,23 @@
     "path_settings": { "max_dist": 10 },
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "special_attacks": [ [ "EAT_FOOD", 120 ] ],
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat their head."
-    },
-    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES" ]
+    "flags": [
+      "SEES",
+      "SMELLS",
+      "HEARS",
+      "WARM",
+      "SWIMS",
+      "ANIMAL",
+      "PATH_AVOID_DANGER_1",
+      "FUR",
+      "BONES",
+      "CATFOOD",
+      "DOGFOOD",
+      "BIRDFOOD",
+      "CATTLEFODDER"
+    ]
   },
   {
     "id": "mon_rat_mole_young",
@@ -146,15 +162,25 @@
     "path_settings": { "max_dist": 10 },
     "anger_triggers": [ "PLAYER_WEAK" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "upgrades": { "age_grow": 5, "into": "mon_rat_mole_lesser" },
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 7 },
     "special_attacks": [ [ "EAT_FOOD", 120 ] ],
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wiggles around while you pat their head."
-    },
-    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES" ]
+    "flags": [
+      "SEES",
+      "SMELLS",
+      "HEARS",
+      "WARM",
+      "SWIMS",
+      "ANIMAL",
+      "PATH_AVOID_DANGER_1",
+      "FUR",
+      "BONES",
+      "CATFOOD",
+      "DOGFOOD",
+      "BIRDFOOD",
+      "CATTLEFODDER"
+    ]
   },
   {
     "id": "mon_rat_mole_lesser",
@@ -189,12 +215,23 @@
     "starting_ammo": { "milk_raw": 20 },
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "NORMAL" ],
     "special_attacks": [ [ "EAT_FOOD", 120 ] ],
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you! It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wiggles around while you pat their head."
-    },
-    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "MILKABLE", "FUR", "BONES" ]
+    "flags": [
+      "SEES",
+      "SMELLS",
+      "HEARS",
+      "WARM",
+      "SWIMS",
+      "ANIMAL",
+      "PATH_AVOID_DANGER_1",
+      "MILKABLE",
+      "FUR",
+      "BONES",
+      "CATFOOD",
+      "DOGFOOD",
+      "BIRDFOOD",
+      "CATTLEFODDER"
+    ]
   }
 ]

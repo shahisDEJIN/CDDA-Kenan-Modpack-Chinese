@@ -10,6 +10,10 @@
     "material": [ "veggy" ],
     "symbol": "[",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 15,
+    "encumbrance": 5,
+    "max_encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
@@ -17,9 +21,7 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "3 kg", "moves": 150 }
     ],
     "warmth": 0,
-    "armor": [
-      { "encumbrance": [ 5, 15 ], "coverage": 15, "covers": [ "torso" ], "material": [ "veggy" ], "material_thickness": 1 }
-    ]
+    "material_thickness": 1
   },
   {
     "result": "cordage_pouch",
@@ -44,6 +46,9 @@
     "material": [ "veggy" ],
     "symbol": "[",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 10,
+    "encumbrance": 15,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
@@ -51,7 +56,7 @@
       { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "3 kg", "moves": 150 }
     ],
     "warmth": 0,
-    "armor": [ { "encumbrance": 15, "coverage": 10, "covers": [ "torso" ], "material": [ "veggy" ], "material_thickness": 1 } ]
+    "material_thickness": 1
   },
   {
     "result": "birchbark_pouch",
@@ -77,8 +82,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 12,
     "warmth": 0,
-    "armor": [ { "encumbrance": 12, "coverage": 20, "covers": [ "torso" ], "material": [ "wood" ], "material_thickness": 1 } ]
+    "material_thickness": 1
   },
   {
     "result": "backpack_aframe",
@@ -104,7 +112,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
     "warmth": 0,
+    "material_thickness": 1,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
@@ -120,8 +132,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
-    "flags": [ "BELTED" ],
-    "armor": [ { "encumbrance": 6, "coverage": 20, "covers": [ "torso" ], "material": [ "wood" ], "material_thickness": 1 } ]
+    "flags": [ "BELTED" ]
   },
   {
     "result": "backpack_aframe_birchbark",
@@ -147,7 +158,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
     "warmth": 0,
+    "material_thickness": 1,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "7 kg", "moves": 80 },
@@ -163,8 +178,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
-    "flags": [ "BELTED" ],
-    "armor": [ { "encumbrance": 6, "coverage": 20, "covers": [ "torso" ], "material": [ "wood" ], "material_thickness": 1 } ]
+    "flags": [ "BELTED" ]
   },
   {
     "result": "backpack_aframe_cordage",

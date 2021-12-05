@@ -77,6 +77,7 @@
     "sight_dispersion": 150,
     "recoil": 0,
     "durability": 10,
+    "burst": 10,
     "loudness": 150,
     "ups_charges": 100,
     "ammo_effects": [ "LIGHTNING", "BOUNCE" ],
@@ -103,6 +104,7 @@
     "sight_dispersion": 150,
     "recoil": 0,
     "durability": 8,
+    "burst": 10,
     "loudness": 150,
     "clip_size": 10,
     "extend": { "flags": [ "MODE_BURST", "PRIMITIVE_RANGED_WEAPON" ] },
@@ -144,23 +146,18 @@
     "material": [ "cotton", "leather" ],
     "symbol": "[",
     "color": "black",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 14,
     "pocket_data": [
       { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "4 kg", "moves": 75 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 75 },
       { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 105 }
     ],
     "warmth": 8,
-    "flags": [ "VARSIZE" ],
-    "armor": [
-      {
-        "encumbrance": 14,
-        "coverage": 100,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "cotton", "leather" ],
-        "material_thickness": 2,
-        "environmental_protection": 2
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE" ]
   },
   {
     "id": "ninja_suit_survivor",
@@ -174,6 +171,9 @@
     "material": [ "kevlar", "cotton", "leather", "steel" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+    "coverage": 100,
+    "encumbrance": 18,
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -199,18 +199,10 @@
       }
     ],
     "warmth": 8,
+    "material_thickness": 3,
+    "environmental_protection": 4,
     "use_action": { "type": "holster" },
-    "flags": [ "VARSIZE", "RAINPROOF", "STURDY", "POCKETS", "FANCY", "TARDIS" ],
-    "armor": [
-      {
-        "encumbrance": 18,
-        "coverage": 100,
-        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
-        "material": [ "kevlar", "cotton", "leather", "steel" ],
-        "material_thickness": 3,
-        "environmental_protection": 4
-      }
-    ]
+    "flags": [ "VARSIZE", "RAINPROOF", "STURDY", "POCKETS", "FANCY", "TARDIS" ]
   },
   {
     "id": "ninja_hood",
@@ -226,18 +218,13 @@
     "material": [ "cotton", "leather", "steel" ],
     "symbol": "[",
     "color": "black",
+    "covers": [ "head", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 14,
     "warmth": 8,
-    "flags": [ "VARSIZE" ],
-    "armor": [
-      {
-        "encumbrance": 14,
-        "coverage": 100,
-        "covers": [ "head", "mouth" ],
-        "material": [ "cotton", "leather", "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 1
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 1,
+    "flags": [ "VARSIZE" ]
   },
   {
     "id": "ninja_hood_survivor",
@@ -253,19 +240,14 @@
     "material": [ "kevlar", "cotton", "leather", "steel", "plastic" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "head", "eyes", "mouth" ],
+    "coverage": 100,
+    "encumbrance": 18,
     "warmth": 8,
-    "qualities": [ [ "GLARE", 1 ] ],
-    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "SUN_GLASSES", "FLASH_PROTECTION", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 18,
-        "coverage": 100,
-        "covers": [ "head", "eyes", "mouth" ],
-        "material": [ "kevlar", "cotton", "leather", "steel", "plastic" ],
-        "material_thickness": 3,
-        "environmental_protection": 15
-      }
-    ]
+    "material_thickness": 3,
+    "environmental_protection": 15,
+    "qualities": [ [ "GLARE", 2 ] ],
+    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "SUN_GLASSES", "FLASH_PROTECTION", "FANCY" ]
   },
   {
     "id": "ninja_chainmail",
@@ -279,18 +261,13 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
+    "covers": [ "torso" ],
+    "coverage": 85,
+    "encumbrance": 26,
     "warmth": 5,
-    "flags": [ "VARSIZE", "STURDY", "SKINTIGHT" ],
-    "armor": [
-      {
-        "encumbrance": 26,
-        "coverage": 85,
-        "covers": [ "torso" ],
-        "material": [ "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 0
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 0,
+    "flags": [ "VARSIZE", "STURDY", "SKINTIGHT" ]
   },
   {
     "id": "ninja_chainmail_survivor",
@@ -304,18 +281,13 @@
     "material": [ "kevlar", "superalloy" ],
     "symbol": "[",
     "color": "light_gray",
+    "covers": [ "torso" ],
+    "coverage": 100,
+    "encumbrance": 16,
     "warmth": 5,
-    "flags": [ "VARSIZE", "STURDY", "SKINTIGHT" ],
-    "armor": [
-      {
-        "encumbrance": 16,
-        "coverage": 100,
-        "covers": [ "torso" ],
-        "material": [ "kevlar", "superalloy" ],
-        "material_thickness": 2,
-        "environmental_protection": 0
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 0,
+    "flags": [ "VARSIZE", "STURDY", "SKINTIGHT" ]
   },
   {
     "id": "ninja_gloves",
@@ -329,18 +301,13 @@
     "material": [ "cotton", "steel" ],
     "symbol": "[",
     "color": "black",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 14,
     "warmth": 8,
-    "flags": [ "VARSIZE", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 14,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "cotton", "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 0
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 0,
+    "flags": [ "VARSIZE", "STURDY" ]
   },
   {
     "id": "ninja_gloves_survivor",
@@ -354,18 +321,13 @@
     "material": [ "kevlar", "cotton", "leather", "steel" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "hand_l", "hand_r" ],
+    "coverage": 100,
+    "encumbrance": 18,
     "warmth": 8,
-    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 18,
-        "coverage": 100,
-        "covers": [ "hand_l", "hand_r" ],
-        "material": [ "kevlar", "cotton", "leather", "steel" ],
-        "material_thickness": 2,
-        "environmental_protection": 4
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 4,
+    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "FANCY" ]
   },
   {
     "id": "ninja_shoes",
@@ -379,18 +341,13 @@
     "material": [ "cotton" ],
     "symbol": "[",
     "color": "black",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 14,
     "warmth": 8,
-    "flags": [ "VARSIZE", "STURDY" ],
-    "armor": [
-      {
-        "encumbrance": 14,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "cotton" ],
-        "material_thickness": 2,
-        "environmental_protection": 0
-      }
-    ]
+    "material_thickness": 2,
+    "environmental_protection": 0,
+    "flags": [ "VARSIZE", "STURDY" ]
   },
   {
     "id": "ninja_boots_survivor",
@@ -404,7 +361,12 @@
     "material": [ "kevlar", "cotton", "leather", "steel", "plastic", "nomex" ],
     "symbol": "[",
     "color": "red",
+    "covers": [ "foot_l", "foot_r" ],
+    "coverage": 100,
+    "encumbrance": 12,
     "warmth": 8,
+    "material_thickness": 2,
+    "environmental_protection": 18,
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -416,17 +378,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Sheath knife", "holster_msg": "You sheath your %s" },
-    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 12,
-        "coverage": 100,
-        "covers": [ "foot_l", "foot_r" ],
-        "material": [ "kevlar", "cotton", "leather", "steel", "plastic", "nomex" ],
-        "material_thickness": 2,
-        "environmental_protection": 18
-      }
-    ]
+    "flags": [ "VARSIZE", "STURDY", "RAINPROOF", "FANCY" ]
   },
   {
     "id": "ninja_ration",
@@ -461,7 +413,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "red",
+    "coverage": 0,
+    "encumbrance": 0,
     "warmth": 0,
+    "material_thickness": 0,
+    "environmental_protection": 0,
     "relic_data": {
       "passive_effects": [
         {
@@ -472,8 +428,7 @@
         }
       ]
     },
-    "flags": [ "FANCY" ],
-    "armor": [ { "encumbrance": 0, "coverage": 0, "material": [ "wood" ], "material_thickness": 0, "environmental_protection": 0 } ]
+    "flags": [ "FANCY" ]
   },
   {
     "id": "ninja_jetpack",
@@ -490,11 +445,14 @@
     "symbol": "[",
     "color": "light_gray",
     "ammo": [ "ammo_type_ninja_jet_fuel" ],
-    "pocket_data": [
-      { "pocket_type": "MAGAZINE", "watertight": true, "rigid": true, "ammo_restriction": { "ammo_type_ninja_jet_fuel": 50 } }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "watertight": true, "rigid": true, "ammo_restriction": { "ammo_type_ninja_jet_fuel": 50 } } ],
     "charges_per_use": 0,
+    "covers": [ "torso" ],
+    "coverage": 50,
+    "encumbrance": 20,
     "warmth": 0,
+    "material_thickness": 1,
+    "environmental_protection": 0,
     "use_action": {
       "target": "ninja_jetpack_on",
       "msg": "You zoom forward using your jet pack.",
@@ -503,17 +461,7 @@
       "need_charges_msg": "You need rocket fuel for your jet pack.",
       "type": "transform"
     },
-    "flags": [ "STURDY", "RAINPROOF", "BELTED", "FANCY" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 50,
-        "covers": [ "torso" ],
-        "material": [ "steel" ],
-        "material_thickness": 1,
-        "environmental_protection": 0
-      }
-    ]
+    "flags": [ "STURDY", "RAINPROOF", "BELTED", "FANCY" ]
   },
   {
     "id": "ninja_jetpack_on",
@@ -530,25 +478,18 @@
     "symbol": "[",
     "color": "light_gray",
     "ammo": [ "ammo_type_ninja_jet_fuel" ],
-    "pocket_data": [
-      { "pocket_type": "MAGAZINE", "watertight": true, "rigid": true, "ammo_restriction": { "ammo_type_ninja_jet_fuel": 50 } }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "watertight": true, "rigid": true, "ammo_restriction": { "ammo_type_ninja_jet_fuel": 50 } } ],
     "turns_per_charge": 30,
     "revert_to": "ninja_jetpack",
+    "covers": [ "torso" ],
+    "coverage": 50,
+    "encumbrance": 20,
     "warmth": 0,
+    "material_thickness": 1,
+    "environmental_protection": 0,
     "relic_data": { "passive_effects": [ { "has": "WORN", "condition": "ALWAYS", "values": [ { "value": "SPEED", "multiply": 0.5 } ] } ] },
     "use_action": { "target": "ninja_jetpack", "msg": "You stopped the jet pack", "active": false, "type": "transform" },
-    "flags": [ "STURDY", "RAINPROOF", "BELTED", "FANCY", "TRADER_AVOID" ],
-    "armor": [
-      {
-        "encumbrance": 20,
-        "coverage": 50,
-        "covers": [ "torso" ],
-        "material": [ "steel" ],
-        "material_thickness": 1,
-        "environmental_protection": 0
-      }
-    ]
+    "flags": [ "STURDY", "RAINPROOF", "BELTED", "FANCY", "TRADER_AVOID" ]
   },
   {
     "id": "ninja_gun_ay893",

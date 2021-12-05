@@ -8,7 +8,7 @@
     "healthy": -1,
     "stim": 0,
     "description": "A bitter herbal tea made from willow bark, used since ancient times as a mild painkiller.",
-    "price": "12 USD",
+    "price": 1250,
     "fun": -3,
     "use_action": { "type": "consume_drug", "effects": [ { "id": "pkill1", "duration": 90 } ] }
   },
@@ -39,7 +39,7 @@
     "healthy": 4,
     "description": "A strong-tasting extract made from garlic, traditionally used to help resist infection, especially in Eastern Europe.  Not as powerful as modern full-strength antibiotics, but better than nothing.  Use once every 12 hours.",
     "charges": 6,
-    "price": "10 USD",
+    "price": 1000,
     "material": [ "garlic" ],
     "volume": "250 ml",
     "phase": "liquid",
@@ -161,25 +161,5 @@
     "//": "Not millable as it requires a bit more drying to make into flour, and there may be technical issues if allowed to process less calorie-dense material into flour.",
     "flags": [ "EDIBLE_FROZEN", "NUTRIENT_OVERRIDE" ],
     "vitamins": [ [ "vitC", 1 ], [ "vitA", 3 ] ]
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "potted_meat",
-    "copy-from": "pemmican",
-    "name": { "str_sp": "potted meat" },
-    "conditional_names": [
-      { "type": "FLAG", "condition": "CANNIBALISM", "name": { "str_sp": "potted person" } },
-      { "type": "COMPONENT_ID", "condition": "mutant", "name": { "str_sp": "potted freak" } }
-    ],
-    "weight": "310 g",
-    "container": "can_medium",
-    "calories": 503,
-    "description": "Meat cooked and preserved in butter or melted fat, a form of food preservation from the days before canning.  Also known as confit.  Rich and fattening, it will last for a long time.",
-    "price": "12 USD",
-    "price_postapoc": "4 USD",
-    "material": [ "flesh" ],
-    "vitamins": [ [ "vitA", 7 ], [ "vitC", 16 ], [ "calcium", 2 ], [ "iron", 69 ], [ "vitB", 781 ] ],
-    "fun": 1,
-    "extend": { "flags": [ "EATEN_HOT" ] }
   }
 ]

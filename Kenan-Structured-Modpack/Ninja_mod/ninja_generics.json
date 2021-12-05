@@ -2,7 +2,7 @@
   {
     "id": "ninja_map_cosplaypt",
     "type": "GENERIC",
-    "category": "maps",
+    "category": "books",
     "name": { "str": "Cosplay map" },
     "description": "A map of the venue of a cosplay party.",
     "weight": "30 g",

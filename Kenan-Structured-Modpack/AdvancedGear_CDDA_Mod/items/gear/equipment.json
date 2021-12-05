@@ -16,9 +16,10 @@
     "cutting": 0,
     "to_hit": 0,
     "warmth": 0,
-    "armor": [
-      { "encumbrance": 0, "coverage": 10, "material": [ "nanite" ], "material_thickness": 1, "environmental_protection": 0 }
-    ]
+    "environmental_protection": 0,
+    "encumbrance": 0,
+    "coverage": 10,
+    "material_thickness": 1
   },
   {
     "id": "nano_shield",
@@ -36,18 +37,13 @@
     "material": [ "nanite" ],
     "symbol": "[",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
+    "coverage": 90,
+    "encumbrance": 28,
+    "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN", "TRADER_AVOID" ],
-    "use_action": { "type": "transform", "target": "nano_shield_active", "active": false, "msg": "Shield switched to active mode." },
-    "armor": [
-      {
-        "encumbrance": 28,
-        "coverage": 90,
-        "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
-        "material": [ "nanite" ],
-        "material_thickness": 4
-      }
-    ]
+    "use_action": { "type": "transform", "target": "nano_shield_active", "active": false, "msg": "Shield switched to active mode." }
   },
   {
     "id": "nano_shield_active",
@@ -65,12 +61,13 @@
     "material": [ "nanite" ],
     "symbol": "[",
     "color": "light_gray",
+    "covers": [ "arm_l", "arm_r" ],
+    "coverage": 60,
+    "encumbrance": 15,
+    "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "BLOCK_WHILE_WORN", "TRADER_AVOID" ],
-    "use_action": { "type": "transform", "target": "nano_shield", "active": false, "msg": "Shield switched to passive mode." },
-    "armor": [
-      { "encumbrance": 15, "coverage": 60, "covers": [ "arm_l", "arm_r" ], "material": [ "nanite" ], "material_thickness": 4 }
-    ]
+    "use_action": { "type": "transform", "target": "nano_shield", "active": false, "msg": "Shield switched to passive mode." }
   },
   {
     "type": "ARMOR",
@@ -80,6 +77,7 @@
     "looks_like": "slime_scrap",
     "weight": "3157 g",
     "volume": "2000 ml",
+    "covers": [ "torso" ],
     "description": "A large blob of nanites with an AI, it actively branches out pseudopods to grasp items held near it and supports them as optimally as possible, including reaching down and forming 'legs' to support itself if needed.",
     "pocket_data": [
       {
@@ -94,15 +92,7 @@
       }
     ],
     "extend": { "flags": [ "BELTED", "TARDIS" ] },
-    "armor": [
-      {
-        "coverage": 30,
-        "covers": [ "torso" ],
-        "material": [ "nanite" ],
-        "material_thickness": 1,
-        "environmental_protection": 0
-      }
-    ]
+    "coverage": 30
   },
   {
     "type": "ARMOR",
@@ -110,6 +100,7 @@
     "name": { "str": "nanotech holster" },
     "copy-from": "nanogear",
     "looks_like": "holster",
+    "covers": [ "leg_l", "leg_r" ],
     "description": "A small blob of nanites with an AI, it actively branches out pseudopods to grasp guns held nearby it, and put them into the user's hands automatically as needed.",
     "extend": { "flags": [ "BELTED" ] },
     "pocket_data": [
@@ -122,8 +113,7 @@
         "holster": true
       }
     ],
-    "use_action": { "type": "holster", "holster_prompt": "Store weapon", "holster_msg": "You store your %s" },
-    "armor": [ { "covers": [ "leg_l", "leg_r" ], "material": [ "nanite" ], "material_thickness": 1, "environmental_protection": 0 } ]
+    "use_action": { "type": "holster", "holster_prompt": "Store weapon", "holster_msg": "You store your %s" }
   },
   {
     "type": "ARMOR",
@@ -131,6 +121,7 @@
     "name": { "str": "nanotech sheath" },
     "copy-from": "nanogear",
     "looks_like": "sheath",
+    "covers": [ "leg_l", "leg_r" ],
     "description": "A small blob of nanites with an AI, it actively branches out pseudopods to grasp blades held nearby it, and put them into the user's hands automatically as needed.",
     "extend": { "flags": [ "BELTED" ] },
     "pocket_data": [
@@ -143,8 +134,7 @@
         "flag_restriction": [ "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_SPEAR" ]
       }
     ],
-    "use_action": { "type": "holster", "holster_prompt": "Store weapon?", "holster_msg": "You store your %s" },
-    "armor": [ { "covers": [ "leg_l", "leg_r" ], "material": [ "nanite" ], "material_thickness": 1, "environmental_protection": 0 } ]
+    "use_action": { "type": "holster", "holster_prompt": "Store weapon?", "holster_msg": "You store your %s" }
   },
   {
     "type": "ARMOR",
@@ -153,6 +143,7 @@
     "copy-from": "nanogear",
     "looks_like": "slime_scrap",
     "description": "A small blob of nanites with an AI, it stores magazines and assists in loading them as needed.",
+    "covers": [ "arm_l", "arm_r" ],
     "extend": { "flags": [ "BELTED" ] },
     "pocket_data": [
       {
@@ -164,8 +155,7 @@
         "flag_restriction": [ "MAG_COMPACT", "MAG_BULKY" ]
       }
     ],
-    "use_action": { "type": "holster", "holster_prompt": "Store ammo", "holster_msg": "You store your %s." },
-    "armor": [ { "covers": [ "arm_l", "arm_r" ], "material": [ "nanite" ], "material_thickness": 1, "environmental_protection": 0 } ]
+    "use_action": { "type": "holster", "holster_prompt": "Store ammo", "holster_msg": "You store your %s." }
   },
   {
     "type": "ARMOR",
@@ -174,6 +164,7 @@
     "copy-from": "nanogear",
     "weight": "9836 g",
     "volume": "1500 ml",
+    "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ],
     "description": "A cluster of carefully programmed nanites designed to fully cover the body and defend against external threats.  Can be activated to produce heat.",
     "looks_like": "rm13_armor_on",
     "relic_data": {
@@ -189,7 +180,8 @@
         }
       ]
     },
-    "qualities": [ [ "GLARE", 1 ] ],
+    "environmental_protection": 30,
+    "qualities": [ [ "GLARE", 2 ] ],
     "extend": {
       "flags": [
         "ALARMCLOCK",
@@ -217,6 +209,8 @@
         "WATERPROOF"
       ]
     },
+    "coverage": 100,
+    "material_thickness": 3,
     "use_action": [
       {
         "type": "transform",
@@ -224,15 +218,6 @@
         "target": "nanosuit_heated",
         "active": false,
         "msg": "Enabling nanosuit's heating mode."
-      }
-    ],
-    "armor": [
-      {
-        "coverage": 100,
-        "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ],
-        "material_thickness": 3,
-        "environmental_protection": 30,
-        "material": [ "nanite" ]
       }
     ]
   },
@@ -342,9 +327,7 @@
     "cutting": 0,
     "to_hit": 0,
     "material": [ "nanite" ],
-    "armor_data": {
-      "armor": [ { "encumbrance": 4, "coverage": 10, "covers": [ "torso" ], "material_thickness": 1, "material": [ "nanite" ] } ]
-    },
+    "armor_data": { "covers": [ "torso" ], "coverage": 10, "encumbrance": 4, "material_thickness": 1 },
     "flags": [ "NONCONDUCTIVE", "TRADER_AVOID", "TARDIS" ],
     "insulation": 50
   }

@@ -14,7 +14,7 @@
     "weight": "1000 g",
     "volume": "2500 ml",
     "bashing": 6,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 20 },
     "ranged_damage": { "damage_type": "stab", "amount": 8, "armor_penetration": 3 },
     "range": 5,
     "dispersion": 230,
@@ -39,7 +39,7 @@
     "weight": "500 g",
     "volume": "3 L",
     "bashing": 8,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 20 },
     "ranged_damage": { "damage_type": "stab", "amount": 12, "armor_penetration": 5 },
     "range": 8,
     "dispersion": 170,
@@ -63,8 +63,8 @@
     "ammo": [ "arrow" ],
     "weight": "700 g",
     "volume": "3 L",
-    "bashing": 11,    
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "bashing": 11,
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 16, "armor_penetration": 8 },
     "range": 12,
     "dispersion": 140,
@@ -90,7 +90,7 @@
     "weight": "850 g",
     "volume": "3500 ml",
     "bashing": 15,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 20, "armor_penetration": 10 },
     "range": 16,
     "dispersion": 110,
@@ -128,7 +128,7 @@
     "volume": "3 L",
     "bashing": 35,
     "cutting": 15,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 26, "armor_penetration": 12 },
     "range": 6,
     "dispersion": 200,
@@ -158,8 +158,6 @@
       "type": "transform",
       "msg": "The Shelia expands into its bow form.",
       "target": "kawaii_shelia_on",
-      "active": false,
-      "moves": 200,
       "menu_text": "Transform weapon"
     }
   },
@@ -179,7 +177,7 @@
     "weight": "250 g",
     "volume": "1750 ml",
     "bashing": 15,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 23, "armor_penetration": 9 },
     "range": 18,
     "dispersion": 75,
@@ -202,8 +200,6 @@
       "type": "transform",
       "msg": "The Shelia folds back into its blade form.",
       "target": "kawaii_shelia_off",
-      "active": false,
-      "moves": 200,
       "menu_text": "Transform weapon"
     }
   },
@@ -223,7 +219,7 @@
     "weight": "450 g",
     "volume": "1500 ml",
     "bashing": 15,
-    "armor_data": { "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "torso" ], "material_thickness": 3, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 10, "material_thickness": 3, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 21, "armor_penetration": 15 },
     "range": 20,
     "dispersion": 95,
@@ -260,7 +256,7 @@
     "volume": "4500 ml",
     "bashing": 10,
     "to_hit": 3,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 10 },
     "ranged_damage": { "damage_type": "stab", "amount": 54, "armor_penetration": 18 },
     "range": 20,
     "dispersion": 40,
@@ -286,7 +282,7 @@
     "volume": "2500 ml",
     "bashing": 1,
     "to_hit": 1,
-    "armor_data": { "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ], "material_thickness": 1, "material": ["wood"] } ] },
+    "armor_data": { "covers": [ "torso" ], "coverage": 5, "material_thickness": 1, "encumbrance": 20 },
     "ranged_damage": { "damage_type": "stab", "amount": 18, "armor_penetration": 23 },
     "range": 15,
     "dispersion": 90,
@@ -315,8 +311,6 @@
       "type": "transform",
       "msg": "You store Rosa and focus on attack",
       "target": "kawaii_rita_and_rosa_off",
-      "active": false,
-      "moves": 200,
       "menu_text": "Switch to attack mode"
     }
   },
@@ -340,8 +334,6 @@
       "type": "transform",
       "msg": "You equip Rosa and concentrate on defence",
       "target": "kawaii_rita_and_rosa",
-      "active": false,
-      "moves": 200,
       "menu_text": "Switch to defence mode"
     }
   },
@@ -365,8 +357,6 @@
       "type": "transform",
       "msg": "You attach the two blades together to form a single polearm.",
       "target": "kawaii_crystal_tr",
-      "active": false,
-      "moves": 200,
       "menu_text": "Switch to polearm form"
     }
   },
@@ -390,8 +380,6 @@
       "type": "transform",
       "msg": "You seperate the polarm into two blades",
       "target": "kawaii_crystal_td",
-      "active": false,
-      "moves": 200,
       "menu_text": "Switch to twin blade form"
     }
   },
