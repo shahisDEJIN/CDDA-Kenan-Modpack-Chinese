@@ -582,7 +582,6 @@
   "key": "ad0b8f049250bca671aabed2ff32fd89",
   "original": "Fencing",
   "translation": "击剑",
-  "context": "ID: style_fencing\n位于 /Kenan-Structured-Modpack/Nechronica_Redux/nec_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Nechronica_Redux→martial_art→style_fencing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_fencing",
   "stage": 5
  },
  {
@@ -707,7 +706,6 @@
   "key": "aa95ebe972f668b08409cfddf74ba1a8",
   "original": "Krav Maga",
   "translation": "马伽术",
-  "context": "ID: style_krav_maga\n位于 /Kenan-Structured-Modpack/Nechronica_Redux/nec_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Nechronica_Redux→martial_art→style_krav_maga\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_krav_maga",
   "stage": 5
  },
  {
@@ -810,7 +808,6 @@
   "key": "c49fe35865d3514e183b252f13dbae89",
   "original": "Medieval Swordsmanship",
   "translation": "中世纪剑术",
-  "context": "ID: style_swordsmanship\n位于 /Kenan-Structured-Modpack/Nechronica_Redux/nec_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Nechronica_Redux→martial_art→style_swordsmanship\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_swordsmanship",
   "stage": 5
  },
  {
@@ -831,14 +828,12 @@
   "key": "685dd67df50f5ceff56f17fef611bece",
   "original": "Ninjutsu",
   "translation": "忍术",
-  "context": "ID: style_ninjutsu\n位于 /Kenan-Structured-Modpack/Nechronica_Redux/nec_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Nechronica_Redux→martial_art→style_ninjutsu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_ninjutsu",
   "stage": 5
  },
  {
   "key": "842d1bbc201c734b7a2ef557e940b1ab",
   "original": "Niten Ichi-Ryu",
   "translation": "二天一流",
-  "context": "ID: style_niten\n位于 /Kenan-Structured-Modpack/Nechronica_Redux/nec_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Nechronica_Redux→martial_art→style_niten\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_niten",
   "stage": 5
  },
  {

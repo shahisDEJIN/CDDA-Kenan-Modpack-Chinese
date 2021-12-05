@@ -541,42 +541,42 @@
  {
   "key": "ff00864b31a7f872febbdaeb2f50bbc7",
   "original": "<color_blue>BL9 Advanced Aptitude Pendant</color",
-  "translation": "<color_blue> BL9高级智能吊坠</color",
+  "translation": "<color_blue> BL9 高级天资吊坠</color",
   "context": "ID: BL9_int_aptitude2_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int_aptitude2_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int_aptitude2_pendant",
   "stage": 1
  },
  {
   "key": "cfd9898a5f8d9c4f53ca9858e7349d54",
   "original": "<color_blue>BL9 Advanced Intelligence Pendant</color",
-  "translation": "<color_blue> BL9高级智能吊坠</color",
+  "translation": "<color_blue> BL9 高级智力吊坠</color",
   "context": "ID: BL9_int2_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int2_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int2_pendant",
   "stage": 1
  },
  {
   "key": "426ddf2d3db4342f1128ea5d718a7dcc",
   "original": "<color_blue>BL9 Aptitude Pendant</color",
-  "translation": "<color_blue> BL9智能吊坠</color",
+  "translation": "<color_blue> BL9 天资吊坠</color",
   "context": "ID: BL9_int_aptitude1_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int_aptitude1_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int_aptitude1_pendant",
   "stage": 1
  },
  {
   "key": "865b013ed95a7910577f3e3cceb91752",
   "original": "<color_blue>BL9 Intelligence Pendant</color",
-  "translation": "<color_blue> BL9 智能吊坠</color",
+  "translation": "<color_blue> BL9 智力吊坠</color",
   "context": "ID: BL9_int1_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int1_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int1_pendant",
   "stage": 1
  },
  {
   "key": "abf6151361c3017effb18ac880e0833c",
   "original": "<color_blue>BL9 Paramount Aptitude Pendant</color",
-  "translation": "<color_blue> BL9 至高智能吊坠</color",
+  "translation": "<color_blue> BL9 至高天资吊坠</color",
   "context": "ID: BL9_int_aptitude3_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int_aptitude3_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int_aptitude3_pendant",
   "stage": 1
  },
  {
   "key": "a5137fec21dbbcb7cfdd5174b129d5db",
   "original": "<color_blue>BL9 Paramount Intelligence Pendant</color",
-  "translation": "<color_blue> BL9 至高智能吊坠",
+  "translation": "<color_blue> BL9 至高智力吊坠</color",
   "context": "ID: BL9_int3_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int3_pendant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_int3_pendant",
   "stage": 1
  },
@@ -590,7 +590,7 @@
  {
   "key": "eaac2867833f18b7de3741de95fec829",
   "original": "<color_light_cyan>BL9 Advanced Agility Ring</color",
-  "translation": "<color_light_cyan> BL9 高级敏捷戒指",
+  "translation": "<color_light_cyan> BL9 高级迅捷戒指</color",
   "context": "ID: BL9_dex_agility2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_agility2_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_agility2_ring",
   "stage": 1
  },
@@ -604,21 +604,21 @@
  {
   "key": "77c1557c7fa3a7d3669b5eb72d9aa2c2",
   "original": "<color_light_cyan>BL9 Advanced Dexterousness Ring</color",
-  "translation": "<color_light_cyan> BL9 高级灵巧戒指",
+  "translation": "<color_light_cyan> BL9 高级敏捷戒指</color",
   "context": "ID: BL9_dex2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex2_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex2_ring",
   "stage": 1
  },
  {
   "key": "46d9403ef61cac43acc910aee2d6e589",
   "original": "<color_light_cyan>BL9 Advanced Energeticness Ring</color",
-  "translation": "<color_light_cyan> BL9 高级能量戒指",
+  "translation": "<color_light_cyan> BL9 高级能量戒指</color",
   "context": "ID: BL9_dex_energeticness2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_energeticness2_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_energeticness2_ring",
   "stage": 1
  },
  {
   "key": "ce03acd73e625366faba15fbc2610a12",
   "original": "<color_light_cyan>BL9 Agility Ring</color",
-  "translation": "<color_light_cyan> BL9 敏捷戒指",
+  "translation": "<color_light_cyan> BL9 迅捷戒指</color",
   "context": "ID: BL9_dex_agility1_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_agility1_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_agility1_ring",
   "stage": 1
  },
@@ -632,7 +632,7 @@
  {
   "key": "68466010b5fe61a145f4611b0b266731",
   "original": "<color_light_cyan>BL9 Dexterousness Ring</color",
-  "translation": "<color_light_cyan> BL9灵巧戒指</颜色",
+  "translation": "<color_light_cyan> BL9 敏捷戒指</color",
   "context": "ID: BL9_dex1_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex1_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex1_ring",
   "stage": 1
  },
@@ -646,112 +646,112 @@
  {
   "key": "257bf846b312677522f98f7a028ee261",
   "original": "<color_light_cyan>BL9 Paramount Agility Ring</color",
-  "translation": "<color_light_cyan> BL9至高敏捷戒指",
+  "translation": "<color_light_cyan> BL9 至高迅捷戒指</color",
   "context": "ID: BL9_dex_agility3_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_agility3_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_agility3_ring",
   "stage": 1
  },
  {
   "key": "2ec3cd375dead55521165c2b37214b99",
   "original": "<color_light_cyan>BL9 Paramount Deftness Ring</color",
-  "translation": "<color_light_cyan> BL9 至高灵巧戒指",
+  "translation": "<color_light_cyan> BL9 至高灵巧戒指</color",
   "context": "ID: BL9_dex_deftness3_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_deftness3_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_deftness3_ring",
   "stage": 1
  },
  {
   "key": "2ddcac5db227aae8b81532723e50c9b9",
   "original": "<color_light_cyan>BL9 Paramount Dexterousness Ring</color",
-  "translation": "<color_light_cyan> BL9 至高灵巧戒指",
+  "translation": "<color_light_cyan> BL9 至高敏捷戒指</color",
   "context": "ID: BL9_dex3_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex3_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex3_ring",
   "stage": 1
  },
  {
   "key": "0471d18cd59bd698f047477d9cfddef8",
   "original": "<color_light_cyan>BL9 Paramount Energeticness Ring</color",
-  "translation": "<color_light_cyan> BL9 至高能量戒指",
+  "translation": "<color_light_cyan> BL9 至高能量戒指</color",
   "context": "ID: BL9_dex_energeticness3_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_energeticness3_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex_energeticness3_ring",
   "stage": 1
  },
  {
   "key": "425235fe49252f622b4d4a558c12578c",
   "original": "<color_light_green>BL9 Advanced Amplified Metabolism Necklace</color",
-  "translation": "<color_light_green> BL9 高级增强代谢项链",
+  "translation": "<color_light_green> BL9 高级代谢增强项链</color",
   "context": "ID: BL9_hp_amplified_metabolism2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_amplified_metabolism2_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_amplified_metabolism2_necklace",
   "stage": 1
  },
  {
   "key": "7c27dab076378c90b3f63e4ca23e3e50",
   "original": "<color_light_green>BL9 Advanced Healthiness Necklace</color",
-  "translation": "<color_light_green> BL9 高级健康项链",
+  "translation": "<color_light_green> BL9 高级健康项链</color",
   "context": "ID: BL9_hp2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp2_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp2_necklace",
   "stage": 1
  },
  {
   "key": "3b04b6908a12d55e29bfac2d3589f82b",
   "original": "<color_light_green>BL9 Advanced Regeneration Necklace</color",
-  "translation": "<color_light_green> BL9 高级再生项链",
+  "translation": "<color_light_green> BL9 高级再生项链</color",
   "context": "ID: BL9_hp_regen2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_regen2_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_regen2_necklace",
   "stage": 1
  },
  {
   "key": "088b384e0e16536ad1b10748982e6671",
   "original": "<color_light_green>BL9 Advanced Wakeful Mind Necklace</color",
-  "translation": "<color_light_green> BL9高级心灵唤醒项链",
+  "translation": "<color_light_green> BL9 高级宁神项链</color",
   "context": "ID: BL9_hp_wakeful_mind2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_wakeful_mind2_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_wakeful_mind2_necklace",
   "stage": 1
  },
  {
   "key": "7b92513c53daa7fe5918a956afe10889",
   "original": "<color_light_green>BL9 Amplified Metabolism Necklace</color",
-  "translation": "<color_light_green> BL9 增强代谢项链",
+  "translation": "<color_light_green> BL9 代谢增强项链</color",
   "context": "ID: BL9_hp_amplified_metabolism1_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_amplified_metabolism1_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_amplified_metabolism1_necklace",
   "stage": 1
  },
  {
   "key": "1517fa219005008c7e40d519417f409f",
   "original": "<color_light_green>BL9 Healthiness Necklace</color",
-  "translation": "<color_light_green> BL9 健康项链",
+  "translation": "<color_light_green> BL9 健康项链</color",
   "context": "ID: BL9_hp1_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp1_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp1_necklace",
   "stage": 1
  },
  {
   "key": "2ac3aee704e6a3c85c3bd5528faa533b",
   "original": "<color_light_green>BL9 Paramount Amplified Metabolism Necklace</color",
-  "translation": "<color_light_green> BL9 至高增强新陈代谢项链",
+  "translation": "<color_light_green> BL9 至高代谢增强项链</color",
   "context": "ID: BL9_hp_amplified_metabolism3_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_amplified_metabolism3_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_amplified_metabolism3_necklace",
   "stage": 1
  },
  {
   "key": "4c92b76c892c5107f808c386d2982f80",
   "original": "<color_light_green>BL9 Paramount Healthiness Necklace</color",
-  "translation": "<color_light_green> BL9 至高健康项链",
+  "translation": "<color_light_green> BL9 至高健康项链</color",
   "context": "ID: BL9_hp3_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp3_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp3_necklace",
   "stage": 1
  },
  {
   "key": "21fcb556ab7ca7abc5e606c8bb8db754",
   "original": "<color_light_green>BL9 Paramount Regeneration Necklace</color",
-  "translation": "<color_light_green> BL9 至高再生项链",
+  "translation": "<color_light_green> BL9 至高再生项链</color",
   "context": "ID: BL9_hp_regen3_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_regen3_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_regen3_necklace",
   "stage": 1
  },
  {
   "key": "a77196b1895ee12adcb5352b6f2835ca",
   "original": "<color_light_green>BL9 Paramount Wakeful Mind Necklace</color",
-  "translation": "<color_light_green> BL9 至高心灵唤醒项链",
+  "translation": "<color_light_green> BL9 至高宁神项链</color",
   "context": "ID: BL9_hp_wakeful_mind3_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_wakeful_mind3_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_wakeful_mind3_necklace",
   "stage": 1
  },
  {
   "key": "d526185589612979dbc8c2d284f0040a",
   "original": "<color_light_green>BL9 Regeneration Necklace</color",
-  "translation": "<color_light_green> BL9 再生项链",
+  "translation": "<color_light_green> BL9 再生项链</color",
   "context": "ID: BL9_hp_regen1_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_regen1_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_regen1_necklace",
   "stage": 1
  },
  {
   "key": "c8a7e1d0558b36064a03ae18cfd9cec2",
   "original": "<color_light_green>BL9 Wakeful Mind Necklace</color",
-  "translation": "<color_light_green> BL9心灵唤醒项链",
+  "translation": "<color_light_green> BL9 宁神项链</color",
   "context": "ID: BL9_hp_wakeful_mind1_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_wakeful_mind1_necklace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hp_wakeful_mind1_necklace",
   "stage": 1
  },
@@ -954,107 +954,107 @@
  {
   "key": "d589a7fa139bebd5b58777924c56883b",
   "original": "<color_light_red>BL9 Advanced Armored Skin Bangle</color",
-  "translation": "<color_light_red> BL9 高级装甲皮肤手镯",
+  "translation": "<color_light_red> BL9 高级装甲皮肤手镯</color",
   "context": "ID: BL9_str_armoredskin2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_armoredskin2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_armoredskin2_bangle",
   "stage": 1
  },
  {
   "key": "1b8e8202c09175eb3d143e416c5bf7b7",
   "original": "<color_light_red>BL9 Advanced Endurance Bangle</color",
-  "translation": "<color_light_red> BL9 高级耐久手镯",
+  "translation": "<color_light_red> BL9 高级耐力手镯</color",
   "context": "ID: BL9_str_endurance2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance2_bangle",
   "stage": 1
  },
  {
   "key": "463b00c00a9643305969594c86a63be7",
   "original": "<color_light_red>BL9 Advanced Strengthening Bangle</color",
-  "translation": "<color_light_red> BL9 高级加强手镯",
+  "translation": "<color_light_red> BL9 高级强化手镯</color",
   "context": "ID: BL9_str2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str2_bangle",
   "stage": 1
  },
  {
   "key": "bf51da2b4ecd77624027e5ff10f75351",
   "original": "<color_light_red>BL9 Advanced Tentacle Hit Bangle</color",
-  "translation": "<color_light_red> BL9高级触手可及手镯</颜色",
+  "translation": "<color_light_red> BL9 高级触手强化手镯</color",
   "context": "ID: BL9_str_tentacle_hit2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_hit2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_hit2_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2606815d9f1de79f446b5fb6bf26accd",
   "original": "<color_light_red>BL9 Advanced Tentacle Stab Bangle</color",
-  "translation": "<color_light_red> BL9高级触手刺手镯</颜色",
+  "translation": "<color_light_red> BL9 高级触手穿刺手镯</color",
   "context": "ID: BL9_str_tentacle_stab2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_stab2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_stab2_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6b72eee79516d4a797d2062d28591190",
   "original": "<color_light_red>BL9 Armored Skin Bangle</color",
-  "translation": "<color_light_red> BL9 装甲皮肤手镯",
+  "translation": "<color_light_red> BL9 装甲皮肤手镯</color",
   "context": "ID: BL9_str_armoredskin1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_armoredskin1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_armoredskin1_bangle",
   "stage": 1
  },
  {
   "key": "2fd03bdd1d97d55cee02eea0f46683e4",
   "original": "<color_light_red>BL9 Endurance Bangle</color",
-  "translation": "<color_light_red> BL9 耐久手镯",
+  "translation": "<color_light_red> BL9 耐力手镯</color",
   "context": "ID: BL9_str_endurance1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance1_bangle",
   "stage": 1
  },
  {
   "key": "e15d335c7959086a6f6ebe5e3b66434b",
   "original": "<color_light_red>BL9 Paramount Armored Skin Bangle</color",
-  "translation": "<color_light_red> BL9派拉蒙装甲皮肤手镯</颜色",
+  "translation": "<color_light_red> BL9 至高装甲皮肤手镯</color",
   "context": "ID: BL9_str_armoredskin3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_armoredskin3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_armoredskin3_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a8f64a8d8263a84f3df12abf0a5a1a1b",
   "original": "<color_light_red>BL9 Paramount Endurance Bangle</color",
-  "translation": "<color_light_red> BL9派拉蒙耐久手镯</color",
+  "translation": "<color_light_red> BL9 至高耐力手镯</color",
   "context": "ID: BL9_str_endurance3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance3_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5e390e6c07c6330eb0c65008a1eb2d09",
   "original": "<color_light_red>BL9 Paramount Strengthening Bangle</color",
-  "translation": "<color_light_red> BL9派拉蒙加强手镯</color",
+  "translation": "<color_light_red> BL9 至高强化手镯</color",
   "context": "ID: BL9_str3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str3_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "042be2747f4aa7ce75525feb01741aa0",
   "original": "<color_light_red>BL9 Paramount Tentacle Hit Bangle</color",
-  "translation": "<color_light_red> BL9派拉蒙触须撞手镯</color",
+  "translation": "<color_light_red> BL9 至高触手命中手镯</color",
   "context": "ID: BL9_str_tentacle_hit3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_hit3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_hit3_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "585b369b1f9fe34a003909a31d04a58a",
   "original": "<color_light_red>BL9 Paramount Tentacle Stab Bangle</color",
-  "translation": "<color_light_red> BL9派拉蒙触须刺手镯</color",
+  "translation": "<color_light_red> BL9 至高触须穿刺手镯</color",
   "context": "ID: BL9_str_tentacle_stab3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_stab3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_stab3_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0fd874e31ffa6e368d1d7dbf03768609",
   "original": "<color_light_red>BL9 Strengthening Bangle</color",
-  "translation": "<color_light_red> BL9加强手镯</color",
+  "translation": "<color_light_red> BL9 强化手镯</color",
   "context": "ID: BL9_str1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str1_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8b774c2bb897a16e36618b29893a9140",
   "original": "<color_light_red>BL9 Tentacle Hit Bangle</color",
-  "translation": "<color_light_red> BL9触手可及手镯</颜色",
+  "translation": "<color_light_red> BL9 触手命中手镯</color",
   "context": "ID: BL9_str_tentacle_hit1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_hit1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_hit1_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "055464d6f8da29e9be669ba03916d653",
   "original": "<color_light_red>BL9 Tentacle Stab Bangle</color",
-  "translation": "<color_light_red> BL9触手刺手镯</颜色",
+  "translation": "<color_light_red> BL9 触手穿刺手镯</color",
   "context": "ID: BL9_str_tentacle_stab1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_tentacle_stab1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_tentacle_stab1_bangle",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f2a77f8e938341bc72f9b3ba6e5ad821",
@@ -1073,63 +1073,63 @@
  {
   "key": "2bc4f8896bad86659606b792f41fb4e6",
   "original": "<color_yellow>BL9 Advanced Elevated Sense Brooch</color",
-  "translation": "<color_yellow> BL9高级感知强化胸针",
+  "translation": "<color_yellow> BL9 高级感知强化胸针</color",
   "context": "ID: BL9_per_elevatedsense2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense2_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_elevatedsense2_brooch",
   "stage": 1
  },
  {
   "key": "5db423c7151c7db93e5542d2bd1887b0",
   "original": "<color_yellow>BL9 Advanced Insightfulness Brooch</color",
-  "translation": "<color_yellow>BL9 高级透视胸针",
+  "translation": "<color_yellow>BL9 高级洞察胸针</color",
   "context": "ID: BL9_per2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per2_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per2_brooch",
   "stage": 1
  },
  {
   "key": "289c1c41d697b74b967ed1cf06290d1e",
   "original": "<color_yellow>BL9 Advanced Stealth Aura Brooch</color",
-  "translation": "<color_yellow> BL9高级潜行光环胸针",
+  "translation": "<color_yellow> BL9 高级潜行光环胸针</color",
   "context": "ID: BL9_per_stealthaura2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura2_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_stealthaura2_brooch",
   "stage": 1
  },
  {
   "key": "c7ff6b192663f80feac5f3f041b04557",
   "original": "<color_yellow>BL9 Elevated Sense Brooch</color",
-  "translation": "w<color_yellow> BL9杰出感知胸针</颜色",
+  "translation": "w<color_yellow> BL9 杰出感知强化胸针</color",
   "context": "ID: BL9_per_elevatedsense1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense1_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_elevatedsense1_brooch",
   "stage": 1
  },
  {
   "key": "b669126c7eef73c94490496c412d04f4",
   "original": "<color_yellow>BL9 Insightfulness Brooch</color",
-  "translation": "<color_yellow> BL9透视胸针</颜色",
+  "translation": "<color_yellow> BL9 洞察胸针</color",
   "context": "ID: BL9_per1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per1_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per1_brooch",
   "stage": 1
  },
  {
   "key": "357f7a33254f086fbabb7b0c09b3e4a9",
   "original": "<color_yellow>BL9 Paramount Elevated Sense Brooch</color",
-  "translation": "<color_yellow> BL9派拉蒙杰出感知胸针</color",
+  "translation": "<color_yellow> BL9 至高感知强化胸针</color",
   "context": "ID: BL9_per_elevatedsense3_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense3_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_elevatedsense3_brooch",
   "stage": 1
  },
  {
   "key": "7387556e7f84d18eedd976da5b5fd82e",
   "original": "<color_yellow>BL9 Paramount Insightfulness Brooch</color",
-  "translation": "<color_yellow> BL9派拉蒙透视胸针</color",
+  "translation": "<color_yellow> BL9 至高洞察胸针</color",
   "context": "ID: BL9_per3_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per3_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per3_brooch",
   "stage": 1
  },
  {
   "key": "83979bc8eee834d20f0224f25ab20e10",
   "original": "<color_yellow>BL9 Paramount Stealth Aura Brooch</color",
-  "translation": "<color_yellow> BL9 至高潜行光环胸针",
+  "translation": "<color_yellow> BL9 至高潜行光环胸针</color",
   "context": "ID: BL9_per_stealthaura3_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura3_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_stealthaura3_brooch",
   "stage": 1
  },
  {
   "key": "f5949776e571b94e1648201e03e11124",
   "original": "<color_yellow>BL9 Stealth Aura Brooch</color",
-  "translation": "<color_yellow> BL9潜行光环胸针</颜色",
+  "translation": "<color_yellow> BL9 潜行光环胸针</color",
   "context": "ID: BL9_per_stealthaura1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura1_brooch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_per_stealthaura1_brooch",
   "stage": 1
  },
@@ -5063,21 +5063,21 @@
  {
   "key": "bcb8f626f53dcc4744539484f5e9cb16",
   "original": "BL9 Advanced Agility",
-  "translation": "BL9 高级敏捷",
+  "translation": "BL9 高级迅捷",
   "context": "ID: BL9_DEX_AGILITY2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_AGILITY2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_AGILITY2",
   "stage": 1
  },
  {
   "key": "1256b911cb993f4a2595caffee0d5afc",
   "original": "BL9 Advanced Amplified Metabolism",
-  "translation": "BL9 高级增强代谢",
+  "translation": "BL9 高级代谢增强",
   "context": "ID: BL9_HP_AMPLIFIED_METABOLISM2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_AMPLIFIED_METABOLISM2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_AMPLIFIED_METABOLISM2",
   "stage": 1
  },
  {
   "key": "aeef1b02c8f73a14f7b78054fbef0454",
   "original": "BL9 Advanced Aptitude",
-  "translation": "BL9 高级智能",
+  "translation": "BL9 高级天资",
   "context": "ID: BL9_INT_APTITUDE2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT_APTITUDE2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT_APTITUDE2",
   "stage": 1
  },
@@ -5098,7 +5098,7 @@
  {
   "key": "53ca36e40f20b35ba473809f0510b67e",
   "original": "BL9 Advanced Dexterousness",
-  "translation": "BL9 高级灵巧",
+  "translation": "BL9 高级敏捷",
   "context": "ID: BL9_DEX2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX2",
   "stage": 1
  },
@@ -5112,9 +5112,9 @@
  {
   "key": "8502a62158b20288421aa3b801a4eaf3",
   "original": "BL9 Advanced Endurance",
-  "translation": "BL9高级耐力",
+  "translation": "BL9 高级耐力",
   "context": "ID: BL9_STR_ENDURANCE2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "83a6bb93e3c9072cb7cb065b1ac15980",
@@ -5133,72 +5133,72 @@
  {
   "key": "209b4865d1725b0016a61d6d064e13d5",
   "original": "BL9 Advanced Insightfulness",
-  "translation": "BL9 高级洞察力",
+  "translation": "BL9 高级洞察",
   "context": "ID: BL9_PER2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER2",
   "stage": 1
  },
  {
   "key": "76fa353d4acbdb032169b411dd574724",
   "original": "BL9 Advanced Intelligence",
-  "translation": "BL9高级智能",
+  "translation": "BL9 高级智力",
   "context": "ID: BL9_INT2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d1cc8f38c6472f9bfd95477da41cc8f4",
   "original": "BL9 Advanced Regeneration",
-  "translation": "BL9高级再生",
+  "translation": "BL9 高级再生",
   "context": "ID: BL9_HP_REGEN2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_REGEN2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_REGEN2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "855bcc6887a5be1b8eafd61d85feb8a5",
   "original": "BL9 Advanced Stealth Aura",
-  "translation": "BL9高级隐形光环",
+  "translation": "BL9 高级潜行光环",
   "context": "ID: BL9_PER_STEALTHAURA2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER_STEALTHAURA2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "52d204e126f5822660f34adf9b6c7941",
   "original": "BL9 Advanced Strengthening",
-  "translation": "BL9高级强化",
+  "translation": "BL9 高级强化",
   "context": "ID: BL9_STR2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dd1dc41e328e737e408a3822d303b202",
   "original": "BL9 Advanced Tentacle Hit",
-  "translation": "BL9高级触手命中",
+  "translation": "BL9 高级触手命中",
   "context": "ID: BL9_STR_TENTACLEHIT2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLEHIT2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLEHIT2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ea960bfd33def282fb735b8f367c60a1",
   "original": "BL9 Advanced Tentacle Stab",
-  "translation": "BL9高级触手刺",
+  "translation": "BL9 高级触手穿刺",
   "context": "ID: BL9_STR_TENTACLESTAB2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLESTAB2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLESTAB2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6793ba06325b7f2ff0e1aada82ca8c0b",
   "original": "BL9 Advanced Wakeful Mind",
-  "translation": "高级清醒头脑",
+  "translation": "BL9 高级宁神",
   "context": "ID: BL9_HP_WAKEFUL_MIND2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_WAKEFUL_MIND2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_WAKEFUL_MIND2",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "62ac4939e4f603f5c379ca603cc5d60a",
   "original": "BL9 Agility",
-  "translation": "BL9敏捷性",
+  "translation": "BL9 迅捷",
   "context": "ID: BL9_DEX_AGILITY1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_AGILITY1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_AGILITY1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "10553330b00c2627721c059bfbeffaf1",
   "original": "BL9 Amplified Metabolism",
-  "translation": "BL9扩增代谢",
+  "translation": "BL9 代谢增强",
   "context": "ID: BL9_HP_AMPLIFIED_METABOLISM1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_AMPLIFIED_METABOLISM1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_AMPLIFIED_METABOLISM1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7e91231881178930a65bf2cebb20d705",
@@ -5273,9 +5273,9 @@
  {
   "key": "189c4f826fd971bccc70285a695753c3",
   "original": "BL9 Aptitude",
-  "translation": "BL9资质",
+  "translation": "BL9 天资",
   "context": "ID: BL9_INT_APTITUDE1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT_APTITUDE1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT_APTITUDE1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8348853ee2e929b84cb69f172402cf4c",
@@ -5287,9 +5287,9 @@
  {
   "key": "d808b272a93c03cb41d526efcd3857e9",
   "original": "BL9 Armored Skin",
-  "translation": "BL9装甲皮肤",
+  "translation": "BL9 装甲皮肤",
   "context": "ID: BL9_STR_ARMOREDSKIN1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ARMOREDSKIN1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ARMOREDSKIN1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "67d65bb0aae74808ff97d192639b0e53",
@@ -5469,16 +5469,16 @@
  {
   "key": "d780ad6e8ba7c778200ef9f1af9593fc",
   "original": "BL9 Deftness",
-  "translation": "BL9灵巧",
+  "translation": "BL9 灵巧",
   "context": "ID: BL9_DEX_DEFTNESS1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_DEFTNESS1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_DEFTNESS1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3ed946886850e7ea2efd98a0091adb8c",
   "original": "BL9 Dexterousness",
-  "translation": "BL9灵巧",
+  "translation": "BL9 敏捷",
   "context": "ID: BL9_DEX1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3fefee9dfd96d31ab896cf0ef3c671c3",
@@ -5532,23 +5532,23 @@
  {
   "key": "a9346eb1e3ecc94452cbfb9b377d820e",
   "original": "BL9 Elevated Sense",
-  "translation": "BL9提升的感觉",
+  "translation": "BL9 感知强化",
   "context": "ID: BL9_PER_ELEVATEDSENSE1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_ELEVATEDSENSE1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER_ELEVATEDSENSE1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7bd02afac6d57415f31b34c0fb5f9be5",
   "original": "BL9 Endurance",
-  "translation": "BL9耐力",
+  "translation": "BL9 耐力",
   "context": "ID: BL9_STR_ENDURANCE1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ed010f7c3a656d21b319547820bc5e23",
   "original": "BL9 Energeticness",
-  "translation": "BL9能源效率",
+  "translation": "BL9 能量",
   "context": "ID: BL9_DEX_ENERGETICNESS1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_ENERGETICNESS1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_ENERGETICNESS1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3b046babb248d53f523787c6b8c32aeb",
@@ -5602,23 +5602,23 @@
  {
   "key": "49818d57c72b5c4a257c80b1ebca8707",
   "original": "BL9 Healthiness",
-  "translation": "BL9健康",
+  "translation": "BL9 健康",
   "context": "ID: BL9_HP1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5a5cc87e2d664e6e56d09f2fd9f091f3",
   "original": "BL9 Insightfulness",
-  "translation": "BL9洞察力",
+  "translation": "BL9 洞察",
   "context": "ID: BL9_PER1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "36afa498111e38a2b74f87d2e852f29d",
   "original": "BL9 Intelligence",
-  "translation": "BL9智能",
+  "translation": "BL9 智力",
   "context": "ID: BL9_INT1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "157d42496a3e02487f2fdb78283d0d45",
@@ -6029,65 +6029,65 @@
  {
   "key": "ae75713f51ca12cc2f4ba3f218c89886",
   "original": "BL9 Paramount Agility",
-  "translation": "BL9至尊敏捷",
+  "translation": "BL9 至尊迅捷",
   "context": "ID: BL9_DEX_AGILITY3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_AGILITY3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_AGILITY3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c8444298f541167f376aa6f0f94884ed",
   "original": "BL9 Paramount Amplified Metabolism",
-  "translation": "BL9代谢",
+  "translation": "BL9 至高代谢增强",
   "context": "ID: BL9_HP_AMPLIFIED_METABOLISM3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_AMPLIFIED_METABOLISM3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_AMPLIFIED_METABOLISM3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "623ff8d269f42d02556555c0bc274d8d",
   "original": "BL9 Paramount Aptitude",
-  "translation": "BL9至高无上的才能",
+  "translation": "BL9 至高天资",
   "context": "ID: BL9_INT_APTITUDE3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT_APTITUDE3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT_APTITUDE3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8fb14623702a43c6a13be513ff701e76",
   "original": "BL9 Paramount Armored Skin",
-  "translation": "BL9派拉蒙装甲皮肤",
+  "translation": "BL9 至高装甲皮肤",
   "context": "ID: BL9_STR_ARMOREDSKIN3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ARMOREDSKIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ARMOREDSKIN3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "46861da08d765ac8915b9fd28ae3d1a9",
   "original": "BL9 Paramount Deftness",
-  "translation": "BL9极致灵巧",
+  "translation": "BL9 至高灵巧",
   "context": "ID: BL9_DEX_DEFTNESS3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_DEFTNESS3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_DEFTNESS3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "114048c548b48190d141b20ddb00117c",
   "original": "BL9 Paramount Dexterousness",
-  "translation": "BL9至高无上的灵巧",
+  "translation": "BL9 至高敏捷",
   "context": "ID: BL9_DEX3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7b592d851157ef84a46b3120d9f7a96a",
   "original": "BL9 Paramount Elevated Sense",
-  "translation": "BL9至高无上的感觉",
+  "translation": "BL9 至高感知强化",
   "context": "ID: BL9_PER_ELEVATEDSENSE3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_ELEVATEDSENSE3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER_ELEVATEDSENSE3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c3330f4c946a0d9108082e7a0ce03532",
   "original": "BL9 Paramount Endurance",
-  "translation": "BL9派拉蒙耐力赛",
+  "translation": "BL9 至高耐力",
   "context": "ID: BL9_STR_ENDURANCE3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9741f5ead427232f956b2f81b69efd4d",
   "original": "BL9 Paramount Energeticness",
-  "translation": "BL9最高能量",
+  "translation": "BL9 至高能量",
   "context": "ID: BL9_DEX_ENERGETICNESS3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_ENERGETICNESS3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_DEX_ENERGETICNESS3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4c966a91f9606df0ed3bf8be9e6c7932",
@@ -6099,16 +6099,16 @@
  {
   "key": "4588ac06daca1e92b20f9fa4922046f8",
   "original": "BL9 Paramount Insightfulness",
-  "translation": "BL9至高无上的洞察力",
+  "translation": "BL9 至高洞察",
   "context": "ID: BL9_PER3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6fe902193ac07cb3d3388cb2e9fcbf58",
   "original": "BL9 Paramount Intelligence",
-  "translation": "BL9派拉蒙情报",
+  "translation": "BL9 至高智力",
   "context": "ID: BL9_INT3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_INT3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_INT3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bc4d656c53875200b92a311e63440469",
@@ -6120,37 +6120,37 @@
  {
   "key": "ea5f8b4f42dd99a8c57a07f80645da78",
   "original": "BL9 Paramount Stealth Aura",
-  "translation": "BL9派拉蒙隐形光环",
+  "translation": "BL9 至高潜行光环",
   "context": "ID: BL9_PER_STEALTHAURA3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER_STEALTHAURA3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8cb07f26ecd20f4051e38d8b33a83a98",
   "original": "BL9 Paramount Strengthening",
-  "translation": "BL9派拉蒙加固",
+  "translation": "BL9 至高强化",
   "context": "ID: BL9_STR3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d648cc3d821573426ce478f31387d5e3",
   "original": "BL9 Paramount Tentacle Hit",
-  "translation": "BL9派拉蒙触手命中",
+  "translation": "BL9 至高触手命中",
   "context": "ID: BL9_STR_TENTACLEHIT3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLEHIT3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLEHIT3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "48918acdd60322164b2399c692e155e5",
   "original": "BL9 Paramount Tentacle Stab",
-  "translation": "BL9派拉蒙触手刺",
+  "translation": "BL9 至高触手穿刺",
   "context": "ID: BL9_STR_TENTACLESTAB3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLESTAB3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLESTAB3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4b443af921a2965a0aa39757979d488a",
   "original": "BL9 Paramount Wakeful Mind",
-  "translation": "清醒头脑",
+  "translation": "BL9 至高宁神",
   "context": "ID: BL9_HP_WAKEFUL_MIND3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_WAKEFUL_MIND3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_WAKEFUL_MIND3",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "875b28bc64bae88f549acf9ccfab19aa",
@@ -6225,7 +6225,7 @@
  {
   "key": "579ebba439c383a5b483ac824b75861d",
   "original": "BL9 Stealth Aura",
-  "translation": "BL9潜行光环",
+  "translation": "BL9 潜行光环",
   "context": "ID: BL9_PER_STEALTHAURA1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_PER_STEALTHAURA1",
   "stage": 1
  },
@@ -6239,14 +6239,14 @@
  {
   "key": "a2b865a25bd3dac307b9e58e54df9584",
   "original": "BL9 Tentacle Hit",
-  "translation": "BL9触手命中",
+  "translation": "BL9 触手命中",
   "context": "ID: BL9_STR_TENTACLEHIT1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLEHIT1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLEHIT1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2e31c83f5459064595fc65c4facae6e0",
   "original": "BL9 Tentacle Stab",
-  "translation": "BL9触手尖刺",
+  "translation": "BL9 触手穿刺",
   "context": "ID: BL9_STR_TENTACLESTAB1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_TENTACLESTAB1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_TENTACLESTAB1",
   "stage": 1
  },
@@ -6267,7 +6267,7 @@
  {
   "key": "8db4862fea6669a0e2bd5453b0a91793",
   "original": "BL9 Wakeful Mind",
-  "translation": "BL9清醒的头脑",
+  "translation": "BL9 宁神",
   "context": "ID: BL9_HP_WAKEFUL_MIND1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_WAKEFUL_MIND1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_HP_WAKEFUL_MIND1",
   "stage": 1
  },
@@ -13549,9 +13549,9 @@
  {
   "key": "344a3e7df6a1363992c4bc6a55c72daf",
   "original": "You feel an incredible boost in dexterity (<color_light_blue>+6 dex</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-  "translation": "一旦你激活了这个特殊的神器，你会感觉到灵巧性有了惊人的提升(<color_light_blue> +6 dex </color>)，感觉上你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+  "translation": "一旦你激活了这个特殊的神器，你会感觉到灵活性有了惊人的提升(<color_light_blue> +6 dex </color>)，感觉上你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
   "context": "ID: BL9_dex2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex2_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_dex2_ring",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d32ff9b8632505275f850ed514be1f58",

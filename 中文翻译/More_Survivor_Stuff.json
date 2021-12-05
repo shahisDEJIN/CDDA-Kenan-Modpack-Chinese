@@ -1134,6 +1134,7 @@
   "key": "4ab97d361e5ed5359bc124b1712f4bba",
   "original": "lathing",
   "translation": "车削",
+  "context": "ID: LATHING\n位于 /Kenan-Structured-Modpack/More_Survivor_Stuff/tool_qualities.json\n类型为 tool_quality\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivor_Stuff→tool_quality→LATHING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=LATHING",
   "stage": 3
  },
  {

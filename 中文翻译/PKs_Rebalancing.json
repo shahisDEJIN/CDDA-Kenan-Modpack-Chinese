@@ -2819,7 +2819,6 @@
   "key": "52e25a2eb501cb63f840dafee5e82de8",
   "original": "A broken chicken walker.  Still looks intimidating despite being permanently inoperative, possibly due to the sheer size and mass.  Could be gutted for parts.",
   "translation": "一个损坏的双足机器人。可能因为巨大的体积和质量的缘故，就算已经永久无法继续运作依旧看起来可怕无比。可以拆解得到部件。",
-  "context": "ID: broken_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_chickenbot",
   "stage": 5
  },
  {
@@ -2840,14 +2839,12 @@
   "key": "dfa4b9def585dae11e09ad3293e9a420",
   "original": "A broken tank drone.  Still looks intimidating despite being permanently inoperative, possibly due to the sheer size and mass.  Could be gutted for parts.",
   "translation": "一个损坏的坦克无人机。可能因为巨大的体积和质量的缘故，就算已经永久无法继续运作依旧看起来可怕无比。可以拆解得到部件。",
-  "context": "ID: broken_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_tankbot",
   "stage": 5
  },
  {
   "key": "e72202b3d148e8959469bbe21dd2e6a6",
   "original": "A broken tribot.  Now that its legs lie broken and immobile, the world seems a little less threatening.  Could be gutted for parts.",
   "translation": "一个损坏的三足机器人。现在它的腿断了一地，世界又多了一份和平。可以拆解得到部件。",
-  "context": "ID: broken_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_tripod",
   "stage": 5
  },
  {
@@ -4121,7 +4118,6 @@
   "key": "e06653607fe17c832417c4475c26df3a",
   "original": "A set of big pointy legs, like the ones found under a tripod.",
   "translation": "一组大而尖的腿，就像在三脚机器人用的那种。",
-  "context": "ID: spidery_legs_big\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→spidery_legs_big\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spidery_legs_big",
   "stage": 5
  },
  {
@@ -5165,7 +5161,7 @@
   "key": "51514b93be004e14eff7734150bacd56",
   "original": "As you move, you feel a hot flash come on.  Are you really so old?",
   "translation": "当你移动的时候，你会感觉到一股热的闪光。你真的这么老吗？",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[12]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[15]\n",
   "stage": 1
  },
  {
@@ -5608,7 +5604,6 @@
   "key": "1d0f1e01511700aa9fd9aa5646a82d98",
   "original": "Designed by Wraitheon, the Regulator is a refrigerator-sized UGV designed for high-risk urban fighting.  Armed with an anti-material missile launcher, a 40mm grenade launcher, and several anti-personnel weapons, it's designed to match the fervor of freedom fighters with the industrial might of Earth.",
   "translation": "由“鬼神”公司设计，监管者型机器人是一台冰箱大小的无人车，用于高风险的城市作战。它装备了一门反器材导弹发射器、40mm榴弹发射器和一些反步兵武器，用地球上最强大的工业力量满足自由战士们的无限热情。",
-  "context": "ID: mon_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tankbot",
   "stage": 5
  },
  {
@@ -7141,6 +7136,7 @@
   "key": "d0ac22b72c15bfb0c9e896e06885f0c7",
   "original": "Parkour Expert",
   "translation": "跑酷专家",
+  "context": "ID: PARKOUR\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_mutation_override.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→mutation→PARKOUR\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PARKOUR",
   "stage": 5
  },
  {
@@ -7154,21 +7150,20 @@
   "key": "517baddf64437264883aa3d5ec2030b0",
   "original": "Pathfinder chassis",
   "translation": "开拓者型机器人底盘",
-  "context": "ID: chickenbot_chassis\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→chickenbot_chassis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chickenbot_chassis",
   "stage": 5
  },
  {
   "key": "ebb013c4233155e48735ac7eadd27a40",
   "original": "Perhaps all those toxins and combats are affecting you?  Maybe a sabbatical from fighting is in order.",
   "translation": "也许所有这些毒素和战斗都在影响你？也许可以休一次战斗假。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[13]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[16]\n",
   "stage": 1
  },
  {
   "key": "5a92abd6b35abb9a6e52787ab0a5eea0",
   "original": "Perhaps eating the prepacked foodstuffs of the dead world have made you weak . . . ?",
   "translation": "也许吃了预先包装好的死亡世界的食物会让你变得虚弱？",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[10]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[11]\n",
   "stage": 1
  },
  {
@@ -7335,7 +7330,6 @@
   "key": "2d0d0b685c8959a8a5e6fd611a8a3f85",
   "original": "Regulator chassis",
   "translation": "监管者型机器人底盘",
-  "context": "ID: tankbot_chassis\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→tankbot_chassis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tankbot_chassis",
   "stage": 5
  },
  {
@@ -8486,13 +8480,13 @@
   "key": "117b876e6ff31f4b9c4f500282e3b4f7",
   "original": "The Honda Crop King.  Originally designed for agriculture, it has a trio of spiked retractable cables and where it used to mount pesticide sprayer the PrepNet Phyle have modified it to have a flamethrower for their war against the Mycus.",
   "translation": "一台本田Crop King机器人。它最初是为农业而设计的，有三根可伸缩的带刺电缆，之前用来安装杀虫剂喷雾器的部位已被生化先驱者改造，安装了一台火焰喷射器，用于对抗马卡斯的入侵。",
-  "context": "ID: mon_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tripod",
   "stage": 5
  },
  {
   "key": "943c550277eee65041cb7308955e28d9",
   "original": "The Honda Minuteman, a 4-foot tall robot walking on three spidery legs, used as aids in tactical infiltrations, guerilla warfare, and small deep field operations.  For weapons, it has a trio of spiked retractable cables and a powerful welder for cutting into steel and concrete.",
   "translation": "本田Minute-man型号的机器人，有着三条机械足走路的四英尺高的机器人，用于战术渗透、游击战和小型深野战的辅助。至于武器，它装载了三根带刺的可伸缩电缆和一个强大的焊接机，可以切割钢铁和混凝土。",
+  "context": "ID: mon_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tripod",
   "stage": 3
  },
  {
@@ -8527,7 +8521,6 @@
   "key": "30179f08589b71c532a8b5066afae0e4",
   "original": "The Wraitheon Pathfinder is a massive, house-height armored robot.  It is armed to the teeth with a 40mm anti-material grenade launcher, a 5.56 anti-personnel gun, and an electroshock capability to defend against melee strikes.  Manufactured by Wraitheon for the ESCA military, it was used along with infantry thanks to the flexibility of its reverse-jointed legs.",
   "translation": "“鬼神“开拓者型机器人是一台高达一层楼的巨型装甲机器人。它装备着一门40mm反器材榴弹发射器，一门5.56反步兵机枪和防近战打击的电击能力。它是由”鬼神”公司为ESCA防务公司制造的，由于其反向关节腿的灵活性，它能与步兵一同部署使用。",
-  "context": "ID: mon_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chickenbot",
   "stage": 5
  },
  {
@@ -8611,14 +8604,12 @@
   "key": "ea6f145c1039b16505236216416ce176",
   "original": "The chicken bot rolls out and begins acquiring targets.",
   "translation": "双足机器人展开并开始寻找目标。",
-  "context": "ID: bot_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chickenbot",
   "stage": 5
  },
  {
   "key": "1315681d6c67f6d215240ee2264fa1e4",
   "original": "The chicken bot swivels its turret and aims directly at you.  Don your brown pants!",
   "translation": "双足机器人旋转炮塔，直接瞄准了你。穿上裤子快跑！",
-  "context": "ID: bot_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chickenbot",
   "stage": 5
  },
  {
@@ -8891,14 +8882,12 @@
   "key": "88edd469f424e840a7cf3a1b4eed2fe9",
   "original": "The tank drone rolls out and begins acquiring targets.",
   "translation": "坦克无人机展开并开始寻找目标。",
-  "context": "ID: bot_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tankbot",
   "stage": 5
  },
  {
   "key": "f1a8d4e62ec3ab6ca681b7c24adf9fda",
   "original": "The tank drone swivels its turret and aims directly at you.  Don your brown pants!",
   "translation": "坦克无人机旋转炮塔，直接瞄准了你。穿上裤子快跑！",
-  "context": "ID: bot_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tankbot",
   "stage": 5
  },
  {
@@ -8933,14 +8922,12 @@
   "key": "e28f9ab84f4c91797d9697f89a91ef00",
   "original": "The tribot glowers down at you and ignites its flamethrower.  Turns out you hate the smell of napalm.",
   "translation": "三足机器人锁定了你，点燃的喷火器直接瞄准了你。看来你并不喜欢凝固汽油的味道。",
-  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 5
  },
  {
   "key": "dde489fe5ba8614c2af1ba21c773617a",
   "original": "The tribot rises to its feet and scans the area for contaminants.",
   "translation": "三足机器人开始移动并扫描该地区的污染物。",
-  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 5
  },
  {
@@ -9458,21 +9445,18 @@
   "key": "ce4da6197c5d9363bb842b7da59ca7ca",
   "original": "This is an inactive Beagle Mini-Tank UGV.  Using this item involves placing it on the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm cartridge grenades in your inventory (if you wish to divide your ammunition, set aside whatever ammunition you do NOT want to give the robot) and turning it on.  If reprogrammed and rewired successfully the tank drone will then identify you as a friendly, roam around or follow you, and attack all enemies with a built-in firearm and grenade launcher.",
   "translation": "一台未激活的“猎兔犬”型无人坦克车。使用该物品以将它放置在地上并打开它，并装填你物品栏内的原装 5.56mm 口径子弹和 40mm 口径榴弹（如果你只想装填部分弹药，请先把不需装填的弹药移出物品栏）。如果重新编程成功，无人车会将你识别为友军，自主行动或跟随你，并攻击所有在其步枪和榴弹发射器攻击范围内的敌人。",
-  "context": "ID: bot_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tankbot",
   "stage": 5
  },
  {
   "key": "3a49d425e652ee2c82db5ed867c974aa",
   "original": "This is an inactive Honda Regnal.  Using this item involves placing it on the ground, wondering how it fuels its flamethrower and turning it on.  If reprogrammed and rewired successfully the tribot will then identify you as an ally, roam around or follow you, and impale hostiles with its spiked cable weapons.",
   "translation": "一台未激活的三足机器人。使用该物品以将它放置在地上并打开它，你无法知道它是怎么为火焰喷射器提供燃料。如果重新编程和布线成功，它会将你识别为友军，开始四处游荡并跟随你，用其带刺的电缆武器刺穿敌人。",
-  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 5
  },
  {
   "key": "d5eaa2ee321edf1696d074aa4f81d9c6",
   "original": "This is an inactive chicken walker.  Using this item involves placing it on the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm cartridge grenades in your inventory (if you wish to divide your ammunition, set aside whatever ammunition you do NOT want to give the robot) and turning it on.  If reprogrammed and rewired successfully the tank drone will then identify you as a friendly, roam around or follow you, and attack all enemies with a built-in firearm and grenade launcher.",
   "translation": "一台未激活的双足机器人。使用该物品以将它放置在地上并打开它，并装填你物品栏内的原装 5.56mm 口径子弹和 40mm 口径榴弹（如果你只想装填部分弹药，请先把不需装填的弹药移出物品栏）。如果重新编程成功，双足机器人会将你识别为友军，自主行动或跟随你，并攻击所有在其步枪和榴弹发射器攻击范围内的敌人。",
-  "context": "ID: bot_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chickenbot",
   "stage": 5
  },
  {
@@ -9640,7 +9624,7 @@
   "key": "a0ff2b158d9f88df3fe7401f53ec0734",
   "original": "Those monsters all carry toxins, so maybe that's why you feel so sick now?",
   "translation": "那些怪物都携带毒素，所以也许这就是为什么你现在感到恶心的原因？",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[11]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[13]\n",
   "stage": 1
  },
  {
@@ -9675,14 +9659,14 @@
   "key": "e15827555943c8fb2973cefce05b888d",
   "original": "Toxic gas is not so healthy to breathe in, is it?",
   "translation": "吸入有毒气体不太健康，是吗？",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[17]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[21]\n",
   "stage": 1
  },
  {
   "key": "65b8a91526625b94430353c331a60e39",
   "original": "Toxic gas is not so healthy, is it?",
   "translation": "有毒气体不是很健康，是吗？",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[7]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[8]\n",
   "stage": 1
  },
  {
@@ -9934,14 +9918,12 @@
   "key": "d1cce8fcf43baad0778197fdd069448f",
   "original": "What's left when you remove all moving parts and electronics.  It's the skeleton and armor of the Regulator tank.",
   "translation": "移除所有可动部件和电子设备时剩下的，是“监管者”型无人坦克的骨架和装甲。",
-  "context": "ID: tankbot_chassis\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→tankbot_chassis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tankbot_chassis",
   "stage": 5
  },
  {
   "key": "032f115e6d0e2db605fb70ec1172c969",
   "original": "What's left when you remove all moving parts and electronics.  It's the skeleton and armor of the pathfinder.",
   "translation": "移除所有可动部件和电子设备时剩下的，是“开拓者”型机器人的骨架和装甲。",
-  "context": "ID: chickenbot_chassis\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→chickenbot_chassis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chickenbot_chassis",
   "stage": 5
  },
  {
@@ -10025,14 +10007,12 @@
   "key": "0cf9986ad7e5eb8d927f3add1250a3db",
   "original": "Wraitheon Pathfinder",
   "translation": "“鬼神”开拓者型机器人",
-  "context": "ID: mon_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chickenbot",
   "stage": 5
  },
  {
   "key": "16f171a0387d556ad97c78e366428852",
   "original": "Wraitheon Regulator",
   "translation": "“鬼神”监管者型机器人",
-  "context": "ID: mon_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tankbot",
   "stage": 5
  },
  {
@@ -10340,7 +10320,7 @@
   "key": "8fff18b62a313b396f41f567759c9a0a",
   "original": "You feel like you've been eating dirt.  Try to moderate your temperature.",
   "translation": "你觉得自己好像在吃泥巴。试着控制你的体温。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[8]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[9]\n",
   "stage": 1
  },
  {
@@ -10522,7 +10502,7 @@
   "key": "1da2d7db388ad0f44afd712773ff4743",
   "original": "You lay in bed for a second, wishing you were still asleep.",
   "translation": "你躺在床上一会儿，希望自己还在睡觉。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[9]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[10]\n",
   "stage": 1
  },
  {
@@ -10627,7 +10607,7 @@
   "key": "e2f8b7e6819998dc4ecba7bf3ff48d06",
   "original": "You shiver as you awake, fully aware that your feet are are sweating.  You will slowly lose health if you don't moderate your internal temperature.",
   "translation": "你醒来时会颤抖，完全意识到你的脚在出汗。如果你不调节体温，你会慢慢失去健康。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[16]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[20]\n",
   "stage": 1
  },
  {
@@ -10725,21 +10705,21 @@
   "key": "5f46585903e9560f518fe498bc82239f",
   "original": "You wake up remembering that most pre-Zday foods will hurt your health.",
   "translation": "当你醒来的时候，你会想起，大多数日前的食物都会伤害你的健康。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[4]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[5]\n",
   "stage": 1
  },
  {
   "key": "6e54b571adfdbc79f9cc9520f378a2ef",
   "original": "You wake up with lead eyelids.  Most poisonous and decaying monsters will negatively affect your health when they hit you.",
   "translation": "你醒来时眼皮都是铅的。大多数有毒和腐烂的怪物在攻击你时会对你的健康产生负面影响。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[15]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[18]\n",
   "stage": 1
  },
  {
   "key": "46ac2f0a49c2ae367d6de6d42daa632b",
   "original": "You wake up with lead eyelids.  Most poisonous monsters will negatively affect your health when they hit you.",
   "translation": "你醒来时眼皮都是铅的。大多数有毒怪物攻击你时会对你的健康产生负面影响。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[14]\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[17]\n",
   "stage": 1
  },
  {
@@ -10823,6 +10803,7 @@
   "key": "d30f9ba33eeed810c1780145da9c6321",
   "original": "You're skilled at clearing obstacles; terrain like railings or counters are as easy for you to move on as solid ground.",
   "translation": "你的运动神经与肌体协调能力更加出色，能够在运动中清楚的观察到脚下的障碍物，并且能够轻松穿梭于栏杆和柜台之间。",
+  "context": "ID: PARKOUR\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_mutation_override.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→mutation→PARKOUR\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PARKOUR",
   "stage": 5
  },
  {
@@ -12297,7 +12278,6 @@
   "key": "ad6fc9d5e5353f1e11390a4eb746d1de",
   "original": "broken chickenbot",
   "translation": "双足机器人（损坏）",
-  "context": "ID: broken_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_chickenbot",
   "stage": 5
  },
  {
@@ -12325,14 +12305,12 @@
   "key": "bdd4b080d0d4f8483592a22c178be4c6",
   "original": "broken tank drone",
   "translation": "坦克无人机（损坏）",
-  "context": "ID: broken_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_tankbot",
   "stage": 5
  },
  {
   "key": "00677a77cce387eeb3aeea463097fa37",
   "original": "broken tribot",
   "translation": "三足机器人（损坏）",
-  "context": "ID: broken_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→broken_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_tripod",
   "stage": 5
  },
  {
@@ -13242,7 +13220,6 @@
   "key": "5b549dd4f699d5c97e5c746d9c3e4eea",
   "original": "fusion blaster",
   "translation": "热熔炮",
-  "context": "ID: bio_blaster_gun\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/gun_monster.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GUN→bio_blaster_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster_gun",
   "stage": 5
  },
  {
@@ -13682,7 +13659,6 @@
   "key": "245c66289f7bc27ebf63bec4c5bb0d40",
   "original": "hiss!",
   "translation": "嘶嘶！",
-  "context": "ID: mon_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tripod",
   "stage": 5
  },
  {
@@ -13829,7 +13805,6 @@
   "key": "d3184e02613edc02e6be8cce3e7022db",
   "original": "inactive chicken walker",
   "translation": "双足机器人（关）",
-  "context": "ID: bot_chickenbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chickenbot",
   "stage": 5
  },
  {
@@ -13857,14 +13832,12 @@
   "key": "f75ad69a38c47767ac128084a607a387",
   "original": "inactive tank drone",
   "translation": "坦克无人机（关）",
-  "context": "ID: bot_tankbot\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tankbot",
   "stage": 5
  },
  {
   "key": "4f44dc69c36cb8e78731f936e0e66911",
   "original": "inactive tripod",
   "translation": "三足机器人（关）",
-  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 5
  },
  {
@@ -15132,14 +15105,12 @@
   "key": "98f6de4816a0d56c7f338ff0afd95884",
   "original": "set of spidery legs",
   "translation": "蜘蛛机械腿",
-  "context": "ID: spidery_legs_big\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→spidery_legs_big\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spidery_legs_big",
   "stage": 5
  },
  {
   "key": "1a0f360af880b043eac163b228ca5772",
   "original": "sets of spidery legs",
   "translation": "一组蜘蛛腿",
-  "context": "ID: spidery_legs_big\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→spidery_legs_big\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spidery_legs_big",
   "stage": 5
  },
  {
@@ -15839,7 +15810,6 @@
   "key": "2a141b2bd5b88486c877371cf9fb00d9",
   "original": "this a pseudo item",
   "translation": "这是一个假的道具",
-  "context": "ID: bio_blaster_gun\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/gun_monster.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GUN→bio_blaster_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster_gun",
   "stage": 5
  },
  {
@@ -16000,7 +15970,6 @@
   "key": "db745acbbdb1c5338a5ff7a00ab53cf4",
   "original": "tripod",
   "translation": "三足机器人",
-  "context": "ID: mon_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/robot.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tripod",
   "stage": 5
  },
  {

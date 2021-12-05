@@ -366,7 +366,6 @@
   "key": "713a24ccefa1279fb888fa17a0780459",
   "original": "Fior Di Battaglia",
   "translation": "战斗之花",
-  "context": "ID: style_medievalpole\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→martial_art→style_medievalpole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_medievalpole",
   "stage": 5
  },
  {
@@ -413,14 +412,12 @@
   "key": "685dd67df50f5ceff56f17fef611bece",
   "original": "Ninjutsu",
   "translation": "忍术",
-  "context": "ID: style_ninjutsu\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→martial_art→style_ninjutsu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_ninjutsu",
   "stage": 5
  },
  {
   "key": "842d1bbc201c734b7a2ef557e940b1ab",
   "original": "Niten Ichi-Ryu",
   "translation": "二天一流",
-  "context": "ID: style_niten\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→martial_art→style_niten\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_niten",
   "stage": 5
  },
  {

@@ -3,7 +3,6 @@
   "key": "bfd97772acb2e16f3cfc52ff375ba87b",
   "original": " heavy rechargeable plutonium cell",
   "translation": "重可再充钚电池",
-  "context": "ID: heavy_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→heavy_atomic_battery_cell_rechargeable\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavy_atomic_battery_cell_rechargeable",
   "stage": 0
  },
  {
@@ -283,7 +282,6 @@
   "key": "96e605ca6e39ed97a5ecef4d547356e2",
   "original": ".50 full auto receiver",
   "translation": ".50全自动接收机",
-  "context": "ID: fr_50\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→fr_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fr_50",
   "stage": 0
  },
  {
@@ -395,118 +393,116 @@
   "key": "c293004f75234b899acbc220676f39fa",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .22 cartridge via its custom-made magazine.",
   "translation": "一个(大部分)自制的SMG，由一个全自动接收器制成。虽然质量仍然低于大多数大灾难前的SMG，但它优于许多其他自制武器。通过定制的弹匣取出. 22弹夹。",
-  "context": "ID: surv_full_22\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_22\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_22",
   "stage": 0
  },
  {
   "key": "2d7ed241234ff5e4cad025e30472a6d7",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .22 cartridge via its magazine.",
   "translation": "一把自制的冲锋枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用.22弹匣。",
+  "context": "ID: surv_full_22\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_22\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_22",
   "stage": 3
  },
  {
   "key": "3ab008547009347359abe0c1bf724350",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .45 cartridge via its custom-made magazine, and can accept lower-capacity makeshift variants of the MAC-10 magazine.",
   "translation": "一个(大部分)自制的SMG，由一个全自动接收器制成。虽然质量仍然低于大多数大灾难前的SMG，但它优于许多其他自制武器。通过其定制的弹匣获取. 45弹夹，并可以接受较低容量的MAC-10弹匣的临时变体。",
-  "context": "ID: surv_full_45\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_45\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_45",
   "stage": 0
  },
  {
   "key": "1391be675d64034ce9511bd09d46070d",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .45 cartridge via its magazine.",
   "translation": "一把自制的冲锋枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用.45弹匣。",
+  "context": "ID: surv_full_45\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_45\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_45",
   "stage": 3
  },
  {
   "key": "6b9b49ebd5ac5e8de40749a8ec437bad",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the 9mm cartridge via its custom-made magazine, or can accept lower-capacity makeshift STEN magazines.",
   "translation": "一个(大部分)自制的SMG，由一个全自动接收器制成。虽然质量仍然低于大多数大灾难前的SMG，但它优于许多其他自制武器。通过定制弹匣获取9毫米弹夹，或者可以接受容量较低的临时STEN弹匣。",
-  "context": "ID: surv_full_9mm\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_9mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_9mm",
   "stage": 0
  },
  {
   "key": "946078ffe0e41fdeed1e55e4f7e65611",
   "original": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the 9mm cartridge via its magazine.",
   "translation": "一把自制的冲锋枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用9mm弹匣。",
+  "context": "ID: surv_full_9mm\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_9mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_9mm",
   "stage": 3
  },
  {
   "key": "2798256c2a9b5ee40c6c2d120da00bf9",
   "original": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .223 cartridge via its custom-made magazine, and can accept certain STANAG magazines of equal or lesser capacity.",
   "translation": "一种（大部分）自制的突击步枪，由全自动接收器制成。虽然仍然低于大多数灾前步枪的质量，它优于许多其他自制武器。通过其定制的弹匣接受.223盒带，并且可以接受某些容量相等或更小的STANAG弹匣。",
-  "context": "ID: surv_full_223\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_223",
   "stage": 0
  },
  {
   "key": "d7e448897568481c7db3f3b38d1e33f9",
   "original": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .223 cartridge via its magazine.",
   "translation": "一把自制的突击步枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用.223弹匣。",
+  "context": "ID: surv_full_223\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_223",
   "stage": 3
  },
  {
   "key": "61b4207558c36e553f5e00fcb5dd0801",
   "original": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x39mm cartridge via its custom-made magazine, and can accept any AK-pattern magazine of equal or lesser capacity.",
   "translation": "一种(大部分)由全自动接收器制造的自制突击步枪。虽然质量仍然低于大多数大灾变前的步枪，但它优于许多其他自制武器。通过定制弹匣取出7.62x39mm毫米弹匣，可以接受同等或更小容量的任何AK型弹匣。",
-  "context": "ID: surv_full_762\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_762",
   "stage": 0
  },
  {
   "key": "e818fb5d3b25b45aa750d9a30f3dfece",
   "original": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x39mm cartridge via its magazine.",
   "translation": "一把自制的战斗步枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用7.62x39子弹。",
+  "context": "ID: surv_full_762\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_762",
   "stage": 3
  },
  {
   "key": "eac58aba2311d80c3c35e657c50b2619",
   "original": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .308 cartridge via its custom-made magazine, and compatible with magazines from the old M14 rifle.",
   "translation": "一种（大部分）自制的自动步枪，由全自动接收器制成。虽然仍然低于大多数灾前步枪的质量，它优于许多其他自制武器。通过它的定制弹匣获得.308弹药筒，并与旧M14步枪的弹匣兼容。",
-  "context": "ID: surv_full_308\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_308\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_308",
   "stage": 0
  },
  {
   "key": "41fdfce5b320f761d2e8cc05d3f73771",
   "original": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .308 cartridge via its magazine.",
   "translation": "一把自制的战斗步枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用.308弹匣。",
+  "context": "ID: surv_full_308\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_308\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_308",
   "stage": 3
  },
  {
   "key": "ead17f040c892026c2d0caa4d5377cc1",
   "original": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x54mmR cartridge via its custom-made magazine.",
   "translation": "一种（大部分）自制的自动步枪，由全自动接收器制成。虽然仍然低于大多数灾前步枪的质量，它优于许多其他自制武器。使用7.62x54mmR墨盒通过其定制的杂志。",
-  "context": "ID: surv_full_762R\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_762R\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_762R",
   "stage": 0
  },
  {
   "key": "2939a991d956662a232a23ed8bfd8b93",
   "original": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x54mmR cartridge via its magazine.",
   "translation": "一把自制的战斗步枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用7.62x54mmR弹匣。",
+  "context": "ID: surv_full_762R\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_762R\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_762R",
   "stage": 3
  },
  {
   "key": "6d9fb01d78798f9a825226b19e032e5c",
   "original": "A (mostly) homemade full auto shotgun built from a full auto receiver.  While still lower quality than most pre-cataclysm shotguns, it's superior to many other homemade weapons.  Takes the 12 gauge cartridge via its custom-made magazine, and can accept lower-capacity variants of the Saiga 12 magazine.",
   "translation": "一种(大部分)自制全自动猎枪，由全自动接收器制成。虽然质量仍然低于大多数灾难前的猎枪，但它优于许多其他自制武器。通过定制的弹匣接受12号弹匣，并且可以接受赛加号12弹匣的低容量变体。",
-  "context": "ID: surv_full_12\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_12",
   "stage": 0
  },
  {
   "key": "8db6f1ab6944c5899c1946ccb3dbe8af",
   "original": "A (mostly) homemade full auto shotgun built from a full auto receiver.  While still lower quality than most pre-cataclysm shotguns, it's superior to many other homemade weapons.  Takes the 12 gauge cartridge via its magazine.",
   "translation": "一把自制的霰弹枪，虽然质量仍然低于大多数大灾变前的步枪，但它仍优于许多其他自制武器，使用12号弹匣。",
+  "context": "ID: surv_full_12\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_12",
   "stage": 3
  },
  {
   "key": "41edbe82b0071341e3295a351980aa14",
   "original": "A Compact Bionics Module developed by Omnitech Labs for military applications based on the highly successful Power Storage CBM.  Increases the user's power capacity by 1000 units.",
   "translation": "Omnitech实验室开发的紧凑型仿生学模块，用于军事应用，基于非常成功的储能CBM。将用户的电源容量增加1000个单位。",
-  "context": "ID: bio_power_storage_sentinel\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BIONIC_ITEM→bio_power_storage_sentinel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_power_storage_sentinel",
   "stage": 0
  },
  {
   "key": "46781ea994ce60425555cff58e243b23",
   "original": "A beast of a (mostly) homemade anti-materiel rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .50 BMG cartridge via its custom-made magazine, or can accept lower-capacity Barret magazines.  It can also attach a custom-made carry handle for improved fire from the hip.",
   "translation": "一种用全自动接收器制造的自制反装备步枪的野兽。虽然仍然低于大多数灾前步枪的质量，它优于许多其他自制武器。通过定制的弹匣使用.50 BMG弹匣，也可以接受容量较低的巴雷特弹匣。它还可以附加一个定制的携带手柄，以提高从臀部的火力。",
-  "context": "ID: surv_full_50\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_50",
   "stage": 0
  },
  {
@@ -548,7 +544,6 @@
   "key": "615441c3334fa329296815850c5e23d9",
   "original": "A cluster of wiry tissue and irregular structures of alien resin, from which juts an eighteen-inch long blade.  It seems to be made partly of the same green glassy resin, fading gradually into the off-white synthetic bone or keratin forming the edge.  It is still razor-sharp and makes for an awkward cutting tool, but was not built (or grown) with human ergonomics in mind, making it currently ineffective as a weapon.",
   "translation": "一簇金属丝状组织和异形树脂的不规则结构，从中伸出一把18英寸长的刀片。它似乎部分由相同的绿色玻璃状树脂制成，逐渐褪色成形成边缘的灰白色合成骨或角蛋白。它仍然锋利无比，是一种笨拙的切割工具，但它的制造(或生长)并没有考虑到人类工效学，这使得它目前作为一种武器是无效的。",
-  "context": "ID: c_mi_go_claw_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_claw_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_claw_broken",
   "stage": 0
  },
  {
@@ -590,7 +585,6 @@
   "key": "b039bf67dcf8b1866ec17037183490ec",
   "original": "A custom-made bow, arms reinforced to compensate for its takedown design.  The tips of the bow have makeshift blades to make this bow an efficient melee weapon when things get close and personal.  Use it to compact the weapon for easier storage.",
   "translation": "定制的弓，手臂加固以补偿其拆卸设计。弓的尖端有临时的刀片，使这把弓在近距离和个人接触时成为有效的近战武器。用它来压缩武器，以便于存放。",
-  "context": "ID: survbow\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→survbow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=survbow",
   "stage": 0
  },
  {
@@ -625,7 +619,6 @@
   "key": "78052fe7a525c34c17fd867b271e0425",
   "original": "A custom-made receiver fitted for .50 BMG, that could be used to craft an automatic firearm.",
   "translation": "一种为0.50 BMG特制的接收器，可以用来制造自动武器。",
-  "context": "ID: fr_50\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→fr_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fr_50",
   "stage": 0
  },
  {
@@ -646,13 +639,13 @@
   "key": "1f6ea755e8d3b123c76835cd288e550c",
   "original": "A custom-made receiver fitted for 12 gauge shells, that could be used to craft an automatic firearm.",
   "translation": "一个定制的接收器，安装在12口径的炮弹上，可以用来制造自动武器。",
-  "context": "ID: fr_12\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→fr_12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fr_12",
   "stage": 0
  },
  {
   "key": "89314865153b9e3730d26a25924b4f9c",
   "original": "A custom-made receiver fitted for 12 guage shells, that could be used to craft an automatic firearm.",
   "translation": "一个定制的接收器，安装12个口径的炮弹，可以用来制造自动武器。",
+  "context": "ID: fr_12\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→fr_12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fr_12",
   "stage": 1
  },
  {
@@ -721,13 +714,13 @@
   "key": "5570e6144444745aab03e32834fb0106",
   "original": "A foot-long knife made from high-tech alloy and edged with bonded nanocrystals, salvaged from a CBM.  A welded metal handle and handguard allow you to hold it without slicing your hand open.",
   "translation": "一把一英尺长的刀，由高科技合金制成，边缘有粘结的纳米晶体，从CBM中回收。焊接的金属手柄和护手可以让你握住它而不需要切开你的手。",
-  "context": "ID: unbio_bladed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_bladed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_bladed_weapon",
   "stage": 0
  },
  {
   "key": "de235a9f2c6794818c081132e7cf7954",
   "original": "A foot-long knife made from high-tech alloy and edged with bonded nanocrystals.  A welded metal handle and handguard allow you to hold it without slicing your hand open.",
   "translation": "一种一英尺长的刀，由高科技合金制成，边缘有粘结的纳米晶体。一个焊接金属手柄和护手，让你举行没有切片你的手打开它。",
+  "context": "ID: unbio_bladed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_bladed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_bladed_weapon",
   "stage": 1
  },
  {
@@ -741,14 +734,12 @@
   "key": "25ab63cc79faa28668604eb9d2ce2693",
   "original": "A full assembly of medieval arm protection.  Rerebraces, couters, and vambraces, subsequently modified with kevlar and leather to better protect the joints.",
   "translation": "中世纪手臂保护的全套装置。随后用kevlar和皮革进行改性，以更好地保护关节。",
-  "context": "ID: armguard_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→armguard_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_lightplate_surv",
   "stage": 0
  },
  {
   "key": "372605b656b36c0a4dc7b61c9be93a08",
   "original": "A full assembly of medieval leg protection.  Cuisses, poleyns, and greaves, subsequently modified with kevlar and leather to better protect the joints.",
   "translation": "中世纪完整的护腿装置。Cuises、poleyns和greaves，随后用kevlar和皮革进行改性，以更好地保护关节。",
-  "context": "ID: legguard_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→legguard_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_lightplate_surv",
   "stage": 0
  },
  {
@@ -775,7 +766,6 @@
   "key": "73ffed483431db114a65df768ef8ebff",
   "original": "A glassy green pellet of alien resin, molded in a shape vaguely resembling a modern rifle bullet, albeit elongated.",
   "translation": "一个玻璃状的绿色外星树脂小球，被塑造成一个类似现代步枪子弹的形状，尽管是细长的。",
-  "context": "ID: c_alien_resin_bullet\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet",
   "stage": 0
  },
  {
@@ -879,7 +869,6 @@
   "key": "1b9189ae94cbb052392e61ee859a2418",
   "original": "A long barrel of alien resin blended in with a jumble of iridescent, chitinous flesh and torn muscles.  It clearly seems to be a projectile weapon, but the ruined mess on the other end makes it difficult to tell how the weapon is supposed to function nor if it'd be useful in human hands.  It certainly looks like it wasn't designed with limbs in mind, let alone human hands.",
   "translation": "一桶长长的外星树脂混合着一堆彩虹色的、带壳的肉和撕裂的肌肉。很明显，这似乎是一种投射武器，但另一端被毁坏的混乱使得很难判断这种武器应该如何运作，也很难判断它在人类手中是否有用。它看起来肯定不是为四肢设计的，更不用说人手了。",
-  "context": "ID: c_mi_go_rifle_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_rifle_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_broken",
   "stage": 0
  },
  {
@@ -900,7 +889,6 @@
   "key": "614eef284056d94e89dff436acbfc0ac",
   "original": "A luxurious set of designer panties. Preserves your modesty and looks good on you.",
   "translation": "一套豪华的设计师内裤。保持你的谦逊，穿着好看。",
-  "context": "ID: fancy_panties\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_panties\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_panties",
   "stage": 0
  },
  {
@@ -921,33 +909,32 @@
   "key": "274a84feb70c297d37dc0f1e6db7bb8e",
   "original": "A magazine built for the survivor's .308 battle rifle.  Based on the design of the venerable M14's magazine, its makeshift design makes it incompatible with factory rifles.",
   "translation": "为生还者. 308步枪设计的弹匣。基于古老的M14弹匣的设计，它的临时设计使其与工厂步枪不兼容。",
-  "context": "ID: surv_308_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_308_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_308_mag",
   "stage": 0
  },
  {
   "key": "1ccca3598155abafc2cbbb84aa88c174",
   "original": "A magazine built for the survivor's .308 battle rifle.  While well-made, it isn't standardized to fit common production models.",
   "translation": "一个为幸存者.308突击步枪而制作的弹匣。虽然制作精良，但不能像工厂设计的那样经得起考验，也没有标准化的生产模式。",
+  "context": "ID: surv_308_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_308_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_308_mag",
   "stage": 3
  },
  {
   "key": "3de263f496d16cbc8a8443e07374bd85",
   "original": "A magazine built for the survivor's .45 SMG.  A .45 ACP conversion of a further-simplified STEN pattern, it's decently-made but not designed for any known factory-made model of firearm.",
   "translation": "一个为幸存者.45冲锋枪而制作的弹匣。它制作精良，但不像工厂设计那样可靠。",
+  "context": "ID: surv_45_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_45_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_45_mag",
   "stage": 3
  },
  {
   "key": "d10db485211eb90dddc482448a8bf251",
   "original": "A magazine built for the survivor's .45 SMG.  Roughly modeled after the MAC-10 magazine in design, it's decently-made but not designed for any known factory-made model of firearm.",
   "translation": "为幸存者. 45 SMG制作的杂志。设计上大致仿照MAC-10弹匣，制作精良，但不是为任何已知的工厂制造的枪支型号设计的。",
-  "context": "ID: surv_45_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_45_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_45_mag",
   "stage": 0
  },
  {
   "key": "a374069ad22a0cbbbb5b99f2d4cd4e10",
   "original": "A magazine built for the survivor's .50 automatic AMR.  Vaguely resembling the magazine from the Barrett M107A1 but bulkier, it is clearly not designed to factory specifications.",
   "translation": "为幸存者. 50自动AMR设计的杂志。有点像巴雷特M107A1的弹匣，但体积更大，显然不是按照工厂规格设计的。",
-  "context": "ID: surv_50_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_50_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_50_mag",
   "stage": 0
  },
  {
@@ -1031,14 +1018,12 @@
   "key": "58c6afb232e5b48b259230918e62c117",
   "original": "A medieval steel breastplate, modified with kevlar and leather to better protect from the elements.",
   "translation": "一种中世纪的钢制胸甲，用凯夫拉尔纤维和皮革改进，以更好地抵御恶劣天气。",
-  "context": "ID: cuirass_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→cuirass_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_lightplate_surv",
   "stage": 0
  },
  {
   "key": "b959dfcb9b427c5e13fbfc44a5db099d",
   "original": "A mesh of steel and alien resin gripped in the palm, from which juts a razor-sharp eighteen-inch blade.  The exotic green glass-like material fades into a hardened edge of some off-white synthetic material.  Wielded similar to tiger claws, with its single blade between two fingers.  Salvaged using pre-cataclysm research into other living weaponry, it now works as well for dissection (or vivisection) in human hands as it once did in the clutches of the mi-go.",
   "translation": "手掌中夹着一块由钢铁和外来树脂制成的网，网中伸出一块18英寸的锋利刀片。这种奇异的绿色玻璃状材料逐渐褪去，变成了一些灰白色合成材料的硬化边缘。挥舞类似于老虎的爪子，两个手指之间有一把刀。通过对其他活武器的灾难前研究，它被打捞上来，现在在人类手中的解剖（或活体解剖）效果也很好，就像它曾经在米戈人手中所做的一样。",
-  "context": "ID: c_mi_go_claw_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_claw_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_claw_salvaged",
   "stage": 0
  },
  {
@@ -1052,14 +1037,12 @@
   "key": "addbf82eacafc02e3c8e28b65f733c31",
   "original": "A mi-go beam weapon repurposed for human use using pre-cataclysm developments in bio-technology, crudely interfacing artificial nerves with wiring and converting it into a bulky pistol.  Its strange lens fires short-ranged beams that low damage, but are highly effective at stunning targets.  Having been converted for human use, it draws power from a UPS connection.",
   "translation": "一种mi-go波束武器，利用生物技术在灾难前的发展，将人工神经与电线粗糙地连接起来，并将其转换成一把笨重的手枪，重新用于人类使用。它奇怪的镜头发射的短程光束伤害很低，但对击昏目标非常有效。经过改装供人类使用后，它从不间断电源连接中获取电能。",
-  "context": "ID: c_mi_go_beam_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_beam_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_salvaged",
   "stage": 0
  },
  {
   "key": "15d4479d5a56ab315d0690bd24a64432",
   "original": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down and interfaced with something more fitting human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin into compatible projectiles, and it packs a decent punch with very little noise.",
   "translation": "一种mi-go武器，以高速投射硬化的外星树脂碎片，其奇异的控制被剥离下来，并与更符合人体解剖学的东西接口。大灾变前生物技术应用于解决外部环境问题的产物。虽然它依赖于特殊的弹药，但将树脂成型为兼容的射弹相对容易，而且它能以非常小的噪音打出像样的拳。",
-  "context": "ID: c_mi_go_rifle_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_rifle_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_salvaged",
   "stage": 0
  },
  {
@@ -1129,7 +1112,6 @@
   "key": "c2c4503a937029be70bf64906fdc749c",
   "original": "A pair of designer briefs.  Comfortable and good looking underwear worn by men.",
   "translation": "一条设计师设计的内裤。男士穿的舒适、好看的内衣。",
-  "context": "ID: fancy_briefs\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_briefs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_briefs",
   "stage": 0
  },
  {
@@ -1164,6 +1146,7 @@
   "key": "b7b6b4a059aa22b4d6cd28208fad0a80",
   "original": "A powerful bow that requires a strong archer to use, arms reinforced to compensate for its takedown design.  The tips of the bow have makeshift blades to make this bow an efficient melee weapon when things get close and personal.  Use it to compact the weapon for easier storage.",
   "translation": "一种威力强大的弓，需要非常强壮的弓箭手来使用，提高了武器耐用性和弓箭威力。弓的前面有临时的刀片，使这把弓可以成为一个有效的近战武器。采用可拆卸设计，更容易储存。",
+  "context": "ID: survbow\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→survbow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=survbow",
   "stage": 3
  },
  {
@@ -1177,33 +1160,32 @@
   "key": "324ede07bac4b9aa6f4bc236ab58a1a6",
   "original": "A relatively small laser pistol, boxy design having just enough concessions to ergonomics to fit well in the hand.  It draws power from compact atomic batteries, offering energy efficiency and prolonged usage, at the expense of firepower and range.  The markings refer to \"Omnitech Labs\" as the manufacturer.",
   "translation": "一把小型激光手枪，采用了符合人体工程学的简洁外观设计。以牺牲射击范围和射击伤害为代价提高了能源的使用效率。枪身上印有制造商Omnitech实验室的标志。",
+  "context": "ID: neo_laser_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol",
   "stage": 3
  },
  {
   "key": "4f5e48b804116d2baeceb80e106d885b",
   "original": "A relatively small laser pistol, boxy design having just enough concessions to ergonomics to fit well in the hand.  It offers energy efficiency and prolonged usage, at the expense of firepower and range.  Its manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "这是一款相对较小的激光手枪，方形设计，符合人体工程学原理，可以很好地佩戴在手上。它以牺牲火力和射程为代价，提供能源效率和长期使用。其制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: neo_laser_pistol_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol_ups",
   "stage": 0
  },
  {
   "key": "3c5b9c1d2710d8bc1ddde5ef87fa4268",
   "original": "A relatively small laser pistol, boxy design having just enough concessions to ergonomics to fit well in the hand.  It offers energy efficiency and prolonged usage, at the expense of firepower and range.  The markings refer to \"Omnitech Labs\" as the manufacturer.  This one has been converted to use UPS as its fuel source.",
   "translation": "一把小型激光手枪，采用了符合人体工程学的简洁外观设计。以牺牲射击范围和射击伤害为代价提高了能源的使用效率。枪身上印有制造商Omnitech实验室的标志，使用UPS供能。",
+  "context": "ID: neo_laser_pistol_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol_ups",
   "stage": 3
  },
  {
   "key": "7f41d598b358e8041d8df8053655a588",
   "original": "A relatively small laser pistol, boxy design having just enough concessions to ergonomics to fit well in the hand.  Its manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "这是一款相对较小的激光手枪，方形设计，符合人体工程学原理，可以很好地佩戴在手上。其制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: neo_laser_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol",
   "stage": 0
  },
  {
   "key": "f81541e5c6f0f9d1b4973c3b263143e5",
   "original": "A relatively small oblong object mostly made out of strange glassy resin.  One end has an opening covered by an almost perfectly clear surface of this material, while the other devolves into a tangled mess of severed tendons and tattered flesh.  A weapon of this sort might be useful, though the fleshy end of it seems ill-suited for human operation.",
   "translation": "一种相对较小的长方形物体，主要由奇怪的玻璃状树脂制成。一端有一个开口，由这种材料几乎完全透明的表面覆盖，而另一端则变成一团乱七八糟的断筋和破烂的肉。这种武器可能有用，尽管它的肉端似乎不适合人类操作。",
-  "context": "ID: c_mi_go_beam_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_beam_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_broken",
   "stage": 0
  },
  {
@@ -1259,7 +1241,6 @@
   "key": "87e52bb6f4588b7e22dfdbf152841408",
   "original": "A shell made of multiple plates of strange resin and iridescent flesh, held together by a network of sinew.  It resembles a biological suit of armor for a distinctly inhuman creature more than an actual body part, though the frayed organic wiring lining the inside paints a much more fleshy picture of how it was operated.  It almost seems like it could still be used, although its shape and function clearly never had humans in mind.",
   "translation": "一种贝壳，由多片奇怪的树脂和彩虹色的果肉组成，由肌腱网连接在一起。它更像是一套生物盔甲，为一个明显不人道的生物设计，而不是一个真实的身体部位，尽管内部磨损的有机电线描绘了一幅更加丰满的画面，展示了它是如何运作的。虽然它的形状和功能显然从未考虑过人类，但它似乎仍然可以使用。",
-  "context": "ID: c_mi_go_carapace_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_carapace_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_broken",
   "stage": 0
  },
  {
@@ -1308,14 +1289,12 @@
   "key": "4cfac826113d30997073b69ee45348fd",
   "original": "A simple fur bikini bottom.",
   "translation": "一个简单的皮草比基尼底。",
-  "context": "ID: bikini_bottom_fur\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→bikini_bottom_fur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bikini_bottom_fur",
   "stage": 0
  },
  {
   "key": "062cf1b2816d8e7d887aea0a1e11216c",
   "original": "A simple leather bikini bottom.",
   "translation": "简单的比基尼皮革底。",
-  "context": "ID: bikini_bottom_leather\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→bikini_bottom_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bikini_bottom_leather",
   "stage": 0
  },
  {
@@ -1406,14 +1385,12 @@
   "key": "e5c9fa396844fcd540964315af5fef85",
   "original": "A vaguely human-shaped shell of alien sinew and steel support, covered in armor plates made of resin.  Effectively mutilated to fit a human (or mutant) wearer, somehow it's still functional, almost alive in fact.  Activating it will reduce the suit's encumbrance, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  It seems to recharge from sunlight, and being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
   "translation": "一种模糊不清的人形外壳，由外星肌腱和钢支架构成，外面覆盖着树脂制成的装甲板。为了适合人类（或变种人）佩戴者，它被有效地肢解了，但不知何故，它仍然具有功能，事实上几乎还活着。激活它将减少西服的负担，增强力量和灵活性，保护穿着者免受有毒气体的伤害，充当呼吸者，增强耐力和承载能力，并提供一定程度的外界温度保护。它似乎是从阳光中重新充电，而且活动也会逐渐使使用者疲劳，影响健康，并使他们更容易受到电击。",
-  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
   "stage": 0
  },
  {
   "key": "847e28014635f2771fc532a3df3bfd8d",
   "original": "A vaguely human-shaped shell of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Activating it will reduce the suit's encumbrance, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  It seems to recharge from sunlight, and being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
   "translation": "一种模糊不清的人形外壳，由外星肌腱和钢支架构成，外面覆盖着树脂制成的装甲板。通过灾难前对其他活体武器的研究，它被打捞上来，实际上已经被肢解，以适合人类（或变种）佩戴者。激活它将减少西服的负担，增强力量和灵活性，保护穿着者免受有毒气体的伤害，充当呼吸者，增强耐力和承载能力，并提供一定程度的外界温度保护。它似乎是从阳光中重新充电，而且活动也会逐渐使使用者疲劳，影响健康，并使他们更容易受到电击。",
-  "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged_on",
   "stage": 0
  },
  {
@@ -1441,7 +1418,6 @@
   "key": "b158e2f2948577cdf4bbb68f15d6539a",
   "original": "A yard-long sword made from high-tech alloy and edged with bonded nanocrystals, salvaged from a CBM.  A welded metal handle and handguard allow you to hold it without slicing your hand open.",
   "translation": "一把由高科技合金制成的一码长的剑，边缘有粘结的纳米晶体，从CBM打捞而来。焊接的金属手柄和护手可以让你握住它而不需要切开你的手。",
-  "context": "ID: unbio_sword_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_sword_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_sword_weapon",
   "stage": 0
  },
  {
@@ -1455,6 +1431,7 @@
   "key": "66eeadfaa95c4856d3ae6a094dad7e46",
   "original": "A yard-long sword made from high-tech alloy and edged with bonded nanocrystals.  A welded metal handle and handguard allow you to hold it without slicing your hand open.",
   "translation": "一把一码长的剑，由高科技合金制成，刃口镶有粘结的纳米晶体。一个焊接金属手柄和护手，让你举行没有切片你的手打开它。",
+  "context": "ID: unbio_sword_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_sword_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_sword_weapon",
   "stage": 1
  },
  {
@@ -1489,28 +1466,26 @@
   "key": "5d1960986c21b89adab7fc9e63e7a75c",
   "original": "AKRO-388 laser SMG",
   "translation": "AKRO-388 激光冲锋枪",
-  "context": "ID: akro_laser_smg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg",
+  "context": "ID: akro_laser_smg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg_ups",
   "stage": 3
  },
  {
   "key": "6677ab727fc0a2d9b28806d8b99db291",
   "original": "AKRO-388E1 laser SMG",
   "translation": "AKRO-388E1 激光冲锋枪",
-  "context": "ID: akro_laser_smg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg_ups",
   "stage": 3
  },
  {
   "key": "4293caafe5b03fcf6bd6e69056c2a3b5",
   "original": "ARC-314 laser rifle",
   "translation": "ARC-314 激光卡宾枪",
-  "context": "ID: arc_laser_rifle\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle",
+  "context": "ID: arc_laser_rifle_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle_ups",
   "stage": 3
  },
  {
   "key": "8a76cd70c094e5b1a851e078a03952b1",
   "original": "ARC-314E1 laser rifle",
   "translation": "ARC-314E1 激光卡宾枪",
-  "context": "ID: arc_laser_rifle_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle_ups",
   "stage": 3
  },
  {
@@ -1615,14 +1590,12 @@
   "key": "65d71fc2d662b16cccac2ae6dc6699b8",
   "original": "An accurized laser rifle, designed to deal massive damage to a single target.  Intended to be used as a long-range support weapon by modern special forces.  Requires an insane amount of energy to fire a single powerful laser, additionally providing EMP effects.  The manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "一种精确激光步枪，设计用于对单个目标造成巨大伤害。被现代特种部队用作远程支援武器。需要一个疯狂的能量量来发射一个强大的激光，另外提供电磁脉冲效果。制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: mx_laser_sniper_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper_ups",
   "stage": 0
  },
  {
   "key": "b4f531f34a6788ec789cc75474cf0322",
   "original": "An accurized, long-range laser rifle, designed to deal massive damage to a single target.  Intended to be used as a long-range support weapon by modern special forces.  Requires an insane amount of energy to fire a single powerful laser, additionally providing EMP effects.  The manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "一种远程激光步枪，设计用于对单个目标造成巨大伤害。被现代特种部队用作远程支援武器。需要一个疯狂的能量量来发射一个强大的激光，另外提供电磁脉冲效果。制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: mx_laser_sniper\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper",
   "stage": 0
  },
  {
@@ -1790,7 +1763,6 @@
   "key": "0cb13d6f454ba1e81cbbd565f323c038",
   "original": "An experimental and rare Compact Bionics Module that increases your power capacity by 1000 kJ.",
   "translation": "一个实验性和罕见的紧凑型仿生模块，可增加您的功率容量1000千焦。",
-  "context": "ID: bio_power_storage_sentinel\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→bionic→bio_power_storage_sentinel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_power_storage_sentinel",
   "stage": 0
  },
  {
@@ -1804,26 +1776,26 @@
   "key": "415f1b43f84775667c007997a7f975d5",
   "original": "An experimental laser rifle based on the A7 and AKRO-388, adapted to rely on atomic batteries.  Offers the modular benefits of a combat rifle with the efficiency of a laser weapon, in a relatively compact package.  Overall it mimics the handling and operation of common rifles currently in service, for ease-of-use.  The manufacturer is listed as Omnitech Labs.",
   "translation": "一种基于A7和AKRO-388开发的实验性激光步枪。可以提供相对较高的火力和保证能量使用效率。操作方式与普通步枪一致，简单易用并且方便可靠。制造商为Omnitech实验室。",
+  "context": "ID: arc_laser_rifle\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle",
   "stage": 3
  },
  {
   "key": "9eb17894a305a1cbe910f87d2160f581",
   "original": "An experimental laser rifle based on the A7 and AKRO-388, offering the handling of a modern combat rifle with the efficiency of a laser weapon, in a relatively compact package.  The manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "一种基于A7和AKRO-388的实验性激光步枪，在一个相对紧凑的包装中，能够以激光武器的效率处理现代战斗步枪。制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: arc_laser_rifle\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle",
   "stage": 0
  },
  {
   "key": "562c5ed00adc06a9363f65ebcdd67b79",
   "original": "An experimental laser rifle based on the A7 and AKRO-388, offering the handling of a modern combat rifle with the efficiency of a laser weapon, in a relatively compact package.  The manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "一种基于A7和AKRO-388的实验性激光步枪，在一个相对紧凑的包装中，能够以激光武器的效率处理现代战斗步枪。制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: arc_laser_rifle_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle_ups",
   "stage": 0
  },
  {
   "key": "b13c9cbc3d8f525571a63d6e5dffa602",
   "original": "An experimental laser rifle based on the A7 and AKRO-388.  Offers the modular benefits of a combat rifle with the efficiency of a laser weapon, in a relatively compact package.  Overall it mimics the handling and operation of common rifles currently in service, for ease-of-use.  The manufacturer is listed as Omnitech Labs.  This one has been converted to use UPS as its fuel source.",
   "translation": "一种基于A7和AKRO-388开发的实验性激光步枪。可以提供相对较高的火力和保证能量使用效率。操作方式与普通步枪基本一致，简单易用并且方便可靠。制造商为Omnitech实验室，使用UPS供能。",
+  "context": "ID: arc_laser_rifle_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→arc_laser_rifle_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arc_laser_rifle_ups",
   "stage": 3
  },
  {
@@ -1858,7 +1830,6 @@
   "key": "3bbc5763f1a8fb823951ad8d184c2c9a",
   "original": "An outer garment of absorbent, towel-like material traditionally worn to cover one's nakedness to and from the bath.  It makes you wish you had running water to bathe with.  This one has a golden logo of a now irrelevant fashion company sewn on.",
   "translation": "浴衣一种用吸水性毛巾状材料制成的外衣，传统上穿在身上以遮住裸体进出浴缸。它让你希望你有自来水洗澡。这一款有一个金色的标志，上面缝着一家现在已经无关紧要的时尚公司。",
-  "context": "ID: fancy_house_coat\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_house_coat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_house_coat",
   "stage": 0
  },
  {
@@ -1928,13 +1899,13 @@
   "key": "8faf684a193bfb8d743d4360fd0d94c8",
   "original": "Apophis fires its fusion blaster!",
   "translation": "阿波菲斯发射了它的聚变冲击波！",
+  "context": "ID: hulk_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Monsters/c_monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MONSTER→hulk_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hulk_weapon",
   "stage": 3
  },
  {
   "key": "6680366712b6882402d15347ea89cbd2",
   "original": "Apophis fires its gatling laser!",
   "translation": "阿波菲斯发射了加特林激光！",
-  "context": "ID: hulk_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Monsters/c_monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MONSTER→hulk_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hulk_weapon",
   "stage": 0
  },
  {
@@ -2010,26 +1981,26 @@
   "key": "d88d37a0ac87a9ebbf843980607482ef",
   "original": "Based on the design of the NEO-33, the AKRO-388 balances energy efficiency with rate of fire, offering decent firepower and handling like common submachineguns in active service.  Its manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "基于NEO-33的设计，AKRO-388平衡了能效和射速，提供了与现役普通冲锋枪相同的火力和操控性。其制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: akro_laser_smg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg",
   "stage": 0
  },
  {
   "key": "434313fe0c50129d9bc151ebb3369584",
   "original": "Based on the design of the NEO-33, the AKRO-388 balances energy efficiency with rate of fire, offering decent firepower and handling like common submachineguns in active service.  Its manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "基于NEO-33的设计，AKRO-388平衡了能效和射速，提供了与现役普通冲锋枪相同的火力和操控性。其制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: akro_laser_smg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg_ups",
   "stage": 0
  },
  {
   "key": "1e733e11d93f95140ace15840b081150",
   "original": "Based on the design of the NEO-33, the AKRO-388 balances energy efficiency with rate of fire, offering decent firepower.  Its body is scaled up and adapted to better handle like common submachineguns in active service.  Relies on atomic batteries instead of a UPS connection.  Its manufacturer is listed as Omnitech Labs.",
   "translation": "在NEO-33设计的基础上升级优化而来的AKRO-388是平衡了能量利用效率和射击速度后的产物，可以带来更强大的火力威胁，代价是惊人的能源消耗。被放大后的枪身可以更好的适应灾变后的世界环境。枪身上印有制造商Omnitech实验室的标志。",
+  "context": "ID: akro_laser_smg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg",
   "stage": 3
  },
  {
   "key": "d467f9b9deb78707b100e57a4146eb6c",
   "original": "Based on the design of the NEO-33, the AKRO-388 is balances energy efficiency with rate of fire, offering decent firepower.  Its body is scaled up and adapted to better handle like common submachineguns in active service.  Its manufacturer is listed as Omnitech Labs.  This one has been converted to use UPS as its fuel source.",
   "translation": "在NEO-33设计的基础上升级优化而来的AKRO-388是平衡了能源效率和射击速度后的产物，可以带来强大的火力威胁，代价是惊人的能源消耗。被放大后的枪身可以更好的适应灾变后的世界环境。枪身上印有制造商Omnitech实验室的标志，使用UPS供能。",
+  "context": "ID: akro_laser_smg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→akro_laser_smg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=akro_laser_smg_ups",
   "stage": 3
  },
  {
@@ -2425,7 +2396,6 @@
   "key": "1a6c6c6a03068ffa787365a738a0ad08",
   "original": "Death Explosion Plus Acid",
   "translation": "死亡爆炸加酸",
-  "context": "ID: c_death_explosion_hulk_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→SPELL→c_death_explosion_hulk_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_death_explosion_hulk_weapon",
   "stage": 0
  },
  {
@@ -2655,7 +2625,6 @@
   "key": "840214a2691dea0870923c7fb1d15e39",
   "original": "Fungal pouf plus acid effect, used by fungal augmented abominations.",
   "translation": "真菌pouf加酸效应，用于真菌增强的憎恶。",
-  "context": "ID: c_death_explosion_mon_fungus_failed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→SPELL→c_death_explosion_mon_fungus_failed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_death_explosion_mon_fungus_failed_weapon",
   "stage": 0
  },
  {
@@ -2676,14 +2645,12 @@
   "key": "2c710b2e415d2432dc1c5e0e7c16144e",
   "original": "Fusion Blaster Arm",
   "translation": "核聚变臂炮",
-  "context": "ID: bio_blaster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→bionic→bio_blaster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster",
   "stage": 5
  },
  {
   "key": "695897e3b2c8b9bd67165aa1ccdd405c",
   "original": "Fusion Blaster Arm CBM",
   "translation": "核聚变臂炮CBM",
-  "context": "ID: bio_blaster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BIONIC_ITEM→bio_blaster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster",
   "stage": 5
  },
  {
@@ -3577,14 +3544,13 @@
   "key": "2b59e5842e50deb5b2c40895b47b4ae7",
   "original": "KRX-108 laser LMG",
   "translation": "KRX-108 激光轻机枪",
-  "context": "ID: krx_laser_lmg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg",
+  "context": "ID: krx_laser_lmg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg_ups",
   "stage": 3
  },
  {
   "key": "8dde7a0d3fd22a261d01ae0ffdf07904",
   "original": "KRX-108E1 laser LMG",
   "translation": "KRX-108E1 激光轻机枪",
-  "context": "ID: krx_laser_lmg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg_ups",
   "stage": 3
  },
  {
@@ -3722,13 +3688,13 @@
   "key": "a3946400a164afbbf927b2cc6227e266",
   "original": "MK-2 Ionic Cannon",
   "translation": "MK-II 实验性等离子炮",
+  "context": "ID: mk_ionic_cannon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mk_ionic_cannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mk_ionic_cannon",
   "stage": 3
  },
  {
   "key": "2524ce5c6d8109f612e1e17f310324b9",
   "original": "MK-2 ionic cannon",
   "translation": "MK-2离子炮",
-  "context": "ID: mk_ionic_cannon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mk_ionic_cannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mk_ionic_cannon",
   "stage": 0
  },
  {
@@ -3747,14 +3713,13 @@
   "key": "dad13c3cad97782afcd46583b619fcd0",
   "original": "MX-84 laser sniper",
   "translation": "MX-84 激光狙击枪",
-  "context": "ID: mx_laser_sniper\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper",
+  "context": "ID: mx_laser_sniper_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper_ups",
   "stage": 3
  },
  {
   "key": "e5c4d16d9ac8c1e1328fa8032a739307",
   "original": "MX-84E1 laser sniper",
   "translation": "MX-84E1 激光狙击枪",
-  "context": "ID: mx_laser_sniper_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper_ups",
   "stage": 3
  },
  {
@@ -3810,7 +3775,6 @@
   "key": "f211306e22b534201105f57b5502a68e",
   "original": "Men's designer boxer shorts.  Much more fashionable than briefs and just as comfortable.",
   "translation": "男式设计师拳击短裤。比内裤时尚得多，也同样舒适。",
-  "context": "ID: fancy_boxer_shorts\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_boxer_shorts\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_boxer_shorts",
   "stage": 0
  },
  {
@@ -3859,14 +3823,13 @@
   "key": "388e404abfecfa0797036909faa1235e",
   "original": "NEO-33 laser pistol",
   "translation": "NEO-33 激光手枪",
-  "context": "ID: neo_laser_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol",
+  "context": "ID: neo_laser_pistol_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol_ups",
   "stage": 3
  },
  {
   "key": "1e2194bc91051d94bc768b9098d7bc2d",
   "original": "NEO-33E1 laser pistol",
   "translation": "NEO-33E1 激光手枪",
-  "context": "ID: neo_laser_pistol_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→neo_laser_pistol_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=neo_laser_pistol_ups",
   "stage": 3
  },
  {
@@ -3970,12 +3933,14 @@
   "key": "c91955156e3da5eaa6bd880a23f95e11",
   "original": "Omnitech Labs' single shot laser rifle, designed to deal massive damage to a single target.  Intended to be used as a long-range support weapon by modern special forces.  Requires an insane amount of energy to fire a single powerful laser, additionally providing EMP effects.  This one has been converted to use UPS as its fuel source.",
   "translation": "Omnitech实验室生产的单发式激光狙击步枪，用于对单一目标造成巨大伤害。被现代特种部队用作远程支援武器。需要大额能量供能才可以发射，使用UPS供能。",
+  "context": "ID: mx_laser_sniper_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper_ups",
   "stage": 3
  },
  {
   "key": "e5e7284b23c44d13e9dac6e1a9c30687",
   "original": "Omnitech Labs' single shot laser rifle, designed to deal massive damage to a single target.  Intended to be used as a long-range support weapon by modern special forces.  Requires an insane amount of energy to fire a single powerful laser, additionally providing EMP effects.  Uses a proprietary atomic battery capacitor system",
   "translation": "Omnitech实验室生产的单发式激光狙击步枪，用于对单一目标造成巨大伤害。被现代特种部队用作远程支援武器。需要大额能量供能才能发射。",
+  "context": "ID: mx_laser_sniper\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mx_laser_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_laser_sniper",
   "stage": 3
  },
  {
@@ -4058,14 +4023,12 @@
   "key": "c2b8da3a547282a85ffa0481dfced2d3",
   "original": "Pouf plus Acid Effect",
   "translation": "普夫加酸效应",
-  "context": "ID: c_death_explosion_mon_fungus_failed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→SPELL→c_death_explosion_mon_fungus_failed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_death_explosion_mon_fungus_failed_weapon",
   "stage": 0
  },
  {
   "key": "f9960a419d935b9b2c95b2fb9824604e",
   "original": "Powering Beam Weapon",
   "translation": "动力光束武器",
-  "context": "ID: c_mi_go_beam_stamina\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→effect_type→c_mi_go_beam_stamina\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_stamina",
   "stage": 0
  },
  {
@@ -4810,14 +4773,12 @@
   "key": "3b31dfe8fd4b8ec481f4c5cfcbd38e44",
   "original": "Sentinel Power Storage",
   "translation": "哨兵式储能装置",
-  "context": "ID: bio_power_storage_sentinel\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→bionic→bio_power_storage_sentinel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_power_storage_sentinel",
   "stage": 0
  },
  {
   "key": "e46cf0b8c5c93b598b72fce4c6c36b95",
   "original": "Sentinel Power Storage CBM",
   "translation": "哨兵储能",
-  "context": "ID: bio_power_storage_sentinel\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BIONIC_ITEM→bio_power_storage_sentinel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_power_storage_sentinel",
   "stage": 0
  },
  {
@@ -4936,13 +4897,13 @@
   "key": "86119afb49d24077d437d800e257ef86",
   "original": "Short and sharp claws made from a high-tech metal welded to metal knuckles, salvaged from a CBM.  Lightweight and fast, wielding them feels as if you were bare-handed.",
   "translation": "短而锋利的爪子由高科技金属制成，焊接在金属指关节上，从CBM打捞而来。轻巧而快速，挥舞它们的感觉就像赤手空拳。",
-  "context": "ID: unbio_claws_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_claws_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_claws_weapon",
   "stage": 0
  },
  {
   "key": "0c3ed7c430c279a004af136cf69f2bc6",
   "original": "Short and sharp claws made from a high-tech metal welded to metal knuckles.  Lightweight and fast, wielding them feels as if you were bare-handed.",
   "translation": "短而锋利的爪子，由焊接在金属指关节上的高科技金属制成。轻巧而快速，挥舞它们感觉就像赤手空拳。",
+  "context": "ID: unbio_claws_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_claws_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_claws_weapon",
   "stage": 1
  },
  {
@@ -5026,7 +4987,6 @@
   "key": "0429314d533ef6dbd336c2f16ad80035",
   "original": "Small explosion plus acid effect, used by Apophis.",
   "translation": "小爆加酸效果，阿波菲斯使用。",
-  "context": "ID: c_death_explosion_hulk_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→SPELL→c_death_explosion_hulk_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_death_explosion_hulk_weapon",
   "stage": 0
  },
  {
@@ -5131,7 +5091,7 @@
   "key": "d54d1e5d7cc4955b3a7b74e7e5b5ee55",
   "original": "Superalloy Composite",
   "translation": "超级复合金属",
-  "context": "ID: c_superalloy_composite_heavy\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→material→c_superalloy_composite_heavy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_superalloy_composite_heavy",
+  "context": "ID: c_superalloy_composite\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→material→c_superalloy_composite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_superalloy_composite",
   "stage": 3
  },
  {
@@ -5487,7 +5447,6 @@
   "key": "a2d1d8b9583321fe74b9abec4698d601",
   "original": "The age-old question, boxers or briefs?  Your answer?  Yes, the fancy kind.",
   "translation": "这个古老的问题，是拳击手还是内裤？你的答案是什么？是的，是那种花式的。",
-  "context": "ID: fancy_boxer_briefs\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_boxer_briefs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_boxer_briefs",
   "stage": 0
  },
  {
@@ -5522,14 +5481,12 @@
   "key": "1f62293ee9c2589d196a7c638a359001",
   "original": "The carapace comes to life, spiracles dilating as environmental seals close.",
   "translation": "甲壳复活了，随着环境的封闭，螺旋扩张。",
-  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
   "stage": 0
  },
  {
   "key": "c71e77aeef75ae8f3481907dbf7d6081",
   "original": "The carapace suit doesn't respond, evidently out of energy.",
   "translation": "甲壳套装没有反应，显然是能量不足。",
-  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
   "stage": 0
  },
  {
@@ -5795,12 +5752,14 @@
   "key": "0f6814a0971f6eed2853af7a65b185af",
   "original": "The forge is on.  It is ready to use as indicated by the light.  Feed it more charcoal to keep it on.",
   "translation": "锻造炉开了。如指示灯所示，可随时使用。多喂点木炭，让它保持健康。",
+  "context": "ID: can_forge_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→can_forge_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_forge_on",
   "stage": 1
  },
  {
   "key": "75b15ee02020b2abcdea54a037c026a6",
   "original": "The forge is turned off.",
   "translation": "熔炉关闭了。",
+  "context": "ID: can_forge_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→can_forge_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_forge_on",
   "stage": 1
  },
  {
@@ -5870,7 +5829,6 @@
   "key": "058f4278ba3dd6fbed018d433df971c3",
   "original": "The salvaged stun emitter is wearing your body down a bit, presumably that's what powers it.",
   "translation": "打捞上来的眩晕发射器让你的身体有点疲惫，大概这就是它的动力。",
-  "context": "ID: c_mi_go_beam_stamina\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→effect_type→c_mi_go_beam_stamina\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_stamina",
   "stage": 0
  },
  {
@@ -5912,7 +5870,6 @@
   "key": "54a1a482e7a4a710ec66367a6ce561b0",
   "original": "The suit's sinews go slack, releasing you from its grasp.",
   "translation": "这套衣服的筋松了，让你摆脱了束缚。",
-  "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged_on",
   "stage": 0
  },
  {
@@ -6129,7 +6086,6 @@
   "key": "bb35bbde283cb4cf51fb450d7dfb46d7",
   "original": "This battery uses a thin plutonium-244 rod to stabilize multiple proprietary exotic compounds.  Designed by Omnitech for a military contract, this modified plutonium battery is rechargeable, but as it made for military purposes there is very little this is compatible with.",
   "translation": "该电池使用薄钚-244棒稳定多种专有外来化合物。Omnitech为军事合同设计的这种改良钚电池是可充电的，但由于它是为军事目的而制造的，因此与之兼容的很少。",
-  "context": "ID: heavy_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→heavy_atomic_battery_cell_rechargeable\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavy_atomic_battery_cell_rechargeable",
   "stage": 5
  },
  {
@@ -6248,7 +6204,6 @@
   "key": "5ae321fbc3b78b4c31ca8a387584f794",
   "original": "This is a laser cannon stripped from the barrel of a TX-5LR Cerberus laser turret that has been modified to use UPS power for firing.",
   "translation": "一个从TX-5LR “地狱犬”型激光炮塔上拆下的激光炮。被修改成使用UPS供电。",
-  "context": "ID: laser_cannon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged_override.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→laser_cannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=laser_cannon",
   "stage": 5
  },
  {
@@ -6269,12 +6224,14 @@
   "key": "7b50004d990e228990b41d1bf091e0df",
   "original": "This is a modified double-barreled ARC rifle, designed by Omnitech Labs.  Gains an EMP effect at the cost of range and firepower, relying on atomic cells instead of a UPS hookup.  It is fired in short pulses that act like buckshot; still decent against conventional threats but best against electronics.",
   "translation": "这是一种改进的双管电弧步枪，由Omnitech实验室设计。以射程和火力为代价获得EMP效果。它以短距离脉冲形式发射，就像霰弹一样;对付普通的威胁还不错，相对而言对付机械类敌人效果最好。",
+  "context": "ID: xarm_laser_shotgun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun",
   "stage": 3
  },
  {
   "key": "c6736a2bc4724a95e60b063fc0438ada",
   "original": "This is a modified double-barreled ARC rifle, designed by Omnitech Labs.  Gains an EMP effect at the cost of range and firepower.  It is fired in short pulses that act like buckshot; still decent against conventional threats but best against electronics.  This one has been converted to use UPS as its fuel source.",
   "translation": "这是一种改进的双管脉冲电弧散射枪，由Omnitech实验室设计。以牺牲射程和火力为代价获得EMP效果。它以短距离脉冲散射形式攻击，就像三棱镜分散光线那样;应对普通生命体效果还不错，相对而言对付机械类敌人效果最好，使用UPS供能。",
+  "context": "ID: xarm_laser_shotgun_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun_ups",
   "stage": 3
  },
  {
@@ -6309,14 +6266,12 @@
   "key": "8bb06db38497a85aa455ed116f0bcec3",
   "original": "This is an ARC rifle modified into something resembling a double-barrel shotgun.  It fires short-range EMP pulses; still decent against conventional threats but best against electronics.  The manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "这是一种弧形步枪，改装成类似双管猎枪的东西。它发射短程电磁脉冲；在对抗传统威胁时仍然不错，但在对抗电子设备时效果最好。制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: xarm_laser_shotgun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun",
   "stage": 0
  },
  {
   "key": "bb4a8b249da6b7d425e941678ec0f2da",
   "original": "This is an ARC rifle modified into something resembling a double-barrel shotgun.  It fires short-range EMP pulses; still decent against conventional threats but best against electronics.  The manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "这是一种弧形步枪，改装成类似双管猎枪的东西。它发射短程电磁脉冲；在对抗传统威胁时仍然不错，但在对抗电子设备时效果最好。制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: xarm_laser_shotgun_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun_ups",
   "stage": 0
  },
  {
@@ -6442,7 +6397,6 @@
   "key": "b5a8d8adfbad8ac1d0ee9ae2d9553962",
   "original": "Used to give Bio-Weapon Apophis a mockup of the laser gatling, minus setting targets on fire and a shorter burst size.  This is a bug if you find one of these!",
   "translation": "用于给生物武器阿波菲斯一个激光加特林的模型，减去点燃目标和一个更短的爆炸大小。这是一个错误，如果你发现其中一个！",
-  "context": "ID: bio_laser_minigun_monster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Monsters/c_ranged_monster.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→bio_laser_minigun_monster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_laser_minigun_monster",
   "stage": 0
  },
  {
@@ -6736,26 +6690,26 @@
   "key": "1cee6284e7c1a734a28677a549136a0d",
   "original": "With the power per shot of the ARC and the firerate of the AKRO, Omnitech Labs' KRX-108 was made to overwhelm enemies with supreme firepower.  While not very energy-efficient, this behemoth can deal a devastating blow to large groups of enemies, but each pulse draws heavily from a proprietary atomic battery connection.  If attached to a vehicle mount, it can also make full use of its otherwise-limited automated targeting.",
   "translation": "Omnitech实验室生产的拥有强大火力激光轻机枪，它可以对一大群敌人造成毁灭性的打击，代价就是需要巨额能源来驱动。如果安装在车辆上，它还可以充分利用其自动定位功能自动攻击敌人。",
+  "context": "ID: krx_laser_lmg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg",
   "stage": 3
  },
  {
   "key": "ecf332e5a2e995311f1402183fbe3684",
   "original": "With the power per shot of the ARC and the firerate of the AKRO, Omnitech Labs' KRX-108 was made to overwhelm enemies with supreme firepower.  While not very energy-efficient, this behemoth can deal a devastating blow to large groups of enemies.  If attached to a vehicle mount, it can also make full use of its otherwise-limited automated targeting.  This one has been converted to use UPS as its fuel source.",
   "translation": "Omnitech实验室生产的拥有强大火力激光轻机枪，它可以对一大群敌人造成毁灭性的打击，代价就是需要巨额能源来驱动。如果安装在车辆上，它还可以充分利用其自动定位功能自动攻击敌人，使用UPS供能。",
+  "context": "ID: krx_laser_lmg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg_ups",
   "stage": 3
  },
  {
   "key": "1dea32f3d41986aee2a954be5c62ba94",
   "original": "With the power per shot of the ARC and the firerate of the AKRO, Omnitech Labs' KRX-108 was made to overwhelm enemies with supreme firepower.  While not very energy-efficient, this behemoth can deal a devastating blow to large groups of enemies.  The manufacturer is listed as Omnitech Labs.  Powered by atomic power cells or an experimental rechargeable version, for heavy use where a UPS would not be sustainable in the short term.",
   "translation": "Omnitech实验室的KRX-108以每发电弧的威力和AKRO的火速制造，以超强的火力压倒敌人。虽然不是很节能，但这只庞然大物可以对大量敌人造成毁灭性打击。制造商被列为Omnitech实验室。由原子能电池或实验性可充电电池供电，用于UPS短期内不可持续的大量使用。",
-  "context": "ID: krx_laser_lmg\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg",
   "stage": 0
  },
  {
   "key": "3350c82642ba67324248f2a9dc8d1500",
   "original": "With the power per shot of the ARC and the firerate of the AKRO, Omnitech Labs' KRX-108 was made to overwhelm enemies with supreme firepower.  While not very energy-efficient, this behemoth can deal a devastating blow to large groups of enemies.  The manufacturer is listed as Omnitech Labs.  This one has been converted to use a UPS, a modification to allow sustained operations in the field in case resupply is not available.",
   "translation": "Omnitech实验室的KRX-108以每发电弧的威力和AKRO的火速制造，以超强的火力压倒敌人。虽然不是很节能，但这只庞然大物可以对大量敌人造成毁灭性打击。制造商被列为Omnitech实验室。这一个已经转换为使用UPS，这是一种修改，以允许在无法再补给的情况下在现场持续作业。",
-  "context": "ID: krx_laser_lmg_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→krx_laser_lmg_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=krx_laser_lmg_ups",
   "stage": 0
  },
  {
@@ -6769,20 +6723,19 @@
   "key": "ec9950df4008d1271bb9043ac6e366d5",
   "original": "XARM-37 Pulse Scatter Gun",
   "translation": "XARM-37脉冲散射枪",
+  "context": "ID: xarm_laser_shotgun_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun_ups",
   "stage": 3
  },
  {
   "key": "36d007a77f5865e720a1bc30be4b83d0",
   "original": "XARM-37 pulse scattergun",
   "translation": "XARM-37 脉冲散射枪",
-  "context": "ID: xarm_laser_shotgun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun",
   "stage": 3
  },
  {
   "key": "8ff10ca566654ae9f9c63253fba1e542",
   "original": "XARM-37E1 pulse scattergun",
   "translation": "XARM-37E1 脉冲散射枪",
-  "context": "ID: xarm_laser_shotgun_ups\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→xarm_laser_shotgun_ups\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xarm_laser_shotgun_ups",
   "stage": 3
  },
  {
@@ -7125,13 +7078,13 @@
   "key": "f99f11fa3435696ec8a6febcf20a811e",
   "original": "You were part of a an advanced infantry unit, deployed to one of several 'priority sites' as part of a last-ditch effort to get the situation under control.  Delays and casualties led to you being the only one left by the time you reached the objective, and things aren't looking any better.",
   "translation": "你是超级士兵特殊部队中的一员，该部队在大灾变来临之际被部署到几个优先保护地点之一，上级要求以尽一切之努力使局势得到控制，延误和人员伤亡导致你在达到目的地时仅剩一人，而且情况并没有丝毫好转。",
+  "context": "ID: experiment_soldier_start\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→experiment_soldier_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=experiment_soldier_start",
   "stage": 3
  },
  {
   "key": "cab6ce4d626ac9e1932223ac9943a694",
   "original": "You were part of a an advanced infantry unit, deployed to one of several 'priority sites' as part of a last-ditch effort to get the situation under control.  Delays, casualties and having to fight your way through the chaos led to you being the only one left by the time you reached the objective, and with you being so hurt, things aren't looking any better.",
   "translation": "你是一支先进的步兵部队的一员，被部署到几个“优先地点”之一，作为控制局势的最后努力的一部分。延误、伤亡和必须在混乱中奋力拼搏，导致你在达到目标时成为唯一剩下的人，而你的伤势如此之重，一切看起来都没有好转。",
-  "context": "ID: experiment_soldier_start\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→experiment_soldier_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=experiment_soldier_start",
   "stage": 0
  },
  {
@@ -7348,14 +7301,12 @@
   "key": "fe3044d6329242311f7614128ef2b7a5",
   "original": "Your left arm has been replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand.",
   "translation": "你的左手臂被改造成了一只重型核聚变炮！你可以消耗部分能量，释放高温毁灭射线攻击敌人！作为代价，你将无法使用或搬运需要使用双手的物品，并且只能使用单手枪械。\n“爆符「千兆耀斑」”",
-  "context": "ID: bio_blaster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BIONIC_ITEM→bio_blaster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster",
   "stage": 5
  },
  {
   "key": "f37c94d5b0cd8dcba8b23ae0ade541d2",
   "original": "Your left arm has been surgically replaced by a heavy-duty fusion blaster!  You may use your energy banks to fire a damaging heat ray.  However, you are unable to use or carry two-handed items, and your strength limits what you can use with your one hand.",
   "translation": "你的左臂经过手术被改造成了一只重型核聚变炮！你可以消耗部分能量，释放高温毁灭射线来攻击敌人！\n* 装备该CBM将切除你的左臂，从此将无法再使用或搬运需要使用双手的物品，并且只能使用单手枪械，请慎重考虑。\n“爆符「千兆耀斑」”",
-  "context": "ID: bio_blaster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→bionic→bio_blaster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster",
   "stage": 5
  },
  {
@@ -7571,7 +7522,6 @@
   "key": "719e8bc6fc4c493486b4abef6b3bed9d",
   "original": "biological lens",
   "translation": "生物晶体",
-  "context": "ID: c_mi_go_beam_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_beam_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_broken",
   "stage": 0
  },
  {
@@ -7627,6 +7577,7 @@
   "key": "9f42bbac24baba3c4487ff6827a97e8f",
   "original": "bionic claw knuckles",
   "translation": "生化合金爪",
+  "context": "ID: unbio_claws_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_claws_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_claws_weapon",
   "stage": 3
  },
  {
@@ -7654,13 +7605,13 @@
   "key": "58d2aa2ec2586c321eb92fdd137d956d",
   "original": "can forge (on)",
   "translation": "罐式锻炉（开）",
+  "context": "ID: can_forge_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→can_forge_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_forge_on",
   "stage": 3
  },
  {
   "key": "e34668b4c5c14f7ea5f3f78da5742f60",
   "original": "carapace husk",
   "translation": "甲壳壳",
-  "context": "ID: c_mi_go_carapace_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_carapace_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_broken",
   "stage": 0
  },
  {
@@ -7681,6 +7632,7 @@
   "key": "75e1290d4f47db973a8dd50ff891f17f",
   "original": "coilgun",
   "translation": "磁链线圈炮",
+  "context": "ID: coilgun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged_override.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→coilgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=coilgun",
   "stage": 3
  },
  {
@@ -7736,21 +7688,18 @@
   "key": "32a6e99b94fcd75af36bcfd8de891418",
   "original": "designer bathrobe",
   "translation": "设计师浴袍",
-  "context": "ID: fancy_house_coat\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_house_coat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_house_coat",
   "stage": 0
  },
  {
   "key": "94d5d780de86f41d754fc5ad65bb7158",
   "original": "designer boxer briefs",
   "translation": "设计师拳击内裤",
-  "context": "ID: fancy_boxer_briefs\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_boxer_briefs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_boxer_briefs",
   "stage": 0
  },
  {
   "key": "2e568568272ddaa50897e2f60da57562",
   "original": "designer boxer shorts",
   "translation": "名牌拳击短裤",
-  "context": "ID: fancy_boxer_shorts\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_boxer_shorts\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_boxer_shorts",
   "stage": 0
  },
  {
@@ -7764,14 +7713,12 @@
   "key": "b5c21b8ed71501837e9fba22884005ff",
   "original": "designer briefs",
   "translation": "设计师内裤",
-  "context": "ID: fancy_briefs\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_briefs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_briefs",
   "stage": 1
  },
  {
   "key": "9782a2b727c26e118b1057911072dfa4",
   "original": "designer panties",
   "translation": "设计师内裤",
-  "context": "ID: fancy_panties\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→fancy_panties\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fancy_panties",
   "stage": 0
  },
  {
@@ -7862,7 +7809,6 @@
   "key": "db2208a2df33c271b46b68f4e63822c8",
   "original": "fur bikini bottom",
   "translation": "毛皮比基尼底",
-  "context": "ID: bikini_bottom_fur\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→bikini_bottom_fur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bikini_bottom_fur",
   "stage": 0
  },
  {
@@ -7876,7 +7822,6 @@
   "key": "5b549dd4f699d5c97e5c746d9c3e4eea",
   "original": "fusion blaster",
   "translation": "热熔炮",
-  "context": "ID: bio_blaster_gun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→bio_blaster_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster_gun",
   "stage": 5
  },
  {
@@ -7917,7 +7862,6 @@
   "key": "998620d9e8ef3edc718f780198bf4772",
   "original": "handheld laser cannon",
   "translation": "手持TX-5LR 激光加农炮",
-  "context": "ID: laser_cannon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged_override.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→laser_cannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=laser_cannon",
   "stage": 5
  },
  {
@@ -8008,7 +7952,6 @@
   "key": "d158026fd921d2779171a2f0e877af96",
   "original": "leather bikini bottom",
   "translation": "皮革比基尼底",
-  "context": "ID: bikini_bottom_leather\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→bikini_bottom_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bikini_bottom_leather",
   "stage": 0
  },
  {
@@ -8043,7 +7986,6 @@
   "key": "17c144538637e2cc99e50827e4eac7f3",
   "original": "light rechargeable plutonium cell",
   "translation": "轻可再充钚电池",
-  "context": "ID: light_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→light_atomic_battery_cell_rechargeable\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=light_atomic_battery_cell_rechargeable",
   "stage": 0
  },
  {
@@ -8085,7 +8027,6 @@
   "key": "a5528c39617cb73f6d77d8f7b04d6e60",
   "original": "medium rechargeable plutonium cell",
   "translation": "中型可再充钚电池",
-  "context": "ID: medium_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→medium_atomic_battery_cell_rechargeable\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=medium_atomic_battery_cell_rechargeable",
   "stage": 0
  },
  {
@@ -8183,20 +8124,20 @@
   "key": "3f5728d9e9b29f71afa3ce3149ac3e3c",
   "original": "monomolecular knife",
   "translation": "单分子短刀",
+  "context": "ID: unbio_bladed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_bladed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_bladed_weapon",
   "stage": 3
  },
  {
   "key": "4822759bc9b13b61fd25b3cbd5927655",
   "original": "monomolecular sword",
   "translation": "单分子铳剑",
-  "context": "ID: bio_sword_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→bio_sword_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_sword_weapon",
+  "context": "ID: unbio_sword_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_sword_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_sword_weapon",
   "stage": 3
  },
  {
   "key": "8252c2367ed216fb5f6242d79e38a3ac",
   "original": "monster laser gatling",
   "translation": "怪物激光转管器",
-  "context": "ID: bio_laser_minigun_monster\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Monsters/c_ranged_monster.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→bio_laser_minigun_monster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_laser_minigun_monster",
   "stage": 0
  },
  {
@@ -8539,77 +8480,66 @@
   "key": "a880aeb188ba2d601a4ea21ba97a3110",
   "original": "repurposed bionic claws",
   "translation": "重新设计的仿生爪子",
-  "context": "ID: unbio_claws_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_claws_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_claws_weapon",
   "stage": 0
  },
  {
   "key": "d820559414abdd933c9e2db8390a586b",
   "original": "repurposed monomolecular knife",
   "translation": "改用单分子刀",
-  "context": "ID: unbio_bladed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_bladed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_bladed_weapon",
   "stage": 0
  },
  {
   "key": "860072c5d3e23db888c0881e3f72728b",
   "original": "repurposed monomolecular sword",
   "translation": "改用单分子剑",
-  "context": "ID: unbio_sword_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→unbio_sword_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=unbio_sword_weapon",
   "stage": 0
  },
  {
   "key": "192f2a9dd20268888c37ff758b114526",
   "original": "resin bullet",
   "translation": "树脂子弹",
-  "context": "ID: c_alien_resin_bullet\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet",
   "stage": 0
  },
  {
   "key": "bc2f10c8a8735f0774bba713bfc150d2",
   "original": "resin pellets",
   "translation": "树脂颗粒",
-  "context": "ID: c_alien_resin_bullet_type\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ammunition_type→c_alien_resin_bullet_type\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet_type",
   "stage": 0
  },
  {
   "key": "e652e2c3dd42b16ef53e532408e6298c",
   "original": "resin projector",
   "translation": "树脂投影仪",
-  "context": "ID: c_mi_go_rifle_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_rifle_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_broken",
   "stage": 0
  },
  {
   "key": "8071406328c49a2be15b4d6da048d165",
   "original": "salvaged carapace armor",
   "translation": "打捞上来的甲壳盔甲",
-  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
   "stage": 0
  },
  {
   "key": "c2b03edfb7f146acb89dfe92da8f39e7",
   "original": "salvaged carapace armor (on)",
   "translation": "打捞上来的甲壳盔甲(上)",
-  "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged_on",
   "stage": 0
  },
  {
   "key": "7484a17e4bc84d0b1bd813608db156b1",
   "original": "salvaged claw blade",
   "translation": "打捞出来的爪形刀片",
-  "context": "ID: c_mi_go_claw_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_claw_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_claw_salvaged",
   "stage": 0
  },
  {
   "key": "34db5412fe43c37abd8406d0730e05d5",
   "original": "salvaged resin rifle",
   "translation": "回收树脂步枪",
-  "context": "ID: c_mi_go_rifle_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_rifle_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_salvaged",
   "stage": 0
  },
  {
   "key": "c5a16b7624e60a605d53026b364326e6",
   "original": "salvaged stun emitter",
   "translation": "打捞眩晕发射器",
-  "context": "ID: c_mi_go_beam_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_beam_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_salvaged",
   "stage": 0
  },
  {
@@ -8749,7 +8679,6 @@
   "key": "affcd9091fffabb4c4c0c94894bf37bc",
   "original": "surgical claw",
   "translation": "手术爪",
-  "context": "ID: c_mi_go_claw_broken\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→c_mi_go_claw_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_claw_broken",
   "stage": 0
  },
  {
@@ -8770,7 +8699,6 @@
   "key": "32bc96fbe7173ce5e2f3ea605108660f",
   "original": "survivor cuirass",
   "translation": "幸存者胸甲",
-  "context": "ID: cuirass_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→cuirass_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_lightplate_surv",
   "stage": 0
  },
  {
@@ -8791,14 +8719,12 @@
   "key": "a8f06de3f688ce984372a5266f048647",
   "original": "survivor steel arm guards",
   "translation": "幸存者钢臂防护装置",
-  "context": "ID: armguard_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→armguard_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_lightplate_surv",
   "stage": 5
  },
  {
   "key": "8773d6ab6721ada1399dbafee6f68e0c",
   "original": "survivor steel leg guards",
   "translation": "幸存者钢护腿",
-  "context": "ID: legguard_lightplate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→legguard_lightplate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_lightplate_surv",
   "stage": 5
  },
  {
@@ -8889,14 +8815,12 @@
   "key": "9f56042ea8c8d8a62a71c7f822077acc",
   "original": "survivor's .50 automatic AMR",
   "translation": "幸存者. 50自动AMR",
-  "context": "ID: surv_full_50\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_full_50",
   "stage": 0
  },
  {
   "key": "f90629aa50b227f50668fa6d9b55b18c",
   "original": "survivor's .50 magazine",
   "translation": "幸存者 .50弹匣",
-  "context": "ID: surv_50_mag\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→surv_50_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_50_mag",
   "stage": 3
  },
  {
@@ -9127,7 +9051,6 @@
   "key": "2a141b2bd5b88486c877371cf9fb00d9",
   "original": "this a pseudo item",
   "translation": "这是一个假的道具",
-  "context": "ID: bio_blaster_gun\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→bio_blaster_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_blaster_gun",
   "stage": 5
  },
  {
