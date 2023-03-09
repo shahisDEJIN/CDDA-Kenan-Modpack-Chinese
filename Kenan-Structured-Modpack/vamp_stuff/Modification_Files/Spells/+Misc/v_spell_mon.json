@@ -2,7 +2,7 @@
   {
     "id": "mon_desolation_aura",
     "type": "MONSTER",
-    "name": { "str": "desolate gloom" },
+    "name": "desolate gloom",
     "description": "A hovering mist of pure dread, undulating in soft, patterned beats.",
     "default_faction": "player",
     "species": [ "HORROR" ],
@@ -24,7 +24,7 @@
     "vision_night": 30,
     "harvest": "exempt",
     "emit_fields": [ "emit_v_desolate" ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -44,7 +44,7 @@
   {
     "id": "mon_orus_bloodling",
     "type": "MONSTER",
-    "name": { "str": "bloodling" },
+    "name": "bloodling",
     "description": "Bloated lump of blood, forming into something... frightening.",
     "default_faction": "zombie",
     "species": [ "ZOMBIE" ],
@@ -63,7 +63,7 @@
     "melee_dice": 2,
     "melee_dice_sides": 2,
     "armor_bash": 20,
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "regenerates": 5,
     "flags": [
       "SEES",
@@ -82,7 +82,7 @@
   {
     "id": "mon_ether_shadow",
     "type": "MONSTER",
-    "name": { "str": "etherean silhouette" },
+    "name": "etherean silhouette",
     "description": "A deceitful humanoid shadow, glimmering in faint, ghastly light.",
     "default_faction": "player",
     "species": [ "HORROR" ],
@@ -102,6 +102,7 @@
     "melee_dice_sides": 0,
     "dodge": 8,
     "armor_cut": 999,
+    "armor_bullet": 999,
     "armor_stab": 999,
     "armor_bash": 999,
     "vision_day": 18,
@@ -117,13 +118,13 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   },
   {
     "id": "mon_idol_vex",
     "type": "MONSTER",
-    "name": { "str": "Vex" },
+    "name": "Vex",
     "description": "An etherean deity, concealed beneath an impenetrable barrier. Within a clear vision, a vaguely humanoid figure floats freely mid-air.",
     "default_faction": "player",
     "species": [ "HORROR" ],
@@ -142,6 +143,7 @@
     "melee_dice_sides": 0,
     "dodge": 5,
     "armor_cut": 999,
+    "armor_bullet": 999,
     "armor_stab": 999,
     "armor_bash": 999,
     "vision_day": 30,
@@ -157,13 +159,13 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   },
   {
     "id": "mon_idol_vex_etherhar",
     "type": "MONSTER",
-    "name": { "str": "ethereal harbringer" },
+    "name": "ethereal harbringer",
     "description": "A ghastly cloud of concentrated etherean power. Seems to be volatile, and may suddenly implode when it is touched.",
     "default_faction": "player",
     "species": [ "HORROR" ],
@@ -181,6 +183,7 @@
     "melee_dice_sides": 0,
     "dodge": 2,
     "armor_cut": 999,
+    "armor_bullet": 999,
     "armor_stab": 999,
     "armor_bash": 999,
     "vision_day": 10,
@@ -196,7 +199,7 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   }
 ]

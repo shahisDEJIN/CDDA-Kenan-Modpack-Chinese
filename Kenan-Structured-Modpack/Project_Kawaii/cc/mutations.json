@@ -8,7 +8,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -20,7 +19,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -32,7 +30,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -44,7 +41,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -56,7 +52,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -68,7 +63,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -80,7 +74,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -92,7 +85,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -104,7 +96,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -116,7 +107,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -128,7 +118,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -140,7 +129,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -152,7 +140,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -164,7 +151,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -176,7 +162,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -188,7 +173,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -200,7 +184,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -212,7 +195,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -224,7 +206,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -236,7 +217,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   }
 ]

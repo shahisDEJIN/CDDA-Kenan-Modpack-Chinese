@@ -1,13 +1,18 @@
-// Disabled. This is part of flesh hivemind.
-
 [
   {
+    "id": "TRACKED",
+    "type": "json_flag",
+    "context": [ "vehicle_part" ]
+  },
+  {
     "id": "SECRO_FLESH",
-    "type": "json_flag"
+    "type": "json_flag",
+    "context": [ "vehicle_part" ]
   },
   {
     "id": "NEEDS_SECRO_FLESH",
     "type": "json_flag",
+    "context": [ "vehicle_part" ],
     "requires_flag": "SECRO_FLESH"
   },
   {
@@ -221,7 +226,7 @@
     "durability": 525,
     "epower": 0,
     "fuel_type": "secro_flesh",
-    "fuel_options": [ "secro_flesh", "secro_flesh_fuel" ],
+    "fuel_options": [ "secro_flesh" ],
     "power": 322500,
     "energy_consumption": 100000,
     "backfire_threshold": 0,
@@ -318,10 +323,30 @@
   },
   {
     "type": "vehicle_part",
-    "id": "secro_flesh_aisle",
+    "id": "secro_flesh_aisle_horizontal",
     "name": { "str": "bio-organic aisle" },
-    "symbol": "S",
-    "symbols": { "horizontal": "H", "vertical": "=" },
+	"symbol": "=",
+    "color": "light_red",
+    "broken_symbol": "#",
+    "broken_color": "red",
+    "durability": 350,
+    "description": "A smooth, flesh aisle.",
+    "item": "secro_flesh_plate_small",
+    "location": "center",
+    "requirements": {
+      "install": { "time": "10 m", "using": [ [ "secro_flesh_vehicle_morph", 2 ] ] },
+      "removal": { "time": "10 m", "using": [ [ "secro_flesh_vehicle_reform", 1 ] ] },
+      "repair": { "time": "5 m", "using": [ [ "secro_flesh_vehicle_morph", 1 ] ] }
+    },
+    "flags": [ "AISLE", "BOARDABLE", "NEEDS_SECRO_FLESH" ],
+    "breaks_into": [ { "item": "meat", "prob": 50, "count": 6 } ],
+    "damage_reduction": { "all": 20, "bash": 45 }
+  },
+  {
+    "type": "vehicle_part",
+    "id": "secro_flesh_aisle_vertical",
+    "name": { "str": "bio-organic aisle" },
+    "symbol": "H",
     "color": "light_red",
     "broken_symbol": "#",
     "broken_color": "red",
@@ -620,8 +645,8 @@
     "material": [ "flesh", "bone" ],
     "volume": "20 L",
     "bashing": 20,
-    "price": "0 cent",
-    "price_postapoc": "0 cent",
+    "price": 0,
+    "price_postapoc": 0,
     "copy-from": "foldframe"
   },
   {
@@ -636,8 +661,9 @@
     "weight": "17000 g",
     "volume": "40 L",
     "capacity": 2000,
+    "reliability": 10,
     "ammo_type": "secro_flesh",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   },
   {
@@ -653,7 +679,7 @@
     "volume": "10 L",
     "bashing": 2,
     "category": "veh_parts",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   },
   {
@@ -669,13 +695,13 @@
     "volume": "20 L",
     "bashing": 2,
     "category": "veh_parts",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   },
   {
     "type": "WHEEL",
     "id": "secro_flesh_wheel",
-    "name": { "str_sp": "ossified flesh heap" },
+    "name": { "str": "ossified flesh heap" },
     "description": "A large chunk of bio-organic flesh with higher density thanks to its additional bone growths. Although it is rigid, it can morph into large bodily forms if installed as a vehicle part.",
     "weight": "28400 g",
     "to_hit": -1,
@@ -685,15 +711,15 @@
     "volume": "15 L",
     "bashing": 10,
     "category": "veh_parts",
-    "price": "0 cent",
-    "price_postapoc": "0 cent",
+    "price": 0,
+    "price_postapoc": 0,
     "diameter": 30,
     "width": 20
   },
   {
     "type": "GENERIC",
     "id": "secro_flesh_plate_large",
-    "name": { "str_sp": "large flesh heap" },
+    "name": { "str": "large flesh heap" },
     "description": "A large chunk of bio-organic flesh. Morphs into any shape you want it to be if installed as a vehicle part.",
     "weight": "19700 g",
     "to_hit": -1,
@@ -703,13 +729,13 @@
     "volume": "6 L",
     "bashing": 6,
     "category": "veh_parts",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   },
   {
     "type": "GENERIC",
     "id": "secro_flesh_plate",
-    "name": { "str_sp": "flesh heap" },
+    "name": { "str": "flesh heap" },
     "description": "A chunk of bio-organic flesh. Morphs into any shape you want it to be if installed as a vehicle part.",
     "weight": "10035 g",
     "to_hit": -1,
@@ -719,13 +745,13 @@
     "volume": "3 L",
     "bashing": 6,
     "category": "veh_parts",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   },
   {
     "type": "GENERIC",
     "id": "secro_flesh_plate_small",
-    "name": { "str_sp": "small flesh heap" },
+    "name": { "str": "small flesh heap" },
     "description": "A small chunk of bio-organic flesh. Morphs into any shape you want it to be if installed as a vehicle part.",
     "weight": "3200 g",
     "to_hit": -1,
@@ -735,7 +761,7 @@
     "volume": "1 L",
     "bashing": 6,
     "category": "veh_parts",
-    "price": "0 cent",
+    "price": 0,
     "price_postapoc": 0
   }
 ]

@@ -31,6 +31,7 @@
     "death_drops": "BL9_Drops_Cult",
     "luminance": 0,
     "hp": 205,
+    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "GRABS", "SMELLS", "HEARS", "BASHES", "GOODHEARING", "STUMBLES", "WARM", "FILTHY", "NO_BREATHE", "REVIVES" ],
     "anger_triggers": [ "PLAYER_CLOSE", "HURT" ],
     "harvest": "zombie",
@@ -79,6 +80,7 @@
       [ "BIO_OP_TAKEDOWN", 22 ]
     ],
     "death_drops": "mon_zombie_hulk_death_drops",
+    "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -91,6 +93,7 @@
       "ATTACKMON",
       "NO_BREATHE",
       "REVIVES",
+      "PATH_AVOID_DANGER_1",
       "PUSH_MON",
       "PUSH_VEH",
       "FILTHY"
@@ -152,7 +155,20 @@
       }
     ],
     "death_drops": "BL9_Drops_Clawer",
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "POISON", "NO_BREATHE", "REVIVES", "PUSH_MON", "FILTHY" ]
+    "death_function": [ "NORMAL" ],
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "POISON",
+      "NO_BREATHE",
+      "REVIVES",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON",
+      "FILTHY"
+    ]
   },
   {
     "id": "mon_BL9_assassin",
@@ -184,6 +200,7 @@
     "armor_bash": 6,
     "armor_cut": 9,
     "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Assassin",
     "special_attacks": [
       [ "PARROT", 5 ],
@@ -226,7 +243,19 @@
         "miss_msg_npc": "The %s slams <npcname>, but they dodge!"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "NIGHT_INVISIBILITY", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "NIGHT_INVISIBILITY",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_twisted_one",
@@ -258,6 +287,7 @@
     "armor_bash": 7,
     "armor_cut": 8,
     "armor_bullet": 8,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Twistedone",
     "special_attacks": [
       [ "PARROT", 5 ],
@@ -335,7 +365,19 @@
         "monster_message": "<color_light_red>%1$s sends a tentacle towards %3$s!</color>"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "NIGHT_INVISIBILITY", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "NIGHT_INVISIBILITY",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_inhrav_6",
@@ -364,6 +406,7 @@
     "armor_bash": 10,
     "armor_cut": 10,
     "armor_bullet": 10,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -446,6 +489,7 @@
     "armor_bash": 10,
     "armor_cut": 10,
     "armor_bullet": 10,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -528,6 +572,7 @@
     "armor_bash": 12,
     "armor_cut": 12,
     "armor_bullet": 12,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -610,6 +655,7 @@
     "armor_bash": 12,
     "armor_cut": 12,
     "armor_bullet": 12,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -692,6 +738,7 @@
     "armor_bash": 12,
     "armor_cut": 12,
     "armor_bullet": 12,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -791,7 +838,7 @@
     "looks_like": "mon_zombie_hollow",
     "type": "MONSTER",
     "name": { "str": "BL9 Regenerator" },
-    "description": "An experimental pale mutant with skinny limbs and dreadful visage. it's strong regenerative prowess is an offset to it's fragile body.",
+    "description": " An experimental pale mutant with skinny limbs and dreadful visage. it's strong regenerative prowess is an offset to it's fragile body.",
     "default_faction": "BL9_military",
     "species": [ "ZOMBIE", "MUTANT" ],
     "volume": "62500 ml",
@@ -811,6 +858,7 @@
     "melee_dice_sides": 1,
     "dodge": 2,
     "regenerates": 15,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Regen",
     "special_attacks": [
       {
@@ -877,6 +925,7 @@
     "melee_dice_sides": 1,
     "dodge": 2,
     "regenerates": 23,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Regen",
     "special_attacks": [
       {
@@ -964,6 +1013,7 @@
     "armor_bash": 8,
     "armor_cut": 11,
     "armor_bullet": 11,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Regen",
     "special_attacks": [
       { "id": "scratch", "damage_max_instance": [ { "damage_type": "cut", "amount": 12, "armor_multiplier": 1.15 } ] },
@@ -987,7 +1037,19 @@
         "monster_message": "<color_light_red>%1$s sends a tentacle towards %3$s!</color>"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "NIGHT_INVISIBILITY", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "NIGHT_INVISIBILITY",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_chimera_mutated",
@@ -1019,6 +1081,7 @@
     "armor_bash": 8,
     "armor_cut": 11,
     "armor_bullet": 11,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Chimeraevo",
     "special_attacks": [
       { "id": "scratch", "damage_max_instance": [ { "damage_type": "cut", "amount": 12, "armor_multiplier": 1.15 } ] },
@@ -1042,7 +1105,19 @@
         "monster_message": "<color_light_red>%1$s slashes %3$s with it's pincer!</color>"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "NIGHT_INVISIBILITY", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "NIGHT_INVISIBILITY",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_general_mutated",
@@ -1074,6 +1149,7 @@
     "armor_bash": 5,
     "armor_cut": 7,
     "armor_bullet": 7,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_General",
     "special_attacks": [
       [ "PARROT", 5 ],
@@ -1097,7 +1173,19 @@
         "monster_message": "<color_light_red>%1$s leaps at %3$s!</color> and slashes wildly"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "NIGHT_INVISIBILITY", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "NIGHT_INVISIBILITY",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_vile_one",
@@ -1130,6 +1218,7 @@
     "armor_bash": 9,
     "armor_cut": 9,
     "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Vileone",
     "special_attacks": [
       [ "PARROT", 5 ],
@@ -1167,7 +1256,18 @@
         "monster_message": "<color_light_red>%1$s's head stretches then crunches at %3$s!</color>"
       }
     ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "PUSH_MON" ]
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "NO_BREATHE",
+      "PATH_AVOID_DANGER_1",
+      "PUSH_MON"
+    ]
   },
   {
     "id": "mon_BL9_supersoldier_2",
@@ -1196,6 +1296,7 @@
     "armor_bash": 15,
     "armor_cut": 15,
     "armor_bullet": 15,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -1317,6 +1418,7 @@
     "armor_bash": 15,
     "armor_cut": 15,
     "armor_bullet": 15,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -1438,6 +1540,7 @@
     "armor_bash": 21,
     "armor_cut": 21,
     "armor_bullet": 21,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {
@@ -1559,6 +1662,7 @@
     "armor_bash": 21,
     "armor_cut": 21,
     "armor_bullet": 21,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Aliens_Amalgamations",
     "special_attacks": [
       {

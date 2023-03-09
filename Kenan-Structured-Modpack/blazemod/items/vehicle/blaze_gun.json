@@ -37,8 +37,7 @@
       [ "underbarrel", 1 ]
     ],
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt" ],
-    "flags": [ "RELOAD_ONE" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "22": 19 } } ]
+    "flags": [ "RELOAD_ONE" ]
   },
   {
     "id": "blaze_sks",
@@ -49,7 +48,6 @@
     "description": "An SKS, modified to be suitable for use in a vehicle turret",
     "weight": "3850 g",
     "volume": "2838 ml",
-    "longest_side": "103 cm",
     "price": "380 USD",
     "price_postapoc": "35 USD",
     "to_hit": -1,
@@ -63,7 +61,7 @@
     "dispersion": 90,
     "durability": 8,
     "clip_size": 10,
-    "barrel_volume": "500 ml",
+    "barrel_length": "500 ml",
     "built_in_mods": [ "inter_bayonet" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
@@ -79,7 +77,6 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "flags": [ "RELOAD_ONE", "NEVER_JAMS" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "762": 10 } } ]
+    "flags": [ "RELOAD_ONE", "NEVER_JAMS" ]
   }
 ]

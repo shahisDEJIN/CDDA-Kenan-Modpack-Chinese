@@ -29,6 +29,7 @@
     "armor_bash": 5,
     "armor_cut": 5,
     "armor_bullet": 5,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Repto",
     "special_attacks": [
       {
@@ -90,6 +91,7 @@
     "armor_bash": 7,
     "armor_cut": 10,
     "armor_bullet": 10,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Reptoevo",
     "special_attacks": [
       {
@@ -145,7 +147,7 @@
     "melee_dice_sides": 1,
     "dodge": 3,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
-    "melee_damage": [ { "damage_type": "cut", "amount": 5, "armor_penetration": 7 } ],
+    "melee_damage": [ { "damage_type": "cut", "amount": 4, "armor_penetration": 7 } ],
     "vision_night": 5,
     "armor_bash": 4,
     "armor_cut": 4,
@@ -174,6 +176,7 @@
         "miss_msg_npc": "The %s scratches <npcname>, but they dodge!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Scrawler",
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "FLIES" ]
   },
@@ -253,8 +256,9 @@
         "miss_msg_npc": "The %s slashes <npcname>, but they dodge!"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Scrawlerevo",
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "PUSH_MON" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_ivy",
@@ -286,6 +290,7 @@
     "armor_bash": 9,
     "armor_cut": 9,
     "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Clawer",
     "special_attacks": [
       {
@@ -343,6 +348,7 @@
     "armor_bash": 9,
     "armor_cut": 9,
     "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Clawer",
     "special_attacks": [
       {
@@ -400,6 +406,7 @@
     "armor_bash": 9,
     "armor_cut": 9,
     "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Clawer",
     "special_attacks": [
       {

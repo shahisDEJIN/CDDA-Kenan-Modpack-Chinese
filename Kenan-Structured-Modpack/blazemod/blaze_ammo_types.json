@@ -1,5 +1,11 @@
 [
   {
+    "id": "bfeed",
+    "name": "blob feed",
+    "default": "bfeed",
+    "type": "ammunition_type"
+  },
+  {
     "id": "h_projectile",
     "name": "heavy projectiles",
     "default": "h_projectile",
@@ -16,18 +22,6 @@
     "name": "ballista bolt",
     "default": "hbolt_wood",
     "type": "ammunition_type"
-  },
-  {
-    "type": "ammunition_type",
-    "id": "metal_rail",
-    "name": "ferrous rail projectile",
-    "default": "steel_rail"
-  },
-  {
-    "type": "ammunition_type",
-    "id": "shotcanister",
-    "name": "shotcanisters",
-    "default": "shotcanister_scrap"
   },
   {
     "id": "ripdisk",

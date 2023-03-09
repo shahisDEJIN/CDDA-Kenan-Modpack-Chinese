@@ -24,8 +24,8 @@
     "vision_night": 12,
     "armor_bash": 32,
     "armor_cut": 32,
-    "armor_stab": 32,
     "armor_bullet": 32,
+    "armor_stab": 32,
     "armor_acid": 8,
     "armor_fire": 8,
     "harvest": "human",
@@ -37,6 +37,7 @@
         "monster_message": "<color_magenta>%1$s aims at %3$s!</color>"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "mon_szombie_vessel_death_drop",
     "flags": [
       "SEES",
@@ -67,8 +68,8 @@
     "relative": {
       "armor_bash": -12,
       "armor_cut": -12,
-      "armor_stab": -12,
       "armor_bullet": -12,
+      "armor_stab": -12,
       "armor_acid": -2,
       "armor_fire": -6,
       "hp": -50,

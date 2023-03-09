@@ -1,5 +1,142 @@
 [
   {
+    "id": "engine_steam_large",
+    "copy-from": "steam_engine",
+    "type": "vehicle_part",
+    "item": "steam_triple_large",
+    "durability": 200,
+    "epower": 0,
+    "power": 242450,
+    "energy_consumption": 485000,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 5 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "engine_steam_giant",
+    "copy-from": "steam_engine",
+    "type": "vehicle_part",
+    "item": "steam_triple_giant",
+    "durability": 200,
+    "epower": 0,
+    "power": 447600,
+    "energy_consumption": 895250,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 5 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "abstract": "steam_turbine",
+    "copy-from": "engine_combustion",
+    "type": "vehicle_part",
+    "fuel_type": "coal_lump",
+    "looks_like": "diesel_engine_v12",
+    "m2c": 75,
+    "//": "45% energy efficiency",
+    "description": "A closed cycle, external combustion steam turbine.  Burns coal from a bunker in the vehicle to produce steam.",
+    "extend": { "flags": [ "E_COLD_START" ] }
+  },
+  {
+    "id": "engine_steam_turbine_small",
+    "copy-from": "steam_turbine",
+    "type": "vehicle_part",
+    "item": "steam_turbine_small",
+    "durability": 200,
+    "epower": 0,
+    "power": 93250,
+    "energy_consumption": 207250,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 5 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 3 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 6 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "engine_steam_turbine_medium",
+    "copy-from": "steam_turbine",
+    "type": "vehicle_part",
+    "item": "steam_turbine_medium",
+    "durability": 200,
+    "epower": 0,
+    "power": 149200,
+    "energy_consumption": 331750,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 5 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 3 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 6 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "engine_steam_turbine_large",
+    "copy-from": "steam_turbine",
+    "type": "vehicle_part",
+    "item": "steam_turbine_large",
+    "durability": 200,
+    "epower": 0,
+    "power": 242450,
+    "energy_consumption": 539000,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 5 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 3 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 6 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
+    "id": "engine_steam_turbine_giant",
+    "copy-from": "steam_turbine",
+    "type": "vehicle_part",
+    "item": "steam_turbine_giant",
+    "durability": 200,
+    "epower": 0,
+    "power": 447600,
+    "energy_consumption": 994750,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 30, 60 ] },
+      { "item": "steel_chunk", "count": [ 30, 60 ] },
+      { "item": "scrap", "count": [ 30, 60 ] },
+      { "item": "water", "count": [ 50, 120 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 5 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 3 ] ], "time": "45 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 6 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
+    }
+  },
+  {
     "type": "vehicle_part",
     "id": "cargo_rack_extended",
     "name": { "str": "cargo shelving" },
@@ -38,7 +175,7 @@
     "color": "yellow",
     "broken_color": "yellow",
     "durability": 20,
-    "epower": "145 W",
+    "epower": 145,
     "damage_modifier": 10,
     "folded_volume": "10 L",
     "description": "A vertical array of three solar panels set on a chassis rising above one another on a metal pole with rudimentary tracking and motors.  Due to the flimsy nature of the hydraulics and high surface area profile to maximize sunlight, they can't really be installed onto an existing vehicle.  Requires a jumper cable or similar to pull power from.",
@@ -57,7 +194,7 @@
         "using": [ [ "vehicle_screw", 1 ], [ "solar_panel", 3 ], [ "soldering_standard", 8 ] ]
       }
     },
-    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "EXTRA_DRAG" ]
+    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "FOLDABLE", "EXTRA_DRAG" ]
   },
   {
     "id": "reinforced_solar_array_part",
@@ -87,7 +224,7 @@
         "using": [ [ "vehicle_screw", 1 ], [ "solar_panel", 3 ], [ "soldering_standard", 8 ] ]
       }
     },
-    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "EXTRA_DRAG" ]
+    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "FOLDABLE", "EXTRA_DRAG" ]
   },
   {
     "id": "solar_array_v2_part",
@@ -112,7 +249,7 @@
         "using": [ [ "vehicle_screw", 1 ], [ "solar_panel_v2", 3 ], [ "soldering_standard", 8 ] ]
       }
     },
-    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "EXTRA_DRAG" ]
+    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "FOLDABLE", "EXTRA_DRAG" ]
   },
   {
     "id": "reinforced_solar_array_v2_part",
@@ -140,51 +277,116 @@
         "using": [ [ "vehicle_screw", 1 ], [ "solar_panel_v2", 3 ], [ "soldering_standard", 8 ] ]
       }
     },
-    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "EXTRA_DRAG" ]
+    "flags": [ "SOLAR_PANEL", "OBSTACLE", "INITIAL_PART", "PROTRUSION", "FOLDABLE", "EXTRA_DRAG" ]
+  },
+  {
+    "id": "tread1",
+    "type": "vehicle_part",
+    "name": { "str": "rubber treads" },
+    "item": "tread1",
+    "location": "under",
+    "symbol": "|",
+    "broken_symbol": "x",
+    "color": "dark_gray",
+    "broken_color": "light_gray",
+    "durability": 2000,
+    "damage_modifier": 50,
+    "description": "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight.",
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 2, 4 ] },
+      { "item": "steel_chunk", "count": [ 6, 12 ] },
+      { "item": "scrap", "count": [ 8, 18 ] },
+      { "item": "plastic_chunk", "count": [ 50, 120 ] },
+      { "item": "chain", "count": [ 1, 3 ] }
+    ],
+    "rolling_resistance": 3.5,
+    "wheel_type": "treads",
+    "contact_area": 900,
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 6 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 4 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 7 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
+    },
+    "flags": [ "WHEEL", "VARIABLE_SIZE", "MULTISQUARE", "TRACKED" ]
+  },
+  {
+    "id": "tread2",
+    "type": "vehicle_part",
+    "name": { "str": "steel treads" },
+    "item": "tread2",
+    "location": "under",
+    "symbol": "|",
+    "broken_symbol": "x",
+    "color": "dark_gray",
+    "broken_color": "light_gray",
+    "durability": 3500,
+    "damage_modifier": 50,
+    "description": "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight.",
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 8, 16 ] },
+      { "item": "steel_chunk", "count": [ 20, 40 ] },
+      { "item": "scrap", "count": [ 50, 75 ] },
+      { "item": "chain", "count": [ 3, 6 ] }
+    ],
+    "rolling_resistance": 3,
+    "wheel_type": "treads",
+    "contact_area": 2500,
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 7 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 5 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 8 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
+    },
+    "flags": [ "WHEEL", "VARIABLE_SIZE", "MULTISQUARE", "TRACKED" ]
+  },
+  {
+    "id": "tread3",
+    "type": "vehicle_part",
+    "name": { "str": "tank treads" },
+    "item": "tread3",
+    "location": "under",
+    "symbol": "|",
+    "broken_symbol": "x",
+    "color": "dark_gray",
+    "broken_color": "light_gray",
+    "durability": 5000,
+    "damage_modifier": 50,
+    "description": "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight.",
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 12, 30 ] },
+      { "item": "steel_chunk", "count": [ 25, 60 ] },
+      { "item": "scrap", "count": [ 60, 120 ] },
+      { "item": "chain", "count": [ 3, 4 ] }
+    ],
+    "rolling_resistance": 3,
+    "wheel_type": "treads",
+    "contact_area": 3600,
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 7 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 5 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 8 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
+    },
+    "flags": [ "WHEEL", "VARIABLE_SIZE", "MULTISQUARE", "TRACKED" ]
   },
   {
     "id": "wiring",
     "type": "vehicle_part",
-    "name": { "str": "wiring" },
+    "name": "wiring",
     "item": "wire",
     "location": "structure",
     "symbol": ".",
     "broken_symbol": "#",
-    "categories": [ "hull", "energy" ],
     "color": "white",
     "broken_color": "white",
     "durability": 10,
     "description": "A length of heavy duty copper wire, useful for routing power from one part of a vehicle to another part.",
-    "folded_volume": "250 ml",
+    "folded_volume": 1,
     "breaks_into": [ { "item": "wire", "prob": 50 } ],
     "requirements": {
       "install": { "skills": [ [ "mechanics", 1 ] ], "time": "60 s" },
       "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 s" },
       "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "60 s" }
     },
-    "flags": [ "INITIAL_PART", "AISLE" ]
-  },
-  {
-    "id": "stabilized_cargo_portal",
-    "type": "vehicle_part",
-    "name": { "str": "pocket dimension cargo" },
-    "//": "Keep away from Svarog detectors!",
-    "item": "space_anomaly",
-    "location": "center",
-    "symbol": "O",
-    "broken_symbol": "O",
-    "color": "magenta",
-    "broken_color": "magenta",
-    "durability": 400,
-    "size": 6000,
-    "cargo_weight_modifier": 0,
-    "breaks_into": [ { "item": "cargo_rack", "prob": 50 } ],
-    "requirements": {
-      "install": { "skills": [ [ "mechanics", 8 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] },
-      "removal": { "skills": [ [ "mechanics", 6 ] ], "time": "45 m", "using": [ [ "vehicle_weld_removal", 1 ] ] },
-      "repair": { "skills": [ [ "mechanics", 9 ] ], "time": "25 m", "using": [ [ "welding_standard", 5 ] ] }
-    },
-    "flags": [ "CARGO", "COVERED" ]
+    "flags": [ "FOLDABLE", "AISLE" ]
   },
   {
     "type": "vehicle_part",
@@ -192,13 +394,13 @@
     "copy-from": "minifridge",
     "name": { "str": "refrigerator" },
     "symbol": "{",
-    "categories": [ "cargo" ],
+    "categories": [ "Cargo", "Util" ],
     "color": "white",
     "broken_color": "white",
     "looks_like": "minifridge",
     "durability": 400,
     "description": "A medium-sized household refrigerator, converted to utilize vehicle power.  When turned on, food inside will be cooled, extending the time it has before spoiling.",
-    "epower": "-100 W",
+    "epower": -100,
     "size": 1200,
     "item": "afs_fridge"
   },
@@ -208,13 +410,13 @@
     "copy-from": "minifreezer",
     "name": { "str": "freezer" },
     "symbol": "{",
-    "categories": [ "cargo" ],
+    "categories": [ "Cargo", "Util" ],
     "color": "light_blue",
     "broken_color": "light_blue",
     "looks_like": "minifridge",
     "durability": 400,
     "description": "A household fridge, converted to run at a much lower temperature and on vehicle power.  When turned on, food inside will be frozen, completely stopping it from spoiling.",
-    "epower": "-120 W",
+    "epower": -120,
     "size": 1200,
     "item": "afs_freezer"
   },
@@ -223,7 +425,7 @@
     "id": "afs_metal_rig",
     "name": { "str": "MetalMaster forge buddy" },
     "symbol": "&",
-    "categories": [ "utility" ],
+    "categories": [ "Cargo", "Util" ],
     "color": "red",
     "broken_symbol": "x",
     "broken_color": "red",
@@ -235,12 +437,11 @@
     "item": "afs_metal_rig",
     "location": "center",
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
       "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
     },
-    "flags": [ "CARGO", "OBSTACLE", "COVERED" ],
-    "pseudo_tools": [ { "id": "welder", "hotkey": "w" }, { "id": "soldering_iron", "hotkey": "s" }, { "id": "forge" }, { "id": "kiln" } ],
+    "flags": [ "CARGO", "OBSTACLE", "WELDRIG", "FORGE", "KILN", "COVERED" ],
     "breaks_into": [
       { "item": "steel_lump", "count": [ 3, 6 ] },
       { "item": "steel_chunk", "count": [ 3, 6 ] },
@@ -255,7 +456,7 @@
     "id": "afs_cooking_rig",
     "name": { "str": "cooking rig" },
     "symbol": "&",
-    "categories": [ "utility" ],
+    "categories": [ "Cargo", "Util" ],
     "color": "blue",
     "broken_symbol": "x",
     "broken_color": "blue",
@@ -267,19 +468,11 @@
     "item": "afs_cooking_rig",
     "location": "center",
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
       "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
     },
-    "flags": [ "CARGO", "OBSTACLE", "COVERED", "FLAT_SURF" ],
-    "pseudo_tools": [
-      { "id": "water_faucet" },
-      { "id": "hotplate", "hotkey": "h" },
-      { "id": "pot" },
-      { "id": "pan" },
-      { "id": "chemistry_set" },
-      { "id": "electrolysis_kit" }
-    ],
+    "flags": [ "CARGO", "OBSTACLE", "KITCHEN", "CHEMLAB", "FAUCET", "COVERED" ],
     "breaks_into": [
       { "item": "steel_lump", "count": [ 6, 9 ] },
       { "item": "steel_chunk", "count": [ 6, 9 ] },
@@ -287,7 +480,6 @@
       { "item": "pot", "prob": 50 },
       { "item": "pan", "prob": 50 },
       { "item": "chemistry_set", "charges": 0, "prob": 50 },
-      { "item": "electrolysis_kit", "charges": 0, "prob": 50 },
       { "item": "hotplate", "charges": 0, "prob": 50 }
     ]
   },
@@ -296,7 +488,7 @@
     "id": "afs_kitchen_rig",
     "name": { "str": "KitchenMaster cooking buddy" },
     "symbol": "&",
-    "categories": [ "utility" ],
+    "categories": [ "Cargo", "Util" ],
     "color": "yellow",
     "broken_symbol": "x",
     "broken_color": "yellow",
@@ -308,25 +500,11 @@
     "item": "afs_kitchen_rig",
     "location": "center",
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_wrench_2", 1 ] ] },
+      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 m", "using": [ [ "vehicle_bolt", 1 ] ] },
+      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
       "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] }
     },
-    "flags": [ "CARGO", "OBSTACLE", "COVERED", "FLAT_SURF" ],
-    "pseudo_tools": [
-      { "id": "water_faucet" },
-      { "id": "vac_sealer" },
-      { "id": "dehydrator" },
-      { "id": "food_processor" },
-      { "id": "press" },
-      { "id": "puller" },
-      { "id": "hotplate", "hotkey": "h" },
-      { "id": "pot" },
-      { "id": "pan" },
-      { "id": "chemistry_set" },
-      { "id": "electrolysis_kit" },
-      { "id": "water_purifier", "hotkey": "p" }
-    ],
+    "flags": [ "CARGO", "OBSTACLE", "KITCHEN", "CHEMLAB", "CRAFTRIG", "FAUCET", "WATER_PURIFIER", "COVERED" ],
     "breaks_into": [
       { "item": "steel_lump", "count": [ 9, 18 ] },
       { "item": "steel_chunk", "count": [ 9, 18 ] },
@@ -334,13 +512,12 @@
       { "item": "pot", "prob": 50 },
       { "item": "pan", "prob": 50 },
       { "item": "chemistry_set", "charges": 0, "prob": 50 },
-      { "item": "electrolysis_kit", "charges": 0, "prob": 50 },
       { "item": "hotplate", "charges": 0, "prob": 50 },
       { "item": "water_purifier", "charges": 0, "prob": 50 },
       { "item": "vac_sealer", "charges": 0, "prob": 50 },
       { "item": "dehydrator", "charges": 0, "prob": 50 },
       { "item": "food_processor", "charges": 0, "prob": 50 },
-      { "item": "press", "prob": 50 }
+      { "item": "press", "charges": 0, "prob": 50 }
     ]
   }
 ]

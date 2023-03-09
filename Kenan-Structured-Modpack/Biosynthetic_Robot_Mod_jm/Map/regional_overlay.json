@@ -1,0 +1,7 @@
+[
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "city": { "shops": { "GKB_CHISTORE1": 600, "s_dawson": 800 } }
+  }
+]

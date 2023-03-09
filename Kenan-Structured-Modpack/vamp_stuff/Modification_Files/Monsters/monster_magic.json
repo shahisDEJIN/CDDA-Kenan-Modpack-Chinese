@@ -4,27 +4,25 @@
     "type": "SPELL",
     "name": { "str": "Sacrifice" },
     "description": "Instant death damage is dealt.",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "valid_targets": [ "ally", "hostile", "ground", "self" ],
-    "effect": "attack",
-    "shape": "blast",
+    "effect": "target_attack",
     "min_damage": 9999999,
     "max_damage": 9999999,
     "min_aoe": 1,
     "max_aoe": 1,
-    "damage_type": "pure"
+    "damage_type": "none"
   },
   {
     "id": "v_sink_tp",
     "type": "SPELL",
     "name": { "str": "Teleport" },
     "description": "Combined with blind strike spell.",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "valid_targets": [ "ground", "ally" ],
     "min_aoe": 8,
     "max_aoe": 8,
-    "effect": "short_range_teleport",
-    "shape": "blast"
+    "effect": "teleport_random"
   },
   {
     "id": "v_sink_conceal",
@@ -32,9 +30,8 @@
     "name": { "str": "Concealment" },
     "description": "Combined with blind strike spell.",
     "valid_targets": [ "ground", "ally" ],
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
-    "effect": "attack",
-    "shape": "blast",
+    "flags": [ "SILENT" ],
+    "effect": "target_attack",
     "effect_str": "vamp_conceal",
     "//": "5 turns, just to avert the focus of players. Also moderately enslows the caster.",
     "min_duration": 500,
@@ -47,13 +44,12 @@
     "description": "Caster teleports and quickly strikes the target, dealing moderate cutting damage, then turns invisible while retreating to a random spot.",
     "valid_targets": [ "ground", "hostile" ],
     "extra_effects": [ { "id": "v_sink_conceal", "hit_self": true }, { "id": "v_sink_tp", "hit_self": true } ],
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "min_damage": 16,
     "max_damage": 16,
     "min_range": 10,
     "max_range": 10,
-    "effect": "attack",
-    "shape": "blast",
+    "effect": "target_attack",
     "damage_type": "cut"
   },
   {
@@ -62,9 +58,8 @@
     "name": { "str": "Innate Strike" },
     "description": "A quick surge of mana blast strikes the target, dealing bash damage.",
     "valid_targets": [ "ground", "hostile" ],
-    "effect": "attack",
-    "shape": "blast",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "effect": "target_attack",
+    "flags": [ "SILENT" ],
     "min_damage": 14,
     "max_damage": 14,
     "min_range": 15,
@@ -77,9 +72,8 @@
     "name": { "str": "Stun" },
     "description": "Caster channels its mind to its target, eventually renders them unconscious for a few turns.",
     "valid_targets": [ "ground", "hostile" ],
-    "effect": "attack",
-    "shape": "blast",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "effect": "target_attack",
+    "flags": [ "SILENT" ],
     "effect_str": "stunned",
     "base_casting_time": 500,
     "min_range": 15,
@@ -93,9 +87,8 @@
     "name": { "str": "Dark Fireblast" },
     "description": "Fire infused with black magic engulfs the target, inflicting them with profane curse.",
     "valid_targets": [ "ground", "hostile" ],
-    "effect": "attack",
-    "shape": "blast",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "effect": "target_attack",
+    "flags": [ "SILENT" ],
     "effect_str": "profane_curse",
     "min_damage": 5,
     "max_damage": 5,
@@ -103,17 +96,16 @@
     "max_range": 10,
     "min_duration": 6000,
     "max_duration": 6000,
-    "damage_type": "heat"
+    "damage_type": "fire"
   },
   {
     "id": "v_profane_hellfire",
     "type": "SPELL",
     "name": { "str": "Desecrate" },
     "description": "Caster channels the underworld for a very long time to desecrate the targets with pillars of hellish flames.",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "valid_targets": [ "ground", "hostile" ],
-    "effect": "attack",
-    "shape": "blast",
+    "effect": "target_attack",
     "effect_str": "profane_curse",
     "base_casting_time": 2000,
     "min_damage": 30,
@@ -124,7 +116,7 @@
     "max_aoe": 2,
     "min_duration": 12000,
     "max_duration": 12000,
-    "damage_type": "heat"
+    "damage_type": "fire"
   },
   {
     "id": "v_hemo_heal",
@@ -133,11 +125,10 @@
     "description": "Combined with transfusion spell.",
     "valid_targets": [ "ground", "ally" ],
     "//": "3x healing for the damage.",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "min_damage": -21,
     "max_damage": -21,
-    "effect": "attack",
-    "shape": "blast"
+    "effect": "target_attack"
   },
   {
     "id": "v_hemo_transfusion",
@@ -145,9 +136,8 @@
     "name": { "str": "Transfusion" },
     "description": "Drains life force from the target, may be it an ally or a foe.",
     "valid_targets": [ "ground", "hostile", "ally" ],
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
-    "effect": "attack",
-    "shape": "blast",
+    "flags": [ "SILENT" ],
+    "effect": "target_attack",
     "extra_effects": [
       { "id": "v_hemo_heal", "hit_self": true },
       { "id": "v_hemo_surge", "hit_self": true },
@@ -158,7 +148,7 @@
     "max_damage": 7,
     "min_range": 15,
     "max_range": 10,
-    "damage_type": "biological"
+    "damage_type": "bio"
   },
   {
     "id": "v_hemo_bloodrip",
@@ -166,14 +156,13 @@
     "name": { "str": "Blood Ripple" },
     "description": "Combined with blood surge spell.",
     "valid_targets": [ "ground", "hostile" ],
-    "effect": "attack",
-    "shape": "blast",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "effect": "target_attack",
+    "flags": [ "SILENT" ],
     "min_damage": 6,
     "max_damage": 6,
     "min_range": 12,
     "max_range": 12,
-    "damage_type": "biological"
+    "damage_type": "bio"
   },
   {
     "id": "v_hemo_surge",
@@ -181,10 +170,9 @@
     "name": { "str": "Blood Surge" },
     "description": "A wave of blood is drawn out from the caster, dealing bio damage to the main target and bash to the surrounding targets.",
     "valid_targets": [ "hostile", "ground", "self" ],
-    "effect": "attack",
-    "shape": "blast",
+    "effect": "target_attack",
     "extra_effects": [ { "id": "v_hemo_bloodrip", "hit_self": true } ],
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "base_casting_time": 500,
     "min_damage": 12,
     "max_damage": 12,
@@ -198,26 +186,24 @@
     "name": { "str": "Share" },
     "description": "Caster sends out blood tentacles that attaches to nearby allies, regaining large portion of health while damaging the caster.",
     "extra_effects": [ { "id": "v_hemo_shareblood", "hit_self": true } ],
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "valid_targets": [ "ground", "ally", "self" ],
     "min_damage": 60,
     "max_damage": 60,
-    "effect": "attack",
-    "shape": "blast"
+    "effect": "target_attack"
   },
   {
     "id": "v_hemo_shareblood",
     "type": "SPELL",
-    "flags": [ "SILENT", "NO_PROJECTILE" ],
+    "flags": [ "SILENT" ],
     "name": { "str": "Share Blood" },
     "description": "Combined with share spell.",
     "valid_targets": [ "ground", "self", "ally" ],
-    "effect": "attack",
-    "shape": "blast",
+    "effect": "target_attack",
     "min_damage": -30,
     "max_damage": -30,
     "min_aoe": 5,
     "max_aoe": 5,
-    "damage_type": "biological"
+    "damage_type": "bio"
   }
 ]

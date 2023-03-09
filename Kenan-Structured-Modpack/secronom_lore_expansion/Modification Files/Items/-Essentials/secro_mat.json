@@ -7,11 +7,9 @@
     "edible": false,
     "rotting": false,
     "reinforces": true,
-    "soft": true,
-    "breathability": "SECOND_SKIN",
     "bash_resist": 5,
-    "cut_resist": 3,
-    "bullet_resist": 3,
+    "cut_resist": 2,
+    "bullet_resist": 2,
     "acid_resist": 3,
     "fire_resist": 1,
     "elec_resist": 0,
@@ -49,7 +47,6 @@
     "name": "Artificial Flesh",
     "copy-from": "flesh",
     "edible": false,
-    "rotting": false,
-    "fuel_data": { "energy": "25 kJ" }
+    "rotting": false
   }
 ]
