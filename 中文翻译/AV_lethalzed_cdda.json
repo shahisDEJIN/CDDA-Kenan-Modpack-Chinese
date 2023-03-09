@@ -1,0 +1,156 @@
+[
+ {
+  "key": "a3c103b0c4433c80b9207ddbf6bbe2e6",
+  "original": "<color_light_red>Lethal Zeds</color>",
+  "translation": "<color_light_red>Lethal Zeds</color>",
+  "context": "ID: av_lethalzeds\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→MOD_INFO→av_lethalzeds\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=av_lethalzeds",
+  "stage": 1
+ },
+ {
+  "key": "74ecabdf286372bd77aa39eb49aa4ad9",
+  "original": "<npcname> were brought down into the floor!",
+  "translation": "<npcname> were brought down into the floor！",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "d2f77bfcbd95ddf90afac36d471f8215",
+  "original": "Makes vanilla zeds deadly/annoying in combat.",
+  "translation": "Makes vanilla zeds deadly/annoying in combat.",
+  "context": "ID: av_lethalzeds\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→MOD_INFO→av_lethalzeds\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=av_lethalzeds",
+  "stage": 1
+ },
+ {
+  "key": "9753a6eff67feac3231ab8e4fc7b2be9",
+  "original": "The %1$s bites <npcname>!",
+  "translation": "The %1$s bites <npcname>！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "11fca99a5ee0b12a670d15d26b32c247",
+  "original": "The %1$s bites as it grasps at you!",
+  "translation": "The %1$s bites as it grasps at you！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "ca5cc302ad319436751901bf96c2f4b1",
+  "original": "The %1$s charges at <npcname>, but they bat them away!",
+  "translation": "The %1$s charges at <npcname>，but they bat them away！",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "59289e0cd57d5ae9a0066ee7180a74e4",
+  "original": "The %1$s charges at <npcname>, but they dodge!",
+  "translation": "The %1$s charges at <npcname>，but they dodge！",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "e6ebaa2f400fc8713b02dea2a9c78eae",
+  "original": "The %1$s charges at you, but you bat them away!",
+  "translation": "The %1$s charges at you，but you bat them away！",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "4d675325ff0aff13b53c46c59a86dbb3",
+  "original": "The %1$s charges at you, but you dodge!",
+  "translation": "The %1$s charges at you，but you dodge！",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "fa6f7e925f09b205db1f032b4d6b2f76",
+  "original": "The %1$s scratches <npcname>!",
+  "translation": "The %1$s scratches <npcname>！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "4aa37660f931daa8df6efd9e273fc449",
+  "original": "The %1$s scratches you!",
+  "translation": "The %1$s scratches you！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "8775abb8c43948a856e19b843763ee83",
+  "original": "The %1$s tries to bite <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to bite <npcname>，but fails to penetrate their armor！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "62f9d591133dc3ffe2e54e5d03112cd5",
+  "original": "The %1$s tries to bite you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to bite you，but fails to penetrate your armor！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "87e8bb8280a875a1707f8c789a683abb",
+  "original": "The %1$s tries to scratch <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to scratch <npcname>，but fails to penetrate their armor！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "3c867b738a2d511a9360e33aac1a04bc",
+  "original": "The %1$s tries to scratch you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to scratch you，but fails to penetrate your armor！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "4eb8830a7904d9d0eaec26a51fcc5e11",
+  "original": "The %s bites <npcname>, but they dodge!",
+  "translation": "The %s bites <npcname>，but they dodge！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "b721e8cb65e93833ba251e8c86e56374",
+  "original": "The %s bites you, but you dodge!",
+  "translation": "The %s bites you，but you dodge！",
+  "context": "ID: lz_highgrabbite\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highgrabbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highgrabbite",
+  "stage": 1
+ },
+ {
+  "key": "7edc8fe3b74d4bb2d1803e08780c5e93",
+  "original": "The %s scratches <npcname>, but they dodge!",
+  "translation": "The %s scratches <npcname>，but they dodge！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "dd0ebd4d5d7b4a10069a732aae46d285",
+  "original": "The %s scratches you, but you dodge!",
+  "translation": "The %s scratches you，but you dodge！",
+  "context": "ID: lz_highscratch\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highscratch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highscratch",
+  "stage": 1
+ },
+ {
+  "key": "5c070cb94db0752c7f07d88498ba75c1",
+  "original": "You were brought down by the %1$s's charge!",
+  "translation": "You were brought down by the %1$s's charge!",
+  "context": "ID: lz_medcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_medcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_medcharge",
+  "stage": 1
+ },
+ {
+  "key": "768c683cdbf499121577757e3995a39c",
+  "original": "You were brought down by the %1$s's destructive charge!",
+  "translation": "You were brought down by the %1$s's destructive charge!",
+  "context": "ID: lz_highcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_highcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_highcharge",
+  "stage": 1
+ },
+ {
+  "key": "90944b13d6b2e7063632241d5bf5b7c3",
+  "original": "You were brought down by the %1$s's staggering charge!",
+  "translation": "You were brought down by the %1$s's staggering charge!",
+  "context": "ID: lz_lowcharge\n位于 /Kenan-Structured-Modpack/AV_lethalzed_cdda/+lethalzed_atks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AV_lethalzed_cdda→monster_attack→lz_lowcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lz_lowcharge",
+  "stage": 1
+ }
+]

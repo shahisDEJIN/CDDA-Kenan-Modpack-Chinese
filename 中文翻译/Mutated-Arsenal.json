@@ -1,0 +1,111 @@
+[
+ {
+  "key": "1dff22cdd54ae4546c1be8bb7a424fdf",
+  "original": "A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since the _REDACTED_ lifecycle was too short.",
+  "translation": "A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since the _REDACTED_ lifecycle was too short.",
+  "context": "ID: power_armor_mutant\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→ARMOR→power_armor_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant",
+  "stage": 1
+ },
+ {
+  "key": "cb9ec6eb9143c312894cf0a6fadb2c9c",
+  "original": "A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since the _REDACTED_ lifecycle was too short.  It is currently turned on, activate it to turn it off.",
+  "translation": "A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since the _REDACTED_ lifecycle was too short.  It is currently turned on, activate it to turn it off.",
+  "context": "ID: power_armor_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "5f29a27fdf66ef481ead8391df9bcde1",
+  "original": "A power armor helmet designed for use with the modified DoubleTech Power Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since the lifespan of _REDACTED_ soldiers was too short, so only the blueprints remained .",
+  "translation": "A power armor helmet designed for use with the modified DoubleTech Power Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since the lifespan of _REDACTED_ soldiers was too short, so only the blueprints remained .",
+  "context": "ID: power_armor_helmet_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_helmet_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "196a9ac74104e0de76f2e16494e1fb4b",
+  "original": "A power armor helmet designed for use with the modified DoubleTech Power Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since the lifespan of _REDACTED_ soldiers was too short, so only the blueprints remained.",
+  "translation": "A power armor helmet designed for use with the modified DoubleTech Power Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since the lifespan of _REDACTED_ soldiers was too short, so only the blueprints remained.",
+  "context": "ID: power_armor_helmet_mutant\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→ARMOR→power_armor_helmet_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant",
+  "stage": 1
+ },
+ {
+  "key": "81e8424bcfa8b92cff890043f9b176fc",
+  "original": "Adds Power Armor usable by all mutations lines, to make mutations a little less suckier",
+  "translation": "Adds Power Armor usable by all mutations lines, to make mutations a little less suckier",
+  "context": "ID: a_mutated_arsenal\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→MOD_INFO→a_mutated_arsenal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a_mutated_arsenal",
+  "stage": 1
+ },
+ {
+  "key": "4914a3f7d8659310b4083d2a431f40e7",
+  "original": "Alexs Mutant Power Armor",
+  "translation": "Alexs Mutant Power Armor",
+  "context": "ID: a_mutated_arsenal\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→MOD_INFO→a_mutated_arsenal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a_mutated_arsenal",
+  "stage": 1
+ },
+ {
+  "key": "c1e16bb78ba682fd7623e2b34fedc3eb",
+  "original": "The %s disengages.",
+  "translation": "The %s disengages.",
+  "context": "ID: power_armor_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "fc56dd568bdc6266f9c953a6aa64499c",
+  "original": "The %s engages.",
+  "translation": "%s 启动了。",
+  "context": "ID: power_armor_mutant\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→ARMOR→power_armor_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant"
+ },
+ {
+  "key": "060f32c2b709b9b024455a9c9ad0509d",
+  "original": "The %s powers down.",
+  "translation": "The %s powers down.",
+  "context": "ID: power_armor_helmet_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_helmet_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "8e61d99ca246955cc31b67a365b2a216",
+  "original": "Turn off",
+  "translation": "关闭",
+  "context": "ID: power_armor_helmet_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_helmet_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant_on"
+ },
+ {
+  "key": "b66c4c2f8ce1560ca74e1145bfb44c95",
+  "original": "heavy power armor helmet",
+  "translation": "重型动力装甲头盔",
+  "context": "ID: power_armor_helmet_mutant\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→ARMOR→power_armor_helmet_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant"
+ },
+ {
+  "key": "0f117d008600408322e1fa9e787fba26",
+  "original": "heavy power armor helmet (active)",
+  "translation": "heavy power armor helmet (active)",
+  "context": "ID: power_armor_helmet_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_helmet_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "6995cb9c57499784792d4a8b0e11cb79",
+  "original": "heavy power armor helmets (active)",
+  "translation": "heavy power armor helmets (active)",
+  "context": "ID: power_armor_helmet_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_helmet_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_helmet_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "e6b442b78b1194cee41b8f1cd418c286",
+  "original": "mutant power armor",
+  "translation": "mutant power armor",
+  "context": "ID: power_armor_mutant\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→ARMOR→power_armor_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant",
+  "stage": 1
+ },
+ {
+  "key": "66316bed77941f9d73713e85be2c2430",
+  "original": "mutant power armor (active)",
+  "translation": "mutant power armor (active)",
+  "context": "ID: power_armor_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant_on",
+  "stage": 1
+ },
+ {
+  "key": "c1571f3d08f33a8688a6ff9021322cef",
+  "original": "mutant power armors (active)",
+  "translation": "mutant power armors (active)",
+  "context": "ID: power_armor_mutant_on\n位于 /Kenan-Structured-Modpack/Mutated-Arsenal/Mutated_arsenal.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mutated-Arsenal→TOOL_ARMOR→power_armor_mutant_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_mutant_on",
+  "stage": 1
+ }
+]

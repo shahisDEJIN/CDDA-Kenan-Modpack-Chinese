@@ -1,0 +1,259 @@
+[
+ {
+  "key": "b5f0ed10e420e5577c0dda750ced8163",
+  "original": ".44 Magnum",
+  "translation": ".44 马格南弹",
+  "context": "ID: magnum_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GUN→magnum_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnum_statesman"
+ },
+ {
+  "key": "679cc4347f80e205b013e30c018ebfce",
+  "original": "A jacket meant to go over a suit.  Who says you can't be great looking during a gunfight?",
+  "translation": "A jacket meant to go over a suit.  Who says you can't be great looking during a gunfight?",
+  "context": "ID: suit_jacket_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→suit_jacket_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=suit_jacket_statesman",
+  "stage": 1
+ },
+ {
+  "key": "eb9a660afce3e5820c58ab97333174ae",
+  "original": "A jacket meant to go over a suit.  Who says you can't look nice during the apocalypse?",
+  "translation": "A jacket meant to go over a suit.  Who says you can't look nice during the apocalypse?",
+  "context": "ID: suit_jacket_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→suit_jacket_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=suit_jacket_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "a3ae7fcc129650290de2d97c792795a2",
+  "original": "A pair of rounded frame glasses, look nice even while you're being grabbed at my zombies.",
+  "translation": "A pair of rounded frame glasses, look nice even while you're being grabbed at my zombies.",
+  "context": "ID: glasses_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_statesman",
+  "stage": 1
+ },
+ {
+  "key": "3a92802f1362eede3d7f5c5cd1fa91ec",
+  "original": "A pair of square framed glasses, look sylish while the world is in ruin.",
+  "translation": "A pair of square framed glasses, look sylish while the world is in ruin.",
+  "context": "ID: glasses_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "afabd435ae0a2b2af4bf80fb082a4495",
+  "original": "A self-winding silver watch, it's leather band feels oddly confortable against your skin.",
+  "translation": "A self-winding silver watch, it's leather band feels oddly confortable against your skin.",
+  "context": "ID: watch_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→watch_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=watch_statesman",
+  "stage": 1
+ },
+ {
+  "key": "f4a8acea36e6bc3a9374a961c50f3de5",
+  "original": "A self-winding silver watch, look great while punching zombies.",
+  "translation": "A self-winding silver watch, look great while punching zombies.",
+  "context": "ID: watch_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→watch_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=watch_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "b8ab5e68dda56d7e1f75549688f2c0e6",
+  "original": "A thin cotton overcoat, look stylish even during the catacylsm.",
+  "translation": "A thin cotton overcoat, look stylish even during the catacylsm.",
+  "context": "ID: overcoat_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→overcoat_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=overcoat_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "9b281062a9280d0c92d36353b64647a9",
+  "original": "A thin cotton overcoat, look stylish when you brandish your .44 Magnum.",
+  "translation": "A thin cotton overcoat, look stylish when you brandish your .44 Magnum.",
+  "context": "ID: overcoat_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→overcoat_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=overcoat_statesman",
+  "stage": 1
+ },
+ {
+  "key": "91fa4991ca70001cb565f2289e84a9c6",
+  "original": "Adds the Umbrella gun from Kingsman - The Secret Service.",
+  "translation": "Adds the Umbrella gun from Kingsman - The Secret Service.",
+  "context": "ID: kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→MOD_INFO→kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kingsman",
+  "stage": 1
+ },
+ {
+  "key": "7667166b98cfb29a56c334bec2dc77ab",
+  "original": "An umbrella that looks like it came straight out of a movie, it seems to be bulletproof.",
+  "translation": "An umbrella that looks like it came straight out of a movie, it seems to be bulletproof.",
+  "context": "ID: umbrella_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GUN→umbrella_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "b7f517adf8ca9cdace85857ee6ae61d4",
+  "original": "An umbrella that looks like it came straight out of a movie.  It is closed.",
+  "translation": "An umbrella that looks like it came straight out of a movie.  It is closed.",
+  "context": "ID: umbrella_kingsman_close\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GENERIC→umbrella_kingsman_close\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman_close",
+  "stage": 1
+ },
+ {
+  "key": "73c9793f0ae0074be92ef3f78bb5e8ad",
+  "original": "Boots that seem to have a spring loaded knife in their toe.  Could be used as a weapon if taken off and held.",
+  "translation": "Boots that seem to have a spring loaded knife in their toe.  Could be used as a weapon if taken off and held.",
+  "context": "ID: boots_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→boots_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "014e94b0f94461c0e9ca36f6bb4c35e2",
+  "original": "Close Umbrella",
+  "translation": "Close Umbrella",
+  "context": "ID: umbrella_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GUN→umbrella_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "fe9222341c297334f57a571362156708",
+  "original": "Kingsman Umbrella",
+  "translation": "Kingsman Umbrella",
+  "context": "ID: kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→MOD_INFO→kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kingsman",
+  "stage": 1
+ },
+ {
+  "key": "e468b880fc526256b899b61f37043c06",
+  "original": "One of the most famous guns in the world, the .44 Magnum is known for being great to dispatch an opponent in a gun duel.",
+  "translation": "One of the most famous guns in the world, the .44 Magnum is known for being great to dispatch an opponent in a gun duel.",
+  "context": "ID: magnum_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GUN→magnum_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnum_statesman",
+  "stage": 1
+ },
+ {
+  "key": "c07b25a02e6fbb0d79c51a60bfe75f69",
+  "original": "Open Umbrella",
+  "translation": "Open Umbrella",
+  "context": "ID: umbrella_kingsman_close\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GENERIC→umbrella_kingsman_close\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman_close",
+  "stage": 1
+ },
+ {
+  "key": "d8400a2db37222d44c262111382ade30",
+  "original": "Whether hunting bobcats, fixing up the ranch, or dueling to the death with zombies, this your hat!",
+  "translation": "Whether hunting bobcats, fixing up the ranch, or dueling to the death with zombies, this your hat!",
+  "context": "ID: hat_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→hat_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hat_statesman",
+  "stage": 1
+ },
+ {
+  "key": "567e8e5769657f38ba6d9898037a388e",
+  "original": "You close up the umbrella.",
+  "translation": "You close up the umbrella.",
+  "context": "ID: umbrella_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GUN→umbrella_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "106b6dd25a98b5ff1b1511b9a3fefa7f",
+  "original": "You open up the umbrella.",
+  "translation": "You open up the umbrella.",
+  "context": "ID: umbrella_kingsman_close\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GENERIC→umbrella_kingsman_close\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman_close",
+  "stage": 1
+ },
+ {
+  "key": "1312109031961ac2b75cd5d92c8af5cf",
+  "original": "cowboy hat",
+  "translation": "牛仔帽",
+  "context": "ID: hat_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→hat_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hat_statesman"
+ },
+ {
+  "key": "d1018c81e900c4b65f7611c4ae73fb88",
+  "original": "dented",
+  "translation": "凹损",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel"
+ },
+ {
+  "key": "74bba2d663abebe7711e27fd88da70c2",
+  "original": "light overcoat",
+  "translation": "light overcoat",
+  "context": "ID: overcoat_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→overcoat_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=overcoat_statesman",
+  "stage": 1
+ },
+ {
+  "key": "5bbf2d6725b29ad8ddb7c3ab47c50930",
+  "original": "marked",
+  "translation": "划伤",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel"
+ },
+ {
+  "key": "b229833e43070a12090b8072b8405813",
+  "original": "pair of boots",
+  "translation": "皮靴",
+  "context": "ID: boots_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→boots_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_kingsman"
+ },
+ {
+  "key": "9b182711437f10f6b9e009e6d61d7f92",
+  "original": "pair of round frame glasses",
+  "translation": "pair of round frame glasses",
+  "context": "ID: glasses_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_statesman",
+  "stage": 1
+ },
+ {
+  "key": "15aa4a114d65dd35141734ad2f70c897",
+  "original": "pair of square framed glasses",
+  "translation": "pair of square framed glasses",
+  "context": "ID: glasses_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "eef54dc5051eda0e0a75fc5b79094635",
+  "original": "pairs of boots",
+  "translation": "pairs of boots",
+  "context": "ID: boots_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→boots_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "c494d85d9c3f7c220efa43e688dca901",
+  "original": "pairs of round frame glasses",
+  "translation": "pairs of round frame glasses",
+  "context": "ID: glasses_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_statesman",
+  "stage": 1
+ },
+ {
+  "key": "138d49418b88c45839f6cbfa5132afa4",
+  "original": "pairs of square framed glasses",
+  "translation": "pairs of square framed glasses",
+  "context": "ID: glasses_kingsman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→glasses_kingsman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glasses_kingsman",
+  "stage": 1
+ },
+ {
+  "key": "e5036d30fcedf7998f08abbb599229e2",
+  "original": "scratched",
+  "translation": "刮花",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel"
+ },
+ {
+  "key": "965ca662c7141613e1b845c526baa86c",
+  "original": "shattered",
+  "translation": "破碎",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel"
+ },
+ {
+  "key": "271b3e33a4936a416819e489464b173c",
+  "original": "silver watch",
+  "translation": "银表",
+  "context": "ID: watch_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→watch_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=watch_statesman"
+ },
+ {
+  "key": "2bd639edb8ba34ce482fb1973eadfd60",
+  "original": "silver watches",
+  "translation": "silver watches",
+  "context": "ID: watch_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/other.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→watch_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=watch_statesman",
+  "stage": 1
+ },
+ {
+  "key": "3f70089fd34f35b851b9a913bd28c546",
+  "original": "smashed",
+  "translation": "砸扁",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel"
+ },
+ {
+  "key": "9c28efab8a469b1077ddeaa54dca9939",
+  "original": "stainless steel",
+  "translation": "stainless steel",
+  "context": "ID: stainless_steel\n位于 /Kenan-Structured-Modpack/Kingsman/misc/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→material→stainless_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stainless_steel",
+  "stage": 1
+ },
+ {
+  "key": "74065cb09723647b09e3bb582f58006e",
+  "original": "suit jacket",
+  "translation": "suit jacket",
+  "context": "ID: suit_jacket_statesman\n位于 /Kenan-Structured-Modpack/Kingsman/apparel/clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→ARMOR→suit_jacket_statesman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=suit_jacket_statesman",
+  "stage": 1
+ },
+ {
+  "key": "bad09af524ac6c2734c0d34bdac4955f",
+  "original": "umbrella gun",
+  "translation": "umbrella gun",
+  "context": "ID: umbrella_kingsman_close\n位于 /Kenan-Structured-Modpack/Kingsman/weapons/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Kingsman→GENERIC→umbrella_kingsman_close\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_kingsman_close",
+  "stage": 1
+ }
+]

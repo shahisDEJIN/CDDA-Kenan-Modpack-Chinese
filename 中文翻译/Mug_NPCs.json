@@ -1,0 +1,135 @@
+[
+ {
+  "key": "dd7f39caefe14c711f1dca91a03f1b68",
+  "original": "AI tag for when NPCs have been recently mugged by the player.  This is a bug if you have it.",
+  "translation": "AI tag for when NPCs have been recently mugged by the player.  This is a bug if you have it.",
+  "context": "ID: mugged_by_player\n位于 /Kenan-Structured-Modpack/Mug_NPCs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→effect_type→mugged_by_player\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mugged_by_player",
+  "stage": 1
+ },
+ {
+  "key": "1aae2ee56e775174fe62c717fedf9f50",
+  "original": "Gives a few dialog options for robbing NPCs of their items without killing them first.  Some available lines based on character traits. e.g. psychopath, pacifist, etc.  Currently only works on dynamic and shelter NPCs, not faction NPCs.",
+  "translation": "Gives a few dialog options for robbing NPCs of their items without killing them first.  Some available lines based on character traits. e.g. psychopath, pacifist, etc.  Currently only works on dynamic and shelter NPCs, not faction NPCs.",
+  "context": "ID: mug_NPCs\n位于 /Kenan-Structured-Modpack/Mug_NPCs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→MOD_INFO→mug_NPCs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mug_NPCs",
+  "stage": 1
+ },
+ {
+  "key": "e291039dae98e277f5c221106ff82349",
+  "original": "How about you give me all your gear, and I let you walk away in one piece.",
+  "translation": "How about you give me all your gear, and I let you walk away in one piece.",
+  "context": "ID: TALK_STRANGER_WARY\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STRANGER_WARY",
+  "stage": 1
+ },
+ {
+  "key": "6bafcea354298e5047d9f78a8ccb0a4f",
+  "original": "I'm not asking anymore.  Give me your stuff or else!",
+  "translation": "I'm not asking anymore.  Give me your stuff or else!",
+  "context": "ID: TALK_SHARE_EQUIPMENT\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→TALK_SHARE_EQUIPMENT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SHARE_EQUIPMENT",
+  "stage": 1
+ },
+ {
+  "key": "2acb94e8d4f8d81cc544625889775176",
+  "original": "Lay your weapon on the ground, real slow like.",
+  "translation": "Lay your weapon on the ground, real slow like.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "4dfa7fd2b08d9bcdf7af1838bc22ee2e",
+  "original": "Let's see what you've got.",
+  "translation": "Let's see what you've got.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "1977084b2c59d5e42d60b8215090e6ff",
+  "original": "Mug NPCs",
+  "translation": "Mug NPCs",
+  "context": "ID: mug_NPCs\n位于 /Kenan-Structured-Modpack/Mug_NPCs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→MOD_INFO→mug_NPCs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mug_NPCs",
+  "stage": 1
+ },
+ {
+  "key": "f731deab8689def38f4d07c6a21a7eb1",
+  "original": "Mugged By Player",
+  "translation": "Mugged By Player",
+  "context": "ID: mugged_by_player\n位于 /Kenan-Structured-Modpack/Mug_NPCs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→effect_type→mugged_by_player\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mugged_by_player",
+  "stage": 1
+ },
+ {
+  "key": "7ca09857b43b632ae283fdb82e8036a7",
+  "original": "No, I think you're the one who's gonna back down.  Hand over your goods, <name_g>.",
+  "translation": "No, I think you're the one who's gonna back down.  Hand over your goods, <name_g>.",
+  "context": "ID: TALK_STRANGER_AGGRESSIVE\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→TALK_STRANGER_AGGRESSIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STRANGER_AGGRESSIVE",
+  "stage": 1
+ },
+ {
+  "key": "bd76b7c1f32f2ffa28bb4d3dd6ffcc65",
+  "original": "No, you'll be the one giving me your loot, if you want to live.",
+  "translation": "No, you'll be the one giving me your loot, if you want to live.",
+  "context": "ID: TALK_MUG\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→TALK_MUG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG",
+  "stage": 1
+ },
+ {
+  "key": "4890ea0c54d6eb6cd327166734b76278",
+  "original": "Now hand over your loot.",
+  "translation": "Now hand over your loot.",
+  "context": "ID: TALK_WEAPON_DROPPED\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→TALK_WEAPON_DROPPED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_WEAPON_DROPPED",
+  "stage": 1
+ },
+ {
+  "key": "da2c8eae31c1e96ae5a250a4edc9d2cb",
+  "original": "OK, OK.  I'm cooperating.",
+  "translation": "OK, OK.  I'm cooperating.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "3ca6efb51fa3c0ed30d8e78fe4be367d",
+  "original": "Regrettable, but I'm sure you understand that this is just how the world works now.  No hard feelings?",
+  "translation": "Regrettable, but I'm sure you understand that this is just how the world works now.  No hard feelings?",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "8937ebe4ffd3c167cdf75a13979f981f",
+  "original": "Stick 'em up, <name_g>!  This is a hiest!",
+  "translation": "Stick 'em up, <name_g>!  This is a hiest!",
+  "context": "ID: TALK_STRANGER_NEUTRAL\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STRANGER_NEUTRAL",
+  "stage": 1
+ },
+ {
+  "key": "7cd34714f1a6fe973cef891a6ce0e4be",
+  "original": "You don't have anything else worth taking.  Get lost.",
+  "translation": "You don't have anything else worth taking.  Get lost.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "3c9370093a152f24bf70602a871089df",
+  "original": "You're gonna give me your gear, or get ripped to shreds.",
+  "translation": "You're gonna give me your gear, or get ripped to shreds.",
+  "context": "ID: TALK_STRANGER_SCARED\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STRANGER_SCARED",
+  "stage": 1
+ },
+ {
+  "key": "fed3fc1b2f43afaf83eafb1dd9f90193",
+  "original": "[CANNIBAL] You still have to hand over all that tasty human meat.",
+  "translation": "[CANNIBAL] You still have to hand over all that tasty human meat.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "4f844cb0af035c2a68124de356c5d7ef",
+  "original": "[PREDATOR] Thank you for your cooperation.  Now you must die.",
+  "translation": "[PREDATOR] Thank you for your cooperation.  Now you must die.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ },
+ {
+  "key": "dcc713862b4deeefd2164a1d48bce53e",
+  "original": "[PSYCHO] Did you really think I'd let you live?  Nah, I'm going to kill you anyway.",
+  "translation": "[PSYCHO] Did you really think I'd let you live?  Nah, I'm going to kill you anyway.",
+  "context": "ID: TALK_MUG_NPC\n位于 /Kenan-Structured-Modpack/Mug_NPCs/TALK_MUG_NPC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Mug_NPCs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MUG_NPC",
+  "stage": 1
+ }
+]

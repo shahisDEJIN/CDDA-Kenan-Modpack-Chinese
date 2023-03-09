@@ -1,0 +1,196 @@
+[
+ {
+  "key": "cb3f782bc404460f23ecda82bb405b97",
+  "original": "A homemade .22 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .22 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_22\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_22\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_22",
+  "stage": 1
+ },
+ {
+  "key": "9b9dad83227eb432d1724e17d4e61dc5",
+  "original": "A homemade .30-06 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .30-06 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_3006\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_3006\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_3006",
+  "stage": 1
+ },
+ {
+  "key": "1a697ef83d39e3cdb08916747ee86044",
+  "original": "A homemade .38 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .38 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_38\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_38\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_38",
+  "stage": 1
+ },
+ {
+  "key": "cf63408c7af89a8ca9429ae82b3daa39",
+  "original": "A homemade .40 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .40 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_40\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_40\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_40",
+  "stage": 1
+ },
+ {
+  "key": "5afda7b117e9ca6fa71cda572a23d072",
+  "original": "A homemade .44 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .44 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_44\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_44\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_44",
+  "stage": 1
+ },
+ {
+  "key": "eaa93fae3a2d59157c23efe040e15015",
+  "original": "A homemade .45 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade .45 pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_45\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_45\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_45",
+  "stage": 1
+ },
+ {
+  "key": "552c90a49bfccd89fb150303edb77b01",
+  "original": "A homemade 5.56mm pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade 5.56mm pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_223\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_223",
+  "stage": 1
+ },
+ {
+  "key": "6d1b64cc73acc1f53e632d9d7e819b14",
+  "original": "A homemade 9x19mm pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "A homemade 9x19mm pipe rifle modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "context": "ID: revolver_rifle_9mm\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_9mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_9mm",
+  "stage": 1
+ },
+ {
+  "key": "6ec393c3e034a99040efab9fd52e1096",
+  "original": "A shotgun modified to use a revolver cylinder mechanism, it can hold 6 cartridges.",
+  "translation": "一把结合了左轮手枪的霰弹枪，一次最多装6发子弹。“艺术与暴力的有机结合。”",
+  "context": "ID: revolver_shotgun\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_shotgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_shotgun"
+ },
+ {
+  "key": "b2ef3edd523251fa0c14984e9bd10160",
+  "original": "Adds revolver-style uppgraded versions of pipe rifles.",
+  "translation": "Adds revolver-style uppgraded versions of pipe rifles.",
+  "context": "ID: pipe_revolver_mod\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→MOD_INFO→pipe_revolver_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pipe_revolver_mod",
+  "stage": 1
+ },
+ {
+  "key": "65bb1635ff99c4b27cd742611dd801b2",
+  "original": "Pipe Revolver Rifles",
+  "translation": "Pipe Revolver Rifles",
+  "context": "ID: pipe_revolver_mod\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→MOD_INFO→pipe_revolver_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pipe_revolver_mod",
+  "stage": 1
+ },
+ {
+  "key": "a5ee73314f410aea3ba74b7861052f2a",
+  "original": "revolver pipe rifle: .22",
+  "translation": "revolver pipe rifle: .22",
+  "context": "ID: revolver_rifle_22\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_22\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_22",
+  "stage": 1
+ },
+ {
+  "key": "aa77bf36d9a3156cebaf6ed1d9d11fd9",
+  "original": "revolver pipe rifle: .30-06",
+  "translation": "revolver pipe rifle: .30-06",
+  "context": "ID: revolver_rifle_3006\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_3006\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_3006",
+  "stage": 1
+ },
+ {
+  "key": "e5ae37935b18fb5b9ddd643b44ffc96d",
+  "original": "revolver pipe rifle: .38",
+  "translation": "revolver pipe rifle: .38",
+  "context": "ID: revolver_rifle_38\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_38\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_38",
+  "stage": 1
+ },
+ {
+  "key": "214c8f1a317f13bc4a43c073e6e01cd0",
+  "original": "revolver pipe rifle: .40",
+  "translation": "revolver pipe rifle: .40",
+  "context": "ID: revolver_rifle_40\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_40\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_40",
+  "stage": 1
+ },
+ {
+  "key": "ba6f78f54f9521f67d4ecc36a70f6ee4",
+  "original": "revolver pipe rifle: .44",
+  "translation": "revolver pipe rifle: .44",
+  "context": "ID: revolver_rifle_44\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_44\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_44",
+  "stage": 1
+ },
+ {
+  "key": "4730966c920261e91f207cbc2f173474",
+  "original": "revolver pipe rifle: .45",
+  "translation": "revolver pipe rifle: .45",
+  "context": "ID: revolver_rifle_45\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_45\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_45",
+  "stage": 1
+ },
+ {
+  "key": "f8aae9b7d19b470a8903077054e2bb6d",
+  "original": "revolver pipe rifle: 5.56mm",
+  "translation": "revolver pipe rifle: 5.56mm",
+  "context": "ID: revolver_rifle_223\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_223",
+  "stage": 1
+ },
+ {
+  "key": "ac5eac73928c4ac92e19605b1ec97711",
+  "original": "revolver pipe rifle: 9x19mm",
+  "translation": "revolver pipe rifle: 9x19mm",
+  "context": "ID: revolver_rifle_9mm\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_9mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_9mm",
+  "stage": 1
+ },
+ {
+  "key": "fc3115e895dc9afb779149ddc7d4eb49",
+  "original": "revolver pipe rifles: .22",
+  "translation": "revolver pipe rifles: .22",
+  "context": "ID: revolver_rifle_22\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_22\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_22",
+  "stage": 1
+ },
+ {
+  "key": "dc479536617d91c6c4311ab3eeac2695",
+  "original": "revolver pipe rifles: .30-06",
+  "translation": "revolver pipe rifles: .30-06",
+  "context": "ID: revolver_rifle_3006\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_3006\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_3006",
+  "stage": 1
+ },
+ {
+  "key": "2f54055a95e4abc04ec133e909a833c4",
+  "original": "revolver pipe rifles: .38",
+  "translation": "revolver pipe rifles: .38",
+  "context": "ID: revolver_rifle_38\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_38\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_38",
+  "stage": 1
+ },
+ {
+  "key": "9d1e9e336f3a252824795f9f28fb179c",
+  "original": "revolver pipe rifles: .40",
+  "translation": "revolver pipe rifles: .40",
+  "context": "ID: revolver_rifle_40\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_40\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_40",
+  "stage": 1
+ },
+ {
+  "key": "bd2b814a96522ebaf6c1b209c3430422",
+  "original": "revolver pipe rifles: .44",
+  "translation": "revolver pipe rifles: .44",
+  "context": "ID: revolver_rifle_44\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_44\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_44",
+  "stage": 1
+ },
+ {
+  "key": "8dce09590966f319c44c78d1139e3b8c",
+  "original": "revolver pipe rifles: .45",
+  "translation": "revolver pipe rifles: .45",
+  "context": "ID: revolver_rifle_45\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_45\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_45",
+  "stage": 1
+ },
+ {
+  "key": "8bc2728c2c4af2e868ca724e2ccfc2b1",
+  "original": "revolver pipe rifles: 5.56mm",
+  "translation": "revolver pipe rifles: 5.56mm",
+  "context": "ID: revolver_rifle_223\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_223",
+  "stage": 1
+ },
+ {
+  "key": "f9a956dae5eba9c98717400e06bbb184",
+  "original": "revolver pipe rifles: 9x19mm",
+  "translation": "revolver pipe rifles: 9x19mm",
+  "context": "ID: revolver_rifle_9mm\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_rifle_9mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_rifle_9mm",
+  "stage": 1
+ },
+ {
+  "key": "96e692ca3f41b3e0202cd886fc393aa7",
+  "original": "shotgun revolver",
+  "translation": "左轮霰弹枪",
+  "context": "ID: revolver_shotgun\n位于 /Kenan-Structured-Modpack/pipe-revolver-rifles/guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pipe-revolver-rifles→GUN→revolver_shotgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revolver_shotgun"
+ }
+]

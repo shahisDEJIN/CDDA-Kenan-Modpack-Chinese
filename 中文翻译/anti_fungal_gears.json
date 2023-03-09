@@ -1,0 +1,128 @@
+[
+ {
+  "key": "4e7d32511218cf760a51fc9ff1467ba1",
+  "original": "40mm fungicidal gas grenade",
+  "translation": "40mm fungicidal gas grenade",
+  "context": "ID: 40mm_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→40mm_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=40mm_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "ab1231743b8927b8ff50c396c0f288f8",
+  "original": "40mm fungicidal gas grenades",
+  "translation": "40mm fungicidal gas grenades",
+  "context": "ID: 40mm_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→40mm_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=40mm_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "64f9685dafa7a059035eb6529f8ac3a3",
+  "original": "A 40 mm grenade bullet filled with fungicidal gas. For a while, we will keep releasing the sterilizing gas to the impact point.",
+  "translation": "A 40 mm grenade bullet filled with fungicidal gas. For a while, we will keep releasing the sterilizing gas to the impact point.",
+  "context": "ID: 40mm_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→40mm_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=40mm_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "0b7a39c48398ef38c214ed0380ce5cbc",
+  "original": "A hand grenade filled with fungicidal gas. The pin is already pulled and is releasing gas.",
+  "translation": "A hand grenade filled with fungicidal gas. The pin is already pulled and is releasing gas.",
+  "context": "ID: fungicidal_bomb_act\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb_act",
+  "stage": 1
+ },
+ {
+  "key": "4213f2adef2d1fac2aff9e2769477754",
+  "original": "A hand grenade filled with fungicidal gas. Use to pull the pin and ignite. It takes 5 turns to gas spout.",
+  "translation": "A hand grenade filled with fungicidal gas. Use to pull the pin and ignite. It takes 5 turns to gas spout.",
+  "context": "ID: fungicidal_bomb\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb",
+  "stage": 1
+ },
+ {
+  "key": "9e17d155b89fe0c6940cb5f0f347df58",
+  "original": "All fungus shall be destroyed.",
+  "translation": "All fungus shall be destroyed.",
+  "context": "ID: anti_fungal_gears\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→MOD_INFO→anti_fungal_gears\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=anti_fungal_gears",
+  "stage": 1
+ },
+ {
+  "key": "2a402fc063c277bef24426a5b6379bbe",
+  "original": "It is a specially-made bullet that sprays the fungicidal gas sealed in the warhead when it lands. There is almost no killing power and the amount of glaze is modest to avoid warhead damage at launch.",
+  "translation": "It is a specially-made bullet that sprays the fungicidal gas sealed in the warhead when it lands. There is almost no killing power and the amount of glaze is modest to avoid warhead damage at launch.",
+  "context": "ID: 50_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→50_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=50_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "fda61c472d3c3b11e7cecd3ce8a54632",
+  "original": "anti-fungal gear",
+  "translation": "anti-fungal gear",
+  "context": "ID: anti_fungal_gears\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→MOD_INFO→anti_fungal_gears\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=anti_fungal_gears",
+  "stage": 1
+ },
+ {
+  "key": "cfba02fc25ac1d4383c9e604d8dc2445",
+  "original": "fungicidal gas warhead .203",
+  "translation": "fungicidal gas warhead .203",
+  "context": "ID: 223_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→223_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=223_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "d3910d0244ac70acc6de78d5e88c69cf",
+  "original": "fungicidal gas warhead .308",
+  "translation": "fungicidal gas warhead .308",
+  "context": "ID: 308_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→308_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=308_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "3ed8e3ebf31f7d786c723a0f6fd84af3",
+  "original": "fungicidal gas warhead .50 BMG",
+  "translation": "fungicidal gas warhead .50 BMG",
+  "context": "ID: 50_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→50_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=50_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "7a79194a307f1b83b1d7040441de57bb",
+  "original": "fungicidal gas warheads .203",
+  "translation": "fungicidal gas warheads .203",
+  "context": "ID: 223_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→223_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=223_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "4bebc348de43ada8bcdd974054d31bea",
+  "original": "fungicidal gas warheads .308",
+  "translation": "fungicidal gas warheads .308",
+  "context": "ID: 308_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→308_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=308_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "6314e0b8179bc76f881e59f54f2a6b37",
+  "original": "fungicidal gas warheads .50 BMG",
+  "translation": "fungicidal gas warheads .50 BMG",
+  "context": "ID: 50_fungicidal\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→AMMO→50_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=50_fungicidal",
+  "stage": 1
+ },
+ {
+  "key": "ab74505e9ef1562a38f2ceb05ebcd552",
+  "original": "fungicide gas hand grenade",
+  "translation": "fungicide gas hand grenade",
+  "context": "ID: fungicidal_bomb\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb",
+  "stage": 1
+ },
+ {
+  "key": "6495867259c300d72938831a5e70eefe",
+  "original": "fungicide gas hand grenade (active)",
+  "translation": "fungicide gas hand grenade (active)",
+  "context": "ID: fungicidal_bomb_act\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb_act",
+  "stage": 1
+ },
+ {
+  "key": "a86eaba6c243d66272cae9c80fb0ed4c",
+  "original": "fungicide gas hand grenades",
+  "translation": "fungicide gas hand grenades",
+  "context": "ID: fungicidal_bomb\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb",
+  "stage": 1
+ },
+ {
+  "key": "5b523c83404b60f1ea86700b3091d748",
+  "original": "fungicide gas hand grenades (active)",
+  "translation": "fungicide gas hand grenades (active)",
+  "context": "ID: fungicidal_bomb_act\n位于 /Kenan-Structured-Modpack/anti_fungal_gears/ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#anti_fungal_gears→GENERIC→fungicidal_bomb_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidal_bomb_act",
+  "stage": 1
+ }
+]

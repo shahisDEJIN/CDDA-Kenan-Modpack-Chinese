@@ -1,0 +1,1134 @@
+[
+ {
+  "key": "284fb30fc227807c8ac56087a18f01d9",
+  "original": "A customized chainmail vest.  It's a sleeveless piece of chainmail with small leather straps designed to better distribute the weight.",
+  "translation": "一件自制的锁链胸甲，这件无袖胸甲由多条皮带连结，均匀分散地分配装甲的重量。",
+  "context": "ID: chainmail_xlvest\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlvest"
+ },
+ {
+  "key": "28422409f5e1ba6dc2fb6b23d3e1f8f5",
+  "original": "A huge military rucksack with a special rail system designed to reduce the load felt by the wearer when moving up and down, provides a lot of storage for moderate encumbrance.",
+  "translation": "A huge military rucksack with a special rail system designed to reduce the load felt by the wearer when moving up and down, provides a lot of storage for moderate encumbrance.",
+  "context": "ID: rucksack_floating\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→rucksack_floating\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rucksack_floating",
+  "stage": 1
+ },
+ {
+  "key": "b1ad3c9a9d6e49c0783298ca5741e053",
+  "original": "A huge military rucksack with a special rail system designed to reduce the load felt by the wearer when moving up and down, provides a lot of storage for moderate encumbrance.  This can be worn regardless of your state of mutation",
+  "translation": "A huge military rucksack with a special rail system designed to reduce the load felt by the wearer when moving up and down, provides a lot of storage for moderate encumbrance.  This can be worn regardless of your state of mutation",
+  "context": "ID: rucksack_floating_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→rucksack_floating_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rucksack_floating_xl",
+  "stage": 1
+ },
+ {
+  "key": "b567f4b30d4ff77e0e28d477ae97a87a",
+  "original": "A large backpack.  Good storage for a little encumbrance.",
+  "translation": "A large backpack.  Good storage for a little encumbrance.",
+  "context": "ID: backpack_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_xl",
+  "stage": 1
+ },
+ {
+  "key": "ae5401622c69cf2ddfac414a9d214857",
+  "original": "A large leather backpack.  Good storage for a little encumbrance.",
+  "translation": "A large leather backpack.  Good storage for a little encumbrance.",
+  "context": "ID: backpack_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "8bc009e904aee6efcf17b0d0762ea0b5",
+  "original": "A masive full assembly of medieval leg protection.  Cuisses, poleyns, and greaves, with leather straps to secure each piece and connect it as part of a set.",
+  "translation": "A masive full assembly of medieval leg protection.  Cuisses, poleyns, and greaves, with leather straps to secure each piece and connect it as part of a set.",
+  "context": "ID: legguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "dd945ffd677d16e5ca009a258f74856d",
+  "original": "A massive and thick leather helmet that provides excellent protection for the head.",
+  "translation": "A massive and thick leather helmet that provides excellent protection for the head.",
+  "context": "ID: helmet_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "996a0c4ba0b69522660ea8ea516fd7ce",
+  "original": "A massive belt with pockets and four small belt loops.  Widely used by handymen and electricians if handymen and electricians were bears.",
+  "translation": "A massive belt with pockets and four small belt loops.  Widely used by handymen and electricians if handymen and electricians were bears.",
+  "context": "ID: tool_xlbelt\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→tool_xlbelt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tool_xlbelt",
+  "stage": 1
+ },
+ {
+  "key": "1f11e56777013d485e76d15ecd0009c4",
+  "original": "A massive cotton trenchcoat that leaves your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "translation": "A massive cotton trenchcoat that leaves your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "context": "ID: sleeveless_trenchcoat_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_trenchcoat_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_trenchcoat_xl",
+  "stage": 1
+ },
+ {
+  "key": "902babc1cd08a06e211d298914774398",
+  "original": "A massive cotton trenchcoat, lined with pockets.  Great for storage.",
+  "translation": "A massive cotton trenchcoat, lined with pockets.  Great for storage.",
+  "context": "ID: trenchcoat_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→trenchcoat_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trenchcoat_xl",
+  "stage": 1
+ },
+ {
+  "key": "2897618a9df907cca78686c2599869e9",
+  "original": "A massive customized chainmail hood.  Can be worn comfortably under helmets.",
+  "translation": "A massive customized chainmail hood.  Can be worn comfortably under helmets.",
+  "context": "ID: chainmail_xlhood\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlhood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlhood",
+  "stage": 1
+ },
+ {
+  "key": "0414adf1a9f5e33627e2c52543be4bd7",
+  "original": "A massive duffel bag.  Provides plenty of storage, but is severely encumbering.",
+  "translation": "A massive duffel bag.  Provides plenty of storage, but is severely encumbering.",
+  "context": "ID: duffelbag_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duffelbag_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duffelbag_xl",
+  "stage": 1
+ },
+ {
+  "key": "d1e9c19c48356709bddb310215931cb0",
+  "original": "A massive full assembly of medieval arm protection.  Rerebraces, couters, and vambraces, with leather straps to secure each piece and connect it as part of a set.",
+  "translation": "A massive full assembly of medieval arm protection.  Rerebraces, couters, and vambraces, with leather straps to secure each piece and connect it as part of a set.",
+  "context": "ID: armguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "d2672e6c5124b2d29d660fc941889ed1",
+  "original": "A massive full-length duster coat.  Has many pockets for storage.",
+  "translation": "A massive full-length duster coat.  Has many pockets for storage.",
+  "context": "ID: duster_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duster_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duster_xl",
+  "stage": 1
+ },
+ {
+  "key": "dd5dd5eb38f6f3a50331dd7dc32c897a",
+  "original": "A massive full-length duster that leaves your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "translation": "A massive full-length duster that leaves your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "context": "ID: sleeveless_duster_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_duster_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_duster_xl",
+  "stage": 1
+ },
+ {
+  "key": "5d3aac62ada5b2ceec5283ec3b67157e",
+  "original": "A massive fully customized chainmail suit.  The coif, shirt, arms, and leggings have been modified with leather straps to deal with uneven weight distribution and to allow them to be used separately.",
+  "translation": "A massive fully customized chainmail suit.  The coif, shirt, arms, and leggings have been modified with leather straps to deal with uneven weight distribution and to allow them to be used separately.",
+  "context": "ID: chainmail_xlsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlsuit",
+  "stage": 1
+ },
+ {
+  "key": "9386702cda62da9771316230f57e9056",
+  "original": "A massive helmet crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Covers the entire head; acid-resistant and very durable.",
+  "translation": "A massive helmet crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Covers the entire head; acid-resistant and very durable.",
+  "context": "ID: helmet_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "a3e62addf51cdac68988bdf94563b280",
+  "original": "A massive helmet made from the exoskeletons of insects.  Covers the entire head; very light and durable.",
+  "translation": "A massive helmet made from the exoskeletons of insects.  Covers the entire head; very light and durable.",
+  "context": "ID: helmet_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "ea04d88daf7686ed232b8e47bf932482",
+  "original": "A massive leather full-length duster without sleeves, leaving your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "translation": "A massive leather full-length duster without sleeves, leaving your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "context": "ID: sleeveless_duster_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_duster_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_duster_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "91d35ab429ed0cf144ac1b23dbb3274c",
+  "original": "A massive leather full-length duster.  Has many pockets for storage.",
+  "translation": "A massive leather full-length duster.  Has many pockets for storage.",
+  "context": "ID: duster_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duster_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duster_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "038633f5d8ad16452f0c359843c5663c",
+  "original": "A massive leather trenchcoat without sleeves, leaving your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "translation": "A massive leather trenchcoat without sleeves, leaving your arms unencumbered.  Has plenty of storage space due to its many pockets.",
+  "context": "ID: sleeveless_trenchcoat_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_trenchcoat_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_trenchcoat_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "3e16b051d0366d2d2cd235e776e8047a",
+  "original": "A massive leather trenchcoat, lined with pockets.  Great for storage.",
+  "translation": "A massive leather trenchcoat, lined with pockets.  Great for storage.",
+  "context": "ID: trenchcoat_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→trenchcoat_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trenchcoat_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "052b36640d55011c1205b60846600d7f",
+  "original": "A massive medieval Japanese helmet with a scowling facemask that provides excellent protection to the entire head and face.",
+  "translation": "A massive medieval Japanese helmet with a scowling facemask that provides excellent protection to the entire head and face.",
+  "context": "ID: helmet_xlkabuto\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlkabuto\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlkabuto",
+  "stage": 1
+ },
+ {
+  "key": "9b6a8187b73c3913c0a3c7a7b823153d",
+  "original": "A massive medieval helmet that provides excellent protection for the head, with a Y shaped opening for the face.",
+  "translation": "A massive medieval helmet that provides excellent protection for the head, with a Y shaped opening for the face.",
+  "context": "ID: helmet_xlbarbute\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlbarbute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlbarbute",
+  "stage": 1
+ },
+ {
+  "key": "6b2560e6aceae22cb244d8944e53b2ee",
+  "original": "A massive medieval helmet that provides excellent protection to the entire head, at the cost of great encumbrance.",
+  "translation": "A massive medieval helmet that provides excellent protection to the entire head, at the cost of great encumbrance.",
+  "context": "ID: helmet_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlplate",
+  "stage": 1
+ },
+ {
+  "key": "88bc2cc38894fa2cac2f83553901a35a",
+  "original": "A massive ornamental suit of Japanese samurai armor.",
+  "translation": "A massive ornamental suit of Japanese samurai armor.",
+  "context": "ID: armor_xlsamurai\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlsamurai\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlsamurai",
+  "stage": 1
+ },
+ {
+  "key": "95d54831fd7a0d4954f5abd89fdfc1b6",
+  "original": "A massive pair of arm guards hammered out from metal.  Perfect for the Post-Apocalyptic Warrior look.",
+  "translation": "A massive pair of arm guards hammered out from metal.  Perfect for the Post-Apocalyptic Warrior look.",
+  "context": "ID: armguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlmetal",
+  "stage": 1
+ },
+ {
+  "key": "2664c42191312f52d99a282d38ed30df",
+  "original": "A massive pair of black leather gloves.",
+  "translation": "A massive pair of black leather gloves.",
+  "context": "ID: gloves_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "969319e9a7fa79340baa81e0f49d0872",
+  "original": "A massive pair of iron leg guards with a simple leather lining.",
+  "translation": "A massive pair of iron leg guards with a simple leather lining.",
+  "context": "ID: legguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xlmetal",
+  "stage": 1
+ },
+ {
+  "key": "f778c9f97580476e726157801d75070c",
+  "original": "A massive pair of pants lined with pockets, offering lots of storage.",
+  "translation": "A massive pair of pants lined with pockets, offering lots of storage.",
+  "context": "ID: pants_xlcargo\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→pants_xlcargo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pants_xlcargo",
+  "stage": 1
+ },
+ {
+  "key": "f4edf81d628e19dbcc7294a91c0bc652",
+  "original": "A massive pair of shorts lined with pockets, offering decent storage.",
+  "translation": "A massive pair of shorts lined with pockets, offering decent storage.",
+  "context": "ID: shorts_xlcargo\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→shorts_xlcargo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shorts_xlcargo",
+  "stage": 1
+ },
+ {
+  "key": "61d8de3eda7b192c2daf00fb241376a3",
+  "original": "A massive set of pouches that can be worn on the thighs using buckled straps.  This variety is favored by the military.",
+  "translation": "A massive set of pouches that can be worn on the thighs using buckled straps.  This variety is favored by the military.",
+  "context": "ID: legrig_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legrig_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legrig_xl",
+  "stage": 1
+ },
+ {
+  "key": "bab9837904e006e94b1f073b8ceab008",
+  "original": "A massive steel breastplate, and a vital part of plate armor.  Even as full armor went into decline, cuirasses remained in use among cavalry in Europe.",
+  "translation": "A massive steel breastplate, and a vital part of plate armor.  Even as full armor went into decline, cuirasses remained in use among cavalry in Europe.",
+  "context": "ID: cuirass_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→cuirass_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "1417fec002e94e3e4faa486449291c90",
+  "original": "A massive suit of Gothic plate armor, complete with boots, gauntlets, and a barbute helmet.  It has been conductively interconnected, protecting against electricity.",
+  "translation": "A massive suit of Gothic plate armor, complete with boots, gauntlets, and a barbute helmet.  It has been conductively interconnected, protecting against electricity.",
+  "context": "ID: armor_xllightplate_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xllightplate_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xllightplate_faraday",
+  "stage": 1
+ },
+ {
+  "key": "150237dabe9d15658dfdcfd0fea93206",
+  "original": "A massive suit of Gothic plate armor.",
+  "translation": "A massive suit of Gothic plate armor.",
+  "context": "ID: armor_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "3ec2979dbef03567bfba4e636847ce13",
+  "original": "A massive suit of armor made from scraps of metal secured by simple strings; provides decent protection, but the loose collection of plates doesn't make for the most convenient protection.",
+  "translation": "A massive suit of armor made from scraps of metal secured by simple strings; provides decent protection, but the loose collection of plates doesn't make for the most convenient protection.",
+  "context": "ID: armor_xlscrapsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlscrapsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlscrapsuit",
+  "stage": 1
+ },
+ {
+  "key": "9cac71ef76a0e7bb8edf1cabc7cc9a48",
+  "original": "A massive vest covered in webbing, pockets and straps.  This variety is favored by the military, as it is capable of holding four magazines close at hand.",
+  "translation": "A massive vest covered in webbing, pockets and straps.  This variety is favored by the military, as it is capable of holding four magazines close at hand.",
+  "context": "ID: chestrig_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestrig_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestrig_xl",
+  "stage": 1
+ },
+ {
+  "key": "740ed09c81db70f17b5116375a32d2f8",
+  "original": "A massive, fully customized chainmail suit.  The coif, shirt, arms, and leggings have been modified with leather straps to deal with uneven weight distribution and to allow them to be used separately.  It has been combined with a set of armored boots and gauntlets and conductively interconnected, protecting against electricity.",
+  "translation": "A massive, fully customized chainmail suit.  The coif, shirt, arms, and leggings have been modified with leather straps to deal with uneven weight distribution and to allow them to be used separately.  It has been combined with a set of armored boots and gauntlets and conductively interconnected, protecting against electricity.",
+  "context": "ID: chainmail_xlsuit_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlsuit_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlsuit_faraday",
+  "stage": 1
+ },
+ {
+  "key": "e8a6200048d34fd9b9122b94156b8948",
+  "original": "A massive, snug body suit made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, it is light and comfortable to wear under clothing.",
+  "translation": "A massive, snug body suit made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, it is light and comfortable to wear under clothing.",
+  "context": "ID: nomex_xlsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlsuit",
+  "stage": 1
+ },
+ {
+  "key": "4cfa2e9ee628342931f977eee9608db4",
+  "original": "A massive, snug fitting garment that protects your head and neck, made from lightweight Nomex fire-resistant fabric.  Tough yet breathable, it is light and comfortable to wear under clothing.",
+  "translation": "A massive, snug fitting garment that protects your head and neck, made from lightweight Nomex fire-resistant fabric.  Tough yet breathable, it is light and comfortable to wear under clothing.",
+  "context": "ID: nomex_xlhood\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlhood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlhood",
+  "stage": 1
+ },
+ {
+  "key": "8c441b474459004adc0b18ffdeeceb43",
+  "original": "A massive, snug fitting pair of gloves made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, they are light and comfortable to wear under clothing.",
+  "translation": "A massive, snug fitting pair of gloves made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, they are light and comfortable to wear under clothing.",
+  "context": "ID: nomex_xlgloves\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlgloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlgloves",
+  "stage": 1
+ },
+ {
+  "key": "8726174963dd3453d1c5b9b5c9bcc9aa",
+  "original": "A massive, snug fitting pair of stockings made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, they are light and comfortable to wear under clothing.",
+  "translation": "A massive, snug fitting pair of stockings made from thin and lightweight Nomex fire-resistant fabric.  Tough yet breathable, they are light and comfortable to wear under clothing.",
+  "context": "ID: nomex_xlsocks\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlsocks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlsocks",
+  "stage": 1
+ },
+ {
+  "key": "ed436573cee2b9fdec65a45c18682d6c",
+  "original": "A one piece conductive suit used in linework.  Provides decent physical protection and full protection against electricity.  The hood is designed to fit over a hardhat.",
+  "translation": "A one piece conductive suit used in linework.  Provides decent physical protection and full protection against electricity.  The hood is designed to fit over a hardhat.",
+  "context": "ID: conductive_suit\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→conductive_suit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conductive_suit",
+  "stage": 1
+ },
+ {
+  "key": "ac95aea83a64d5ae7a95afc22a993122",
+  "original": "A one piece conductive suit used in linework.  Provides decent physical protection and full protection against electricity.  The hood is designed to fit over a hardhat.  This can be worn regardless of your state of mutation",
+  "translation": "A one piece conductive suit used in linework.  Provides decent physical protection and full protection against electricity.  The hood is designed to fit over a hardhat.  This can be worn regardless of your state of mutation",
+  "context": "ID: conductive_suit_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→conductive_suit_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conductive_suit_xl",
+  "stage": 1
+ },
+ {
+  "key": "54eae57e3964a81a50735b1325a55855",
+  "original": "A pair of massive arm guards crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "translation": "A pair of massive arm guards crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "context": "ID: armguard_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "f38ef4f740d92389373f89dfc092a699",
+  "original": "A pair of massive arm guards made from the exoskeletons of insects.  Light and durable.",
+  "translation": "A pair of massive arm guards made from the exoskeletons of insects.  Light and durable.",
+  "context": "ID: armguard_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "7108cbb62c0f4a4579309a58765c4993",
+  "original": "A pair of massive tough leather arm guards.  Fairly light and comfortable.",
+  "translation": "A pair of massive tough leather arm guards.  Fairly light and comfortable.",
+  "context": "ID: armguard_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "30324b5e6afaf71a271ee0fb80fe5be5",
+  "original": "A polyurethane chest protector with neoprene backing.",
+  "translation": "A polyurethane chest protector with neoprene backing.",
+  "context": "ID: chestguard_hard\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestguard_hard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestguard_hard",
+  "stage": 1
+ },
+ {
+  "key": "fe3b6e4a3581ff8a7cf378541e4dd14e",
+  "original": "A polyurethane chest protector with neoprene backing.  This can be worn regardless of your state of mutation",
+  "translation": "A polyurethane chest protector with neoprene backing.  This can be worn regardless of your state of mutation",
+  "context": "ID: chestguard_hard_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestguard_hard_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestguard_hard_xl",
+  "stage": 1
+ },
+ {
+  "key": "a4ea37e0a726c8d149c940772fbce483",
+  "original": "A short-sleeved jumpsuit made from thick leather.  Provides decent storage and proteciton, and is not very encumbering.",
+  "translation": "A short-sleeved jumpsuit made from thick leather.  Provides decent storage and proteciton, and is not very encumbering.",
+  "context": "ID: jumpsuit_leather\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_leather",
+  "stage": 1
+ },
+ {
+  "key": "d3b62575616b0b25f427da26d85f9304",
+  "original": "A short-sleeved jumpsuit made from thick leather.  Provides decent storage and proteciton, and is not very encumbering.  This can be worn regardless of your state of mutation",
+  "translation": "A short-sleeved jumpsuit made from thick leather.  Provides decent storage and proteciton, and is not very encumbering.  This can be worn regardless of your state of mutation",
+  "context": "ID: jumpsuit_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "6c84517bb1cbb370f625ec9435d19a6f",
+  "original": "A small backpack with a special rail system designed to reduce the load felt by the wearer when moving up and down.  Good storage for very little encumbrance.",
+  "translation": "A small backpack with a special rail system designed to reduce the load felt by the wearer when moving up and down.  Good storage for very little encumbrance.",
+  "context": "ID: backpack_floating\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_floating\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_floating",
+  "stage": 1
+ },
+ {
+  "key": "7c46906114ae386c1dd1ac3f15c3376a",
+  "original": "A small backpack with a special rail system designed to reduce the load felt by the wearer when moving up and down.  Good storage for very little encumbrance.  This can be worn regardless of your state of mutation",
+  "translation": "A small backpack with a special rail system designed to reduce the load felt by the wearer when moving up and down.  Good storage for very little encumbrance.  This can be worn regardless of your state of mutation",
+  "context": "ID: backpack_floating_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_floating_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_floating_xl",
+  "stage": 1
+ },
+ {
+  "key": "205320b21ccf527e67ce6252a3e26bdb",
+  "original": "A suit of Gothic plate armor, complete with gloves, gauntlets, and a barbute helmet.  It has been conductively interconnected, protecting against electricity.",
+  "translation": "A suit of Gothic plate armor, complete with gloves, gauntlets, and a barbute helmet.  It has been conductively interconnected, protecting against electricity.",
+  "context": "ID: armor_lightplate_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_lightplate_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_lightplate_faraday",
+  "stage": 1
+ },
+ {
+  "key": "273cbdd8e9264bee904c74de930b67b0",
+  "original": "Adds more armors with recipes. Mainly XL versions for mutated characters, but there are a few new ones too.",
+  "translation": "Adds more armors with recipes. Mainly XL versions for mutated characters, but there are a few new ones too.",
+  "context": "ID: More_Armors\n位于 /Kenan-Structured-Modpack/More_Armor/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→MOD_INFO→More_Armors\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Armors",
+  "stage": 1
+ },
+ {
+  "key": "a2b95090654a78365abaea041f53a145",
+  "original": "An armored short-sleeved jumpsuit made from thick leather and metal plates.  Cumbersome, but offers excellent protection from harm.",
+  "translation": "An armored short-sleeved jumpsuit made from thick leather and metal plates.  Cumbersome, but offers excellent protection from harm.",
+  "context": "ID: jumpsuit_leather_mod\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_leather_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_leather_mod",
+  "stage": 1
+ },
+ {
+  "key": "4e14992b9c82a0910c233d07fe8ad31a",
+  "original": "An armored short-sleeved jumpsuit made from thick leather and metal plates.  Cumbersome, but offers excellent protection from harm.  This can be worn regardless of your state of mutation",
+  "translation": "An armored short-sleeved jumpsuit made from thick leather and metal plates.  Cumbersome, but offers excellent protection from harm.  This can be worn regardless of your state of mutation",
+  "context": "ID: jumpsuit_xlleather_mod\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_xlleather_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_xlleather_mod",
+  "stage": 1
+ },
+ {
+  "key": "bf212030a07fc3143571cc7551ca89bc",
+  "original": "An extremely heavy set of massive armor plated boots.",
+  "translation": "An extremely heavy set of massive armor plated boots.",
+  "context": "ID: boots_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlplate",
+  "stage": 1
+ },
+ {
+  "key": "cb929075cd6b1e398d636292da5ee2ea",
+  "original": "An extremely heavy set of massive armor-plated leather gloves.",
+  "translation": "An extremely heavy set of massive armor-plated leather gloves.",
+  "context": "ID: gloves_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlplate",
+  "stage": 1
+ },
+ {
+  "key": "d669c3fe3c677084a9203543a78cc879",
+  "original": "Heavy and massive fingerless leather gloves.  Very flexible and comfortable.",
+  "translation": "Heavy and massive fingerless leather gloves.  Very flexible and comfortable.",
+  "context": "ID: gauntlets_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "299b28465d0489e2bf9363436803b564",
+  "original": "Makeshift armor made from parts of cut up tires.  Incredibly thick and tough but just as encumbering.",
+  "translation": "Makeshift armor made from parts of cut up tires.  Incredibly thick and tough but just as encumbering.",
+  "context": "ID: armor_tire\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_tire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_tire",
+  "stage": 1
+ },
+ {
+  "key": "4b1628a258c63027999195456202c552",
+  "original": "Massive boots crafted from carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "translation": "Massive boots crafted from carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "context": "ID: boots_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "410355be6078879dbbe4bd22815b32fa",
+  "original": "Massive boots made from the exoskeletons of insects.  Light and durable.",
+  "translation": "Massive boots made from the exoskeletons of insects.  Light and durable.",
+  "context": "ID: boots_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "0bc7dcbfc5fc4ece60f69ddb680c102c",
+  "original": "Massive customized chainmail arms.  Each sleeve has leather straps to connect them with each other.  The lack of fingers makes them less cumbersome and allows them to be used with gloves.",
+  "translation": "Massive customized chainmail arms.  Each sleeve has leather straps to connect them with each other.  The lack of fingers makes them less cumbersome and allows them to be used with gloves.",
+  "context": "ID: chainmail_xlarms\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlarms\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlarms",
+  "stage": 1
+ },
+ {
+  "key": "58857bafc19e1d0896691c2811b7e74e",
+  "original": "Massive customized chainmail legs.  Their leather straps keep everything in place, and the lack of toes and heels allows them to work perfectly well with footwear.",
+  "translation": "Massive customized chainmail legs.  Their leather straps keep everything in place, and the lack of toes and heels allows them to work perfectly well with footwear.",
+  "context": "ID: chainmail_xllegs\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xllegs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xllegs",
+  "stage": 1
+ },
+ {
+  "key": "86a54894e92e7bd1f1ccb00a1fdd226b",
+  "original": "Massive gauntlets crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "translation": "Massive gauntlets crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "context": "ID: gauntlets_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "bd7c76ed0f35fa6f4db0efe0b5837a80",
+  "original": "Massive gauntlets made from the exoskeletons of insects.  Very light and durable.",
+  "translation": "Massive gauntlets made from the exoskeletons of insects.  Very light and durable.",
+  "context": "ID: gauntlets_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "afbbe319efeda66819a679bd4e890fd4",
+  "original": "Massive leather boots made specifically to protect the feet.  Light and tough.",
+  "translation": "Massive leather boots made specifically to protect the feet.  Light and tough.",
+  "context": "ID: boots_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "1ea0ab3c77f4725384cad803cc9cccad",
+  "original": "Massive leather boots.  Very durable.",
+  "translation": "Massive leather boots.  Very durable.",
+  "context": "ID: boots_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xl",
+  "stage": 1
+ },
+ {
+  "key": "51dd4cbea558a6f2b5f185c89bd787c4",
+  "original": "Massive leg and body armor crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "translation": "Massive leg and body armor crafted from the carefully cleaned and pruned biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable.",
+  "context": "ID: armor_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "f3d20285c0b860dd46a0b5f790b682e9",
+  "original": "Massive leg and body armor made from the exoskeletons of insects.  Light and durable.",
+  "translation": "Massive leg and body armor made from the exoskeletons of insects.  Light and durable.",
+  "context": "ID: armor_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "f66cf825a418ae1cc89894cf0c139328",
+  "original": "Massive makeshift armor made from parts of cut up tires.  Incredibly thick and tough but just as encumbering.",
+  "translation": "Massive makeshift armor made from parts of cut up tires.  Incredibly thick and tough but just as encumbering.",
+  "context": "ID: armor_xltire\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xltire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xltire",
+  "stage": 1
+ },
+ {
+  "key": "972b13f1351e009380e6334071eddd73",
+  "original": "More Armors",
+  "translation": "More Armors",
+  "context": "ID: More_Armors\n位于 /Kenan-Structured-Modpack/More_Armor/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→MOD_INFO→More_Armors\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Armors",
+  "stage": 1
+ },
+ {
+  "key": "a6a86e751f26e2c3323eb422880ad15f",
+  "original": "XL O-yoroi",
+  "translation": "XL O-yoroi",
+  "context": "ID: armor_xlsamurai\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlsamurai\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlsamurai",
+  "stage": 1
+ },
+ {
+  "key": "18259ffb765ee777fd2a9bdd067840df",
+  "original": "XL armored leather jumpsuit",
+  "translation": "XL armored leather jumpsuit",
+  "context": "ID: jumpsuit_xlleather_mod\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_xlleather_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_xlleather_mod",
+  "stage": 1
+ },
+ {
+  "key": "cf3fc0b829f5614becbcb29009cd370d",
+  "original": "XL backpack",
+  "translation": "XL backpack",
+  "context": "ID: backpack_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_xl",
+  "stage": 1
+ },
+ {
+  "key": "1861d6c71efff49ec31260e03ee566a5",
+  "original": "XL barbute helm",
+  "translation": "开面头盔（XL）",
+  "context": "ID: helmet_xlbarbute\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlbarbute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlbarbute"
+ },
+ {
+  "key": "cc694ea4dc6a123b5e340fbc7f08e77a",
+  "original": "XL biosilicified chitin armor",
+  "translation": "硅化甲壳护甲（XL）",
+  "context": "ID: armor_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlacidchitin"
+ },
+ {
+  "key": "9db9b9df0a38eaa16a5e03795b4464be",
+  "original": "XL biosilicified chitin helmet",
+  "translation": "硅化甲壳头盔（XL）",
+  "context": "ID: helmet_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlacidchitin"
+ },
+ {
+  "key": "6add64361e78c2464cad6a2168ec6058",
+  "original": "XL cargo pants",
+  "translation": "XL cargo pants",
+  "context": "ID: pants_xlcargo\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→pants_xlcargo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pants_xlcargo",
+  "stage": 1
+ },
+ {
+  "key": "d7eb89963f5690c01697b6a7ad573e45",
+  "original": "XL cargo shorts",
+  "translation": "XL cargo shorts",
+  "context": "ID: shorts_xlcargo\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→shorts_xlcargo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shorts_xlcargo",
+  "stage": 1
+ },
+ {
+  "key": "1df9ad837c3fb39eed44abdc7707c8d7",
+  "original": "XL chainmail armor",
+  "translation": "锁环甲（XL）",
+  "context": "ID: chainmail_xlsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlsuit"
+ },
+ {
+  "key": "67b39984a9e05059e6d21998af1b8e70",
+  "original": "XL chainmail coif",
+  "translation": "锁环罩盔（XL）",
+  "context": "ID: chainmail_xlhood\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlhood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlhood"
+ },
+ {
+  "key": "db1b3154913437e3d1da4c7f9f51d8fe",
+  "original": "XL chainmail leggings",
+  "translation": "锁环护胫（XL）",
+  "context": "ID: chainmail_xllegs\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xllegs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xllegs"
+ },
+ {
+  "key": "97484f4c7f9ad9bed9715d17a3c93651",
+  "original": "XL chest rig",
+  "translation": "军用携行具（XL）",
+  "context": "ID: chestrig_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestrig_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestrig_xl"
+ },
+ {
+  "key": "99b63a99f79399bebf06994fd5e5bf05",
+  "original": "XL chitinous armor",
+  "translation": "甲壳护甲（XL）",
+  "context": "ID: armor_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlchitin"
+ },
+ {
+  "key": "6401e5342a2eae01af93347ba545fe4c",
+  "original": "XL chitinous helmet",
+  "translation": "甲壳头盔（XL）",
+  "context": "ID: helmet_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlchitin"
+ },
+ {
+  "key": "c8c7a13eb47ebfca19cc7111fbc4f780",
+  "original": "XL conductive suit",
+  "translation": "XL conductive suit",
+  "context": "ID: conductive_suit_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→conductive_suit_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conductive_suit_xl",
+  "stage": 1
+ },
+ {
+  "key": "5b3a70bec1f78f22ce21f0687762d5d1",
+  "original": "XL cuirass",
+  "translation": "钢制胸甲（XL）",
+  "context": "ID: cuirass_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→cuirass_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_xllightplate"
+ },
+ {
+  "key": "ad1f969098d685110f81f8e438367623",
+  "original": "XL cuirasses",
+  "translation": "XL cuirasses",
+  "context": "ID: cuirass_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→cuirass_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "0a72a4c5deacb6b99183a63bc1221937",
+  "original": "XL duffel bag",
+  "translation": "XL duffel bag",
+  "context": "ID: duffelbag_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duffelbag_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duffelbag_xl",
+  "stage": 1
+ },
+ {
+  "key": "88b56d4d0ac4eaa8d9200c8287ff1355",
+  "original": "XL duster",
+  "translation": "防尘风衣（XL）",
+  "context": "ID: duster_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duster_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duster_xl"
+ },
+ {
+  "key": "c8a032754026f16891c594d0ba835f0e",
+  "original": "XL faraday chainmail suit",
+  "translation": "XL faraday chainmail suit",
+  "context": "ID: chainmail_xlsuit_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlsuit_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlsuit_faraday",
+  "stage": 1
+ },
+ {
+  "key": "23a04078db7d66c76bc584e8f9b37b99",
+  "original": "XL faraday plate suit",
+  "translation": "XL faraday plate suit",
+  "context": "ID: armor_xllightplate_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xllightplate_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xllightplate_faraday",
+  "stage": 1
+ },
+ {
+  "key": "7e37a48c3eb4de88d42f9e16cb92fff8",
+  "original": "XL flame-resistant hood",
+  "translation": "XL flame-resistant hood",
+  "context": "ID: nomex_xlhood\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlhood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlhood",
+  "stage": 1
+ },
+ {
+  "key": "1aa4f061b9875b9a3cb9ec3a5beea9c6",
+  "original": "XL floating backpack",
+  "translation": "XL floating backpack",
+  "context": "ID: backpack_floating_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_floating_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_floating_xl",
+  "stage": 1
+ },
+ {
+  "key": "1566da399360e63466d7767e0647f917",
+  "original": "XL floating rucksack",
+  "translation": "XL floating rucksack",
+  "context": "ID: rucksack_floating_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→rucksack_floating_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rucksack_floating_xl",
+  "stage": 1
+ },
+ {
+  "key": "f486ae74060465602810c92c5254c2be",
+  "original": "XL great helm",
+  "translation": "骑士巨盔（XL）",
+  "context": "ID: helmet_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlplate"
+ },
+ {
+  "key": "1c83dacf796f51503f181c855adae723",
+  "original": "XL hard chest protector",
+  "translation": "XL hard chest protector",
+  "context": "ID: chestguard_hard_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestguard_hard_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestguard_hard_xl",
+  "stage": 1
+ },
+ {
+  "key": "96c7ce8c7aec6c7b783413bbdd9ee4ab",
+  "original": "XL kabuto",
+  "translation": "XL kabuto",
+  "context": "ID: helmet_xlkabuto\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xlkabuto\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xlkabuto",
+  "stage": 1
+ },
+ {
+  "key": "85009050f64993c51d98cc2e9aac2ffe",
+  "original": "XL leather armor helmet",
+  "translation": "皮甲头盔（XL）",
+  "context": "ID: helmet_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→helmet_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_xllarmor"
+ },
+ {
+  "key": "f049e42cc098e6956e18e27d7f3c6acb",
+  "original": "XL leather backpack",
+  "translation": "XL leather backpack",
+  "context": "ID: backpack_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "59185be835aaf5bda8ce4d80beb6af85",
+  "original": "XL leather duster",
+  "translation": "皮革防尘风衣（XL）",
+  "context": "ID: duster_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→duster_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=duster_xlleather"
+ },
+ {
+  "key": "c76a7a071b54d7be0fd622e80215f90e",
+  "original": "XL leather jumpsuit",
+  "translation": "XL leather jumpsuit",
+  "context": "ID: jumpsuit_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "f300c9e6b87cc2b440c46510409aaeb7",
+  "original": "XL leather trenchcoat",
+  "translation": "XL leather trenchcoat",
+  "context": "ID: trenchcoat_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→trenchcoat_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trenchcoat_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "7962ff4ad0512b25efc9e780a1510579",
+  "original": "XL plate armor",
+  "translation": "板甲（XL）",
+  "context": "ID: armor_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xllightplate"
+ },
+ {
+  "key": "dda8c78551410ddd6696c392b0a7e7d9",
+  "original": "XL scrap suit",
+  "translation": "XL scrap suit",
+  "context": "ID: armor_xlscrapsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xlscrapsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xlscrapsuit",
+  "stage": 1
+ },
+ {
+  "key": "c29807e18875b88c0e428e54d9b9e9d7",
+  "original": "XL sleeveless duster",
+  "translation": "XL sleeveless duster",
+  "context": "ID: sleeveless_duster_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_duster_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_duster_xl",
+  "stage": 1
+ },
+ {
+  "key": "acff460428e7270f2079ea0daf8b13a1",
+  "original": "XL sleeveless leather duster",
+  "translation": "XL sleeveless leather duster",
+  "context": "ID: sleeveless_duster_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_duster_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_duster_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "92300199c700ccbde7040fb9913ec89d",
+  "original": "XL sleeveless leather trenchcoat",
+  "translation": "XL sleeveless leather trenchcoat",
+  "context": "ID: sleeveless_trenchcoat_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_trenchcoat_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_trenchcoat_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "dde331dcd44fe39ab895fdae395a684c",
+  "original": "XL sleeveless trenchcoat",
+  "translation": "XL sleeveless trenchcoat",
+  "context": "ID: sleeveless_trenchcoat_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→sleeveless_trenchcoat_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sleeveless_trenchcoat_xl",
+  "stage": 1
+ },
+ {
+  "key": "44a1b0db48f5b46233100fc55ec902d8",
+  "original": "XL tire armor",
+  "translation": "XL tire armor",
+  "context": "ID: armor_xltire\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_xltire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_xltire",
+  "stage": 1
+ },
+ {
+  "key": "ae7c74e9051e05e63182a32f2bbd4f41",
+  "original": "XL tool belt",
+  "translation": "XL tool belt",
+  "context": "ID: tool_xlbelt\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→tool_xlbelt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tool_xlbelt",
+  "stage": 1
+ },
+ {
+  "key": "e353b265bd411b477463953662b0024f",
+  "original": "XL trenchcoat",
+  "translation": "XL trenchcoat",
+  "context": "ID: trenchcoat_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→trenchcoat_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trenchcoat_xl",
+  "stage": 1
+ },
+ {
+  "key": "8b8871244deddea3f46af922b6360742",
+  "original": "armored leather jumpsuit",
+  "translation": "armored leather jumpsuit",
+  "context": "ID: jumpsuit_leather_mod\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_leather_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_leather_mod",
+  "stage": 1
+ },
+ {
+  "key": "c31178ca52d78c936a8483b8d939cd9c",
+  "original": "chainmail vest",
+  "translation": "锁环胸甲",
+  "context": "ID: chainmail_xlvest\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlvest"
+ },
+ {
+  "key": "6483968fa98a2a4b23c8279ce955f9d5",
+  "original": "conductive suit",
+  "translation": "conductive suit",
+  "context": "ID: conductive_suit\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→conductive_suit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conductive_suit",
+  "stage": 1
+ },
+ {
+  "key": "ad652751339b77786eca780786a1a53d",
+  "original": "faraday plate suit",
+  "translation": "faraday plate suit",
+  "context": "ID: armor_lightplate_faraday\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_lightplate_faraday\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_lightplate_faraday",
+  "stage": 1
+ },
+ {
+  "key": "7e6788ebf7414d41c12271198b779993",
+  "original": "flame-resistant suit",
+  "translation": "防火服",
+  "context": "ID: nomex_xlsuit\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlsuit"
+ },
+ {
+  "key": "69762f1ed85fca07b1031d496417642a",
+  "original": "floating backpack",
+  "translation": "floating backpack",
+  "context": "ID: backpack_floating\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→backpack_floating\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=backpack_floating",
+  "stage": 1
+ },
+ {
+  "key": "35b4d8aaa6796a161a47ada7dc1c9cd1",
+  "original": "floating rucksack",
+  "translation": "floating rucksack",
+  "context": "ID: rucksack_floating\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→rucksack_floating\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rucksack_floating",
+  "stage": 1
+ },
+ {
+  "key": "8de7002a571ad99625240d757752ef52",
+  "original": "hard chest protector",
+  "translation": "hard chest protector",
+  "context": "ID: chestguard_hard\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chestguard_hard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chestguard_hard",
+  "stage": 1
+ },
+ {
+  "key": "d7f18034cf396340a02442af5d94a52c",
+  "original": "leather jumpsuit",
+  "translation": "leather jumpsuit",
+  "context": "ID: jumpsuit_leather\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→jumpsuit_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_leather",
+  "stage": 1
+ },
+ {
+  "key": "6591a4a16d3863c55c299373e5dad692",
+  "original": "pair of XL armored boots",
+  "translation": "护甲靴（XL）",
+  "context": "ID: boots_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlplate"
+ },
+ {
+  "key": "8187736fc758637f76aa0bfd6bb5cb98",
+  "original": "pair of XL armored gauntlets",
+  "translation": "装甲护手（XL）",
+  "context": "ID: gloves_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlplate"
+ },
+ {
+  "key": "7e365b19f3a7325838dbb13b5566da93",
+  "original": "pair of XL biosilicified chitin arm guards",
+  "translation": "硅化甲壳护臂（XL）",
+  "context": "ID: armguard_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlacidchitin"
+ },
+ {
+  "key": "b5f6b55c93718410412f660475651e67",
+  "original": "pair of XL biosilicified chitin boots",
+  "translation": "硅化甲壳靴（XL）",
+  "context": "ID: boots_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlacidchitin"
+ },
+ {
+  "key": "152c014594b19849ce3ea892d47e06c1",
+  "original": "pair of XL biosilicified chitin gauntlets",
+  "translation": "硅化甲壳护手（XL）",
+  "context": "ID: gauntlets_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlacidchitin"
+ },
+ {
+  "key": "eb91d1108b5ebe45e0152e03ec087cfb",
+  "original": "pair of XL boots",
+  "translation": "靴子（XL）",
+  "context": "ID: boots_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xl"
+ },
+ {
+  "key": "5d593d656d16f652998c60b51c4cb09c",
+  "original": "pair of XL chainmail sleeves",
+  "translation": "锁环护臂（XL）",
+  "context": "ID: chainmail_xlarms\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlarms\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlarms"
+ },
+ {
+  "key": "ed1141b82c0f97f60e10f1c37a5c32f2",
+  "original": "pair of XL chitin arm guards",
+  "translation": "甲壳护臂（XL）",
+  "context": "ID: armguard_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlchitin"
+ },
+ {
+  "key": "9329a5c704e1bd3f7ae2cee47e689d98",
+  "original": "pair of XL chitinous boots",
+  "translation": "甲壳靴（XL）",
+  "context": "ID: boots_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlchitin"
+ },
+ {
+  "key": "a776d1b567663f1558d40129f3a6ec80",
+  "original": "pair of XL chitinous gauntlets",
+  "translation": "甲壳护手（XL）",
+  "context": "ID: gauntlets_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlchitin"
+ },
+ {
+  "key": "56f39a1dbe864e9616c3101133636b27",
+  "original": "pair of XL drop leg pouches",
+  "translation": "pair of XL drop leg pouches",
+  "context": "ID: legrig_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legrig_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legrig_xl",
+  "stage": 1
+ },
+ {
+  "key": "b288e49039d1132761fce275e82c28f0",
+  "original": "pair of XL flame-resistant gloves",
+  "translation": "pair of XL flame-resistant gloves",
+  "context": "ID: nomex_xlgloves\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlgloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlgloves",
+  "stage": 1
+ },
+ {
+  "key": "9ee85e0bc47e60fdc88bd653d918a922",
+  "original": "pair of XL flame-resistant socks",
+  "translation": "防火袜（XL）",
+  "context": "ID: nomex_xlsocks\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlsocks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlsocks"
+ },
+ {
+  "key": "8986f7146d62eef5eef0e43e0eab9d3e",
+  "original": "pair of XL iron greaves",
+  "translation": "铁制护胫（XL）",
+  "context": "ID: legguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xlmetal"
+ },
+ {
+  "key": "04a6036296e555fc9b8af8681f3c36d3",
+  "original": "pair of XL leather arm guards",
+  "translation": "皮革护臂（XL）",
+  "context": "ID: armguard_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllarmor"
+ },
+ {
+  "key": "b4c3e53d6fa2775dbb0d53b3205aa29e",
+  "original": "pair of XL leather armor boots",
+  "translation": "皮甲靴（XL）",
+  "context": "ID: boots_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xllarmor"
+ },
+ {
+  "key": "1422c3a453be4b6488a95cd3d773fc6a",
+  "original": "pair of XL leather armor gauntlets",
+  "translation": "皮甲护手（XL）",
+  "context": "ID: gauntlets_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xllarmor"
+ },
+ {
+  "key": "1254aab215949e897797282815ed64e5",
+  "original": "pair of XL leather gloves",
+  "translation": "皮手套（XL）",
+  "context": "ID: gloves_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlleather"
+ },
+ {
+  "key": "a16e673ee22cd84bb7f5c6a0dad2017a",
+  "original": "pair of XL metal arm guards",
+  "translation": "金属护臂（XL）",
+  "context": "ID: armguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlmetal"
+ },
+ {
+  "key": "6bbaced11983f46dc7d7fad2689d8235",
+  "original": "pair of XL steel arm guards",
+  "translation": "钢制护臂（XL）",
+  "context": "ID: armguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllightplate"
+ },
+ {
+  "key": "e97806ec8223f4b93cc50af2b90c0175",
+  "original": "pair of XL steel leg guards",
+  "translation": "钢制护腿（XL）",
+  "context": "ID: legguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xllightplate"
+ },
+ {
+  "key": "9ba2f0872613c602ef8a771feb4dc2bd",
+  "original": "pairs of XL armored boots",
+  "translation": "pairs of XL armored boots",
+  "context": "ID: boots_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlplate",
+  "stage": 1
+ },
+ {
+  "key": "de6e5e1eb2b610e9de8796a86344e910",
+  "original": "pairs of XL armored gauntlets",
+  "translation": "pairs of XL armored gauntlets",
+  "context": "ID: gloves_xlplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlplate",
+  "stage": 1
+ },
+ {
+  "key": "8f9592b69320aaccb4e1a3b12b5101a9",
+  "original": "pairs of XL biosilicified chitin arm guards",
+  "translation": "pairs of XL biosilicified chitin arm guards",
+  "context": "ID: armguard_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "6f30357840833b6c7ecb691ea6d9a896",
+  "original": "pairs of XL biosilicified chitin boots",
+  "translation": "pairs of XL biosilicified chitin boots",
+  "context": "ID: boots_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "010fe6b49b3530d43cf6584b65bd80b0",
+  "original": "pairs of XL biosilicified chitin gauntlets",
+  "translation": "pairs of XL biosilicified chitin gauntlets",
+  "context": "ID: gauntlets_xlacidchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlacidchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlacidchitin",
+  "stage": 1
+ },
+ {
+  "key": "b7359b5724d72dbf555c58ae78e281e3",
+  "original": "pairs of XL boots",
+  "translation": "pairs of XL boots",
+  "context": "ID: boots_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xl",
+  "stage": 1
+ },
+ {
+  "key": "9026ad2ba41cf45d16ae1438e0054338",
+  "original": "pairs of XL chainmail leggings",
+  "translation": "pairs of XL chainmail leggings",
+  "context": "ID: chainmail_xllegs\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xllegs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xllegs",
+  "stage": 1
+ },
+ {
+  "key": "37bdbb2fc4683f5eba0d46588802ec43",
+  "original": "pairs of XL chainmail sleeves",
+  "translation": "pairs of XL chainmail sleeves",
+  "context": "ID: chainmail_xlarms\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→chainmail_xlarms\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chainmail_xlarms",
+  "stage": 1
+ },
+ {
+  "key": "7335b441efea6e7006dbeca0946b2568",
+  "original": "pairs of XL chitin arm guards",
+  "translation": "pairs of XL chitin arm guards",
+  "context": "ID: armguard_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "46b530fefde497412e56ac3f34f442ff",
+  "original": "pairs of XL chitinous boots",
+  "translation": "pairs of XL chitinous boots",
+  "context": "ID: boots_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "74bcca22739d12bb3bd9950a22450b35",
+  "original": "pairs of XL chitinous gauntlets",
+  "translation": "pairs of XL chitinous gauntlets",
+  "context": "ID: gauntlets_xlchitin\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xlchitin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xlchitin",
+  "stage": 1
+ },
+ {
+  "key": "9cf698fd59bdcd3fc1bdc54762920b33",
+  "original": "pairs of XL drop leg pouches",
+  "translation": "pairs of XL drop leg pouches",
+  "context": "ID: legrig_xl\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legrig_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legrig_xl",
+  "stage": 1
+ },
+ {
+  "key": "43945fee75bcac58578080e18f52aa92",
+  "original": "pairs of XL flame-resistant gloves",
+  "translation": "pairs of XL flame-resistant gloves",
+  "context": "ID: nomex_xlgloves\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlgloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlgloves",
+  "stage": 1
+ },
+ {
+  "key": "ec75ac9639ae363136a1264053a420fc",
+  "original": "pairs of XL flame-resistant socks",
+  "translation": "pairs of XL flame-resistant socks",
+  "context": "ID: nomex_xlsocks\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→nomex_xlsocks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nomex_xlsocks",
+  "stage": 1
+ },
+ {
+  "key": "2601a3d61bc36325e769f15c7518192e",
+  "original": "pairs of XL iron greaves",
+  "translation": "pairs of XL iron greaves",
+  "context": "ID: legguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xlmetal",
+  "stage": 1
+ },
+ {
+  "key": "835bdd7a6887d9be60f7c43ce0801943",
+  "original": "pairs of XL leather arm guards",
+  "translation": "pairs of XL leather arm guards",
+  "context": "ID: armguard_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "a71c5356b0759181840ea5a9d52ba3c9",
+  "original": "pairs of XL leather armor boots",
+  "translation": "pairs of XL leather armor boots",
+  "context": "ID: boots_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→boots_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "8fd221a612d31c1cffe272024ecb246b",
+  "original": "pairs of XL leather armor gauntlets",
+  "translation": "pairs of XL leather armor gauntlets",
+  "context": "ID: gauntlets_xllarmor\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gauntlets_xllarmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_xllarmor",
+  "stage": 1
+ },
+ {
+  "key": "a382794717e04c8899a67b2be7368010",
+  "original": "pairs of XL leather gloves",
+  "translation": "pairs of XL leather gloves",
+  "context": "ID: gloves_xlleather\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→gloves_xlleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_xlleather",
+  "stage": 1
+ },
+ {
+  "key": "9ed8e23e2429c3f56c40f96064528a12",
+  "original": "pairs of XL metal arm guards",
+  "translation": "pairs of XL metal arm guards",
+  "context": "ID: armguard_xlmetal\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xlmetal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xlmetal",
+  "stage": 1
+ },
+ {
+  "key": "51b2626963afca7c85a246ffd94568b8",
+  "original": "pairs of XL steel arm guards",
+  "translation": "pairs of XL steel arm guards",
+  "context": "ID: armguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armguard_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "7d77f2856e0310e288a79fb25ead7010",
+  "original": "pairs of XL steel leg guards",
+  "translation": "pairs of XL steel leg guards",
+  "context": "ID: legguard_xllightplate\n位于 /Kenan-Structured-Modpack/More_Armor/armor_xl.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→legguard_xllightplate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legguard_xllightplate",
+  "stage": 1
+ },
+ {
+  "key": "3eb06a353337820f8ab5567983bab89d",
+  "original": "tire armor",
+  "translation": "tire armor",
+  "context": "ID: armor_tire\n位于 /Kenan-Structured-Modpack/More_Armor/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Armor→ARMOR→armor_tire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_tire",
+  "stage": 1
+ }
+]

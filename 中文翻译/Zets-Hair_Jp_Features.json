@@ -1,0 +1,450 @@
+[
+ {
+  "key": "615ccea1a93b64e9ff3f6502f468c105",
+  "original": "Cute Aqua Hair",
+  "translation": "Cute Aqua Hair",
+  "context": "ID: hair1aquajp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1aquajp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1aquajp",
+  "stage": 1
+ },
+ {
+  "key": "a7395665ec7f7f0de677d176ce7eb9dd",
+  "original": "Cute Average Skin",
+  "translation": "Cute Average Skin",
+  "context": "ID: SKIN_MEDIUM_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_MEDIUM_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_MEDIUM_JP",
+  "stage": 1
+ },
+ {
+  "key": "c43b18615e3b5138d83274f8f77c308a",
+  "original": "Cute Black Hair",
+  "translation": "Cute Black Hair",
+  "context": "ID: hair1blackjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1blackjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1blackjp",
+  "stage": 1
+ },
+ {
+  "key": "2bfe37b4d25defa924963de759c332b3",
+  "original": "Cute Blonde Hair",
+  "translation": "Cute Blonde Hair",
+  "context": "ID: hair1blondjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1blondjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1blondjp",
+  "stage": 1
+ },
+ {
+  "key": "601dd0689cc40b1f835c4a063b52f557",
+  "original": "Cute Blue Hair",
+  "translation": "Cute Blue Hair",
+  "context": "ID: hair1bluejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1bluejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1bluejp",
+  "stage": 1
+ },
+ {
+  "key": "fef3808a92b9f4bb467a98ddd769abd7",
+  "original": "Cute Bright Blue Eyes",
+  "translation": "Cute Bright Blue Eyes",
+  "context": "ID: EYE_BLUE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BLUE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BLUE_JP",
+  "stage": 1
+ },
+ {
+  "key": "54489bde7c68a9e5cdc941530d585e99",
+  "original": "Cute Bright Brown Eyes",
+  "translation": "Cute Bright Brown Eyes",
+  "context": "ID: EYE_BROWN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BROWN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BROWN_JP",
+  "stage": 1
+ },
+ {
+  "key": "6e78dce70c7a4de30a81ac7de107b44e",
+  "original": "Cute Bright Gray Eyes",
+  "translation": "Cute Bright Gray Eyes",
+  "context": "ID: EYE_GRAY_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GRAY_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GRAY_JP",
+  "stage": 1
+ },
+ {
+  "key": "d1a164239f4d579a889f40e2c38f87ec",
+  "original": "Cute Bright Green Eyes",
+  "translation": "Cute Bright Green Eyes",
+  "context": "ID: EYE_GREEN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GREEN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GREEN_JP",
+  "stage": 1
+ },
+ {
+  "key": "a3b297ed0fcd20bf5f70b70f6976a360",
+  "original": "Cute Bright Purple Eyes",
+  "translation": "Cute Bright Purple Eyes",
+  "context": "ID: EYE_PURPLE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_PURPLE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_PURPLE_JP",
+  "stage": 1
+ },
+ {
+  "key": "89492f84f8cbdd18b21f6f57bf182e17",
+  "original": "Cute Bright Red Eyes",
+  "translation": "Cute Bright Red Eyes",
+  "context": "ID: EYE_RED_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_RED_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_RED_JP",
+  "stage": 1
+ },
+ {
+  "key": "64fecde6cd7c93b6e106cfc0f2a8bec4",
+  "original": "Cute Bright Yellow Eyes",
+  "translation": "Cute Bright Yellow Eyes",
+  "context": "ID: EYE_YELLOW_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_YELLOW_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_YELLOW_JP",
+  "stage": 1
+ },
+ {
+  "key": "c7a431af1b46c520bcd7355d22d78b42",
+  "original": "Cute Brown Hair",
+  "translation": "Cute Brown Hair",
+  "context": "ID: hair1brownjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1brownjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1brownjp",
+  "stage": 1
+ },
+ {
+  "key": "2e136c50749531e2fb60c6082bb780ee",
+  "original": "Cute Dark Blue Eyes",
+  "translation": "Cute Dark Blue Eyes",
+  "context": "ID: EYE_BLUE_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BLUE_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BLUE_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "e14efac983e18b8ab06258f0cde217b2",
+  "original": "Cute Dark Brown Eyes",
+  "translation": "Cute Dark Brown Eyes",
+  "context": "ID: EYE_BROWN_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BROWN_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BROWN_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "c2daf796524e7f6a62eea55fde936a86",
+  "original": "Cute Dark Gray Eyes",
+  "translation": "Cute Dark Gray Eyes",
+  "context": "ID: EYE_GRAY_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GRAY_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GRAY_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "f603284e4d87d0bd5fd7f0eebd4dc6f3",
+  "original": "Cute Dark Green Eyes",
+  "translation": "Cute Dark Green Eyes",
+  "context": "ID: EYE_GREEN_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GREEN_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GREEN_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "dc25d7d9d03f3548fda1c49efa49b3aa",
+  "original": "Cute Dark Purple Eyes",
+  "translation": "Cute Dark Purple Eyes",
+  "context": "ID: EYE_PURPLE_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_PURPLE_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_PURPLE_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "3caed6ae355cd89790886350c9fc971b",
+  "original": "Cute Dark Red Eyes",
+  "translation": "Cute Dark Red Eyes",
+  "context": "ID: EYE_RED_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_RED_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_RED_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "806ed6e50bfd48f419025acefb9a2ca4",
+  "original": "Cute Dark Skin",
+  "translation": "Cute Dark Skin",
+  "context": "ID: SKIN_DARK_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_DARK_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_DARK_JP",
+  "stage": 1
+ },
+ {
+  "key": "c57c579fb8d004f10ad0438f2def9e2d",
+  "original": "Cute Dark Yellow Eyes",
+  "translation": "Cute Dark Yellow Eyes",
+  "context": "ID: EYE_YELLOW_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_YELLOW_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_YELLOW_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "f7f8635ca2423252bd673d12b02c1e84",
+  "original": "Cute Green Hair",
+  "translation": "Cute Green Hair",
+  "context": "ID: hair1greenjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1greenjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1greenjp",
+  "stage": 1
+ },
+ {
+  "key": "9546de914b0fca01cc5609446a5583f7",
+  "original": "Cute Grey Hair",
+  "translation": "Cute Grey Hair",
+  "context": "ID: hair1greyjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1greyjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1greyjp",
+  "stage": 1
+ },
+ {
+  "key": "f1a418cec73afe0f1dfce4637b99ba0a",
+  "original": "Cute Light Skin",
+  "translation": "Cute Light Skin",
+  "context": "ID: SKIN_LIGHT_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_LIGHT_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_LIGHT_JP",
+  "stage": 1
+ },
+ {
+  "key": "6324d15650b49bff4972f2bd5a3efd74",
+  "original": "Cute Orange Hair",
+  "translation": "Cute Orange Hair",
+  "context": "ID: hair1orangejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1orangejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1orangejp",
+  "stage": 1
+ },
+ {
+  "key": "0c9a4df0d085a2d4891fcddb40e2692b",
+  "original": "Cute Pale Skin",
+  "translation": "Cute Pale Skin",
+  "context": "ID: SKIN_PALE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_PALE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_PALE_JP",
+  "stage": 1
+ },
+ {
+  "key": "471c7825b32c293e56ebfd5ce45a0de9",
+  "original": "Cute Pink Hair",
+  "translation": "Cute Pink Hair",
+  "context": "ID: hair1pinkjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1pinkjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1pinkjp",
+  "stage": 1
+ },
+ {
+  "key": "0ad919bfc55d51cca0ac04681e5e94f0",
+  "original": "Cute Pink Skin",
+  "translation": "Cute Pink Skin",
+  "context": "ID: SKIN_PINK_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_PINK_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_PINK_JP",
+  "stage": 1
+ },
+ {
+  "key": "2ec90feb56b1550a8f56dba1f7624573",
+  "original": "Cute Purple Hair",
+  "translation": "Cute Purple Hair",
+  "context": "ID: hair1purplejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1purplejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1purplejp",
+  "stage": 1
+ },
+ {
+  "key": "ada43c8d5f0e3a0b434c8cdb7c6f45f9",
+  "original": "Cute Red Hair",
+  "translation": "Cute Red Hair",
+  "context": "ID: hair1redjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1redjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1redjp",
+  "stage": 1
+ },
+ {
+  "key": "a0492bfed48daa8036a06ac90ec726b3",
+  "original": "Cute Tan Skin",
+  "translation": "Cute Tan Skin",
+  "context": "ID: SKIN_TAN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_TAN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_TAN_JP",
+  "stage": 1
+ },
+ {
+  "key": "0cde78958c48cb52314e34b46ba94972",
+  "original": "Cute White Hair",
+  "translation": "Cute White Hair",
+  "context": "ID: hair1whitejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1whitejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1whitejp",
+  "stage": 1
+ },
+ {
+  "key": "18308abc3e80f2daac52d13244641ac6",
+  "original": "You are wearing a black wig. ~Kawaii~",
+  "translation": "You are wearing a black wig. ~Kawaii~",
+  "context": "ID: hair1blackjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1blackjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1blackjp",
+  "stage": 1
+ },
+ {
+  "key": "ef209e007e2b1cc93466a34ec57c4223",
+  "original": "You are wearing a blond wig. ~Kawaii~",
+  "translation": "You are wearing a blond wig. ~Kawaii~",
+  "context": "ID: hair1blondjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1blondjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1blondjp",
+  "stage": 1
+ },
+ {
+  "key": "27fc2d7f16ce3c0524a0c312c40925df",
+  "original": "You are wearing a blue wig. ~Kawaii~",
+  "translation": "You are wearing a blue wig. ~Kawaii~",
+  "context": "ID: hair1bluejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1bluejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1bluejp",
+  "stage": 1
+ },
+ {
+  "key": "7882d52b4bc45d1d2932b6fc99844ae6",
+  "original": "You are wearing a brown wig. ~Kawaii~",
+  "translation": "You are wearing a brown wig. ~Kawaii~",
+  "context": "ID: hair1brownjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1brownjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1brownjp",
+  "stage": 1
+ },
+ {
+  "key": "25f062f29ac29840f71a84dc4bfef9b9",
+  "original": "You are wearing a green wig. ~Kawaii~",
+  "translation": "You are wearing a green wig. ~Kawaii~",
+  "context": "ID: hair1greenjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1greenjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1greenjp",
+  "stage": 1
+ },
+ {
+  "key": "9e670e8dde2787cc6aa18f1078b9c017",
+  "original": "You are wearing a grey wig. ~Kawaii~",
+  "translation": "You are wearing a grey wig. ~Kawaii~",
+  "context": "ID: hair1greyjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1greyjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1greyjp",
+  "stage": 1
+ },
+ {
+  "key": "fdf35a717fcc5bf6c46281ab72192acd",
+  "original": "You are wearing a pink wig. ~Kawaii~",
+  "translation": "You are wearing a pink wig. ~Kawaii~",
+  "context": "ID: hair1pinkjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1pinkjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1pinkjp",
+  "stage": 1
+ },
+ {
+  "key": "6065dec2a3e77af75602c43eeb8e1577",
+  "original": "You are wearing a purple wig. ~Kawaii~",
+  "translation": "You are wearing a purple wig. ~Kawaii~",
+  "context": "ID: hair1purplejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1purplejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1purplejp",
+  "stage": 1
+ },
+ {
+  "key": "e2ecb42afda9c2eac4d1634a6d8708f2",
+  "original": "You are wearing a red wig. ~Kawaii~",
+  "translation": "You are wearing a red wig. ~Kawaii~",
+  "context": "ID: hair1redjp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1redjp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1redjp",
+  "stage": 1
+ },
+ {
+  "key": "8ef58d0b4e897f6c41638a5909403e02",
+  "original": "You are wearing a white wig. ~Kawaii~",
+  "translation": "You are wearing a white wig. ~Kawaii~",
+  "context": "ID: hair1whitejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1whitejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1whitejp",
+  "stage": 1
+ },
+ {
+  "key": "9ab74faa21a7073d19ccd2ec6cf116fe",
+  "original": "You are wearing an aqua wig. ~Kawaii~",
+  "translation": "You are wearing an aqua wig. ~Kawaii~",
+  "context": "ID: hair1aquajp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1aquajp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1aquajp",
+  "stage": 1
+ },
+ {
+  "key": "814c1f516b45e7aede4bba0cbc5cc23b",
+  "original": "You are wearing an orange wig. ~Kawaii~",
+  "translation": "You are wearing an orange wig. ~Kawaii~",
+  "context": "ID: hair1orangejp\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_hairs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→hair1orangejp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair1orangejp",
+  "stage": 1
+ },
+ {
+  "key": "5c715588dd08fe8e8b3d824699d6a5dd",
+  "original": "You have naturally average skin tones. ~Kawaii~",
+  "translation": "You have naturally average skin tones. ~Kawaii~",
+  "context": "ID: SKIN_MEDIUM_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_MEDIUM_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_MEDIUM_JP",
+  "stage": 1
+ },
+ {
+  "key": "f6b313986133d1e94d0ec0cd8b12f36b",
+  "original": "You have naturally dark skin tones. ~Kawaii~",
+  "translation": "You have naturally dark skin tones. ~Kawaii~",
+  "context": "ID: SKIN_DARK_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_DARK_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_DARK_JP",
+  "stage": 1
+ },
+ {
+  "key": "5c28e6d811c65d2be12e7130d3da9833",
+  "original": "You have naturally light skin tones. ~Kawaii~",
+  "translation": "You have naturally light skin tones. ~Kawaii~",
+  "context": "ID: SKIN_LIGHT_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_LIGHT_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_LIGHT_JP",
+  "stage": 1
+ },
+ {
+  "key": "a2ac1976cf2e7884d6115ec6b4bb62cb",
+  "original": "You have naturally pale skin tones. ~Kawaii~",
+  "translation": "You have naturally pale skin tones. ~Kawaii~",
+  "context": "ID: SKIN_PALE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_PALE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_PALE_JP",
+  "stage": 1
+ },
+ {
+  "key": "a6ce60e07364c6f54d5ae55b68cacec7",
+  "original": "You have naturally pink skin tones. ~Kawaii~",
+  "translation": "You have naturally pink skin tones. ~Kawaii~",
+  "context": "ID: SKIN_PINK_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_PINK_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_PINK_JP",
+  "stage": 1
+ },
+ {
+  "key": "c17a9c7d911dac671500f40f438dcbc4",
+  "original": "You have naturally tanned skin tones. ~Kawaii~",
+  "translation": "You have naturally tanned skin tones. ~Kawaii~",
+  "context": "ID: SKIN_TAN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_skins.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→SKIN_TAN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKIN_TAN_JP",
+  "stage": 1
+ },
+ {
+  "key": "7dc9dab504d8c5105e53636de1beb463",
+  "original": "You have on bright blue coloured contacts. ~Kawaii~",
+  "translation": "You have on bright blue coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_BLUE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BLUE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BLUE_JP",
+  "stage": 1
+ },
+ {
+  "key": "664e4a88d7e7621cdc4958b021884c13",
+  "original": "You have on bright brown coloured contacts. ~Kawaii~",
+  "translation": "You have on bright brown coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_BROWN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BROWN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BROWN_JP",
+  "stage": 1
+ },
+ {
+  "key": "fdaa8e8af6729a252507c748c11c2a35",
+  "original": "You have on bright gray coloured contacts. ~Kawaii~",
+  "translation": "You have on bright gray coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_GRAY_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GRAY_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GRAY_JP",
+  "stage": 1
+ },
+ {
+  "key": "1c11f7e28bfc714e4c5fed38fd577605",
+  "original": "You have on bright green coloured contacts. ~Kawaii~",
+  "translation": "You have on bright green coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_GREEN_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GREEN_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GREEN_JP",
+  "stage": 1
+ },
+ {
+  "key": "78e8fafa42f8efc294e223e658ad4090",
+  "original": "You have on bright purple coloured contacts. ~Kawaii~",
+  "translation": "You have on bright purple coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_PURPLE_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_PURPLE_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_PURPLE_JP",
+  "stage": 1
+ },
+ {
+  "key": "1ab09ee38ef787c9e3bf257be39f5da5",
+  "original": "You have on bright red coloured contacts. ~Kawaii~",
+  "translation": "You have on bright red coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_RED_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_RED_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_RED_JP",
+  "stage": 1
+ },
+ {
+  "key": "d9c55f15d0c7f75db995fd5a8100f5f6",
+  "original": "You have on bright yellow coloured contacts. ~Kawaii~",
+  "translation": "You have on bright yellow coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_YELLOW_JP\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_YELLOW_JP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_YELLOW_JP",
+  "stage": 1
+ },
+ {
+  "key": "729a6ae35df534d6a182203890888bb6",
+  "original": "You have on dark blue coloured contacts. ~Kawaii~",
+  "translation": "You have on dark blue coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_BLUE_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BLUE_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BLUE_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "7b97c6b26313f6e6c00759f03cd2a82a",
+  "original": "You have on dark brown coloured contacts. ~Kawaii~",
+  "translation": "You have on dark brown coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_BROWN_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_BROWN_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_BROWN_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "5ec30a11b57de8b29a7f46d363c9949e",
+  "original": "You have on dark gray coloured contacts. ~Kawaii~",
+  "translation": "You have on dark gray coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_GRAY_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GRAY_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GRAY_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "889f163708cd9a82b7d50806d26e7376",
+  "original": "You have on dark green coloured contacts. ~Kawaii~",
+  "translation": "You have on dark green coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_GREEN_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_GREEN_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_GREEN_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "d2f97a2bf40956264c16ff705e4782c1",
+  "original": "You have on dark purple coloured contacts. ~Kawaii~",
+  "translation": "You have on dark purple coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_PURPLE_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_PURPLE_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_PURPLE_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "ced9af484196b53fb84db755054bdbb8",
+  "original": "You have on dark red coloured contacts. ~Kawaii~",
+  "translation": "You have on dark red coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_RED_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_RED_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_RED_JP_2",
+  "stage": 1
+ },
+ {
+  "key": "b2fcd8eb90659df7107c3f8fcce715aa",
+  "original": "You have on dark yellow coloured contacts. ~Kawaii~",
+  "translation": "You have on dark yellow coloured contacts. ~Kawaii~",
+  "context": "ID: EYE_YELLOW_JP_2\n位于 /Kenan-Structured-Modpack/Zets-Hair_Jp_Features/jp_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Zets-Hair_Jp_Features→mutation→EYE_YELLOW_JP_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EYE_YELLOW_JP_2",
+  "stage": 1
+ }
+]

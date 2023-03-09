@@ -1,0 +1,28 @@
+[
+ {
+  "key": "4664307e8f7af7664f5a83619cd3ca09",
+  "original": "Makes mutations work like before, without balancing changes and mutagen accumulation.",
+  "translation": "Makes mutations work like before, without balancing changes and mutagen accumulation.",
+  "context": "ID: Old_Mutations\n位于 /Kenan-Structured-Modpack/Old_Mutations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Old_Mutations→MOD_INFO→Old_Mutations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Old_Mutations",
+  "stage": 1
+ },
+ {
+  "key": "a7d5e95286d038bb0fdd3e613396eafd",
+  "original": "Old Mutations",
+  "translation": "Old Mutations",
+  "context": "ID: Old_Mutations\n位于 /Kenan-Structured-Modpack/Old_Mutations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Old_Mutations→MOD_INFO→Old_Mutations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Old_Mutations",
+  "stage": 1
+ },
+ {
+  "key": "131d71da7b657a601912a22ab9c899ca",
+  "original": "Robust Genetics",
+  "translation": "优良基因",
+  "context": "ID: ROBUST\n位于 /Kenan-Structured-Modpack/Old_Mutations/modinfo.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Old_Mutations→mutation→ROBUST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBUST"
+ },
+ {
+  "key": "04ff25225759f412fe71b4035f492f99",
+  "original": "You have a very strong genetic base.  If you mutate, the odds that the mutation will be beneficial are greatly increased.",
+  "translation": "你具有非常完美的基因基础，当你发生变异时，有利变异几率将大大高于不利变异。",
+  "context": "ID: ROBUST\n位于 /Kenan-Structured-Modpack/Old_Mutations/modinfo.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Old_Mutations→mutation→ROBUST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBUST"
+ }
+]

@@ -1,0 +1,635 @@
+[
+ {
+  "key": "5baa7f2be484ec3352454bd095b34270",
+  "original": "A blanket with a hole for the head and a belt. Less encumbering to wear, but also less warm.",
+  "translation": "A blanket with a hole for the head and a belt. Less encumbering to wear, but also less warm.",
+  "context": "ID: blanket_poncho\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→blanket_poncho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blanket_poncho",
+  "stage": 1
+ },
+ {
+  "key": "f3f14bfa801f3fc79e335fcba6de281b",
+  "original": "A cardboard visor. Protects from sun glare.",
+  "translation": "A cardboard visor. Protects from sun glare.",
+  "context": "ID: cardboard_visor\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→cardboard_visor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cardboard_visor",
+  "stage": 1
+ },
+ {
+  "key": "23688d593c091d6aa3f14c7dacd3edc7",
+  "original": "A crude and thick welded dagger with a sharpened point suitable only for combat. ",
+  "translation": "A crude and thick welded dagger with a sharpened point suitable only for combat. ",
+  "context": "ID: crude_dagger\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→crude_dagger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crude_dagger",
+  "stage": 1
+ },
+ {
+  "key": "241fd69c749c8f25d80a53279ff3ecec",
+  "original": "A crude telescopic spear with a long and broad head and a primitive locking mechanism. (A)ctivate to collapse and use it as a more suited for close combat blade.",
+  "translation": "A crude telescopic spear with a long and broad head and a primitive locking mechanism. (A)ctivate to collapse and use it as a more suited for close combat blade.",
+  "context": "ID: tele_spear\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear",
+  "stage": 1
+ },
+ {
+  "key": "b8f976ccd422577480c5160fb375d065",
+  "original": "A crude welded mace. You cannot think of any fancy techniques you may use with it, but it's rather compact and gets the job done.",
+  "translation": "A crude welded mace. You cannot think of any fancy techniques you may use with it, but it's rather compact and gets the job done.",
+  "context": "ID: crude_mace\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→crude_mace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crude_mace",
+  "stage": 1
+ },
+ {
+  "key": "3fa50dbab1b81bfa5e8bc2e8af38bf4f",
+  "original": "A long wooden pike with a fire-hardened point. Quite sturdy because of its thickness, this weapon is more suited to supporting others, fighting in formation and defending on rough terrain. ",
+  "translation": "A long wooden pike with a fire-hardened point. Quite sturdy because of its thickness, this weapon is more suited to supporting others, fighting in formation and defending on rough terrain. ",
+  "context": "ID: wooden_pike\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→wooden_pike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_pike",
+  "stage": 1
+ },
+ {
+  "key": "cd84d4cde1fc0b156b4e34fc8d3c3027",
+  "original": "A makeshift mace. You cannot think of any fancy techniques you may use with it, but it's rather compact and gets the job done.",
+  "translation": "A makeshift mace. You cannot think of any fancy techniques you may use with it, but it's rather compact and gets the job done.",
+  "context": "ID: makeshift_mace\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→makeshift_mace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_mace",
+  "stage": 1
+ },
+ {
+  "key": "f84931ee69c7c611e0b726d850d131db",
+  "original": "A makeshift plastic breastplate with some padding. Not as good as factory-made football armor, but it's way less bulky and covers more torso area.",
+  "translation": "A makeshift plastic breastplate with some padding. Not as good as factory-made football armor, but it's way less bulky and covers more torso area.",
+  "context": "ID: plastic_chest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_chest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_chest",
+  "stage": 1
+ },
+ {
+  "key": "984b9338fb99ea51b6d432a1c573b34a",
+  "original": "A makeshift wooden cuirass, actually just a bunch of boards fastened somewhat tight with strings.",
+  "translation": "A makeshift wooden cuirass, actually just a bunch of boards fastened somewhat tight with strings.",
+  "context": "ID: woodrass_one\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_one\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_one",
+  "stage": 1
+ },
+ {
+  "key": "ff106232e5945dfba0cdea615f7e3f70",
+  "original": "A makeshift wooden helmet. Heavy, uncomfortable and not quite sturdy, because the pieces are held together with a glue. ",
+  "translation": "A makeshift wooden helmet. Heavy, uncomfortable and not quite sturdy, because the pieces are held together with a glue. ",
+  "context": "ID: wooden_helm\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wooden_helm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_helm",
+  "stage": 1
+ },
+ {
+  "key": "def78c5efea49a93771ecb9bb2932f30",
+  "original": "A pair of arm guards cut from a thick motorbike tire.",
+  "translation": "A pair of arm guards cut from a thick motorbike tire.",
+  "context": "ID: tire_armguards\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→tire_armguards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tire_armguards",
+  "stage": 1
+ },
+ {
+  "key": "d6514264ec9f6dc3444d69e189bec2fc",
+  "original": "A pair of leg guards cut from a thick automobile tire.",
+  "translation": "A pair of leg guards cut from a thick automobile tire.",
+  "context": "ID: tire_legguards\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→tire_legguards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tire_legguards",
+  "stage": 1
+ },
+ {
+  "key": "6f16ae62a78469c1d15cadf8255eab62",
+  "original": "A pair of leggins made out of wires, coiled around and sewn into fabric. Sacrifices coverage to leave the knee unencumbered. Not even close to a proper mail, but better than just clothing.",
+  "translation": "A pair of leggins made out of wires, coiled around and sewn into fabric. Sacrifices coverage to leave the knee unencumbered. Not even close to a proper mail, but better than just clothing.",
+  "context": "ID: wiremail_legs\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_legs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_legs",
+  "stage": 1
+ },
+ {
+  "key": "eaae862f59526cab5b46e7edea8648a2",
+  "original": "A pair of makeshift patchwork pants. ",
+  "translation": "A pair of makeshift patchwork pants. ",
+  "context": "ID: patch_pants\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→patch_pants\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=patch_pants",
+  "stage": 1
+ },
+ {
+  "key": "652a1f94c234f78e3dafeec3ac7a727e",
+  "original": "A pair of sleeves made out of wires, coiled around and sewn into fabric. Sacrifices coverage to leave the elbow unencumbered. Not even close to a proper mail, but better than just clothing.",
+  "translation": "A pair of sleeves made out of wires, coiled around and sewn into fabric. Sacrifices coverage to leave the elbow unencumbered. Not even close to a proper mail, but better than just clothing.",
+  "context": "ID: wiremail_arms\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_arms\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_arms",
+  "stage": 1
+ },
+ {
+  "key": "e02486ef5676adea95497264d137cfb5",
+  "original": "A pair of tin cans with removed bottoms and cut open along the side to allow wearing them on wrists. Some rags are wrapped around the sharp sides and to hold it firmly.",
+  "translation": "A pair of tin cans with removed bottoms and cut open along the side to allow wearing them on wrists. Some rags are wrapped around the sharp sides and to hold it firmly.",
+  "context": "ID: can_vambraces\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→can_vambraces\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_vambraces",
+  "stage": 1
+ },
+ {
+  "key": "5e1d42f2186807d03715ea0f722faa96",
+  "original": "A plain wooden mask. Looks kinda... creepy.",
+  "translation": "A plain wooden mask. Looks kinda... creepy.",
+  "context": "ID: wooden_mask\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wooden_mask\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_mask",
+  "stage": 1
+ },
+ {
+  "key": "e430732500d4bf84134d433cfd06d832",
+  "original": "A plastic sheath with a fastening strap and using rags as inner padding. A bit more clumsy to use than the regular sheath. Activate to sheathe/draw a weapon.",
+  "translation": "A plastic sheath with a fastening strap and using rags as inner padding. A bit more clumsy to use than the regular sheath. Activate to sheathe/draw a weapon.",
+  "context": "ID: plastic_sheath\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_sheath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_sheath",
+  "stage": 1
+ },
+ {
+  "key": "c259024c334bced71f5c06933fc78515",
+  "original": "A semi-historical(it would be neat to add small pockets) replica of linothorax. Strong, light and comfortable; it has only one flaw - it will fall apart under the rain, and the only way of waterproofing you can think of is the beeswax. ",
+  "translation": "A semi-historical(it would be neat to add small pockets) replica of linothorax. Strong, light and comfortable; it has only one flaw - it will fall apart under the rain, and the only way of waterproofing you can think of is the beeswax. ",
+  "context": "ID: linothorax\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→linothorax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=linothorax",
+  "stage": 1
+ },
+ {
+  "key": "3e2af69643213628962915c9bee1fec7",
+  "original": "A shirt made out of wires, coiled around and sewn into fabric. Not even close to a proper mail, but better than just clothing.",
+  "translation": "A shirt made out of wires, coiled around and sewn into fabric. Not even close to a proper mail, but better than just clothing.",
+  "context": "ID: wiremail_chest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_chest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_chest",
+  "stage": 1
+ },
+ {
+  "key": "34514564b927287540ec38b2298a1407",
+  "original": "A skullcap hammered out of metal sheet.",
+  "translation": "A skullcap hammered out of metal sheet.",
+  "context": "ID: metal_skullcap\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→metal_skullcap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_skullcap",
+  "stage": 1
+ },
+ {
+  "key": "2b431aecf168436c5e35268fddb4448c",
+  "original": "A suit of armor made from thin wooden sheets with carefully cut grooves sewn onto a cloth gambeson.",
+  "translation": "A suit of armor made from thin wooden sheets with carefully cut grooves sewn onto a cloth gambeson.",
+  "context": "ID: woodrass_four\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_four\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_four",
+  "stage": 1
+ },
+ {
+  "key": "a7126cf9e90718d46a9aba7cf13aba21",
+  "original": "A suit of armor made from wooden scales with carefully drilled holes sewn onto a cloth gambeson.",
+  "translation": "A suit of armor made from wooden scales with carefully drilled holes sewn onto a cloth gambeson.",
+  "context": "ID: woodrass_six\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_six\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_six",
+  "stage": 1
+ },
+ {
+  "key": "88d0550cd8d19be332d4616e24d2e1c9",
+  "original": "A vest with dozens of sand-filled pockets. Kinda prone to ripping, and when it happens the sand disperses, making it impossible to repair, only make a new one.",
+  "translation": "A vest with dozens of sand-filled pockets. Kinda prone to ripping, and when it happens the sand disperses, making it impossible to repair, only make a new one.",
+  "context": "ID: sandbag_vest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→sandbag_vest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sandbag_vest",
+  "stage": 1
+ },
+ {
+  "key": "e869b0e233685223d6826f1961c01218",
+  "original": "A vest with two thin, but nevertheless inflexible metal sheets sealed inside its big pockets.",
+  "translation": "A vest with two thin, but nevertheless inflexible metal sheets sealed inside its big pockets.",
+  "context": "ID: metal_vest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→metal_vest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_vest",
+  "stage": 1
+ },
+ {
+  "key": "2ec75c85439418986c86dc5b9c7e4e72",
+  "original": "A wicker shield, used by light infantry and skirmishers in antiquity and by various indigenous tribes.",
+  "translation": "A wicker shield, used by light infantry and skirmishers in antiquity and by various indigenous tribes.",
+  "context": "ID: shield_wicker\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→shield_wicker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_wicker",
+  "stage": 1
+ },
+ {
+  "key": "bfb0938cfe356f645072ceb37acc854f",
+  "original": "Adds some more makeshift armors and weapons.",
+  "translation": "Adds some more makeshift armors and weapons.",
+  "context": "ID: makeshift_stuff\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→MOD_INFO→makeshift_stuff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_stuff",
+  "stage": 1
+ },
+ {
+  "key": "4b8e6a55e58c3d3d219397c2b2366201",
+  "original": "Also called coat hanger or jamaican holster, this is just a piece of wire with one end going into a barrel and the other one belted to pants. For small firearms only.",
+  "translation": "Also called coat hanger or jamaican holster, this is just a piece of wire with one end going into a barrel and the other one belted to pants. For small firearms only.",
+  "context": "ID: wire_holster\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wire_holster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wire_holster",
+  "stage": 1
+ },
+ {
+  "key": "53dd75c3715162f99b63fde801575398",
+  "original": "An armor made from thin wooden sheets with carefully cut grooves sewn onto a cloth undershirt.",
+  "translation": "An armor made from thin wooden sheets with carefully cut grooves sewn onto a cloth undershirt.",
+  "context": "ID: woodrass_three\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_three\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_three",
+  "stage": 1
+ },
+ {
+  "key": "d74274e4fda15f351ab8ade6ecde0e2a",
+  "original": "An armor made from wooden scales with carefully drilled holes sewn onto a cloth undershirt.",
+  "translation": "An armor made from wooden scales with carefully drilled holes sewn onto a cloth undershirt.",
+  "context": "ID: woodrass_five\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_five\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_five",
+  "stage": 1
+ },
+ {
+  "key": "751b2040c865446e252ac4db49a6129c",
+  "original": "An elaborate wooden cuirass, more thin, flexible and with shoulderpads for better coverage.",
+  "translation": "An elaborate wooden cuirass, more thin, flexible and with shoulderpads for better coverage.",
+  "context": "ID: woodrass_two\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_two\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_two",
+  "stage": 1
+ },
+ {
+  "key": "6c9b5c6c7dfd1cb196de152b5a23c644",
+  "original": "Have a spare bottle? Cut it in half, stuff inside some padding, fasten it with rags or string and use as vambraces. Hey, it's better than nothing.",
+  "translation": "Have a spare bottle? Cut it in half, stuff inside some padding, fasten it with rags or string and use as vambraces. Hey, it's better than nothing.",
+  "context": "ID: bottle_vambraces\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→bottle_vambraces\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bottle_vambraces",
+  "stage": 1
+ },
+ {
+  "key": "2dcf57125c5ba789b41ef107a3de5f4f",
+  "original": "Helmet with openable visor. Not as thick and reliable as great helm due to all moving parts. Use it to open the visor and catch your breath.",
+  "translation": "Helmet with openable visor. Not as thick and reliable as great helm due to all moving parts. Use it to open the visor and catch your breath.",
+  "context": "ID: visored_helm\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm",
+  "stage": 1
+ },
+ {
+  "key": "8526e5728c39264188b0e205c86cce23",
+  "original": "Helmet with openable visor. Use it to close the visor to protect your face.",
+  "translation": "Helmet with openable visor. Use it to close the visor to protect your face.",
+  "context": "ID: visored_helm_open\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm_open\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm_open",
+  "stage": 1
+ },
+ {
+  "key": "c1948e34ced4d78944669c2580947f77",
+  "original": "Makeshift raft",
+  "translation": "Makeshift raft",
+  "context": "ID: makeshift_raft\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→vehicle→makeshift_raft\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_raft",
+  "stage": 1
+ },
+ {
+  "key": "58c5a08e6fb4d54618b2878eb58e782d",
+  "original": "More Makeshift Stuff",
+  "translation": "More Makeshift Stuff",
+  "context": "ID: makeshift_stuff\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→MOD_INFO→makeshift_stuff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_stuff",
+  "stage": 1
+ },
+ {
+  "key": "020965bc6d6cf639a7ca8b3d07802405",
+  "original": "Primitive canoe",
+  "translation": "Primitive canoe",
+  "context": "ID: makeshift_canoe\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→vehicle→makeshift_canoe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_canoe",
+  "stage": 1
+ },
+ {
+  "key": "27d954a14fd062e2f06064a338c482c3",
+  "original": "Sheath knife",
+  "translation": "插入刀鞘",
+  "context": "ID: plastic_sheath\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_sheath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_sheath"
+ },
+ {
+  "key": "72ce8f90e3aeccbcc8fbec1c43d38215",
+  "original": "The spear is now collapsed and used as a chopping blade.",
+  "translation": "The spear is now collapsed and used as a chopping blade.",
+  "context": "ID: tele_spear_sw\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear_sw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear_sw",
+  "stage": 1
+ },
+ {
+  "key": "3f4c45d744ab0e0ab907cef9deea4acf",
+  "original": "This is a dugout canoe hollowed out of tree trunk. (A)ctivate to place it.",
+  "translation": "This is a dugout canoe hollowed out of tree trunk. (A)ctivate to place it.",
+  "context": "ID: makeshift_canoe\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL→makeshift_canoe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_canoe",
+  "stage": 1
+ },
+ {
+  "key": "4a591f39a4df67afb16b71b04440b9f1",
+  "original": "This is a primitive raft folded in half for storage. (A)ctivate to unfold and place it.",
+  "translation": "This is a primitive raft folded in half for storage. (A)ctivate to unfold and place it.",
+  "context": "ID: makeshift_raft\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL→makeshift_raft\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_raft",
+  "stage": 1
+ },
+ {
+  "key": "bf4384d2783dd55ab932c171efda42b5",
+  "original": "This is not a tool, but perhaps the most destructive stone weapon you can make. Its long handle allows you to strike with a great momentum.",
+  "translation": "This is not a tool, but perhaps the most destructive stone weapon you can make. Its long handle allows you to strike with a great momentum.",
+  "context": "ID: stone_maul\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→stone_maul\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stone_maul",
+  "stage": 1
+ },
+ {
+  "key": "bc51e2b7ef17ebd1f505de9021faddf5",
+  "original": "You collapse your spear.",
+  "translation": "You collapse your spear.",
+  "context": "ID: tele_spear\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear",
+  "stage": 1
+ },
+ {
+  "key": "2578e1e70aa92040e097c4f87cb1c6cb",
+  "original": "You extend your spear.",
+  "translation": "You extend your spear.",
+  "context": "ID: tele_spear_sw\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear_sw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear_sw",
+  "stage": 1
+ },
+ {
+  "key": "d51fdefbeaeb850ef85f31b27c79f157",
+  "original": "You lower your visor",
+  "translation": "You lower your visor",
+  "context": "ID: visored_helm_open\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm_open\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm_open",
+  "stage": 1
+ },
+ {
+  "key": "6f8d2f2bee13c507a22d813d0e1aa9a3",
+  "original": "You open your visor",
+  "translation": "You open your visor",
+  "context": "ID: visored_helm\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm",
+  "stage": 1
+ },
+ {
+  "key": "e079c018077a2fa0c76edd340d3511b3",
+  "original": "You sheath your %s",
+  "translation": "你将%s收鞘",
+  "context": "ID: plastic_sheath\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_sheath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_sheath"
+ },
+ {
+  "key": "e681ba563e90840ec19d02c1e2e5a4b4",
+  "original": "blanket poncho",
+  "translation": "blanket poncho",
+  "context": "ID: blanket_poncho\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→blanket_poncho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blanket_poncho",
+  "stage": 1
+ },
+ {
+  "key": "4302cefe1cf38e7be9bf90074d66f4cc",
+  "original": "bottle vambraces",
+  "translation": "bottle vambraces",
+  "context": "ID: bottle_vambraces\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→bottle_vambraces\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bottle_vambraces",
+  "stage": 1
+ },
+ {
+  "key": "a80636e31cc9853f177d3b27856004e3",
+  "original": "cardboard visor",
+  "translation": "cardboard visor",
+  "context": "ID: cardboard_visor\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→cardboard_visor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cardboard_visor",
+  "stage": 1
+ },
+ {
+  "key": "2ee670407a29080386b1de04c47453c5",
+  "original": "crude dagger",
+  "translation": "crude dagger",
+  "context": "ID: crude_dagger\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→crude_dagger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crude_dagger",
+  "stage": 1
+ },
+ {
+  "key": "5e1521e3327c7fe6d9288f1f3c342a5f",
+  "original": "crude mace",
+  "translation": "crude mace",
+  "context": "ID: crude_mace\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→crude_mace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crude_mace",
+  "stage": 1
+ },
+ {
+  "key": "2e65e14ecf60c8b532dadd083752ece2",
+  "original": "elaborate wooden cuirass",
+  "translation": "elaborate wooden cuirass",
+  "context": "ID: woodrass_two\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_two\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_two",
+  "stage": 1
+ },
+ {
+  "key": "14a80a5222215f24878c2428b7704f22",
+  "original": "elaborate wooden cuirasses",
+  "translation": "elaborate wooden cuirasses",
+  "context": "ID: woodrass_two\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_two\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_two",
+  "stage": 1
+ },
+ {
+  "key": "0f8b3601b033f76740bc63b9b4735baf",
+  "original": "linothorax",
+  "translation": "linothorax",
+  "context": "ID: linothorax\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→linothorax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=linothorax",
+  "stage": 1
+ },
+ {
+  "key": "2cce6cfe4491454e262c94aaac47bac7",
+  "original": "linothoraxes",
+  "translation": "linothoraxes",
+  "context": "ID: linothorax\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→linothorax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=linothorax",
+  "stage": 1
+ },
+ {
+  "key": "e65accdefe759e637976079a70ca46aa",
+  "original": "makeshift canoe",
+  "translation": "makeshift canoe",
+  "context": "ID: makeshift_canoe\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL→makeshift_canoe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_canoe",
+  "stage": 1
+ },
+ {
+  "key": "349d945748db81bf4cdcb8d12b7429ac",
+  "original": "makeshift mace",
+  "translation": "makeshift mace",
+  "context": "ID: makeshift_mace\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→makeshift_mace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_mace",
+  "stage": 1
+ },
+ {
+  "key": "d26058c2b6707fb5c9a6eb8f0d9583c4",
+  "original": "makeshift metal skullcap",
+  "translation": "makeshift metal skullcap",
+  "context": "ID: metal_skullcap\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→metal_skullcap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_skullcap",
+  "stage": 1
+ },
+ {
+  "key": "2e182ee99235b54aeea4da719c372742",
+  "original": "makeshift raft",
+  "translation": "makeshift raft",
+  "context": "ID: makeshift_raft\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL→makeshift_raft\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_raft",
+  "stage": 1
+ },
+ {
+  "key": "5ceb729440662738a9010819464e6c8c",
+  "original": "makeshift wooden cuirass",
+  "translation": "makeshift wooden cuirass",
+  "context": "ID: woodrass_one\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_one\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_one",
+  "stage": 1
+ },
+ {
+  "key": "b8e47106c1341f8a61ef79a043fd043c",
+  "original": "makeshift wooden cuirasses",
+  "translation": "makeshift wooden cuirasses",
+  "context": "ID: woodrass_one\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_one\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_one",
+  "stage": 1
+ },
+ {
+  "key": "87ae7877683ec7d0a5f635d2655e4371",
+  "original": "metal sheet vest",
+  "translation": "metal sheet vest",
+  "context": "ID: metal_vest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→metal_vest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_vest",
+  "stage": 1
+ },
+ {
+  "key": "ca425b88f047ce8ec45ee90e813ada91",
+  "original": "pants",
+  "translation": "长裤",
+  "context": "ID: patch_pants\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→patch_pants\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=patch_pants"
+ },
+ {
+  "key": "08e50d75ccf1397d13813d0002bd3e99",
+  "original": "patchwork pants",
+  "translation": "patchwork pants",
+  "context": "ID: patch_pants\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→patch_pants\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=patch_pants",
+  "stage": 1
+ },
+ {
+  "key": "cca08caaf2910b0441daf91d33c9953a",
+  "original": "plastic breastplate",
+  "translation": "plastic breastplate",
+  "context": "ID: plastic_chest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_chest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_chest",
+  "stage": 1
+ },
+ {
+  "key": "df4d0d3407c905e8b555bb246b765d60",
+  "original": "plastic sheath",
+  "translation": "plastic sheath",
+  "context": "ID: plastic_sheath\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_sheath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_sheath",
+  "stage": 1
+ },
+ {
+  "key": "bf6f36d87666a5937fe598bc3fb10fc0",
+  "original": "plastic sheathes",
+  "translation": "plastic sheathes",
+  "context": "ID: plastic_sheath\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→plastic_sheath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plastic_sheath",
+  "stage": 1
+ },
+ {
+  "key": "3de7df4c296ded1851d13439902f1cd3",
+  "original": "sandbag vest",
+  "translation": "sandbag vest",
+  "context": "ID: sandbag_vest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→sandbag_vest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sandbag_vest",
+  "stage": 1
+ },
+ {
+  "key": "236789bc483d471d0210976902f9542d",
+  "original": "stone maul",
+  "translation": "stone maul",
+  "context": "ID: stone_maul\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→stone_maul\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stone_maul",
+  "stage": 1
+ },
+ {
+  "key": "10de01657a9b0762f0dbeb4c4237193e",
+  "original": "telescopic spear",
+  "translation": "telescopic spear",
+  "context": "ID: tele_spear\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear",
+  "stage": 1
+ },
+ {
+  "key": "7526b07c452a04919f805dda085b5891",
+  "original": "telescopic spear (collapsed)",
+  "translation": "telescopic spear (collapsed)",
+  "context": "ID: tele_spear_sw\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→tele_spear_sw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tele_spear_sw",
+  "stage": 1
+ },
+ {
+  "key": "0e9962e4c74cf1439b67f162245c889a",
+  "original": "tin can vambraces",
+  "translation": "tin can vambraces",
+  "context": "ID: can_vambraces\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→can_vambraces\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_vambraces",
+  "stage": 1
+ },
+ {
+  "key": "54894844cc12d19594bdb6374433c1c4",
+  "original": "tire arm guards",
+  "translation": "tire arm guards",
+  "context": "ID: tire_armguards\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→tire_armguards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tire_armguards",
+  "stage": 1
+ },
+ {
+  "key": "339e5a2ac51f1684816fdaf39671d356",
+  "original": "tire leg guards",
+  "translation": "tire leg guards",
+  "context": "ID: tire_legguards\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→tire_legguards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tire_legguards",
+  "stage": 1
+ },
+ {
+  "key": "daf83386c4f2d1b0a1b112507c438607",
+  "original": "visored helmet",
+  "translation": "visored helmet",
+  "context": "ID: visored_helm\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm",
+  "stage": 1
+ },
+ {
+  "key": "3d39c79ed5c454b72d0472f404f68312",
+  "original": "visored helmet(open)",
+  "translation": "visored helmet(open)",
+  "context": "ID: visored_helm_open\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_tools_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→TOOL_ARMOR→visored_helm_open\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=visored_helm_open",
+  "stage": 1
+ },
+ {
+  "key": "8cae0bdd7006096dbf07f9a9c23e3138",
+  "original": "wicker shield",
+  "translation": "wicker shield",
+  "context": "ID: shield_wicker\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→shield_wicker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_wicker",
+  "stage": 1
+ },
+ {
+  "key": "5dedfedfe8d071cd68fb1ec22dcd0dc3",
+  "original": "wire holster",
+  "translation": "wire holster",
+  "context": "ID: wire_holster\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wire_holster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wire_holster",
+  "stage": 1
+ },
+ {
+  "key": "918cd75784a9f3632c61cac55f7c3c1f",
+  "original": "wire mail leggins",
+  "translation": "wire mail leggins",
+  "context": "ID: wiremail_legs\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_legs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_legs",
+  "stage": 1
+ },
+ {
+  "key": "93788dede6eb338aebeb75eda4da8918",
+  "original": "wire mail shirt",
+  "translation": "wire mail shirt",
+  "context": "ID: wiremail_chest\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_chest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_chest",
+  "stage": 1
+ },
+ {
+  "key": "647e3acc4e11a212977a9e90ff183952",
+  "original": "wire mail sleeves",
+  "translation": "wire mail sleeves",
+  "context": "ID: wiremail_arms\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wiremail_arms\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wiremail_arms",
+  "stage": 1
+ },
+ {
+  "key": "a87da360628e1022da3b304142e8a35a",
+  "original": "wooden helmet",
+  "translation": "wooden helmet",
+  "context": "ID: wooden_helm\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wooden_helm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_helm",
+  "stage": 1
+ },
+ {
+  "key": "401624d4d6ad7afdf87729122cb59f50",
+  "original": "wooden laminar cuirass",
+  "translation": "wooden laminar cuirass",
+  "context": "ID: woodrass_three\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_three\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_three",
+  "stage": 1
+ },
+ {
+  "key": "430da23dbef7c7db38d448eb532d86bb",
+  "original": "wooden laminar cuirasses",
+  "translation": "wooden laminar cuirasses",
+  "context": "ID: woodrass_three\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_three\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_three",
+  "stage": 1
+ },
+ {
+  "key": "2c1f55334cc7fe72167fe547169d992f",
+  "original": "wooden laminar suit",
+  "translation": "wooden laminar suit",
+  "context": "ID: woodrass_four\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_four\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_four",
+  "stage": 1
+ },
+ {
+  "key": "144226a60120a2d7e578995c4ec8501b",
+  "original": "wooden mask",
+  "translation": "wooden mask",
+  "context": "ID: wooden_mask\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→wooden_mask\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_mask",
+  "stage": 1
+ },
+ {
+  "key": "d861ac77820e5902844275d59c2cd77e",
+  "original": "wooden pike",
+  "translation": "木制重矛",
+  "context": "ID: wooden_pike\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→GENERIC→wooden_pike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_pike"
+ },
+ {
+  "key": "8df5d0972bd716070a5f1478eb4c5fc9",
+  "original": "wooden scale cuirass",
+  "translation": "wooden scale cuirass",
+  "context": "ID: woodrass_five\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_five\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_five",
+  "stage": 1
+ },
+ {
+  "key": "a77c5294da61f72a211162679761bbf0",
+  "original": "wooden scale cuirasses",
+  "translation": "wooden scale cuirasses",
+  "context": "ID: woodrass_five\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_five\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_five",
+  "stage": 1
+ },
+ {
+  "key": "bcaacf9d3fdfc62e2078ea7e0e3e6fbd",
+  "original": "wooden scale suit",
+  "translation": "wooden scale suit",
+  "context": "ID: woodrass_six\n位于 /Kenan-Structured-Modpack/More_Makeshift_Stuff/mod_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Makeshift_Stuff→ARMOR→woodrass_six\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=woodrass_six",
+  "stage": 1
+ }
+]

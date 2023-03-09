@@ -1,0 +1,103 @@
+[
+ {
+  "key": "c9a53cd9170496879eefb397a37592b3",
+  "original": "Chilly",
+  "translation": "微凉",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ },
+ {
+  "key": "1a3c2e99e572ec71d3820d0363d90742",
+  "original": "Cold",
+  "translation": "寒冷",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ },
+ {
+  "key": "64a54c31b5b440b2f5a00a723df03ec4",
+  "original": "Freezing",
+  "translation": "冻僵",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ },
+ {
+  "key": "4194726ee334e1085d93e002837b73f0",
+  "original": "Hot",
+  "translation": "热",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot"
+ },
+ {
+  "key": "84484dc258237d9806723aeb9e345012",
+  "original": "Reduces temperature effects for your character by removing scaling factor so temperature effects are less intense.",
+  "translation": "Reduces temperature effects for your character by removing scaling factor so temperature effects are less intense.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_reduced/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→MOD_INFO→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "66cf2ef85041a74c6eced339210e0660",
+  "original": "Removes temperature effects for your character. Never be hot or cold again! Warning: if mod is loaded into current save/game your character status will permanently display temperature state as of save though it has no effect on your character.",
+  "translation": "Removes temperature effects for your character. Never be hot or cold again! Warning: if mod is loaded into current save/game your character status will permanently display temperature state as of save though it has no effect on your character.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→MOD_INFO→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "35b2d04e25785c4ddff96c0caf345681",
+  "original": "Scorching",
+  "translation": "炙热",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot"
+ },
+ {
+  "key": "90482b7676cdd13b4cd634f5a84fac04",
+  "original": "Temperature Effects Reduced",
+  "translation": "Temperature Effects Reduced",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_reduced/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→MOD_INFO→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "8386d9024e8fe9de4cc18c24233d7ebc",
+  "original": "Temperature Effects Removed",
+  "translation": "Temperature Effects Removed",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→MOD_INFO→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "18297117d3d251afceed9ecbe797c849",
+  "original": "Warm",
+  "translation": "燥热",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot"
+ },
+ {
+  "key": "c5ea6a3f02259f38b3a676a79f72b6f7",
+  "original": "Your %s feels warm.",
+  "translation": "你觉得%s有点热。",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot"
+ },
+ {
+  "key": "45c25faf9d68b6b5f13eb43968c283d0",
+  "original": "Your %s is dangerously cold!",
+  "translation": "你的%s快被冻得坏死了。",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ },
+ {
+  "key": "2f8a435358a544f6f712b32e154b4666",
+  "original": "Your %s is exposed to the cold.",
+  "translation": "你的%s暴露在寒风之中。",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ },
+ {
+  "key": "bfe17fef7d9b833e0fce732eebf2a995",
+  "original": "Your %s is sweating from the heat.  Be careful not to get sick.",
+  "translation": "Your %s is sweating from the heat.  Be careful not to get sick.",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot",
+  "stage": 1
+ },
+ {
+  "key": "90956cdca66ee3b66ce5b2fd27ef5b5a",
+  "original": "Your %s is sweating profusely!",
+  "translation": "你的%s热得大量出汗！",
+  "context": "ID: hot\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→hot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hot"
+ },
+ {
+  "key": "63950d31e4552e76937b2eb3ca06fbc3",
+  "original": "Your %s is very exposed to the cold.",
+  "translation": "你的%s长时间暴露在寒冷之中。",
+  "context": "ID: cold\n位于 /Kenan-Structured-Modpack/Temperature Effects Overrides/temp_effects_removed/effects_override.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Temperature Effects Overrides→effect_type→cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold"
+ }
+]

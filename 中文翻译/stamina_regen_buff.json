@@ -1,0 +1,23 @@
+[
+ {
+  "key": "ff8fd81535f5397ded8ae40467a7ab55",
+  "original": "Faster Stamina Regen",
+  "translation": "Faster Stamina Regen",
+  "context": "ID: stamina_regen_buff\n位于 /Kenan-Structured-Modpack/stamina_regen_buff/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#stamina_regen_buff→MOD_INFO→stamina_regen_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stamina_regen_buff",
+  "stage": 1
+ },
+ {
+  "key": "9702d17a453aa95190c18461784a1695",
+  "original": "Makes effective stamina regeneration rate roughly half, instead of one-sixth.",
+  "translation": "Makes effective stamina regeneration rate roughly half, instead of one-sixth.",
+  "context": "ID: stamina_regen_buff\n位于 /Kenan-Structured-Modpack/stamina_regen_buff/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#stamina_regen_buff→MOD_INFO→stamina_regen_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stamina_regen_buff",
+  "stage": 1
+ },
+ {
+  "key": "3c34e21c3382eaeb28281b0827db1b08",
+  "original": "Sets base stamina regeneration per turn of the player.  May be used as an offset in stamina draining effects.",
+  "translation": "Sets base stamina regeneration per turn of the player.  May be used as an offset in stamina draining effects.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/stamina_regen_buff/game_balance.json\n类型为 EXTERNAL_OPTION\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#stamina_regen_buff→EXTERNAL_OPTION→[0]\n",
+  "stage": 1
+ }
+]

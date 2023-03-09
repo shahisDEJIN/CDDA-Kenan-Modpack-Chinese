@@ -1,1 +1,1393 @@
-[]
+[
+ {
+  "key": "bd53396c28c121b6217d291ff6393457",
+  "original": "\"Armor Penetration\"\nBy attuning to the rhythm of your opponent, you can strike where their guard is the weakest.\n+5 bash Armor Penetration.\nLasts 2 turns.",
+  "translation": "护甲穿透，又称“Einzug Rüstungen”\n通过将自身调整至你对手的节奏，你可以打击他们防守最薄弱的地方。\n钝击护甲穿透+5。\n持续 2 回合。",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "1b23dc9cf3c5fd8374d3d005d48ba1a2",
+  "original": "\"Shadow Tracking\"\nAs a künstler, you are trained to stay in your target's blind spot.\n\n+1 Dodge attemps, Dodge Skill increased by 12%% of Perception.",
+  "translation": "暗影追踪，又称“Schatten Folgen”\n作为一名机甲武师（künstler），你的训练让你能够一直处于目标的盲区之中。\n\n闪避次数+1，闪避技能按感知的 12%% 增加。",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "837de908eec246696184a6e31cda5dfa",
+  "original": "%s adopts a panzer kunst stance.",
+  "translation": "%s 摆出了一个机甲格斗术的姿势。",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "0cd5dc640324b2b1ca016b1990adda5d",
+  "original": "%s assumes into a running combat stance.",
+  "translation": "%s 摆出了一个奔跑的战斗姿态。",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind"
+ },
+ {
+  "key": "c49f9b78af735dd522caa7d601537f37",
+  "original": "%s becomes very still for a moment.",
+  "translation": "%s 瞬间变得安定不动。",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind"
+ },
+ {
+  "key": "b6cdadd1677bfc8d3421f4c215ec8fd4",
+  "original": "%s begins to step lightly from side to side.",
+  "translation": "%s 开始轻柔地来回跨步。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "991f65bf4da4a9a1886719fdf045d700",
+  "original": "%s digs their heels into the ground.",
+  "translation": "%s 将脚后跟扎入土中。",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "1429725ae23c825af9581fc7706166c6",
+  "original": "%s hunkers down like a wild animal.",
+  "translation": "%s 像一只野兽一样蹲下。",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "072735ee508007cd6e4110ebb1894e78",
+  "original": "%s is about to challenge someone to a battle.",
+  "translation": "%s 准备好和人战斗了。",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "d65ff62d90d7c9feed55d4a185c942f8",
+  "original": "%s places one foot back and hold their weapon vertically.",
+  "translation": "%s 一只脚后退，把武器竖直握在主手侧。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "125449d45601958fd763b0c65ae4797f",
+  "original": "%s shifts their weight and assumes a new stance.",
+  "translation": "%s 调整重心，摆出了一个新姿势。",
+  "context": "ID: style_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_setting_sun"
+ },
+ {
+  "key": "4d34f5ced67332d0634bb7c49b9ee630",
+  "original": "%s takes a bold and fearless stance.",
+  "translation": "%s 摆出了一个勇敢无畏的姿势。",
+  "context": "ID: style_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_iron_heart"
+ },
+ {
+  "key": "23de452816b1f900c8a948678b591cc6",
+  "original": "<npcname> becomes a flaming blur as they strike %s and those around them",
+  "translation": "<npcname> 变成了一个燃烧的幻影，攻击 %s 及你四周的人",
+  "context": "ID: mma_tec_desert_wind_spin\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_spin"
+ },
+ {
+  "key": "0f023ad3b11a5dd49613d4d3f573114c",
+  "original": "<npcname> carve an arc through %s and those nearby",
+  "translation": "<npcname> 划出一道弧线劈向 %s 和其周围的人",
+  "context": "ID: mma_tec_desert_wind_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_wide"
+ },
+ {
+  "key": "27b6fa2bd8143a28edc93883cbb069a8",
+  "original": "<npcname> cleanly reap throug %s and those nearby",
+  "translation": "<npcname>干净利落地收割了%s和附近的敌人",
+  "context": "ID: mma_tec_iron_heart_wide_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide_crit"
+ },
+ {
+  "key": "e65c27e4412c1ebf58161b135dabaa84",
+  "original": "<npcname> cleaves through %s and those nearby like a steel wind",
+  "translation": "<npcname>像钢铁之风一样劈穿了%s和附近的敌人",
+  "context": "ID: mma_tec_iron_heart_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide"
+ },
+ {
+  "key": "898ce5a915aeab6ee324e37c8c9bd093",
+  "original": "<npcname> completely fools %s and strike back",
+  "translation": "<npcname> 反转并回击了 %s",
+  "context": "ID: mma_tec_setting_sun_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_counter"
+ },
+ {
+  "key": "8effc664b73d007641b4f928559f0e99",
+  "original": "<npcname> completely shatters %s with a Colossus Strike",
+  "translation": "<npcname> 用一记巨人冲击击碎了 %s",
+  "context": "ID: mma_tec_stone_dragon_colossus\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_colossus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_colossus"
+ },
+ {
+  "key": "0547176160b55d25719612939fd8019e",
+  "original": "<npcname> crushes %s with the weight of their Mountain Hammer",
+  "translation": "<npcname> 用一记巨山破砸向 %s",
+  "context": "ID: mma_tec_stone_dragon_hammer\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_hammer"
+ },
+ {
+  "key": "b5fbc5ec3c2550fb998e52c9237bbc9b",
+  "original": "<npcname> deflects %s's attack and counters in one fluid motion",
+  "translation": "<npcname>用流畅的动作格挡并回击了%s",
+  "context": "ID: mma_tec_shii_cho_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_counter"
+ },
+ {
+  "key": "2a70cdfa9d449accbaa23bd8c87c9066",
+  "original": "<npcname> disarms %s with a quick flick of their weapon",
+  "translation": "<npcname> 用武器轻轻一砍，将 %s 缴械",
+  "context": "ID: mma_tec_shii_cho_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_disarm"
+ },
+ {
+  "key": "d1fa7d51f04ae7055c1ddda3d66eea85",
+  "original": "<npcname> finishes off %s with a powerful slash",
+  "translation": "<npcname> 用一记强力的劈砍终结了 %s",
+  "context": "ID: mma_tec_iron_heart_execute\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_execute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_execute"
+ },
+ {
+  "key": "9f7f2ad6d768f61911674bff1f8d199c",
+  "original": "<npcname> harshly stuns %s",
+  "translation": "<npcname> 用力击晕了 %s",
+  "context": "ID: mma_tec_iron_heart_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_stun"
+ },
+ {
+  "key": "504853e5353ca80ca3bb055358bf58fa",
+  "original": "<npcname> hits %s with a powerful vibro-punch",
+  "translation": "<npcname>用强力震荡攻击%s。",
+  "context": "ID: mma_tec_panzer_precise\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_precise\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_precise"
+ },
+ {
+  "key": "2c8b937af0e591d51a3eba0c31c88c9a",
+  "original": "<npcname> interrupt %s with a perfectly aimed strike",
+  "translation": "<npcname> 精准一击打断了 %s",
+  "context": "ID: mma_tec_setting_sun_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_stun"
+ },
+ {
+  "key": "a40b5ebdaebe0850144f5d549d465097",
+  "original": "<npcname> jump and somersault kick %s",
+  "translation": "<npcname> 纵身跳起，对 %s 使出了筋斗踢。",
+  "context": "ID: mma_tec_panzer_somersault\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_somersault\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_somersault"
+ },
+ {
+  "key": "82e08a96d4f4ea02bc0676f7ca7fb408",
+  "original": "<npcname> launches a supersonic punch at %s",
+  "translation": "<npcname>如导弹一般，突破音速撞向%s。",
+  "context": "ID: mma_tec_panzer_rapid\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_rapid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_rapid"
+ },
+ {
+  "key": "dec8a851227330c4ffb2ac18449a4d6f",
+  "original": "<npcname> misses %s but recovers in the blink of an eye",
+  "translation": "<npcname> 没能击中 %s，但转瞬间就已恢复",
+  "context": "ID: mma_tec_iron_heart_feint\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_feint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_feint"
+ },
+ {
+  "key": "1f30287190f20d5c9529676d4184a794",
+  "original": "<npcname> quickly sweeps through %s and those nearby",
+  "translation": "<npcname>迅速地扫击了%s和附近的敌人",
+  "context": "ID: mma_tec_shii_cho_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_wide"
+ },
+ {
+  "key": "b74a538e6a82ece7b43b9ba1276098b5",
+  "original": "<npcname> redirects %s's attack against them",
+  "translation": "<npcname>反转了%s的攻击。",
+  "context": "ID: mma_tec_panzer_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_counter"
+ },
+ {
+  "key": "12ee5e264a6822be4075d428d5cf5600",
+  "original": "<npcname> skillfully disarms %s",
+  "translation": "<npcname>巧妙地将%s缴械",
+  "context": "ID: mma_tec_iron_heart_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_disarm"
+ },
+ {
+  "key": "8c74d35e10658b7d4604136aa64dd49f",
+  "original": "<npcname> smashes down on %s with a Mountain Strike",
+  "translation": "<npcname> 用一记地动山摇将 %s 砸翻",
+  "context": "ID: mma_tec_stone_dragon_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_strike"
+ },
+ {
+  "key": "5c72ec2e5c3021181fa75c7bb3f4589c",
+  "original": "<npcname> spins and hurls %s away with a Ballista Throw",
+  "translation": "<npcname>使出一招穿云投，将%s远远丟倒在地",
+  "context": "ID: mma_tec_setting_sun_throw_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw_crit"
+ },
+ {
+  "key": "f45368953476930d1b76f010e0607fa0",
+  "original": "<npcname> spot %s's weakpoint and strike",
+  "translation": "<npcname> 观察到 %s 的弱点，随即攻击",
+  "context": "ID: mma_tec_diamond_mind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_diamond_mind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_diamond_mind_crit"
+ },
+ {
+  "key": "373ea8c80ca3987df945d023f0d0e394",
+  "original": "<npcname> strikes %s with powerful inferno",
+  "translation": "<npcname> 用强大的业火攻击了 %s",
+  "context": "ID: mma_tec_desert_wind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_crit"
+ },
+ {
+  "key": "f52c047f605c57cf1c28f3808789e5b5",
+  "original": "<npcname> strikes through %s with a snaking flame",
+  "translation": "<npcname> 用蛇形火焰刺穿了 %s",
+  "context": "ID: mma_tec_desert_wind_impale\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_impale\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_impale"
+ },
+ {
+  "key": "c1d6f07d35ef718dfb47c8e1b7a409de",
+  "original": "<npcname> tosses %s with a Mighty Throw",
+  "translation": "<npcname>使出一招暮日投，将%s丢倒在地",
+  "context": "ID: mma_tec_setting_sun_throw\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw"
+ },
+ {
+  "key": "050164c7f25eb5d0e841346544c6f1c4",
+  "original": "<npcname> unleash a fiery attack against %s",
+  "translation": "<npcname> 对 %s 发动了猛烈的攻击",
+  "context": "ID: mma_tec_desert_wind_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_strike"
+ },
+ {
+  "key": "960c2738d53e2ec842fbc4788c7997ff",
+  "original": "<npcname> unleashes a spin attack against %s and those nearby",
+  "translation": "<npcname> 对 %s 和其周围的人发动回旋斩",
+  "context": "ID: mma_tec_hylian_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_hylian_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_hylian_wide"
+ },
+ {
+  "key": "775550b2520be5094a3e448e14662fb5",
+  "original": "<npcname> uses Darkest Lariat on %s",
+  "translation": "<npcname>对%s使用了DD金勾臂",
+  "context": "ID: mma_tec_pokken_lariat\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_lariat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_lariat"
+ },
+ {
+  "key": "04222c1af9ae064590ee82f30953932e",
+  "original": "<npcname> uses Low Sweep on %s",
+  "translation": "<npcname>对%s使用了下盘踢",
+  "context": "ID: mma_tec_pokken_sweep\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_sweep"
+ },
+ {
+  "key": "189df2ccef00cea62d59bb74564fe627",
+  "original": "<npcname> uses Mega Kick on %s",
+  "translation": "<npcname>对%s使用了百万吨重踢",
+  "context": "ID: mma_tec_pokken_kick\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_kick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_kick"
+ },
+ {
+  "key": "cd5c6070c93b5dfbe933cd808dd41a47",
+  "original": "<npcname> uses Smart Strike on %s",
+  "translation": "<npcname>对%s使用了修长之角",
+  "context": "ID: mma_tec_pokken_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_strike"
+ },
+ {
+  "key": "7327986d4eb86b0df6fe36c836caa887",
+  "original": "A biography of a combat cyborg agent detailing his philosophy and martial art.",
+  "translation": "一位战斗改造人特工的传记，详述了他的哲学和武术。",
+  "context": "ID: manual_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_panzer"
+ },
+ {
+  "key": "a9b9e265fb838503b45cae9fd2ae184e",
+  "original": "A collection of ancient Hylian lore and stories.  A section on historic battles is bookmarked.",
+  "translation": "一本古老的海拉尔传说和故事集。其中关于一次历史上著名的战役的章节被加上了书签标记。",
+  "context": "ID: manual_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_hylian"
+ },
+ {
+  "key": "6446bc1bf21001b1a26e1bd1aa649547",
+  "original": "A collection of fictional, mythologically inspired or otherwise unrealistic martial arts.",
+  "translation": "一系列虚构的，神话的，不切实际的武术流派。",
+  "context": "ID: MMA\n位于 /Kenan-Structured-Modpack/MMA/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→MOD_INFO→MMA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA"
+ },
+ {
+  "key": "5ee2e21bae2d113ddf5fd9fe62b94fee",
+  "original": "A combat-ready cyborg once salvaged from an obscure junkyard…",
+  "translation": "一台战备状态的改造人，从一个不起眼的垃圾场里被抢救出来……",
+  "context": "ID: mma_battle_angel\n位于 /Kenan-Structured-Modpack/MMA/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→profession→mma_battle_angel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_battle_angel"
+ },
+ {
+  "key": "0c2660bfa6c065762c6d9644d21d8dd6",
+  "original": "A warm breeze swirls about you as you move speedily away.\n\n+1.0 Dodging skill.\nLasts 1 turn.",
+  "translation": "A warm breeze swirls about you as you move speedily away.\n\n+1.0 Dodging skill.\nLasts 1 turn.",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind",
+  "stage": 1
+ },
+ {
+  "key": "95a42c0ae5f69196fe6a869988e74c49",
+  "original": "Absolute mastery of the sword is the goal of the Iron Heart discipline.  Through unending practice and study, the Iron Heart adept achieves superhuman skill with her weapons.  Iron Heart maneuvers are demonstrations of uncanny martial skill—weaving patterns of steel that dizzy, confuse, and ultimately kill with no recourse.",
+  "translation": "Absolute mastery of the sword is the goal of the Iron Heart discipline.  Through unending practice and study, the Iron Heart adept achieves superhuman skill with her weapons.  Iron Heart maneuvers are demonstrations of uncanny martial skill—weaving patterns of steel that dizzy, confuse, and ultimately kill with no recourse.",
+  "context": "ID: style_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_iron_heart",
+  "stage": 1
+ },
+ {
+  "key": "aec625a6dfc103746c6578ffbf0ccddb",
+  "original": "After a great deal of practice, you have become even more nimble in a battle.\n\n+1.0 Dodging skill.",
+  "translation": "经过大量的练习，你在战斗中变得更加敏捷。\n\n闪避技能+1。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "80b632ef8478f3aab90e515dc3e2d555",
+  "original": "Always stay light on your feet.  It is better to evade than be hit.\n\n+1.0 Dodging skill.",
+  "translation": "永远保持轻盈的步伐。闪避总比被击中好。\n\n闪避技能+1。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "026cf657376950d92d0308c7c2c423d5",
+  "original": "Always strike with full force.  Never hold back anything unless you want to die.\n\n+2 Accuracy, n+15 speed, +25% damage.",
+  "translation": "Always strike with full force.  Never hold back anything unless you want to die.\n\n+2 Accuracy, n+15 speed, +25% damage.",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw",
+  "stage": 1
+ },
+ {
+  "key": "6d8e3432b7d2d1a5234b01d2291d8300",
+  "original": "Apprentice Training",
+  "translation": "实习训练",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "8daaeed12e7a961ebcd653e79cef1d3a",
+  "original": "As a master of Shii-Cho, your ability to fight against groups is second to none.\n\n+1 block attempts, +1 block effectiveness.",
+  "translation": "作为一名锡秋剑法大师，你对抗多个敌人的能力无人能敌。\n\n格挡次数+1，格挡效果+1。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "7cd5411c53e627635cd297fccddeaff1",
+  "original": "Ausstoß",
+  "translation": "导力反转",
+  "context": "ID: mma_tec_panzer_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_counter"
+ },
+ {
+  "key": "287abf257c91858e15594e88ba3f34af",
+  "original": "Ballista Throw",
+  "translation": "穿云投",
+  "context": "ID: mma_tec_setting_sun_throw_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw_crit"
+ },
+ {
+  "key": "cc4ca1fb5d7dfc3a016d488b1aa6f5f0",
+  "original": "Battle Angel",
+  "translation": "战斗天使",
+  "context": "ID: mma_battle_angel\n位于 /Kenan-Structured-Modpack/MMA/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→profession→mma_battle_angel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_battle_angel"
+ },
+ {
+  "key": "8dce97bf84386c1843dab4dce4dffc35",
+  "original": "Blood In The Water",
+  "translation": "嗜血",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "45746665d5f7db4c4ee7a27d6e9870cb",
+  "original": "Boosts your damage after defeating an opponent.\n\n+50% damage.\nLasts 3 turns.",
+  "translation": "如果打倒对手，就会充满自信，攻击会提高。\n\n+50% 伤害。\n持续 3 回合。",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "e0f0a1e22c8795a84e68fee9ed3cb8bb",
+  "original": "Burning Blade",
+  "translation": "红莲之剑",
+  "context": "ID: mma_tec_desert_wind_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_strike"
+ },
+ {
+  "key": "0ed508f27229008969c799e9f88e9406",
+  "original": "Colossus Strike",
+  "translation": "巨人冲击",
+  "context": "ID: mma_tec_stone_dragon_colossus\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_colossus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_colossus"
+ },
+ {
+  "key": "d6ecdc86ff6e7089c1e5b86aa72a398f",
+  "original": "Combat Acrobat",
+  "translation": "战斗杂技",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "8d2d666a448bddd8599da7a06579f5a0",
+  "original": "Cracked Stone",
+  "translation": "裂石",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "0148d5b241be3ee079fc82bf244c3ee0",
+  "original": "Darkest Lariat",
+  "translation": "DD金勾臂",
+  "context": "ID: mma_tec_pokken_lariat\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_lariat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_lariat"
+ },
+ {
+  "key": "1795b9f96015a24fb1f4de68bd12ad44",
+  "original": "Dash Attack",
+  "translation": "冲刺攻击",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "ad46cea6581879beff2e914b26f72ddb",
+  "original": "Dazing Strike",
+  "translation": "晕眩打击",
+  "context": "ID: mma_tec_iron_heart_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_stun"
+ },
+ {
+  "key": "71c6e5b3828d388ee59efa1252557d02",
+  "original": "Desert Wind",
+  "translation": "漠风",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind"
+ },
+ {
+  "key": "c6f3948f3bf6195a02db59c8d5fc8a62",
+  "original": "Desert Wind maneuvers focus on quick movement and swirling, flaming strikes.  The complex spinning and slashing of the curved blade incorporated into many Desert Wind maneuvers are in fact carefully honed gestures that evoke the power of fire, if performed correctly and with the proper focus.",
+  "translation": "Desert Wind maneuvers focus on quick movement and swirling, flaming strikes.  The complex spinning and slashing of the curved blade incorporated into many Desert Wind maneuvers are in fact carefully honed gestures that evoke the power of fire, if performed correctly and with the proper focus.",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind",
+  "stage": 1
+ },
+ {
+  "key": "5b7f03b696756a7ef2a020e612c1c581",
+  "original": "Determination",
+  "translation": "坚定决心",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "fa05d18b0678ce98f32d8f260c42b9d8",
+  "original": "Diamond Mind",
+  "translation": "钢魂",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind"
+ },
+ {
+  "key": "71be17c60470da7d3b35539881bff371",
+  "original": "Disarming Slash",
+  "translation": "缴械斩",
+  "context": "ID: mma_tec_shii_cho_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_disarm"
+ },
+ {
+  "key": "1b3ecdcbfa2b31c7c2d5f8d3ee6d1285",
+  "original": "Disarming Strike",
+  "translation": "缴械攻击",
+  "context": "ID: mma_tec_iron_heart_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_disarm"
+ },
+ {
+  "key": "8283636bbbf3ed4f7807f4003f8287c2",
+  "original": "Distant Horizon",
+  "translation": "高瞻远瞩",
+  "context": "ID: manual_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_setting_sun"
+ },
+ {
+  "key": "1d8a0b23607e23ce148ccf3782d5d288",
+  "original": "Drunken Master",
+  "translation": "天生醉拳",
+  "context": "ID: DRUNKEN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→DRUNKEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUNKEN"
+ },
+ {
+  "key": "b9ecf2bde4a92909303e3ede7df577eb",
+  "original": "Einzug Rüstungen",
+  "translation": "护甲穿透",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "9720458aa2636114fee730a9544dfecb",
+  "original": "Finishing Move",
+  "translation": "终结之舞",
+  "context": "ID: mma_tec_iron_heart_execute\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_execute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_execute"
+ },
+ {
+  "key": "5229997f877879f877e6c70b6b1ccccf",
+  "original": "Firesnake",
+  "translation": "焰之蛇",
+  "context": "ID: mma_tec_desert_wind_impale\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_impale\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_impale"
+ },
+ {
+  "key": "c2338360508bd1a5d80d4ddb604123e0",
+  "original": "Flashing Sun",
+  "translation": "日曜剑",
+  "context": "ID: mma_tec_desert_wind_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_wide"
+ },
+ {
+  "key": "28d36db522d1326be7d6f93a69ff83d4",
+  "original": "Flowing Water",
+  "translation": "流水击",
+  "context": "ID: mma_tec_shii_cho_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_counter"
+ },
+ {
+  "key": "d967573e0f63f9979960296b718c5fe2",
+  "original": "Flurry Rush",
+  "translation": "子弹时间",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "051d12b2f865f55012d938a7645cb02c",
+  "original": "Fool's Strike",
+  "translation": "真·斗转星移",
+  "context": "ID: mma_tec_setting_sun_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_counter"
+ },
+ {
+  "key": "88620a931074cc0014eeaf317b288f1b",
+  "original": "Further training in Shii-Cho improves your ability to combat multiple opponents.\n\n+1 block attempts, +1 block effectiveness.",
+  "translation": "你对锡秋剑法的进一步训练提高了你与多个对手作战的能力。\n\n格挡次数+1，格挡效果+1。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "8eedf08fb582957dc4855064a3e6703f",
+  "original": "Geschoss Schlag",
+  "translation": "导弹打击",
+  "context": "ID: mma_tec_panzer_rapid\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_rapid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_rapid"
+ },
+ {
+  "key": "03b2dbd110af1ba6848299f9551fb764",
+  "original": "Greater Insightful Strike",
+  "translation": "真·先觉剑",
+  "context": "ID: mma_tec_diamond_mind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_diamond_mind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_diamond_mind_crit"
+ },
+ {
+  "key": "1e2f1e72d5f59afff3fa9fe5ad3ed4e3",
+  "original": "Hero's Spirit",
+  "translation": "英雄之魂",
+  "context": "ID: MMA_MARTIAL_ARTS_HYLIAN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_HYLIAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_HYLIAN"
+ },
+ {
+  "key": "a9754e06fc00e78f61ca57cab0b4e549",
+  "original": "Herzschlag",
+  "translation": "震颤碎心",
+  "context": "ID: mma_tec_panzer_precise\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_precise\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_precise"
+ },
+ {
+  "key": "4b0df050b6eeacd35f5ea12d71398ba1",
+  "original": "Hydra Slaying Strike",
+  "translation": "破龙击",
+  "context": "ID: mma_tec_setting_sun_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_stun"
+ },
+ {
+  "key": "b9191b1d229f41fe342e70be645ebfb0",
+  "original": "Hylian Swordsmanship",
+  "translation": "海拉尔剑术",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "499a592b0f15ddd2183aa3cb95b3a9e9",
+  "original": "Improved Critical",
+  "translation": "精通重击",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "04eb44161699bf17486baa5f943fbdcf",
+  "original": "Inferno Blade",
+  "translation": "业火之剑",
+  "context": "ID: mma_tec_desert_wind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_crit"
+ },
+ {
+  "key": "4ae6447b06f93d5b97b4532f4b39c923",
+  "original": "Insightful Strike",
+  "translation": "先觉剑",
+  "context": "ID: mma_tec_diamond_mind_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_diamond_mind_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_diamond_mind_strike"
+ },
+ {
+  "key": "2e15d76aa5307c2d7b68f3a416c60d3f",
+  "original": "Intermediate Combat Acrobat",
+  "translation": "中级战斗杂技",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "82563de07de4ff4bcfef97128ed7593f",
+  "original": "Iron Bones",
+  "translation": "铁布衫",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "78b44ce5abe4ea7356e50354b979c501",
+  "original": "Iron Heart",
+  "translation": "铁心",
+  "context": "ID: style_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_iron_heart"
+ },
+ {
+  "key": "1acdc648dd6a9b98e9cdc3d563d9e6f5",
+  "original": "Irrestistible Mountain Strike",
+  "translation": "地动山摇",
+  "context": "ID: mma_tec_stone_dragon_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_strike"
+ },
+ {
+  "key": "8192518afeba8c30f8fa3eda12ffa2dc",
+  "original": "Jedi Holocrons: Form I",
+  "translation": "绝地全息仪：第一式",
+  "context": "ID: manual_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_shii_cho"
+ },
+ {
+  "key": "34901a2fa0f914a5a88b5eec59d91e17",
+  "original": "Jedi Training",
+  "translation": "绝地武士训练",
+  "context": "ID: MMA_MARTIAL_ARTS_JEDI\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_JEDI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_JEDI"
+ },
+ {
+  "key": "25be0b1d56b9cf5c6fbb2dfda9014146",
+  "original": "Ki Strike",
+  "translation": "斗气击",
+  "context": "ID: KI_STRIKE\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→KI_STRIKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KI_STRIKE"
+ },
+ {
+  "key": "21056288af19e57e038aaa68fe6dea6d",
+  "original": "Knight Training",
+  "translation": "武士训练",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "805bbadf071fd0a9a56d2acfeaffe13b",
+  "original": "Kumai Sharinraku",
+  "translation": "筋斗踢",
+  "context": "ID: mma_tec_panzer_somersault\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_somersault\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_somersault"
+ },
+ {
+  "key": "c17bbeab1b2b2db5d1f14383b1a17fdf",
+  "original": "Künstler",
+  "translation": "机甲武师",
+  "context": "ID: MMA_MARTIAL_ARTS_PANZER\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_PANZER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_PANZER"
+ },
+ {
+  "key": "2bce7d760a047d0a3d49d60451cc3b3a",
+  "original": "Lightning Recovery",
+  "translation": "快速整顿",
+  "context": "ID: mma_tec_iron_heart_feint\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_feint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_feint"
+ },
+ {
+  "key": "cc9fe0b35bca1c8edf3bbc1c26ea9781",
+  "original": "Low Sweep",
+  "translation": "下盘踢",
+  "context": "ID: mma_tec_pokken_sweep\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_sweep"
+ },
+ {
+  "key": "e9c4bb37f9b8f65f2a16665dc7211edc",
+  "original": "Martial Adept",
+  "translation": "武术专长",
+  "context": "ID: MMA_MARTIAL_ARTS_SUBLIME\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_SUBLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_SUBLIME"
+ },
+ {
+  "key": "30a79960d1d7e720a58659a0ae68f45e",
+  "original": "Master Combat Acrobat",
+  "translation": "战斗杂技大师",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "a970924b5c3a3b274aa3dc5d891a7f8e",
+  "original": "Master Training",
+  "translation": "大师训练",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "2f997684d5ca514a17246989debd952d",
+  "original": "Mega Kick",
+  "translation": "百万吨重踢",
+  "context": "ID: mma_tec_pokken_kick\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_kick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_kick"
+ },
+ {
+  "key": "e780b71f40cc1090594127677a7d6c63",
+  "original": "Mighty Throw",
+  "translation": "暮日投",
+  "context": "ID: mma_tec_setting_sun_throw\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw"
+ },
+ {
+  "key": "1ceaa80a66479fafcd74c814564923dd",
+  "original": "Mountain Hammer",
+  "translation": "巨山破",
+  "context": "ID: mma_tec_stone_dragon_hammer\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_hammer"
+ },
+ {
+  "key": "25dae804873f1ec98f8d1276dc67e918",
+  "original": "Moving too much will negate the effects of Surefoot Stance.  Stay still to avoid shattering your stance!\n\nEnables \"Shattered Stone\" buff.\nLasts 1 turn.",
+  "translation": "移动太多会破坏坚如磐石的效果。站稳了别动，不要破坏了你的姿势！\n\n解锁“碎石”。\n持续 1 回合。",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "64c5bfb846268dba9225c00772d7ee9a",
+  "original": "Moxie",
+  "translation": "愈战愈勇",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "e3f353a721a867f30b7ce24ae80827eb",
+  "original": "Mythical Martial Arts",
+  "translation": "神话武术",
+  "context": "ID: MMA\n位于 /Kenan-Structured-Modpack/MMA/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→MOD_INFO→MMA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA"
+ },
+ {
+  "key": "787ae00fb284b11e20f52d12001d48c0",
+  "original": "Panzer Kunst",
+  "translation": "机甲术",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "51976b06f25f37deb332f202bc5a1d4e",
+  "original": "Panzer Kunst or \"Armor Art\" is a futuristic martial art devised for cyborgs fighting in zero-gravity environments.",
+  "translation": "机甲术，又称“Panzer Kunst”，一种为改造人在零重力环境中战斗而设计的未来主义武术。",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "e64286cc1de6ecc1b793421e0d97b0e7",
+  "original": "Pearl of Black Doubt",
+  "translation": "疑虑珍珠",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind"
+ },
+ {
+  "key": "9ddc38669034df71eadb6ac083aa3bca",
+  "original": "Perfect Clarity of Mind and Body",
+  "translation": "完美身心",
+  "context": "ID: manual_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_diamond_mind"
+ },
+ {
+  "key": "fd8b6681ba92da70fdf79c050a822e80",
+  "original": "Pocket Monster Encyclopedia",
+  "translation": "精灵宝可梦百科",
+  "context": "ID: manual_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_pokken"
+ },
+ {
+  "key": "37dd87551a7014ea8bd6e3be644b098f",
+  "original": "Pokken",
+  "translation": "口袋铁拳",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "2e126e2f7b76b481fe30799cc2bb7d3a",
+  "original": "Pokken Master",
+  "translation": "口袋铁拳大师",
+  "context": "ID: MMA_MARTIAL_ARTS_POKKEN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_POKKEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_POKKEN"
+ },
+ {
+  "key": "7ac3493260a31b98a9c2158865b92d95",
+  "original": "Pokken or \"Pocket Fist\" is a strange martial art developed from the famous Pokemon video game series.  Somehow, a group of dedicated fans managed to combine the moves used by various pokemon with multiple existing martial arts such as boxing and karate.  Amazingly, it actually works.  Some might even say it's a super effective way to fight.",
+  "translation": "“口袋铁拳”是从著名的宝可梦系列电子游戏发展而来的一种奇怪的武术流派。不知怎的，一群热心的粉丝设法将各种精灵宝可梦中的招式与拳击、空手道等多种现有武术结合起来。令人惊讶的是，它确实有效。有人甚至会说这是一种效果拔群的战斗方式。",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "8fd1a2e3dae9b93270dc9e15a2720820",
+  "original": "Pounching Charge",
+  "translation": "猛扑冲锋",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "a0e57d83458d21706ab32a53f7f134e9",
+  "original": "Powers up your techniques after you score a critical hit.\n\n+50% damage.\nLasts 1 turn.",
+  "translation": "击中要害时，威力会变得更强。\n\n+50% 伤害。\n持续 1 回合。",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "1f85852a7b9d47e4b697d0cbd9fb15e3",
+  "original": "Prey on the Weak",
+  "translation": "弱肉强食",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "00500bf7d54dce570568e8d69bc69b43",
+  "original": "Reaping Talons",
+  "translation": "收割之爪",
+  "context": "ID: manual_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_tiger_claw"
+ },
+ {
+  "key": "72223d801ffa4dcf342bdaeae0e5282a",
+  "original": "Ring of Fire",
+  "translation": "红莲之阵",
+  "context": "ID: mma_tec_desert_wind_spin\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_spin"
+ },
+ {
+  "key": "ad7ab7f9e677e871e92f296d8e05c4e2",
+  "original": "Sarlacc Sweep",
+  "translation": "沙拉克扫击",
+  "context": "ID: mma_tec_shii_cho_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_wide"
+ },
+ {
+  "key": "26d8e8518de3ff1b6fdb16bbadfa5e44",
+  "original": "Schatten Folgen",
+  "translation": "暗影追踪",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "1a63c0f3b070bebf2da63c4242313526",
+  "original": "Scorching Sirocco",
+  "translation": "灼热之风",
+  "context": "ID: manual_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_desert_wind"
+ },
+ {
+  "key": "6d5da422bc455e250dc5af53a12d57f7",
+  "original": "Scything Blade",
+  "translation": "收割之刃",
+  "context": "ID: mma_tec_iron_heart_wide_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide_crit"
+ },
+ {
+  "key": "0ea8778f445eedc1ce25ca31a0081168",
+  "original": "Setting Sun",
+  "translation": "暮日",
+  "context": "ID: style_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_setting_sun"
+ },
+ {
+  "key": "827a099df8f715c9f0e5dc9a6dcabf53",
+  "original": "Shards of Granite",
+  "translation": "宁为玉碎",
+  "context": "ID: manual_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_stone_dragon"
+ },
+ {
+  "key": "ea4983feb4474d6db53a22ad17741a5c",
+  "original": "Shii-Cho",
+  "translation": "锡秋剑法",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "2fc3a0aa66865f272a1232eedefe3450",
+  "original": "Shii-Cho, \"The way of the Sarlacc\" was the first form lightsaber combat developed by the Jedi during their transition from metal weaponry to lightsabers.  Shii-Cho is regarded as a training form that all Jedi learn to understand the basics of armed combat.  Shii-Cho excels at fighting against groups but lacks the offensive power of the other lightsaber forms.",
+  "translation": "锡秋剑法，“沙拉克之路”是绝地武士从金属武器向光剑过渡期间发展起来的第一种光剑战斗流派。锡秋剑法被认为是所有绝地武士在学习了解武装战斗基本知识时使用的训练剑法。锡秋剑法擅长对抗多名敌人，但缺乏其他光剑流派的攻击力。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "4318f015bc94c7929da7c5e4f6b88940",
+  "original": "Smart Strike",
+  "translation": "修长之角",
+  "context": "ID: mma_tec_pokken_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_strike"
+ },
+ {
+  "key": "007be3acd5669d100711b13d79e23369",
+  "original": "Sniper",
+  "translation": "狙击手",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "ca1b07474dfc6a381c3fc8f87d1aac75",
+  "original": "Spin Attack",
+  "translation": "回旋斩",
+  "context": "ID: mma_tec_hylian_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_hylian_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_hylian_wide"
+ },
+ {
+  "key": "ed3bf2282add66e603552128d0fb0f30",
+  "original": "Stance of Alacrity",
+  "translation": "神速体",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind"
+ },
+ {
+  "key": "b956ceec5dc0d33cc5a4d1d777cc78ae",
+  "original": "Stattered Stone",
+  "translation": "碎石",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "3f1af94d635a7e730171187f1767e7df",
+  "original": "Steel Wind",
+  "translation": "钢铁之风",
+  "context": "ID: mma_tec_iron_heart_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide"
+ },
+ {
+  "key": "e9a62196deae060cf3e66d7fdcdf994a",
+  "original": "Stone Bones",
+  "translation": "石铸身躯",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "09dc3a1637b333ce0c258101f2a81b28",
+  "original": "Stone Dragon",
+  "translation": "石龙",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "6808b0f42c0ff129919e66eb6ef2ebbb",
+  "original": "Stonefoot Stance",
+  "translation": "坚如磐石",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "617c1a996a45d33e89f2c6d28725bd36",
+  "original": "Stormguard Warrior",
+  "translation": "风暴之盾",
+  "context": "ID: manual_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_iron_heart"
+ },
+ {
+  "key": "a8ca95a5fbadb96ceaac25f40d88c087",
+  "original": "Taking advantage of momentum, you rush towards foes to deliver a powerful strike.\n\n+10% damage.\nLasts 1 turn.  Stacks 3 times.",
+  "translation": "利用自身动能，你冲向敌人，进行强力打击。\n\n+10% 伤害。\n持续 1 回合。可叠加 3 次。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "f3953f2d771f42230dfc818c5d711173",
+  "original": "The %s tries to grab <npcname>, but they thrash their way to freedom!",
+  "translation": "%s 试着抓住 <npcname>，但被奋力挣脱了！",
+  "context": "ID: mma_tec_tiger_claw_break\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_tiger_claw_break\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_tiger_claw_break"
+ },
+ {
+  "key": "d650556702bf35a7ec8cd25ca12c070a",
+  "original": "The %s tries to grab you, but you thrash your way to freedom!",
+  "translation": "%s 试图抓住你，但你奋力挣脱了。",
+  "context": "ID: mma_tec_tiger_claw_break\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_tiger_claw_break\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_tiger_claw_break"
+ },
+ {
+  "key": "d679d80b13e74563151a6e4c36fcb39b",
+  "original": "The Book of Mudora",
+  "translation": "姆多拉之书",
+  "context": "ID: manual_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_hylian"
+ },
+ {
+  "key": "64739ec9b6d3797c557b3f61711b9a99",
+  "original": "The Life and Work of Tiger Sauer",
+  "translation": "泰格·斯奥尔的生活和工作",
+  "context": "ID: manual_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_panzer"
+ },
+ {
+  "key": "5dc85941eaa024a0dc7597d04f6ea751",
+  "original": "The Setting Sun discipline teaches its initiates to turn their opponents' strength against them.  With a quick shift in stance and carefully aimed attack, a Setting Sun warrior sends a charging enemy tumbling in a new direction.",
+  "translation": "The Setting Sun discipline teaches its initiates to turn their opponents' strength against them.  With a quick shift in stance and carefully aimed attack, a Setting Sun warrior sends a charging enemy tumbling in a new direction.",
+  "context": "ID: style_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_setting_sun",
+  "stage": 1
+ },
+ {
+  "key": "f8cc3b8e6367b0629f66db5783844164",
+  "original": "The Stone Dragon discipline for focuses on strength, power, and toughness.  Its teachings grant a martial adept the ability to splinter steel with a single, focused blow.  Stone Dragon's defensive abilities focus on tapping into the enduring power of stone to turn aside attacks.",
+  "translation": "The Stone Dragon discipline for focuses on strength, power, and toughness.  Its teachings grant a martial adept the ability to splinter steel with a single, focused blow.  Stone Dragon's defensive abilities focus on tapping into the enduring power of stone to turn aside attacks.",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon",
+  "stage": 1
+ },
+ {
+  "key": "2bf9b1a7b42b8edd7616ea6b0f6cf884",
+  "original": "The Tiger Claw discipline embraces a feral rage that lurks within the heart of its initiates.  In battle, such warriors growl like wild animals, attack with a furry similar to that of a barbarian, and rely on overwhelming, vicious assaults to defeat their enemies.",
+  "translation": "The Tiger Claw discipline embraces a feral rage that lurks within the heart of its initiates.  In battle, such warriors growl like wild animals, attack with a furry similar to that of a barbarian, and rely on overwhelming, vicious assaults to defeat their enemies.",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw",
+  "stage": 1
+ },
+ {
+  "key": "f8b531377240a97c624179757d2da6ef",
+  "original": "The ancient arts of drunken brawling come naturally to you!  While under the influence of alcohol, your melee skill will rise considerably, especially unarmed combat.",
+  "translation": "古老的酒后斗殴术对你来说如同是与生俱来一般！在酒精的作用下，你的近战能力将大幅上升，尤其是徒手格斗。",
+  "context": "ID: DRUNKEN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→DRUNKEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUNKEN"
+ },
+ {
+  "key": "59f2ec9afc1d403aad7dbdf77246ab3a",
+  "original": "The smell of blood drives you into a fury.  You want more.  NOW!\n\n+1 Accuracy, +15% damage.\nLasts 1 turn.  Stacks 2 times.",
+  "translation": "The smell of blood drives you into a fury.  You want more.  NOW!\n\n+1 Accuracy, +15% damage.\nLasts 1 turn.  Stacks 2 times.",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw",
+  "stage": 1
+ },
+ {
+  "key": "9d62d3cf9a06c91d62de1c1649b9594a",
+  "original": "This book contains the teaching of the Desert Wind discipline.",
+  "translation": "这本书包含了漠风流派相关的武术教学。",
+  "context": "ID: manual_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_desert_wind"
+ },
+ {
+  "key": "ae6ec56c565a9fbdfd32bb55e8e182eb",
+  "original": "This book contains the teaching of the Diamond Mind discipline.",
+  "translation": "这本书包含了钢魂流派相关的武术教学。",
+  "context": "ID: manual_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_diamond_mind"
+ },
+ {
+  "key": "29c8ec26bc8f34c0be647bf19628d402",
+  "original": "This book contains the teaching of the Iron Heart discipline.",
+  "translation": "这本书包含了铁心流派相关的武术教学。",
+  "context": "ID: manual_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_iron_heart"
+ },
+ {
+  "key": "8930eb90e2a543ffff3df95418a7421b",
+  "original": "This book contains the teaching of the Setting Sun discipline.",
+  "translation": "这本书包含了暮日流派相关的武术教学。",
+  "context": "ID: manual_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_setting_sun"
+ },
+ {
+  "key": "d40108365d0722019aee0c8935754b8c",
+  "original": "This book contains the teaching of the Stone Dragon discipline.",
+  "translation": "这本书包含了石龙流派相关的武术教学。",
+  "context": "ID: manual_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_stone_dragon"
+ },
+ {
+  "key": "4d9a60db56af498b2f0f852f3afa08ff",
+  "original": "This book contains the teaching of the Tiger Claw discipline.",
+  "translation": "这本书包含了虎爪流派相关的武术教学。",
+  "context": "ID: manual_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_tiger_claw"
+ },
+ {
+  "key": "12d76601dbb941ab39f0588637ad02c0",
+  "original": "This device contains the teachings of the first form of Jedi lightsaber combat: Shii-Cho.",
+  "translation": "这个装置包含了绝地武士光剑战斗的第一式：锡秋剑法相关的武术教学。",
+  "context": "ID: manual_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_shii_cho"
+ },
+ {
+  "key": "77dfb1b0ce7fdcaf93162b57aeecdac7",
+  "original": "This encyclopedia contains a detailed listing of the strengths and techniques of various fictional monsters and how to apply them the in a real fight.",
+  "translation": "这部百科全书详细列出了宝可梦游戏中各种虚构怪物的强度和招式，以及如何在真实战斗中运用它们的手段。",
+  "context": "ID: manual_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martial.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→GENERIC→manual_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manual_mma_pokken"
+ },
+ {
+  "key": "14171c645a603453548ac0ac35fa994f",
+  "original": "This rare form of combat has been practiced by many legendary heroes throughout the ages.  Hylian Swordsmanship favors mobility for offense and defense by using spins, jumps, and flips to confuse enemies and strike from unexpected angles.",
+  "translation": "这种罕见的武术流派被历代传奇英雄所使用。海拉尔剑术专注于提升进攻和防御的机动性，通过旋转、跳跃和翻滚来迷惑敌人并从意想不到的角度攻击。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "2b918e8259e994f6c32f2976beaf11f0",
+  "original": "Tiger Claw",
+  "translation": "虎爪",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "cff8006bdab575a0dc4d3c75f68c9246",
+  "original": "True quickness lies in the mind, not the body.  A student of the Diamond Mind discipline seeks to hone his perceptions and discipline his thoughts so that he can act in slivers of time so narrow that others cannot even perceive them.  A corollary of this speed of thought and action is the concept of the mind as the battleground.  An enemy defeated in his mind must inevitably.",
+  "translation": "True quickness lies in the mind, not the body.  A student of the Diamond Mind discipline seeks to hone his perceptions and discipline his thoughts so that he can act in slivers of time so narrow that others cannot even perceive them.  A corollary of this speed of thought and action is the concept of the mind as the battleground.  An enemy defeated in his mind must inevitably.",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind",
+  "stage": 1
+ },
+ {
+  "key": "13cff59fbb23203581e4be94be5bf702",
+  "original": "Venom Mob Protege",
+  "translation": "五毒门徒",
+  "context": "ID: MARTIAL_ARTS4\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MARTIAL_ARTS4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MARTIAL_ARTS4"
+ },
+ {
+  "key": "35a087e824a2e775e093ae3a9dc1c279",
+  "original": "When you make a successful attack, you enter a meditative state that leaves you almost invulnerable to harm.\n\n+5 bash, cut, and stab armor.\nLasts 1 turn.",
+  "translation": "When you make a successful attack, you enter a meditative state that leaves you almost invulnerable to harm.\n\n+5 bash, cut, and stab armor.\nLasts 1 turn.",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon",
+  "stage": 1
+ },
+ {
+  "key": "d3e855db3c3a374459f89df7223fbeac",
+  "original": "When you perfectly dodge an attack, you can attack rapidly for a short time.\n\n-25% move cost.\nLasts 1 turn.",
+  "translation": "当你完全闪避攻击时，你可以在短时间内快速还击。\n\n-25%行动耗时。\n持续 1 回合。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "29569a1127430449b67b78b13df4f69f",
+  "original": "Who needs weapons?  You deal more melee damage while unarmed.  This damage improves as your unarmed skill increases.",
+  "translation": "谁说要用武器呢？你在徒手攻击时能够造成更多的近战伤害。伤害随着你的徒手格斗技能等级提升而提升。",
+  "context": "ID: KI_STRIKE\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→KI_STRIKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KI_STRIKE"
+ },
+ {
+  "key": "73081191b813e2657be06020a65f5164",
+  "original": "Wind Stride",
+  "translation": "风行",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind"
+ },
+ {
+  "key": "ef7b36675cfc509f4a47a755a1ade0af",
+  "original": "With every miss, your opponents become more uncertain, their doubt growing like an irritating pearl in the mouth of a helpless oyster.\n\n+1 Dodge attempt\nLasts 1 turn.  Stacks 2 times",
+  "translation": "With every miss, your opponents become more uncertain, their doubt growing like an irritating pearl in the mouth of a helpless oyster.\n\n+1 Dodge attempt\nLasts 1 turn.  Stacks 2 times",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind",
+  "stage": 1
+ },
+ {
+  "key": "b4127842dbcd51251b72c2cefaac1d59",
+  "original": "With the roar of a wild beast, you throw yourself into the fray.  Strike first and strike hard.\n\n+2 Accuracy, +10% damage.\nLasts 1 turn.",
+  "translation": "With the roar of a wild beast, you throw yourself into the fray.  Strike first and strike hard.\n\n+2 Accuracy, +10% damage.\nLasts 1 turn.",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw",
+  "stage": 1
+ },
+ {
+  "key": "1b10b2a3a5afe5521d0ca05203cbe240",
+  "original": "Wolverine Stance",
+  "translation": "狼獾势",
+  "context": "ID: mma_tec_tiger_claw_break\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_tiger_claw_break\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_tiger_claw_break"
+ },
+ {
+  "key": "1d2317eca21b4e79cf712e9b8c2fea95",
+  "original": "You adopt a panzer kunst stance.",
+  "translation": "你摆出了一个机甲格斗术的姿势。",
+  "context": "ID: style_mma_panzer\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_panzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_panzer"
+ },
+ {
+  "key": "8baf269b0e8844ccb57b54d6c8547901",
+  "original": "You are a determined warrior.  Your inner calm aids you in landing your strikes and protecting yourself.\n\nBlocked damage reduced by 100% of Strength, +1 Accuracy.",
+  "translation": "你是一名坚定的战士。你内心的平静有助于你击中敌人并保护自己。\n\n格挡值增加力量的100%，命中+1。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "43b289fd88af98e39d30ab1f2b079b67",
+  "original": "You are a martial adept and learned one of the martial disciplines of the Sublime Way.  You start with your choice of Desert Wind, Diamond Mind, Iron Heart, Setting Sun, Stone Dragon, or Tiger Claw.",
+  "translation": "你是一名武道高手，学会了至高之道的武术流派中的一种。你能够从漠风，钢魂，铁心，暮日，石龙，及虎爪流派中选择一种开始游戏。",
+  "context": "ID: MMA_MARTIAL_ARTS_SUBLIME\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_SUBLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_SUBLIME"
+ },
+ {
+  "key": "a9fd6476d55ce5c07728449f68b9716b",
+  "original": "You are a pupil of the Venom Clan.  You start with one of the five deadly venoms: Centipede, Viper, Scorpion, Lizard, or Toad.",
+  "translation": "你是五毒教的徒众。你在游戏开始时可以使用蜈蚣拳，毒蛇拳，蝎子拳，壁虎功或蛤蟆功之一。请参考邵氏经典：五毒。",
+  "context": "ID: MARTIAL_ARTS4\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MARTIAL_ARTS4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MARTIAL_ARTS4"
+ },
+ {
+  "key": "ed1a451692a07d61b803f1c50434b51f",
+  "original": "You are trained in the ways of the Jedi.  Your knowledge allows you to utilize a form of lightsaber combat.",
+  "translation": "你受过绝地武士训练。这让你能够使用光剑战斗流派作战。",
+  "context": "ID: MMA_MARTIAL_ARTS_JEDI\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_JEDI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_JEDI"
+ },
+ {
+  "key": "5e9c3f40d85d10fa58227e52f1698e35",
+  "original": "You are unable to maintain your Surefoot Stance and must stop moving for a short time to regain its benefits.\n\n-10% damage, -2 bash, cut, and stab armor.\nLasts 4 turn.",
+  "translation": "你完全无法保持坚如磐石的姿势，必须停止移动一段时间以重新获得增益。\n\n-10% 伤害，-2 钝击/斩击/刺击防护。\n持续 4 回合。",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "86acf46dda15aee7f509b81f880b2cd5",
+  "original": "You are well versed in the monsterous Pocket Fist martial art.  Train well, because it is your destiny to be a master.",
+  "translation": "你非常精通口袋铁拳中的各类武术招式。好好训练，因为你命中注定要成为一名训练师。",
+  "context": "ID: MMA_MARTIAL_ARTS_POKKEN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_POKKEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_POKKEN"
+ },
+ {
+  "key": "9a4c7f842193eb0ac861236ec8f86403",
+  "original": "You become a flaming blur as you strike %s and those around you",
+  "translation": "你变成了一个燃烧的幻影，攻击 %s 及你四周的人",
+  "context": "ID: mma_tec_desert_wind_spin\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_spin"
+ },
+ {
+  "key": "34c23713962528e5005bfffe894a13ce",
+  "original": "You begin to step lightly from side to side.",
+  "translation": "你开始轻柔地来回跨步。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "08ebbd91245652605803fcf4e02adcfd",
+  "original": "You carve an arc through %s and those nearby",
+  "translation": "你划出一道弧线劈向 %s 和其周围的人",
+  "context": "ID: mma_tec_desert_wind_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_wide"
+ },
+ {
+  "key": "c79a1b1005a882593f2c6f2f8849659f",
+  "original": "You cleanly reap through %s and those nearby",
+  "translation": "你干净利落地收割了%s和附近的敌人",
+  "context": "ID: mma_tec_iron_heart_wide_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide_crit"
+ },
+ {
+  "key": "050afd00aca5153339214585c8f545c2",
+  "original": "You cleave through %s and those nearby like a steel wind",
+  "translation": "你像钢铁之风一样劈穿了%s和附近的敌人",
+  "context": "ID: mma_tec_iron_heart_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_wide"
+ },
+ {
+  "key": "45d70e0be7790e9fd167f05bc433bf47",
+  "original": "You completely fool %s and strike back",
+  "translation": "你反转并回击了 %s",
+  "context": "ID: mma_tec_setting_sun_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_counter"
+ },
+ {
+  "key": "849664c7c2f7c69c8a84481ae6b962b5",
+  "original": "You completely shatter %s with a Colossus Strike",
+  "translation": "你用一记巨人冲击击碎了 %s",
+  "context": "ID: mma_tec_stone_dragon_colossus\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_colossus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_colossus"
+ },
+ {
+  "key": "60597eed02ac8ae58ca8103f323f4cf0",
+  "original": "You concentrate and become very still for a moment.",
+  "translation": "你集中精神，并瞬间变得安定不动。",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind"
+ },
+ {
+  "key": "cc10d32f0e3b9114658b1ce33222de71",
+  "original": "You crouch and set your feet flat on the ground, drawing the resilience of the earth into your body.  However, moving too much will break your stance.\n\n+10% damage, +2 bash, cut, and stab armor.",
+  "translation": "You crouch and set your feet flat on the ground, drawing the resilience of the earth into your body.  However, moving too much will break your stance.\n\n+10% damage, +2 bash, cut, and stab armor.",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon",
+  "stage": 1
+ },
+ {
+  "key": "bed1d86c905a943b33deb9235caa6a97",
+  "original": "You crush %s with the weight of your Mountain Hammer",
+  "translation": "你用一记巨山破砸向 %s",
+  "context": "ID: mma_tec_stone_dragon_hammer\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_hammer"
+ },
+ {
+  "key": "d3195ec4bc8776f034c93968aace9b27",
+  "original": "You deflect %s's attack and counter in one fluid motion",
+  "translation": "你用流畅的动作格挡并回击了%s",
+  "context": "ID: mma_tec_shii_cho_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_counter"
+ },
+ {
+  "key": "74f0348a166bcf22d99ab83511c523e0",
+  "original": "You dig your heels into the ground and steady yourself.",
+  "translation": "你将脚后跟扎入土中，稳住自己。",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon"
+ },
+ {
+  "key": "59511d50c80a92a5130bc4c2fe9ad60d",
+  "original": "You disarm %s with a quick flick of your weapon",
+  "translation": "你用武器轻轻一砍，将 %s 缴械",
+  "context": "ID: mma_tec_shii_cho_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_disarm"
+ },
+ {
+  "key": "c688a95eef4fab0c7a7b1f43097d7ad2",
+  "original": "You emit a low growl as you prepare for battle.",
+  "translation": "你发出低沉的咆哮，准备好作战。",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw"
+ },
+ {
+  "key": "d61216468550437d159ed2b34fea28d7",
+  "original": "You feel a wave of heat wash over you as you assume a running combat stance.",
+  "translation": "随着你摆出一副奔跑的战斗姿态时，你感到一股热浪席卷过体内。",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind"
+ },
+ {
+  "key": "9275a83f94f7247d020047d35f3fbe0c",
+  "original": "You finish off %s with a powerful slash",
+  "translation": "你用一记强力的劈砍终结了 %s",
+  "context": "ID: mma_tec_iron_heart_execute\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_execute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_execute"
+ },
+ {
+  "key": "1c210d5a45bb01ea45cb536f3827fcc2",
+  "original": "You focus your energy to enhance your defenses, drawing on the power of your weapon's impact with a foe to toughen yourself against a counterattack.\n\n+1 bash, cut, and stab armor.\nLasts 1 turn.  Stacks 5 times.",
+  "translation": "You focus your energy to enhance your defenses, drawing on the power of your weapon's impact with a foe to toughen yourself against a counterattack.\n\n+1 bash, cut, and stab armor.\nLasts 1 turn.  Stacks 5 times.",
+  "context": "ID: style_mma_stone_dragon\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_stone_dragon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_stone_dragon",
+  "stage": 1
+ },
+ {
+  "key": "467b26bdc7552710c3e60ee14605d0f6",
+  "original": "You get ready to battle.",
+  "translation": "你准备好战斗了。",
+  "context": "ID: style_mma_pokken\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_pokken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_pokken"
+ },
+ {
+  "key": "4d0483c7a98a86156638445a58fcb6f7",
+  "original": "You harshly stun %s",
+  "translation": "你用力击晕了 %s",
+  "context": "ID: mma_tec_iron_heart_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_stun"
+ },
+ {
+  "key": "ca351d6676664668f5260d8b52ecebc9",
+  "original": "You have lingering memories of training to fight cyborgs and war machines in zero gravity using the obscure Panzer Kunst.",
+  "translation": "你残存着一些奇怪的回忆，自己被训练去与改造人与战争机器在零重力环境下战斗，使用一种晦涩难懂的“机甲术”（Panzer Kunst）作战。",
+  "context": "ID: MMA_MARTIAL_ARTS_PANZER\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_PANZER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_PANZER"
+ },
+ {
+  "key": "ab8b884f6009ce25efcaa639b0da0168",
+  "original": "You have seen so much combat that your dodging skills have become top notch!\n\n+1.0 Dodging skill.",
+  "translation": "你经历了这么多的战斗，你的闪避技能已经成为一流！\n\n闪避技能+1。",
+  "context": "ID: style_mma_hylian\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_hylian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_hylian"
+ },
+ {
+  "key": "9d351b52c6557161c363d72d93896215",
+  "original": "You have studied the deeds and legends of ancient heroes.  From your research, you have learned an ancient form of combat called Hylian Swordsmanship.",
+  "translation": "你研究过古代英雄的事迹和传说。研究中你学会了一种古老的武术流派，称为海拉尔剑术。",
+  "context": "ID: MMA_MARTIAL_ARTS_HYLIAN\n位于 /Kenan-Structured-Modpack/MMA/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→mutation→MMA_MARTIAL_ARTS_HYLIAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MMA_MARTIAL_ARTS_HYLIAN"
+ },
+ {
+  "key": "a660185c7a486563d346caaea9a10259",
+  "original": "You hit %s with a powerful vibro-punch",
+  "translation": "你发起强力震荡，打击%s。",
+  "context": "ID: mma_tec_panzer_precise\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_precise\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_precise"
+ },
+ {
+  "key": "a1a431eb9b2edffe0b89b0f5e6925ddc",
+  "original": "You interrupt %s with a perfectly aimed strike",
+  "translation": "你精准一击打断了 %s",
+  "context": "ID: mma_tec_setting_sun_stun\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_stun"
+ },
+ {
+  "key": "3f502236db8b7f16fb9d5add0ca4e831",
+  "original": "You jump and somersault kick %s",
+  "translation": "你纵身跳起，对 %s 使出了筋斗踢。",
+  "context": "ID: mma_tec_panzer_somersault\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_somersault\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_somersault"
+ },
+ {
+  "key": "1314434f4b5646cbdd7e6460a232bb7c",
+  "original": "You launch a supersonic punch at %s",
+  "translation": "你如导弹一般对%s发动超音速冲击。",
+  "context": "ID: mma_tec_panzer_rapid\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_rapid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_rapid"
+ },
+ {
+  "key": "26e5db83209cd073ccc2f440743690ce",
+  "original": "You miss %s but recover in the blink of an eye",
+  "translation": "你没能击中 %s，但转瞬间就已恢复",
+  "context": "ID: mma_tec_iron_heart_feint\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_feint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_feint"
+ },
+ {
+  "key": "02c9981ded7ea066b6c1c68ad9c461ad",
+  "original": "You move slightly faster than normal due to a combination of confidence, raining, and clarity of mind.  This slight edge adds up with each action.\n\n-10% move cost",
+  "translation": "You move slightly faster than normal due to a combination of confidence, raining, and clarity of mind.  This slight edge adds up with each action.\n\n-10% move cost",
+  "context": "ID: style_mma_diamond_mind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_diamond_mind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_diamond_mind",
+  "stage": 1
+ },
+ {
+  "key": "901059ecc0cf82ccb299464c68be478c",
+  "original": "You place one foot back and hold your weapon vertically on your dominant side.",
+  "translation": "你一只脚后退，把你的武器竖直握在你的主手侧。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "0016a617dcc0bc4d79c93a34020cfddb",
+  "original": "You push away your fear and stand tall.",
+  "translation": "你清空内心的恐惧并站直身体。",
+  "context": "ID: style_mma_iron_heart\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_iron_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_iron_heart"
+ },
+ {
+  "key": "5a1211747e91c103d141a26d0f339082",
+  "original": "You quickly sweep through %s and those nearby",
+  "translation": "你迅速地扫击了%s和附近的敌人",
+  "context": "ID: mma_tec_shii_cho_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_shii_cho_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_shii_cho_wide"
+ },
+ {
+  "key": "9cdbc8e966b70e3f515e47474478ca5c",
+  "original": "You redirect %s's attack against them",
+  "translation": "你引导%s将攻击的力道反作用于其自身。",
+  "context": "ID: mma_tec_panzer_counter\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_panzer_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_panzer_counter"
+ },
+ {
+  "key": "af94de3ff1dc2dba045431a68bf01093",
+  "original": "You scythe through weaker foes like a mighty predator turned loose among a herd of prey.\n\n+30 Speed.\nLasts 2 turns.  Stacks 2 times",
+  "translation": "You scythe through weaker foes like a mighty predator turned loose among a herd of prey.\n\n+30 Speed.\nLasts 2 turns.  Stacks 2 times",
+  "context": "ID: style_mma_tiger_claw\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_tiger_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_tiger_claw",
+  "stage": 1
+ },
+ {
+  "key": "3b0999ba997c09de1e88c4a02c8ec83d",
+  "original": "You shift your weight and prepare to defend yourself.",
+  "translation": "你调整重心，准备好防御自己。",
+  "context": "ID: style_mma_setting_sun\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_setting_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_setting_sun"
+ },
+ {
+  "key": "983b716b3f060caa2cd83c5fe999a19e",
+  "original": "You skillfully disarm %s",
+  "translation": "你巧妙地将%s缴械",
+  "context": "ID: mma_tec_iron_heart_disarm\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_iron_heart_disarm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_iron_heart_disarm"
+ },
+ {
+  "key": "08e9d58ae9e7c228aca1a9c3387ce15e",
+  "original": "You smash down on %s with a Mountain Strike",
+  "translation": "你用一记地动山摇将 %s 砸翻",
+  "context": "ID: mma_tec_stone_dragon_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_stone_dragon_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_stone_dragon_strike"
+ },
+ {
+  "key": "71c3450dc3741bb670a760d003d1911f",
+  "original": "You spin and hurl %s away with a Ballista Throw",
+  "translation": "你使出一招穿云投，将%s远远丟倒在地",
+  "context": "ID: mma_tec_setting_sun_throw_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw_crit"
+ },
+ {
+  "key": "7e6ab15fd0bd28d5842c666a64d8680a",
+  "original": "You spin gracefully away from attacks, whirling like the dersert zephyr racing across the sands.\n\n+1.0 Dodging skill, +1 Dodge attempt\nLasts 1 turn.",
+  "translation": "You spin gracefully away from attacks, whirling like the dersert zephyr racing across the sands.\n\n+1.0 Dodging skill, +1 Dodge attempt\nLasts 1 turn.",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind",
+  "stage": 1
+ },
+ {
+  "key": "db4fe13947cc12acaf75421ac018aa29",
+  "original": "You spot %s's weakpoint and strike",
+  "translation": "你观察到 %s 的弱点，随即攻击",
+  "context": "ID: mma_tec_diamond_mind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_diamond_mind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_diamond_mind_crit"
+ },
+ {
+  "key": "e2086ea007759cda70f2d924df7cc453",
+  "original": "You strike %s with powerful inferno",
+  "translation": "你用强大的业火攻击了 %s",
+  "context": "ID: mma_tec_desert_wind_crit\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_crit"
+ },
+ {
+  "key": "b09c619f78fff550a3d9164fd6a32f3a",
+  "original": "You strike through %s with a snaking flame",
+  "translation": "你用蛇形火焰刺穿了 %s",
+  "context": "ID: mma_tec_desert_wind_impale\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_impale\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_impale"
+ },
+ {
+  "key": "6d1aae33bb684e1286fce7ec81a3873b",
+  "original": "You toss %s aside with a Mighty Throw",
+  "translation": "你使出一招暮日投，将%s丢倒在地",
+  "context": "ID: mma_tec_setting_sun_throw\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_setting_sun_throw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_setting_sun_throw"
+ },
+ {
+  "key": "ade43c0d450a2f3bf6e8c5eb20d4fa5a",
+  "original": "You unleash a fiery attack against %s",
+  "translation": "你对 %s 发动了猛烈的攻击",
+  "context": "ID: mma_tec_desert_wind_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_desert_wind_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_desert_wind_strike"
+ },
+ {
+  "key": "829e2c8cf4fb48549482ddedabad69f3",
+  "original": "You unleash a spin attack against %s and those nearby",
+  "translation": "你对 %s 和其周围的人发动回旋斩",
+  "context": "ID: mma_tec_hylian_wide\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_hylian_wide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_hylian_wide"
+ },
+ {
+  "key": "c0f858f9b969b40b3eef871c9f5f4147",
+  "original": "You use Darkest Lariat on %s",
+  "translation": "你对%s使用了DD金勾臂",
+  "context": "ID: mma_tec_pokken_lariat\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_lariat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_lariat"
+ },
+ {
+  "key": "feb81877ccbf5d5025e30319666d02a6",
+  "original": "You use Low Sweep on %s",
+  "translation": "你对%s使用了下盘踢",
+  "context": "ID: mma_tec_pokken_sweep\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_sweep"
+ },
+ {
+  "key": "699ec07a6b2703f494ed71d65e7f8223",
+  "original": "You use Mega Kick on %s",
+  "translation": "你对%s使用了百万吨重踢",
+  "context": "ID: mma_tec_pokken_kick\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_kick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_kick"
+ },
+ {
+  "key": "9a30477d40eaae5b0036fdaeb80dd9e8",
+  "original": "You use Smart Strike on %s",
+  "translation": "你对%s使用了修长之角",
+  "context": "ID: mma_tec_pokken_strike\n位于 /Kenan-Structured-Modpack/MMA/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→technique→mma_tec_pokken_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mma_tec_pokken_strike"
+ },
+ {
+  "key": "874333b031c15052a2989b438bfb62bc",
+  "original": "Your training in Shii-Cho teaches you how to combat multiple opponents.\n\n+1 block attempts, +1 block effectiveness.",
+  "translation": "你对锡秋剑法的训练教你如何与多个对手作战。\n\n格挡次数+1，格挡效果+1。",
+  "context": "ID: style_mma_shii_cho\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_shii_cho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_shii_cho"
+ },
+ {
+  "key": "d32088171c4167926de7a6aad5d5b783",
+  "original": "Zephyr Dance",
+  "translation": "西风之舞",
+  "context": "ID: style_mma_desert_wind\n位于 /Kenan-Structured-Modpack/MMA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MMA→martial_art→style_mma_desert_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mma_desert_wind"
+ }
+]

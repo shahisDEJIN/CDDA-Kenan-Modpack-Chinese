@@ -1,0 +1,107 @@
+[
+ {
+  "key": "c0bbc44d58f23e5081e443d5764d1d54",
+  "original": "A boorish steel bolt to be used as ammo for the pressure rifle.",
+  "translation": "A boorish steel bolt to be used as ammo for the pressure rifle.",
+  "context": "ID: steel_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→steel_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steel_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "663804b8bcd1480a297e7ef3ed8bf63c",
+  "original": "A cheap iron bolt to be used as ammo for the pressure rifle.",
+  "translation": "A cheap iron bolt to be used as ammo for the pressure rifle.",
+  "context": "ID: iron_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→iron_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iron_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "04e20d7664802474cc59216cd5759dc8",
+  "original": "A crude bolt made from wood, used as ammo for the pressure rifle.",
+  "translation": "A crude bolt made from wood, used as ammo for the pressure rifle.",
+  "context": "ID: makeshift_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→makeshift_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "c3381fecad1c4c2de5f4202995ca7bc8",
+  "original": "A crudely made pressure rifle. Properly named, uses built up air-pressure to fire a bolt at high speeds",
+  "translation": "A crudely made pressure rifle. Properly named, uses built up air-pressure to fire a bolt at high speeds",
+  "context": "ID: press_rifle\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ranged/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→GUN→press_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=press_rifle",
+  "stage": 1
+ },
+ {
+  "key": "cf454f27a6f8808e16ce303e8e380132",
+  "original": "Adds a craftable air rifle and bolts for it. Does not actually require pressurized air.",
+  "translation": "Adds a craftable air rifle and bolts for it. Does not actually require pressurized air.",
+  "context": "ID: pressure_weapon\n位于 /Kenan-Structured-Modpack/Pressure Weapons/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→MOD_INFO→pressure_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pressure_weapon",
+  "stage": 1
+ },
+ {
+  "key": "b2aa400556a5f8af6263338194252a56",
+  "original": "Pressure Weapons",
+  "translation": "Pressure Weapons",
+  "context": "ID: pressure_weapon\n位于 /Kenan-Structured-Modpack/Pressure Weapons/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→MOD_INFO→pressure_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pressure_weapon",
+  "stage": 1
+ },
+ {
+  "key": "a09ba63c827c359a678fb42526596c82",
+  "original": "makeshift bolt",
+  "translation": "makeshift bolt",
+  "context": "ID: makeshift_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→makeshift_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "5c05a264fff7bf040200b9f3016329d4",
+  "original": "makeshift bolts",
+  "translation": "makeshift bolts",
+  "context": "ID: makeshift_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→makeshift_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "661f235b47ffb30238afd333d2c92abd",
+  "original": "makeshift iron bolt",
+  "translation": "makeshift iron bolt",
+  "context": "ID: iron_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→iron_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iron_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "272727d8e50da1d682aab26fe4b60ea2",
+  "original": "makeshift iron bolts",
+  "translation": "makeshift iron bolts",
+  "context": "ID: iron_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→iron_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iron_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "b14e2019f3a2cffbc0c07503c3e8f7ba",
+  "original": "makeshift steel bolt",
+  "translation": "makeshift steel bolt",
+  "context": "ID: steel_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→steel_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steel_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "c606da6653a9d64fed7442b468ef5b59",
+  "original": "makeshift steel bolts",
+  "translation": "makeshift steel bolts",
+  "context": "ID: steel_rifle_bolt\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→AMMO→steel_rifle_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steel_rifle_bolt",
+  "stage": 1
+ },
+ {
+  "key": "2b45c02ec893be81147613a294afa414",
+  "original": "pressure rifle",
+  "translation": "pressure rifle",
+  "context": "ID: press_rifle\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ranged/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→GUN→press_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=press_rifle",
+  "stage": 1
+ },
+ {
+  "key": "1a54194f79950e2706ed82db4d0a741c",
+  "original": "pressure rifle ammo",
+  "translation": "pressure rifle ammo",
+  "context": "ID: press_rifle_ammo\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ammo/ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→ammunition_type→press_rifle_ammo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=press_rifle_ammo",
+  "stage": 1
+ },
+ {
+  "key": "86a2ee4f3891e84e48354e7613f726e4",
+  "original": "pressure rifles",
+  "translation": "pressure rifles",
+  "context": "ID: press_rifle\n位于 /Kenan-Structured-Modpack/Pressure Weapons/ranged/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Pressure Weapons→GUN→press_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=press_rifle",
+  "stage": 1
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "key": "becbdc99e84018b8ae8a17a820262cb5",
+  "original": "Necropolis Actually Findable",
+  "translation": "Necropolis Actually Findable",
+  "context": "ID: necro_find\n位于 /Kenan-Structured-Modpack/Necropolis_findable/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Necropolis_findable→MOD_INFO→necro_find\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=necro_find",
+  "stage": 1
+ },
+ {
+  "key": "ae0957b4d3660dd0c3fa96aaeddb0435",
+  "original": "Tired of all that futile search for Necropolis? Sick after checking 5165846512354 overmaps to no avail? Worry no more, this mod solves that problem! It makes Necropolis findable by making it spawn in a similar way the refugee center does - exactly once per overmap.",
+  "translation": "Tired of all that futile search for Necropolis? Sick after checking 5165846512354 overmaps to no avail? Worry no more, this mod solves that problem! It makes Necropolis findable by making it spawn in a similar way the refugee center does - exactly once per overmap.",
+  "context": "ID: necro_find\n位于 /Kenan-Structured-Modpack/Necropolis_findable/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Necropolis_findable→MOD_INFO→necro_find\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=necro_find",
+  "stage": 1
+ }
+]

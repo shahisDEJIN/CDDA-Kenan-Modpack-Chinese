@@ -1,0 +1,68 @@
+[
+ {
+  "key": "1cee1a92b0428eb6ae093cf1ededc277",
+  "original": "Fungicide enhanced with sulfur to create sprayable anti-fungal ammo for the chemical thrower.  Best be used with some kind of mask or mouth protection.",
+  "translation": "一些抗真菌剂加硫磺制成的强化式抗真菌喷雾，须填充于药剂喷罐喷洒。\n“最好戴上面罩或嘴部防护使用。”",
+  "context": "ID: gas_fungicidal\n位于 /Kenan-Structured-Modpack/homemade_fungicide/chemical_spray.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→AMMO→gas_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gas_fungicidal"
+ },
+ {
+  "key": "ca94d98b729a0ad8c512284adf6298f6",
+  "original": "Homemade Fungicide",
+  "translation": "Homemade Fungicide",
+  "context": "ID: homemade_fungicide\n位于 /Kenan-Structured-Modpack/homemade_fungicide/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→MOD_INFO→homemade_fungicide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=homemade_fungicide",
+  "stage": 1
+ },
+ {
+  "key": "e0264c10a3782b40b4e7f3d8cf1efce2",
+  "original": "Now you can make homemade fungicide and anti-fungus bombs using bleach and ammonia! Also adds toxic gas effects to fungicidal and insecticidal gas. Intended to help combat and balance cdda's fungal factor and get more people playing with fungus.",
+  "translation": "Now you can make homemade fungicide and anti-fungus bombs using bleach and ammonia! Also adds toxic gas effects to fungicidal and insecticidal gas. Intended to help combat and balance cdda's fungal factor and get more people playing with fungus.",
+  "context": "ID: homemade_fungicide\n位于 /Kenan-Structured-Modpack/homemade_fungicide/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→MOD_INFO→homemade_fungicide\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=homemade_fungicide",
+  "stage": 1
+ },
+ {
+  "key": "669a6d51472fe27d329ef65be348a7a6",
+  "original": "Strong sprayable insecticide ammo for the chemical thrower.  Best be used with some kind of mask or mouth protection.",
+  "translation": "一些强化式杀虫剂，需填充于药剂喷罐喷洒。\n“最好戴上面罩或嘴部防护使用。”",
+  "context": "ID: gas_insecticidal\n位于 /Kenan-Structured-Modpack/homemade_fungicide/chemical_spray.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→AMMO→gas_insecticidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gas_insecticidal"
+ },
+ {
+  "key": "0898042a2cb629a74ebb039650cf038f",
+  "original": "This is a jug filled with homemade fungicidal solution.  Use this item to open the container and then use like an active fungicidal grenade.  In five turns it will begin to expel a volatile spray that is highly toxic to fungal life forms and humans.",
+  "translation": "This is a jug filled with homemade fungicidal solution.  Use this item to open the container and then use like an active fungicidal grenade.  In five turns it will begin to expel a volatile spray that is highly toxic to fungal life forms and humans.",
+  "context": "ID: fungicidalbomb_jug\n位于 /Kenan-Structured-Modpack/homemade_fungicide/fgrenades.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→GENERIC→fungicidalbomb_jug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidalbomb_jug",
+  "stage": 1
+ },
+ {
+  "key": "c695600e4678bc59c7375319d16057a9",
+  "original": "This is a used can filled with homemade fungicidal solution.  Use this item to turn it into an active homemade fungicidal grenade.  In five turns it will begin to expel a volatile spray that is highly toxic to fungal life forms and humans.",
+  "translation": "This is a used can filled with homemade fungicidal solution.  Use this item to turn it into an active homemade fungicidal grenade.  In five turns it will begin to expel a volatile spray that is highly toxic to fungal life forms and humans.",
+  "context": "ID: fungicidalbomb_can\n位于 /Kenan-Structured-Modpack/homemade_fungicide/fgrenades.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→GENERIC→fungicidalbomb_can\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidalbomb_can",
+  "stage": 1
+ },
+ {
+  "key": "b6fcf4b42291419ec00c9307710147c1",
+  "original": "makeshift fungicidal can grenade",
+  "translation": "makeshift fungicidal can grenade",
+  "context": "ID: fungicidalbomb_can\n位于 /Kenan-Structured-Modpack/homemade_fungicide/fgrenades.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→GENERIC→fungicidalbomb_can\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidalbomb_can",
+  "stage": 1
+ },
+ {
+  "key": "fd2f1bb1d45a2860bc7cc694f44283f3",
+  "original": "makeshift fungicidal jug grenade",
+  "translation": "makeshift fungicidal jug grenade",
+  "context": "ID: fungicidalbomb_jug\n位于 /Kenan-Structured-Modpack/homemade_fungicide/fgrenades.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→GENERIC→fungicidalbomb_jug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungicidalbomb_jug",
+  "stage": 1
+ },
+ {
+  "key": "ef314158fab8d4161afcbf08fc806884",
+  "original": "sprayable fungicide",
+  "translation": "喷雾式抗真菌剂",
+  "context": "ID: gas_fungicidal\n位于 /Kenan-Structured-Modpack/homemade_fungicide/chemical_spray.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→AMMO→gas_fungicidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gas_fungicidal"
+ },
+ {
+  "key": "5a2345820d9878fccafe00ed50230a34",
+  "original": "sprayable insecticide",
+  "translation": "喷雾式杀虫剂",
+  "context": "ID: gas_insecticidal\n位于 /Kenan-Structured-Modpack/homemade_fungicide/chemical_spray.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#homemade_fungicide→AMMO→gas_insecticidal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gas_insecticidal"
+ }
+]

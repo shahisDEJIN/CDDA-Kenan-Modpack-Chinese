@@ -1,0 +1,181 @@
+[
+ {
+  "key": "a79b8dd7e70de2a3f085d04cc6425a9b",
+  "original": "Genetically Unstable",
+  "translation": "基因错乱",
+  "context": "ID: UNSTABLE\n位于 /Kenan-Structured-Modpack/Threshold/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→mutation→UNSTABLE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=UNSTABLE"
+ },
+ {
+  "key": "8437dd3912576195ea84462f5248654d",
+  "original": "Mutant (alpha)",
+  "translation": "Mutant (alpha)",
+  "context": "ID: mutant_alpha\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_alpha\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_alpha",
+  "stage": 1
+ },
+ {
+  "key": "1d6a97d1bea13392320844fd86fffac9",
+  "original": "Mutant (bear)",
+  "translation": "Mutant (bear)",
+  "context": "ID: mutant_ursine\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_ursine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_ursine",
+  "stage": 1
+ },
+ {
+  "key": "9c303207c58115314b3e3e85534cf0b8",
+  "original": "Mutant (beast)",
+  "translation": "Mutant (beast)",
+  "context": "ID: mutant_beast\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_beast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_beast",
+  "stage": 1
+ },
+ {
+  "key": "7e7d02b232a804355da179cd977ecbc4",
+  "original": "Mutant (bird)",
+  "translation": "Mutant (bird)",
+  "context": "ID: mutant_bird\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_bird\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_bird",
+  "stage": 1
+ },
+ {
+  "key": "b7d201fb5469bc5a085096cdca0443ec",
+  "original": "Mutant (cat)",
+  "translation": "Mutant (cat)",
+  "context": "ID: mutant_feline\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_feline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_feline",
+  "stage": 1
+ },
+ {
+  "key": "84cd59a44375aa0e550e078e7c703fa1",
+  "original": "Mutant (cephalopod)",
+  "translation": "Mutant (cephalopod)",
+  "context": "ID: mutant_cephalopod\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_cephalopod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_cephalopod",
+  "stage": 1
+ },
+ {
+  "key": "7d5ab64b8fbb6c064e1b459d19311da5",
+  "original": "Mutant (chimera)",
+  "translation": "Mutant (chimera)",
+  "context": "ID: mutant_chimera\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_chimera\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_chimera",
+  "stage": 1
+ },
+ {
+  "key": "7e8e7f8d01adf87a5e9579d6ec0cecca",
+  "original": "Mutant (cow)",
+  "translation": "Mutant (cow)",
+  "context": "ID: mutant_cattle\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_cattle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_cattle",
+  "stage": 1
+ },
+ {
+  "key": "331a6c12d6e4cf79e1130d5d22caa3db",
+  "original": "Mutant (elf)",
+  "translation": "Mutant (elf)",
+  "context": "ID: mutant_elfa\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_elfa\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_elfa",
+  "stage": 1
+ },
+ {
+  "key": "5092cdbe3b0ade7099b4dcec9c4228db",
+  "original": "Mutant (fish)",
+  "translation": "Mutant (fish)",
+  "context": "ID: mutant_fish\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_fish\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_fish",
+  "stage": 1
+ },
+ {
+  "key": "f4452833fc4f93bd69d21a0bb7ce3d86",
+  "original": "Mutant (insect)",
+  "translation": "Mutant (insect)",
+  "context": "ID: mutant_insect\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_insect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_insect",
+  "stage": 1
+ },
+ {
+  "key": "50670fe82df85c12914d8196bbaa375d",
+  "original": "Mutant (lizard)",
+  "translation": "Mutant (lizard)",
+  "context": "ID: mutant_lizard\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_lizard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_lizard",
+  "stage": 1
+ },
+ {
+  "key": "f991d39c2621edd4575c0c2ae4fc6174",
+  "original": "Mutant (lupine)",
+  "translation": "Mutant (lupine)",
+  "context": "ID: mutant_lupine\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_lupine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_lupine",
+  "stage": 1
+ },
+ {
+  "key": "e3e7895735ff98602e8d15c5594622d0",
+  "original": "Mutant (medical)",
+  "translation": "Mutant (medical)",
+  "context": "ID: mutant_medical\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_medical\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_medical",
+  "stage": 1
+ },
+ {
+  "key": "acaf2ced407c40f8917110cbceccce47",
+  "original": "Mutant (mycus)",
+  "translation": "Mutant (mycus)",
+  "context": "ID: mutant_mycus\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_mycus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_mycus",
+  "stage": 1
+ },
+ {
+  "key": "36419ea074fd8476b9dec199f62e3b70",
+  "original": "Mutant (plant)",
+  "translation": "Mutant (plant)",
+  "context": "ID: mutant_plant\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_plant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_plant",
+  "stage": 1
+ },
+ {
+  "key": "a6eb596ef937d437ede6d9035a3995cb",
+  "original": "Mutant (raptor)",
+  "translation": "Mutant (raptor)",
+  "context": "ID: mutant_raptor\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_raptor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_raptor",
+  "stage": 1
+ },
+ {
+  "key": "9a08583064ce242b41dfb801e5b26163",
+  "original": "Mutant (rat)",
+  "translation": "Mutant (rat)",
+  "context": "ID: mutant_rat\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_rat",
+  "stage": 1
+ },
+ {
+  "key": "36364adcea04b61b080a430d937ffa01",
+  "original": "Mutant (slime)",
+  "translation": "Mutant (slime)",
+  "context": "ID: mutant_slime\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_slime\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_slime",
+  "stage": 1
+ },
+ {
+  "key": "95b18702c57940936bb4b5ab3f8c7d8c",
+  "original": "Mutant (spider)",
+  "translation": "Mutant (spider)",
+  "context": "ID: mutant_spider\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_spider\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_spider",
+  "stage": 1
+ },
+ {
+  "key": "684f059ebc17325bb505ce6c592bd8c2",
+  "original": "Mutant (troglobite)",
+  "translation": "Mutant (troglobite)",
+  "context": "ID: mutant_troglobite\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_troglobite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_troglobite",
+  "stage": 1
+ },
+ {
+  "key": "3fa1f8a154fe4e0fc7b6fdbf62c6725a",
+  "original": "THRESHOLD",
+  "translation": "THRESHOLD",
+  "context": "ID: add_mutant\n位于 /Kenan-Structured-Modpack/Threshold/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→MOD_INFO→add_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=add_mutant",
+  "stage": 1
+ },
+ {
+  "key": "892bcf46abbb3335a14edfc030ccf546",
+  "original": "Your DNA has been damaged in a way that causes you to continually develop more mutations.",
+  "translation": "你体内的基因已被严重损害，这会导致你会不断产生更多的变异。",
+  "context": "ID: UNSTABLE\n位于 /Kenan-Structured-Modpack/Threshold/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→mutation→UNSTABLE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=UNSTABLE"
+ },
+ {
+  "key": "6df0b8174bfb4e0af759b2c33bf14906",
+  "original": "Your dreams of becoming a super-human mutant through genetic alteration may have fallen a bit short, but when the Cataclysm struck, you and the scientists were ready to put your new body to the test.",
+  "translation": "你梦想着通过变异和基因改造成为超级人类的愿望，也许还差那么一点点，当大灾变来临时，你和科学家正准备测试你的新身体性能如何。",
+  "context": "ID: mutant_mycus\n位于 /Kenan-Structured-Modpack/Threshold/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→profession→mutant_mycus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_mycus"
+ },
+ {
+  "key": "0e12150f5cef9bb550d2b31df2862894",
+  "original": "adds mutant professions and scernarios",
+  "translation": "adds mutant professions and scernarios",
+  "context": "ID: add_mutant\n位于 /Kenan-Structured-Modpack/Threshold/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Threshold→MOD_INFO→add_mutant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=add_mutant",
+  "stage": 1
+ }
+]

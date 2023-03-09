@@ -1,0 +1,153 @@
+[
+ {
+  "key": "c758e3caeba4d2fcf10e80985ca65ae8",
+  "original": "A berserk militia group that turned their skills to causing mayhem after the cataclysm, calling themselves the Main Force Patrol.",
+  "translation": "A berserk militia group that turned their skills to causing mayhem after the cataclysm, calling themselves the Main Force Patrol.",
+  "context": "ID: corrupt_militia\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→faction→corrupt_militia\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=corrupt_militia",
+  "stage": 1
+ },
+ {
+  "key": "2cd19a26b4592ac2290789e1365d8085",
+  "original": "Adds Trailer Parks and pre-built trailers.",
+  "translation": "Adds Trailer Parks and pre-built trailers.",
+  "context": "ID: trailerpark\n位于 /Kenan-Structured-Modpack/trailerparkmod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→MOD_INFO→trailerpark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailerpark",
+  "stage": 1
+ },
+ {
+  "key": "b5456aff6e89f857beca8049a074020f",
+  "original": "Bandit Trailer",
+  "translation": "Bandit Trailer",
+  "context": "ID: bandit_trailer\n位于 /Kenan-Structured-Modpack/trailerparkmod/vehicle_bandit.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→vehicle→bandit_trailer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bandit_trailer",
+  "stage": 1
+ },
+ {
+  "key": "53818a544fe1365c6bd2d1870dc2f187",
+  "original": "Corrupt Militia",
+  "translation": "Corrupt Militia",
+  "context": "ID: corrupt_militia\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→faction→corrupt_militia\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=corrupt_militia",
+  "stage": 1
+ },
+ {
+  "key": "de5fff71d7fc1e8107fd2c8c8318aca9",
+  "original": "Damn...",
+  "translation": "Damn...",
+  "context": "ID: TALK_BERZERKER_1\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_1",
+  "stage": 1
+ },
+ {
+  "key": "700d50239c5dc50bb770b01cc19b6e81",
+  "original": "Go ahead and try...",
+  "translation": "Go ahead and try...",
+  "context": "ID: TALK_BERZERKER_2\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_2",
+  "stage": 1
+ },
+ {
+  "key": "bf56aaf47a04879240c62586658b1efa",
+  "original": "House Trailer",
+  "translation": "House Trailer",
+  "context": "ID: house_trailer\n位于 /Kenan-Structured-Modpack/trailerparkmod/vehicle_trailers.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→vehicle→house_trailer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=house_trailer",
+  "stage": 1
+ },
+ {
+  "key": "7589956fcefcb55bf5137a6c490cf4eb",
+  "original": "I'm the one that's going to end you.",
+  "translation": "I'm the one that's going to end you.",
+  "context": "ID: TALK_BERZERKER_2\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_2",
+  "stage": 1
+ },
+ {
+  "key": "ace0ccc595538a3b0858f9924974ae40",
+  "original": "Militia Berzerker",
+  "translation": "Militia Berzerker",
+  "context": "ID: militia_warrior\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→npc→militia_warrior\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=militia_warrior",
+  "stage": 1
+ },
+ {
+  "key": "7f5402a4fd6d0518ca76d049768b6ad4",
+  "original": "Nah, mate...",
+  "translation": "Nah, mate...",
+  "context": "ID: TALK_BERZERKER_3\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_3",
+  "stage": 1
+ },
+ {
+  "key": "1b4089af96827012b62b89d61f6f3d41",
+  "original": "None of your goddamn business, that's what it is.",
+  "translation": "None of your goddamn business, that's what it is.",
+  "context": "ID: TALK_BERZERKER_1\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_1",
+  "stage": 1
+ },
+ {
+  "key": "ea1d7082aff6a631549b3cc1523e9654",
+  "original": "Roland Croninger",
+  "translation": "Roland Croninger",
+  "context": "ID: militia_king\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→npc→militia_king\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=militia_king",
+  "stage": 1
+ },
+ {
+  "key": "149192d8b490951916b261999177cc64",
+  "original": "Small Trailer",
+  "translation": "Small Trailer",
+  "context": "ID: trailer_small\n位于 /Kenan-Structured-Modpack/trailerparkmod/vehicle_trailers2.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→vehicle→trailer_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailer_small",
+  "stage": 1
+ },
+ {
+  "key": "87ba05c0be96e5da9205f94cae89340f",
+  "original": "Some third thing.",
+  "translation": "Some third thing.",
+  "context": "ID: TALK_BERZERKER\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER",
+  "stage": 1
+ },
+ {
+  "key": "bd8f84e0c87a4fc5c63e341006bd9e4d",
+  "original": "Trailer Parks",
+  "translation": "Trailer Parks",
+  "context": "ID: trailerpark\n位于 /Kenan-Structured-Modpack/trailerparkmod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→MOD_INFO→trailerpark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailerpark",
+  "stage": 1
+ },
+ {
+  "key": "67c66c98d3df4b5941cae33db6a42375",
+  "original": "What is this place?",
+  "translation": "这是哪里？",
+  "context": "ID: TALK_BERZERKER\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER"
+ },
+ {
+  "key": "9d0fc64083968707326a70944bf3f847",
+  "original": "What...",
+  "translation": "What...",
+  "context": "ID: TALK_BERZERKER_3\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_3",
+  "stage": 1
+ },
+ {
+  "key": "f6c2093759842407fc533c6f8a7d1b76",
+  "original": "Who are you?",
+  "translation": "你是谁？",
+  "context": "ID: TALK_BERZERKER\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER"
+ },
+ {
+  "key": "3eea7b0deb17fa866731cca6043b23c8",
+  "original": "Yeah.",
+  "translation": "Yeah.",
+  "context": "ID: TALK_BERZERKER_3\n位于 /Kenan-Structured-Modpack/trailerparkmod/bandits/TALK_BERZERKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→talk_topic→TALK_BERZERKER_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BERZERKER_3",
+  "stage": 1
+ },
+ {
+  "key": "fb9dfadf38a31dc7b5514cd5a2f83e5a",
+  "original": "reclaimed trailer park",
+  "translation": "reclaimed trailer park",
+  "context": "ID: trailerpark2_bandit\n位于 /Kenan-Structured-Modpack/trailerparkmod/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→overmap_terrain→trailerpark2_bandit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailerpark2_bandit",
+  "stage": 1
+ },
+ {
+  "key": "6ee9edd9981d907cbdc986426899b7a0",
+  "original": "trailer park",
+  "translation": "房车公园",
+  "context": "ID: trailerpark2\n位于 /Kenan-Structured-Modpack/trailerparkmod/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→overmap_terrain→trailerpark2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailerpark2"
+ },
+ {
+  "key": "a645912dbb01d7efd042182539110b69",
+  "original": "trailer park storage",
+  "translation": "trailer park storage",
+  "context": "ID: trailerpark_under\n位于 /Kenan-Structured-Modpack/trailerparkmod/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#trailerparkmod→overmap_terrain→trailerpark_under\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=trailerpark_under",
+  "stage": 1
+ }
+]

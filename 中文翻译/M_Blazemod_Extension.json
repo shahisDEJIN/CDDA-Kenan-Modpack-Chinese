@@ -1,0 +1,230 @@
+[
+ {
+  "key": "b5115fcfd9e34573a598fdb7717f28ee",
+  "original": "A little hunk of glop that fell off a blob monster.  It doesn't seem hostile, but it does wiggle occasionally.",
+  "translation": "一个变形怪身上掉下的糊状物，似乎已经没有了敌意，但偶尔会蠕动几下。",
+  "context": "ID: slime_scrap\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→COMESTIBLE→slime_scrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slime_scrap"
+ },
+ {
+  "key": "df38ab57941e38e115205da3d51f238b",
+  "original": "A living blob turned into an autonomous weapon.  Instead of calcifying large amounts of calcified teeth, it has instead calcified a single large blade-like mass; which it uses defensively and offensively.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.",
+  "translation": "A living blob turned into an autonomous weapon.  Instead of calcifying large amounts of calcified teeth, it has instead calcified a single large blade-like mass; which it uses defensively and offensively.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.",
+  "context": "ID: edge\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→edge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edge",
+  "stage": 1
+ },
+ {
+  "key": "072f61f5e5679b92a74e6dee8c1b5fac",
+  "original": "A rock the size of your fist.  It is covered with intricate spirals; it is impossible to tell whether they are carved, naturally formed, or some kind of fossil.",
+  "translation": "拳头般大小的岩石。有着复杂的螺旋图形，你也不知道它是雕刻的，还是自然形成的，亦或是某种化石。",
+  "context": "ID: spiral_stone\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GENERIC→spiral_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiral_stone"
+ },
+ {
+  "key": "3783a2edc5b67cb645e1f0e103eb40d8",
+  "original": "A smaller crystal that fell off the diamond obelisk upon creation.  Through some unknown mechanism, is able to link with the obelisk to fire a small, yet still powerful laser.  Even more perplexing is its ability to do so without guidance.",
+  "translation": "A smaller crystal that fell off the diamond obelisk upon creation.  Through some unknown mechanism, is able to link with the obelisk to fire a small, yet still powerful laser.  Even more perplexing is its ability to do so without guidance.",
+  "context": "ID: dprism\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→dprism\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dprism",
+  "stage": 1
+ },
+ {
+  "key": "fca773ae9adf68fc7a8af76b263ae40b",
+  "original": "A sparkling diamond with a dazzling spiral pattern.  Small pieces of glittering crystal form on the edges as you hold it.  With enough base material, applying it to objects causes organic matter, wood in particular, to rapidly transform into diamond. However, this new crystalline compound quickly disintegrates without some other form of support.",
+  "translation": "A sparkling diamond with a dazzling spiral pattern.  Small pieces of glittering crystal form on the edges as you hold it.  With enough base material, applying it to objects causes organic matter, wood in particular, to rapidly transform into diamond. However, this new crystalline compound quickly disintegrates without some other form of support.",
+  "context": "ID: spiral_matrix\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→spiral_matrix\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiral_matrix",
+  "stage": 1
+ },
+ {
+  "key": "584f406461965fc66fa62bfb50495c2d",
+  "original": "A tall tower composed almost entirely of diamond, the cluster of diamond matrices focuses the energy from an array of solar panels into a terribly powerful laser.  It is also capable of storing energy from the sun and can fire even in the dark.",
+  "translation": "A tall tower composed almost entirely of diamond, the cluster of diamond matrices focuses the energy from an array of solar panels into a terribly powerful laser.  It is also capable of storing energy from the sun and can fire even in the dark.",
+  "context": "ID: dobelisk\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→dobelisk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dobelisk",
+  "stage": 1
+ },
+ {
+  "key": "2668210a5534cc3b92f0853509eec0cd",
+  "original": "Diamond Vehicle Parts, blob extensions.",
+  "translation": "Diamond Vehicle Parts, blob extensions.",
+  "context": "ID: blaze_extension_M\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→MOD_INFO→blaze_extension_M\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blaze_extension_M",
+  "stage": 1
+ },
+ {
+  "key": "017df06f7929127c508d51e063df0398",
+  "original": "It hasn't grown enough yet..",
+  "translation": "It hasn't grown enough yet..",
+  "context": "ID: edgegrow\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→edgegrow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edgegrow",
+  "stage": 1
+ },
+ {
+  "key": "e007a17df3c0137d902282cc6e948688",
+  "original": "Not quite fully grown, this blob requires nourishment to fully develop.",
+  "translation": "还没有完全长成，这只变形怪需要更多营养成分才能完全成长。",
+  "context": "ID: edgegrow\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→edgegrow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edgegrow"
+ },
+ {
+  "key": "20789746910731127592a56f04db8e49",
+  "original": "The blob balloons to full size.",
+  "translation": "变形怪长大到完整大小。",
+  "context": "ID: edgegrow\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→edgegrow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edgegrow"
+ },
+ {
+  "key": "f0cb44e4aa2c4f734adac26d7f2de66b",
+  "original": "This is a stone with spirals all over it, and holes around its perimeter.  Though it is fairly large, it weighs next to nothing.  Air seems to gather around it.",
+  "translation": "一块遍布漩涡刻痕的石头，四周遍布着孔洞。虽然看上去不小，但几乎没有重量，似乎有气流聚集在这块石头的周围。",
+  "context": "ID: vortex_stone\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→vortex_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vortex_stone"
+ },
+ {
+  "key": "59c71c24caf485e932b387100695f514",
+  "original": "Vehicle Additions Additions",
+  "translation": "Vehicle Additions Additions",
+  "context": "ID: blaze_extension_M\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→MOD_INFO→blaze_extension_M\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blaze_extension_M",
+  "stage": 1
+ },
+ {
+  "key": "62af03b5c44ac1cf84c198249635f029",
+  "original": "blaze_base_gun1",
+  "translation": "blaze_base_gun1",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "f95ca04b60191e42c3d4016faa490302",
+  "original": "blob glob",
+  "translation": "变形怪糊",
+  "context": "ID: slime_scrap\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→COMESTIBLE→slime_scrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slime_scrap"
+ },
+ {
+  "key": "f3fbae73ecf47ced671cd084b4ce2c09",
+  "original": "blob globs",
+  "translation": "blob globs",
+  "context": "ID: slime_scrap\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→ammunition_type→slime_scrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slime_scrap",
+  "stage": 1
+ },
+ {
+  "key": "7505b969918de775eb0ba26e98c3cf8d",
+  "original": "blob part",
+  "translation": "blob part",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "d3783ad5ade51509d670a0c87335f1fc",
+  "original": "blob_grow_base",
+  "translation": "blob_grow_base",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "2cc537f85ded88466623d6d5a3ab6b0c",
+  "original": "crystal path",
+  "translation": "crystal path",
+  "context": "ID: daisle\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→daisle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=daisle",
+  "stage": 1
+ },
+ {
+  "key": "b1f4c6efc4b022a653e69830ae9223c7",
+  "original": "diamond matrix",
+  "translation": "钻石晶阵",
+  "context": "ID: spiral_matrix\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→spiral_matrix\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiral_matrix"
+ },
+ {
+  "key": "040428fbd898b9d06cc2d5b27f365f59",
+  "original": "diamond obelisk",
+  "translation": "diamond obelisk",
+  "context": "ID: dobelisk\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→dobelisk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dobelisk",
+  "stage": 1
+ },
+ {
+  "key": "46a579e7149a8b223b26dd8de7947e4f",
+  "original": "diamond prism",
+  "translation": "diamond prism",
+  "context": "ID: dprism\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_vortex_diamonds.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→dprism\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dprism",
+  "stage": 1
+ },
+ {
+  "key": "134faf8970c9f7aa0764010640200505",
+  "original": "gel razor",
+  "translation": "变形怪刀片炮",
+  "context": "ID: edge\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GUN→edge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edge"
+ },
+ {
+  "key": "8b7b7271d56704304ad63819f44bd670",
+  "original": "growing bladed mass",
+  "translation": "growing bladed mass",
+  "context": "ID: edgegrow\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→edgegrow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=edgegrow",
+  "stage": 1
+ },
+ {
+  "key": "5c4223ef62e7158dff9cdde29086ceb4",
+  "original": "metalloid barrier",
+  "translation": "metalloid barrier",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→[21]\n",
+  "stage": 1
+ },
+ {
+  "key": "d11075d3c52892751b2e277c516e4e01",
+  "original": "metalloid frame",
+  "translation": "metalloid frame",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→[2]\n",
+  "stage": 1
+ },
+ {
+  "key": "a43d925d90423dca6969b04cafde2187",
+  "original": "metalloid hatch",
+  "translation": "metalloid hatch",
+  "context": "ID: graydoor\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→graydoor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=graydoor",
+  "stage": 1
+ },
+ {
+  "key": "4d415222dae5f7119b8f1cd81080942e",
+  "original": "metalloid part",
+  "translation": "metalloid part",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→[1]\n",
+  "stage": 1
+ },
+ {
+  "key": "297d0a04af1214680f0c9b71d9535942",
+  "original": "metalloid reinforcement",
+  "translation": "metalloid reinforcement",
+  "context": "ID: gray_plate\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→gray_plate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gray_plate",
+  "stage": 1
+ },
+ {
+  "key": "d2ff433efed58535be255723145fc7cf",
+  "original": "metalloid roof",
+  "translation": "metalloid roof",
+  "context": "ID: gray_roof\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→gray_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gray_roof",
+  "stage": 1
+ },
+ {
+  "key": "e444c46cbaa370897c3e31375a1f9cf8",
+  "original": "metalloid seat",
+  "translation": "metalloid seat",
+  "context": "ID: gray_seat\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→gray_seat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gray_seat",
+  "stage": 1
+ },
+ {
+  "key": "161854cabbc519f309f0465924c0a0db",
+  "original": "metalloid wall",
+  "translation": "metalloid wall",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→[12]\n",
+  "stage": 1
+ },
+ {
+  "key": "8fceaff29d24a782aa76fcbf960e3515",
+  "original": "opaque metalloid hatch",
+  "translation": "opaque metalloid hatch",
+  "context": "ID: graydoor_opaque\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_blob_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→vehicle_part→graydoor_opaque\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=graydoor_opaque",
+  "stage": 1
+ },
+ {
+  "key": "e2cced6a4067c75887beb9ad68b787c6",
+  "original": "spiral stone",
+  "translation": "螺旋石",
+  "context": "ID: spiral_stone\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→GENERIC→spiral_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiral_stone"
+ },
+ {
+  "key": "47c2703b196b850cd3ec3ac2953683cf",
+  "original": "vortex stone",
+  "translation": "漩涡石",
+  "context": "ID: vortex_stone\n位于 /Kenan-Structured-Modpack/M_Blazemod_Extension/blaze_override.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#M_Blazemod_Extension→TOOL→vortex_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vortex_stone"
+ }
+]

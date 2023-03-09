@@ -1,0 +1,30 @@
+[
+ {
+  "key": "903edecdc2afd6941f074cb65f1890fb",
+  "original": "It is a bag that someone had dropped. You can get the items that are included by disassembling.",
+  "translation": "It is a bag that someone had dropped. You can get the items that are included by disassembling.",
+  "context": "ID: survivor_lost_bag_scientist5\n位于 /Kenan-Structured-Modpack/Survivors_Lost_item/item.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Survivors_Lost_item→ARMOR→survivor_lost_bag_scientist5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=survivor_lost_bag_scientist5",
+  "stage": 1
+ },
+ {
+  "key": "b33a89aface05a2f24a22c2b3f8876b0",
+  "original": "Survivor's Lost item",
+  "translation": "Survivor's Lost item",
+  "context": "ID: Survivors_Lost_item\n位于 /Kenan-Structured-Modpack/Survivors_Lost_item/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Survivors_Lost_item→MOD_INFO→Survivors_Lost_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Survivors_Lost_item",
+  "stage": 1
+ },
+ {
+  "key": "d51e413ab44df9170aa660c99338023d",
+  "original": "Survivor's bag",
+  "translation": "Survivor's bag",
+  "context": "ID: survivor_lost_bag_scientist5\n位于 /Kenan-Structured-Modpack/Survivors_Lost_item/item.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Survivors_Lost_item→ARMOR→survivor_lost_bag_scientist5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=survivor_lost_bag_scientist5",
+  "stage": 1
+ },
+ {
+  "key": "d111ac39c2c4e77a5ea67b4b374ed14c",
+  "original": "You will be able to pick up bags that survivors have dropped from the bushes",
+  "translation": "You will be able to pick up bags that survivors have dropped from the bushes",
+  "context": "ID: Survivors_Lost_item\n位于 /Kenan-Structured-Modpack/Survivors_Lost_item/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Survivors_Lost_item→MOD_INFO→Survivors_Lost_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Survivors_Lost_item",
+  "stage": 1
+ }
+]

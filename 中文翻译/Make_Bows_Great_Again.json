@@ -38,7 +38,6 @@
   "key": "18b1fcd874d3880a46be29519bde776d",
   "original": "A modernized, six-foot longbow that curves away from the archer at the tips for increased power.  It can be used effectively by those of somewhat above-average strength.  Designed for archers that appreciate the smoothness of a traditional longbow, but desire the superior power of a modern recurve.",
   "translation": "一把六英尺长的现代弓，弓身末端反向弯曲远离射手以增加威力，在较为强壮的人的手上十分好用。这把弓是为那些欣赏传统长弓射击流畅度却又渴望现代反曲弓的射击威力的射手们设计的。",
-  "context": "ID: hybridbow\n位于 /Kenan-Structured-Modpack/Make_Bows_Great_Again/Items/Archery_override.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_Bows_Great_Again→GUN→hybridbow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hybridbow",
   "stage": 5
  },
  {
@@ -79,7 +78,6 @@
   "key": "b25007d665a97401a01422e1a9728ad5",
   "original": "Make bows great again",
   "translation": "让弓弩再次伟大",
-  "context": "ID: bow_opness\n位于 /Kenan-Structured-Modpack/Make_Bows_Great_Again/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_Bows_Great_Again→MOD_INFO→bow_opness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bow_opness",
   "stage": 5
  },
  {
@@ -92,8 +90,21 @@
   "key": "69559d98140dec8abb3d8e8e365411a9",
   "original": "Rebalances vanilla bows and crossbows and makes them strong again like in pre-nerf times.",
   "translation": "回调了原版的弓和弩，在现有数据框架下比平衡前更为强力。",
-  "context": "ID: bow_opness\n位于 /Kenan-Structured-Modpack/Make_Bows_Great_Again/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_Bows_Great_Again→MOD_INFO→bow_opness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bow_opness",
   "stage": 3
+ },
+ {
+  "key": "b18fcb390a08b4276b8f291d7e72fc3d",
+  "original": "Rebalances vanilla bows and crossbows and makes them stronger via increasing damage multiplier and armor penetration.",
+  "translation": "Rebalances vanilla bows and crossbows and makes them stronger via increasing damage multiplier and armor penetration.",
+  "context": "ID: bow_opness\n位于 /Kenan-Structured-Modpack/Make_Bows_Great_Again/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_Bows_Great_Again→MOD_INFO→bow_opness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bow_opness",
+  "stage": 1
+ },
+ {
+  "key": "efb60362aa4056f3daef7de1d2e9e7ed",
+  "original": "Stronger archery",
+  "translation": "Stronger archery",
+  "context": "ID: bow_opness\n位于 /Kenan-Structured-Modpack/Make_Bows_Great_Again/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_Bows_Great_Again→MOD_INFO→bow_opness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bow_opness",
+  "stage": 1
  },
  {
   "key": "de8b92450c833b3891ad218ed7f7e7ef",

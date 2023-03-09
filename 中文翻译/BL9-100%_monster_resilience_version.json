@@ -16,6 +16,7 @@
   "key": "10b3d6b4bcb390aed8f6a95ac9505b9b",
   "original": " An experimental pale mutant with skinny limbs and dreadful visage. it's strong regenerative prowess is an offset to it's fragile body.",
   "translation": "一个苍白的实验性变种人，四肢瘦弱，面目狰狞。它强大的再生能力在某种程度上抵消了其身体上的脆弱。",
+  "context": "ID: mon_BL9_regen\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/pecurial_bastards.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_regen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_BL9_regen",
   "stage": 3
  },
  {
@@ -2708,15 +2709,27 @@
   "key": "fcee5d3f65068087c64b4d5208622378",
   "original": "A highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+25% to attack speed, +25% to action points</color>) and offer better environmental protection",
   "translation": "一双极具实验性的时尚未来生存靴，采用独特的设计，融入物理和化学结构修饰的BL9，功能多样，增强用户能力（攻击速度<color_light_blue> +25%，作用点</color>+25%），并提供更好的环境保护",
-  "context": "ID: BL9_hitech_survivorboots\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorboots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorboots",
   "stage": 3
+ },
+ {
+  "key": "366301749260f09eebcb5aa207018d0f",
+  "original": "A highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>-25% to attack cost, +25% to action points</color>) and offer better environmental protection",
+  "translation": "A highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>-25% to attack cost, +25% to action points</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorboots\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorboots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorboots",
+  "stage": 1
  },
  {
   "key": "318501e684178804eec3616dc35caaa5",
   "original": "A highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 dex, +25% to attack speed</color>) and offer better environmental protection",
   "translation": "一个高度实验性的光滑和未来的幸存者手套与一个独特的设计，是注入物理和化学结构方面的修改BL9是多功能的，提高用户的能力（<color_light_blue>+1德克斯，+25%的攻击速度</color>）和提供更好的环境保护",
-  "context": "ID: BL9_hitech_survivorgloves\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorgloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorgloves",
   "stage": 3
+ },
+ {
+  "key": "011638f97a5a59b44a409ffc13072d58",
+  "original": "A highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 dex, -25% to attack cost</color>) and offer better environmental protection",
+  "translation": "A highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 dex, -25% to attack cost</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorgloves\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorgloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorgloves",
+  "stage": 1
  },
  {
   "key": "f46baa59ab6fa575342568e4ae1d8439",
@@ -2736,8 +2749,14 @@
   "key": "568c0cfbbe89352ab281cff43307a36b",
   "original": "A highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 str, +1 dex, +1 int, +1 per, +10% to attack speed, +10% to action points</color>) and offer better environmental protection",
   "translation": "这是一款极具实验性的时尚未来幸存者套装，其独特的设计融入了物理和化学结构修饰的BL9，以实现多功能性，增强用户的能力（<color_light_blue> +1 str，+1 dex，+1 int，+1 per，+10%攻击速度，+10%行动点</color>），并提供更好的环境保护",
-  "context": "ID: BL9_hitech_survivorsuit\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorsuit",
   "stage": 3
+ },
+ {
+  "key": "223b7299863a2474be08fefcb6c1de76",
+  "original": "A highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 str, +1 dex, +1 int, +1 per, -10% to attack cost, +10% to action points</color>) and offer better environmental protection",
+  "translation": "A highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+1 str, +1 dex, +1 int, +1 per, -10% to attack cost, +10% to action points</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorsuit\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorsuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorsuit",
+  "stage": 1
  },
  {
   "key": "d965851f19b9d4e7975377c84f44a707",
@@ -3029,6 +3048,12 @@
   "translation": "一个浅白的人类似乎没有生命，但仍然在移动，尽管僵硬缓慢，背部有一种奇怪的预感——它是某种畜栏颜色的外星甲壳类动物，以水蛭般的方式紧紧地附着在它的背部，可能消耗宿主的肉和血，利用它作为自己生长的物质",
   "context": "ID: mon_BL9_inhrav_1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/BL9_aliens.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_inhrav_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_BL9_inhrav_1",
   "stage": 1
+ },
+ {
+  "key": "a470896d13124727fe8d0b387f112a76",
+  "original": "A pile of melted slag from a destroyed nuclear reactor.  What are you doing looking at this?  Get the hell out of here, you nutcase!",
+  "translation": "一堆被摧毁的核反应堆的熔渣。你还盯着这个看什么？赶紧跑啊，你这个疯子！",
+  "context": "ID: f_reactor_meltdown\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_reactor_meltdown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_reactor_meltdown"
  },
  {
   "key": "c9c873b9b37aec3b61413a618f25ac16",
@@ -3853,8 +3878,14 @@
   "key": "012e0d01c5ce77119036f8064bc749a2",
   "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+60% to attack speed, +60% to action points</color>) and offer better environmental protection",
   "translation": "这是一款经过强化和增强的技术超越了人类的可能性，极具实验性、时尚和未来感的幸存者靴，采用独特的设计，融入了物理和化学结构修饰的BL9，功能多样，提高了用户的能力（攻击速度<color_light_blue> +60%，行动点</color>+60%），并提供了更好的环境保护",
-  "context": "ID: BL9_hitech_survivorboots_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorboots_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorboots_mk2",
   "stage": 3
+ },
+ {
+  "key": "65858796a3614bc3bb2184c8359655cb",
+  "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>-60% to attack cost, +60% to action points</color>) and offer better environmental protection",
+  "translation": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor boots with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>-60% to attack cost, +60% to action points</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorboots_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorboots_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorboots_mk2",
+  "stage": 1
  },
  {
   "key": "4f4f2f99e52f077197d4dfac8f70e4fa",
@@ -3867,8 +3898,14 @@
   "key": "4b8de728096fa198891d03dfb877d2b0",
   "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 dex, +60% to attack speed</color>) and offer better environmental protection",
   "translation": "这是一款采用超越人类可能性的技术进行强化和扩充的极具实验性的时尚和未来感的幸存者手套，其独特的设计融入了物理和化学结构改良的BL9，具有多种用途，增强了用户的能力（<color_light_blue> +3 dex，+60%的攻击速度</color>），并提供了更好的环境保护",
-  "context": "ID: BL9_hitech_survivorgloves_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorgloves_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorgloves_mk2",
   "stage": 3
+ },
+ {
+  "key": "ec2bd5016ab1f4a8adf8de093292acb6",
+  "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 dex, -60% to attack cost</color>) and offer better environmental protection",
+  "translation": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic pair of survivor gloves with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 dex, -60% to attack cost</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorgloves_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorgloves_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorgloves_mk2",
+  "stage": 1
  },
  {
   "key": "0f181659bd121c82b80d802257e8c89f",
@@ -3888,8 +3925,14 @@
   "key": "11623ccc2530b202f495cac7ed6908c9",
   "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 str, +3 dex, +3 int, +3 per, +25% to attack speed, +25% to action points</color>) and offer better environmental protection",
   "translation": "这是一款经过强化和增强的技术超越了人类的可能性，极具实验性、时尚性和未来感的幸存者套装，其独特的设计融入了物理和化学结构修饰的BL9，以实现多功能性，增强用户的能力（<color_light_blue> +3 str、+3 dex、+3 int、+3 per、+25%攻击速度、+25%行动点</color>）并提供更好的环境保护",
-  "context": "ID: BL9_hitech_survivorsuit_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorsuit_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorsuit_mk2",
   "stage": 3
+ },
+ {
+  "key": "7459e54b3055d0e646ddb4047b97c966",
+  "original": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 str, +3 dex, +3 int, +3 per, -25% to attack cost, +25% to action points</color>) and offer better environmental protection",
+  "translation": "A strengthened and augmented with technologies beyond human possibilities highly experimental sleek and futuristic survivor suit with a unique design that is infused with physically and chemically structure-wise modified BL9 to be versatile, enhance the user's capabilities (<color_light_blue>+3 str, +3 dex, +3 int, +3 per, -25% to attack cost, +25% to action points</color>) and offer better environmental protection",
+  "context": "ID: BL9_hitech_survivorsuit_mk2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ARMOR→BL9_hitech_survivorsuit_mk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_hitech_survivorsuit_mk2",
+  "stage": 1
  },
  {
   "key": "27898b1d3f0ac4efef826eff3cd36e04",
@@ -5300,7 +5343,6 @@
   "key": "dc3acb5852003f12965f56ee4c2dff5f",
   "original": "An experimental pale mutant with skinny limbs and dreadful visage. it's strong regenerative prowess is an offset to it's fragile body.",
   "translation": "An experimental pale mutant with skinny limbs and dreadful visage. it's strong regenerative prowess is an offset to it's fragile body.",
-  "context": "ID: mon_BL9_regen\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/pecurial_bastards.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_regen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_BL9_regen",
   "stage": 1
  },
  {
@@ -6015,6 +6057,30 @@
   "translation": "当你用鞭子抽打时，它会在%2$s疯狂地释放出极度加热的电离气化BL9！",
   "context": "ID: BL9_plasma_whip_mk3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/melee_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_plasma_whip_mk3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_plasma_whip_mk3",
   "stage": 3
+ },
+ {
+  "key": "8c6b46bdfca6007c775d5a57820e2811",
+  "original": "Assorted electronic machinery.  You could scavenge it for parts.",
+  "translation": "各种电子机械。你可以拆解它获得零件。",
+  "context": "ID: f_machinery_electronic\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_electronic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_electronic"
+ },
+ {
+  "key": "3c2e7077860fa35b62a4d26645c06905",
+  "original": "Assorted heavy machinery.  You could scavenge it for parts.",
+  "translation": "各式重型机械。你可以拆解它获得零件。",
+  "context": "ID: f_machinery_heavy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_heavy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_heavy"
+ },
+ {
+  "key": "75425a1edfb0492c067bc488ad6b724e",
+  "original": "Assorted light machinery.  You could scavenge it for parts.",
+  "translation": "各式轻型机械。你可以拆解它获得零件。",
+  "context": "ID: f_machinery_light\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_light"
+ },
+ {
+  "key": "5d344afa66cead372c806b1e152330d2",
+  "original": "Assorted old, rusty machinery.  You could scavenge it for parts.",
+  "translation": "各式老旧生锈的机器。你可以拆解它获得零件。",
+  "context": "ID: f_machinery_old\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_old\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_old"
  },
  {
   "key": "4dd31150cf813c527632df4d51494312",
@@ -11108,6 +11174,12 @@
   "stage": 1
  },
  {
+  "key": "aa14dd314e1c3ec7aaff24b1ed4b011c",
+  "original": "Compact Advanced Sterling Radioisotope Generator",
+  "translation": "紧凑型先进斯特林放射性同位素发生器",
+  "context": "ID: f_compact_ASRG\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_compact_ASRG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_compact_ASRG"
+ },
+ {
   "key": "c61fd1cb3f1ef13582d7da87c684f499",
   "original": "Corral floor of unknown origin, looks strange",
   "translation": "来源不明的畜栏地板，看起来很奇怪",
@@ -12196,6 +12268,13 @@
   "key": "fefa3533bd12a0e337b12511223bf117",
   "original": "If you cannot reload BL9 guns with the BL9 mags - just drop both weapon AND the mag on the ground and either reload them on the ground OR drop 'em, pick 'em up and try reloading them again, this will solve such TRIVIAL issue of yours, stranger!",
   "translation": "如果你不能用BL9弹夹重新装填BL9枪-只要把武器和弹夹都扔在地上，要么把它们装在地上，要么把它们扔到地上，捡起来再装，这样就能解决你的小问题了，陌生人！",
+  "stage": 1
+ },
+ {
+  "key": "0c38005979962ef3fd651deda889f6ac",
+  "original": "If you see this - it's a placeholder monster, nothing more - nothing less",
+  "translation": "If you see this - it's a placeholder monster，nothing more - nothing less",
+  "context": "ID: mon_zombie_hammer_hands\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_zombie_hammer_hands\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_hammer_hands",
   "stage": 1
  },
  {
@@ -14413,6 +14492,12 @@
   "stage": 1
  },
  {
+  "key": "9b20f12dc7fda2033fd0d0e46c6b9733",
+  "original": "Some insane fool has removed the outer containment on this small-scale nuclear reactor.  It is still fairly safe as it is: the reactor has considerable built-in containment as well.  Nevertheless, you probably don't want to stand too close for too long.",
+  "translation": "有个疯子把这个小型核反应堆的屏蔽外壳给拆除了。它仍旧还算安全：反应堆也有相当大的内置安全壳。不过，你可能不想站得离它太近、太久。",
+  "context": "ID: f_compact_ASRG\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_compact_ASRG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_compact_ASRG"
+ },
+ {
   "key": "ed2916ed9e933cd7f348aab814a5c7d4",
   "original": "Sorry.",
   "translation": "抱歉。",
@@ -15483,12 +15568,14 @@
   "key": "2b2e405a4a75969e6a66eeb8893abf45",
   "original": "There's no building to destroy.",
   "translation": "没有建筑可以摧毁。",
+  "context": "ID: boomthebuilding\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/terfurn_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ter_furn_transform→boomthebuilding\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boomthebuilding",
   "stage": 1
  },
  {
   "key": "122fd9e50f61f45af5be81e15b1eec4f",
   "original": "There's no vat to transform",
   "translation": "没有增值税要改造",
+  "context": "ID: stairstransform\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/terfurn_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→ter_furn_transform→stairstransform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stairstransform",
   "stage": 1
  },
  {
@@ -15576,6 +15663,18 @@
   "stage": 1
  },
  {
+  "key": "6f5e381002c02d0e20899b1b6bdf1116",
+  "original": "This generator is broken and will not help you produce usable electricity.",
+  "translation": "这台发电机已经坏了，不能帮你发电。",
+  "context": "ID: f_generator_broken\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_generator_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_generator_broken"
+ },
+ {
+  "key": "40331af4d223345bd18c230071869d8a",
+  "original": "This hefty lump of steel and lead is the housing unit for a small nuclear reactor.  It is plastered with warning signs.  You could probably ignore those and salvage the steel and lead shielding, what could possibly go wrong?",
+  "translation": "这些巨大的钢块和铅块构成了一个小型核反应堆的外壳。上面贴着许多警告标志。你也许可以无视这些警告，回收用于屏蔽的钢铁和铅块，难道还可能出什么问题吗？",
+  "context": "ID: f_compact_ASRG_containment\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_compact_ASRG_containment\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_compact_ASRG_containment"
+ },
+ {
   "key": "838dbd4fc9e227d5da0ea1ed1828b4f8",
   "original": "This is 'Pyrus communis', or the common pear tree, which produces viable pears in the fall.  If you examined the branches more closely, you could probably find a few mature ones.  You could also cut it down with the right tools.",
   "translation": "一棵在秋天能够结出梨子果实的树，分类学上属于梨属。如果你顺着枝干仔细观察的话，就可以找到几个成熟的梨子。你可以用合适的工具砍倒它。",
@@ -15636,6 +15735,18 @@
   "translation": "这是智能读卡器。面板上展示着一个美国国旗和一只雄鹰驾驶着坦克，咬着一枚手榴弹插销的图案。一个小小的红色LED灯始终如一，仿佛在注视着你，等待着。如果你敢的话，也许一个军用ID卡可以刷卡开门。",
   "context": "ID: t_card_military\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→terrain→t_card_military\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_card_military",
   "stage": 3
+ },
+ {
+  "key": "2c98ccce946f7f685c901842d14f307f",
+  "original": "This is a standalone computer terminal.  It can be used to view contents and perform any allowed functions.  It might even be possible to hack it, given the skills.",
+  "translation": "这是一个独立的计算机终端。它可以用来查看内容并执行任何允许的功能。如果你有相关技能，也可以侵入它。",
+  "context": "ID: f_console\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_console\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_console"
+ },
+ {
+  "key": "c74ac4a268601b622f8cdacb0a9dde12",
+  "original": "This is a standalone computer terminal.  It doesn't seem to be working.  It's the broken screen and shattered circuit boards that's telling you that.",
+  "translation": "这是一个独立的计算机终端。破碎的屏幕和电路板告诉你它似乎已经无法工作了。",
+  "context": "ID: f_console_broken\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_console_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_console_broken"
  },
  {
   "key": "3e05c8064db0979728814e4d1dd73c59",
@@ -18477,6 +18588,18 @@
   "stage": 3
  },
  {
+  "key": "eaa5e6539e2f75d1deb2f7e161ef0e15",
+  "original": "broken console",
+  "translation": "电脑（损坏）",
+  "context": "ID: f_console_broken\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_console_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_console_broken"
+ },
+ {
+  "key": "e3077ec864f86a401b4ed9c6718e48eb",
+  "original": "broken generator",
+  "translation": "发电机（损坏）",
+  "context": "ID: f_generator_broken\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_generator_broken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_generator_broken"
+ },
+ {
   "key": "804ff937d4d69c904008c85b3403a6fe",
   "original": "card reader",
   "translation": "读卡器",
@@ -18503,6 +18626,12 @@
   "translation": "咖啡树",
   "context": "ID: f_BL9tree_coffee\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9tree_coffee\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9tree_coffee",
   "stage": 3
+ },
+ {
+  "key": "60bb8f0b8a2749fb869370dc1fdbc739",
+  "original": "computer console",
+  "translation": "电脑主机",
+  "context": "ID: f_console\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_console\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_console"
  },
  {
   "key": "22d657b34345b4597759987e58631027",
@@ -18547,6 +18676,12 @@
   "stage": 3
  },
  {
+  "key": "bd6a7a93143b2574992bd0b9a6be3277",
+  "original": "electronic machinery",
+  "translation": "电子机械",
+  "context": "ID: f_machinery_electronic\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_electronic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_electronic"
+ },
+ {
   "key": "2376cf4c8b7260e7aa13bd19cce34ec5",
   "original": "elm tree",
   "translation": "榆树",
@@ -18559,6 +18694,18 @@
   "translation": "空地",
   "context": "ID: t_BL9_hole\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→terrain→t_BL9_hole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_BL9_hole",
   "stage": 3
+ },
+ {
+  "key": "d2c82188d950541bca6dfbe45986c6ff",
+  "original": "flesh-raptor",
+  "translation": "血鸷",
+  "context": "ID: mon_spawn_raptor\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spawn_raptor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spawn_raptor"
+ },
+ {
+  "key": "06a42c0f4f61c7cc4a7557df1ca6500d",
+  "original": "fused dragonflies",
+  "translation": "蜻蜓融合怪",
+  "context": "ID: mon_dragonfly_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_dragonfly_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dragonfly_mega"
  },
  {
   "key": "981ef07b60462d8524bcfca0cf97e254",
@@ -18596,6 +18743,12 @@
   "stage": 3
  },
  {
+  "key": "539d8100ee5542868b4e3097da54e273",
+  "original": "heavy machinery",
+  "translation": "重型机械",
+  "context": "ID: f_machinery_heavy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_heavy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_heavy"
+ },
+ {
   "key": "17d6c51832f819ef046a950e0be5c7fc",
   "original": "heavy survivor helmet",
   "translation": "幸存者头盔（重型）",
@@ -18617,6 +18770,12 @@
   "stage": 3
  },
  {
+  "key": "5bc4949acda36a153f20f42448175d62",
+  "original": "huge locust",
+  "translation": "大型蝗虫",
+  "context": "ID: mon_locust_small\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_locust_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_locust_small"
+ },
+ {
   "key": "4c7d32644fb7a47d779232056d2e3039",
   "original": "hydrangea bush",
   "translation": "绣球花丛",
@@ -18629,6 +18788,12 @@
   "translation": "杜松子树",
   "context": "ID: f_BL9tree_juniper\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9tree_juniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9tree_juniper",
   "stage": 3
+ },
+ {
+  "key": "eba7ea67087c875371a61745eab756e0",
+  "original": "light machinery",
+  "translation": "轻型机械",
+  "context": "ID: f_machinery_light\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_light"
  },
  {
   "key": "02f6e052524893482a9efdae3e15db6e",
@@ -18659,6 +18824,12 @@
   "stage": 3
  },
  {
+  "key": "1ed6cf2aa682ba605ef5dd8e2a2b63a9",
+  "original": "missile spider",
+  "translation": "超巨型跳蛛",
+  "context": "ID: mon_spider_jumping_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spider_jumping_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_jumping_mega"
+ },
+ {
   "key": "d962022b6d880d358e073944d1d5b29c",
   "original": "mulberry tree",
   "translation": "桑树",
@@ -18666,11 +18837,23 @@
   "stage": 3
  },
  {
+  "key": "ca95eb35fa9714ac4a057e93bcabd4dc",
+  "original": "necrowolf spider",
+  "translation": "超巨型狼蛛",
+  "context": "ID: mon_spider_wolf_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spider_wolf_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_wolf_mega"
+ },
+ {
   "key": "6e9dd085d38dab43af7879246727b166",
   "original": "oak tree",
   "translation": "橡树",
   "context": "ID: f_BL9tree\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9tree",
   "stage": 3
+ },
+ {
+  "key": "ff774a186ed34fd43ca03baece0b8ef7",
+  "original": "old machinery",
+  "translation": "旧机械",
+  "context": "ID: f_machinery_old\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_machinery_old\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_machinery_old"
  },
  {
   "key": "6f94227f22b17e8467e8ef4d2a66966f",
@@ -18743,6 +18926,12 @@
   "stage": 3
  },
  {
+  "key": "2ee7699c52549daba92a69ff7f4cf956",
+  "original": "phase skulker",
+  "translation": "相位潜行者",
+  "context": "ID: mon_zombie_phase_skulker\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_zombie_phase_skulker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_phase_skulker"
+ },
+ {
   "key": "0e7e318cb89140f5b1ee650c4d1ec34c",
   "original": "pine tree",
   "translation": "松树",
@@ -18762,6 +18951,12 @@
   "translation": "李子树",
   "context": "ID: f_BL9tree_plum\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9tree_plum\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9tree_plum",
   "stage": 3
+ },
+ {
+  "key": "853658b7cf47d8d3e093819da20ba1d3",
+  "original": "radioactive slag",
+  "translation": "放射性炉渣",
+  "context": "ID: f_reactor_meltdown\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_reactor_meltdown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_reactor_meltdown"
  },
  {
   "key": "60a91807a7e202e6cb6394aa9fbc6424",
@@ -18790,6 +18985,18 @@
   "translation": "玫瑰丛",
   "context": "ID: f_BL9shrub_rose\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9shrub_rose\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9shrub_rose",
   "stage": 3
+ },
+ {
+  "key": "53b3ec21792390acd82bd0cc39764f8d",
+  "original": "rust fist brute",
+  "translation": "锈拳丧尸兽",
+  "context": "ID: mon_zombie_hammer_hands\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_zombie_hammer_hands\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_hammer_hands"
+ },
+ {
+  "key": "778a4e958d2452d0b78cdf1850fb4011",
+  "original": "rust urchin",
+  "translation": "锈刺丧尸",
+  "context": "ID: mon_zombie_urchin\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_zombie_urchin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_urchin"
  },
  {
   "key": "5ce26ab93c28814052146d4e7d123834",
@@ -18848,11 +19055,23 @@
   "stage": 3
  },
  {
+  "key": "e9dabf8e1fe4a4906cf379c774dee824",
+  "original": "tadpole constrictor",
+  "translation": "蝌蚪蟒",
+  "context": "ID: mon_tadpole_grabber\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_tadpole_grabber\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tadpole_grabber"
+ },
+ {
   "key": "2a09de672351e44f214c71fdf56d3202",
   "original": "underbrush",
   "translation": "灌木丛",
   "context": "ID: f_BL9underbrush\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9underbrush\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9underbrush",
   "stage": 3
+ },
+ {
+  "key": "76e85e7be11e98f4ac9b05bed1c55bab",
+  "original": "unstable flesh-raptor",
+  "translation": "肿胀血鸷",
+  "context": "ID: mon_spawn_raptor_unstable\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spawn_raptor_unstable\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spawn_raptor_unstable"
  },
  {
   "key": "15f24a8bcd66dbae515b5e105bfd33f2",
@@ -18869,10 +19088,28 @@
   "stage": 3
  },
  {
+  "key": "cdedae2758d9e9ffdbc3b4952d27d78a",
+  "original": "warehouse spider",
+  "translation": "超巨型地窖蛛",
+  "context": "ID: mon_spider_cellar_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spider_cellar_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_cellar_mega"
+ },
+ {
+  "key": "aa538a25bebb2f122628369a2ceb9fa2",
+  "original": "whale wasp",
+  "translation": "超巨型黄蜂",
+  "context": "ID: mon_wasp_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_wasp_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_wasp_mega"
+ },
+ {
   "key": "a00ee02dc1994d3b111c4efb18169fe2",
   "original": "willow tree",
   "translation": "柳树",
   "context": "ID: f_BL9tree_willow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9tree_willow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_BL9tree_willow",
   "stage": 3
+ },
+ {
+  "key": "46bc3cefddbb8976bdd970c72b9c1a7d",
+  "original": "wyrd spider",
+  "translation": "超巨型网蛛",
+  "context": "ID: mon_spider_web_mega\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/mon_placeholders.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_spider_web_mega\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_web_mega"
  }
 ]

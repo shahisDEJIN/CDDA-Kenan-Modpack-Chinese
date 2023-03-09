@@ -1,0 +1,2197 @@
+[
+ {
+  "key": "6ea9b75f7c1b6001ac09e48b958142fb",
+  "original": "4th Reich",
+  "translation": "4th Reich",
+  "context": "ID: fac_metreich\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_metreich\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_metreich",
+  "stage": 1
+ },
+ {
+  "key": "236b70ff95ac3413f137781f2bfbf337",
+  "original": "4th Reich Formal Jacket",
+  "translation": "4th Reich Formal Jacket",
+  "context": "ID: metro_nsmjacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmjacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmjacket",
+  "stage": 1
+ },
+ {
+  "key": "5ac6a6cd9277d71bd82d893eb7ad9fca",
+  "original": "4th Reich Heavy Armor",
+  "translation": "4th Reich Heavy Armor",
+  "context": "ID: metro_nsm_armor\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsm_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsm_armor",
+  "stage": 1
+ },
+ {
+  "key": "de2987599d9cb23ed7e6da30913b7b98",
+  "original": "4th Reich Resident",
+  "translation": "4th Reich Resident",
+  "context": "ID: sgs_reich_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_reich_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_reich_start",
+  "stage": 1
+ },
+ {
+  "key": "ad382dc75b4d23189d4d5f76b12797b6",
+  "original": "4th Reich Station",
+  "translation": "4th Reich Station",
+  "context": "ID: met_reichstation\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/startlocation.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→start_location→met_reichstation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_reichstation",
+  "stage": 1
+ },
+ {
+  "key": "1acf24d43d6ded62ec858614f70e5d96",
+  "original": "4th Reich combat vest",
+  "translation": "4th Reich combat vest",
+  "context": "ID: metro_nsmvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmvest",
+  "stage": 1
+ },
+ {
+  "key": "6d33b01a19f69c8a2af2b61d55a2248e",
+  "original": "4th Reich faction change device",
+  "translation": "4th Reich faction change device",
+  "context": "ID: reich_idticketcard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/reich_factionchange.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→reich_idticketcard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reich_idticketcard",
+  "stage": 1
+ },
+ {
+  "key": "4d2b27199f339c2ed17bccd146177d51",
+  "original": "4th Reich flag",
+  "translation": "4th Reich flag",
+  "context": "ID: metro_nsmflag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmflag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmflag",
+  "stage": 1
+ },
+ {
+  "key": "bf8b3186e24c5b29d54776acb52f23c4",
+  "original": "4th Reich officer's hat",
+  "translation": "4th Reich officer's hat",
+  "context": "ID: metro_nsmhat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmhat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmhat",
+  "stage": 1
+ },
+ {
+  "key": "2c9839988098608646174318720003bc",
+  "original": "5mm Standard Round",
+  "translation": "5mm Standard Round",
+  "context": "ID: sgs5_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_b",
+  "stage": 1
+ },
+ {
+  "key": "82d06a9bfa350a15f475b76698cf330f",
+  "original": "5mm Standard Round JHP",
+  "translation": "5mm Standard Round JHP",
+  "context": "ID: sgs5_jhp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_jhp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_jhp",
+  "stage": 1
+ },
+ {
+  "key": "9e390fc31ce8518e185b1358febc97c1",
+  "original": "5mm Standard Round, black powder",
+  "translation": "5mm Standard Round, black powder",
+  "context": "ID: sgs5_bp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_bp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_bp",
+  "stage": 1
+ },
+ {
+  "key": "13d5e4c9659d241c1da4e8802b0c764f",
+  "original": "5mm Standard Round, reloaded",
+  "translation": "5mm Standard Round, reloaded",
+  "context": "ID: reloaded_sgs5_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→reloaded_sgs5_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reloaded_sgs5_b",
+  "stage": 1
+ },
+ {
+  "key": "ac5114b5ce277876ed549d0a7c6e0a8f",
+  "original": "5mm W2C Round",
+  "translation": "5mm W2C Round",
+  "context": "ID: sgs5_w\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_w\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_w",
+  "stage": 1
+ },
+ {
+  "key": "82bd1eaea0549ff0e760404f1e3ae15c",
+  "original": "5mm standard round casing",
+  "translation": "5mm standard round casing",
+  "context": "ID: sgs5_casing\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs5_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_casing",
+  "stage": 1
+ },
+ {
+  "key": "1f8db8673fb68dc21d4e0aeef41fb1b5",
+  "original": "7.62mm Spearhead",
+  "translation": "7.62mm Spearhead",
+  "context": "ID: sgs_spearhead\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_spearhead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_spearhead",
+  "stage": 1
+ },
+ {
+  "key": "f006df62d34fa8c01016f80e07cb9b6b",
+  "original": "8.6mm Standard Round",
+  "translation": "8.6mm Standard Round",
+  "context": "ID: sgs86_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_b",
+  "stage": 1
+ },
+ {
+  "key": "4af9a71103d47f4c896c2a39bb659cbd",
+  "original": "8.6mm Standard Round JHP",
+  "translation": "8.6mm Standard Round JHP",
+  "context": "ID: sgs86_jhp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_jhp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_jhp",
+  "stage": 1
+ },
+ {
+  "key": "8dc2787ce0716b26e38980c0b67ff370",
+  "original": "8.6mm Standard Round, black powder",
+  "translation": "8.6mm Standard Round, black powder",
+  "context": "ID: sgs86_bp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_bp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_bp",
+  "stage": 1
+ },
+ {
+  "key": "f9c103f80366405292912dd4fe889d26",
+  "original": "8.6mm Standard Round, reloaded",
+  "translation": "8.6mm Standard Round, reloaded",
+  "context": "ID: reloaded_sgs86_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→reloaded_sgs86_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reloaded_sgs86_b",
+  "stage": 1
+ },
+ {
+  "key": "5fab93c391cb94c290240ea99d0a24be",
+  "original": "8.6mm W2C Round",
+  "translation": "8.6mm W2C Round",
+  "context": "ID: sgs86_w\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_w\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_w",
+  "stage": 1
+ },
+ {
+  "key": "5224cb9846d5eac8903a6b3acf42f785",
+  "original": "8.6mm standard round casing",
+  "translation": "8.6mm standard round casing",
+  "context": "ID: sgs86_casing\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs86_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_casing",
+  "stage": 1
+ },
+ {
+  "key": "1488fb55ba3909f722115123fdb4aa21",
+  "original": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail.",
+  "translation": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail.",
+  "context": "ID: sgs5_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_b",
+  "stage": 1
+ },
+ {
+  "key": "18886685e7e1ea5d442ae4c95744ab8f",
+  "original": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "translation": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "context": "ID: sgs5_jhp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_jhp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_jhp",
+  "stage": 1
+ },
+ {
+  "key": "5d415a5669ebaa5b8b295b1217ed61b8",
+  "original": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "translation": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "context": "ID: sgs5_w\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs5_w\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_w",
+  "stage": 1
+ },
+ {
+  "key": "6f94a594657cdda580bfbd80e51594cc",
+  "original": "A 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "translation": "A 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "context": "ID: sgs86_jhp\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_jhp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_jhp",
+  "stage": 1
+ },
+ {
+  "key": "8a6adbfdce6410f70a42d2ee62f60ce1",
+  "original": "A bio-lumiscent mushroom that emits a low level of light as part of its biological process.",
+  "translation": "A bio-lumiscent mushroom that emits a low level of light as part of its biological process.",
+  "context": "ID: t_sgs_mushroom\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "01776123bf12725a7ea0d675f71ce0ca",
+  "original": "A combat vest found in common use amongst the many soldiers of the red line. Relatively cheap to make, its low encumberance comes at the cost of having relatively little ballistic protection.",
+  "translation": "A combat vest found in common use amongst the many soldiers of the red line. Relatively cheap to make, its low encumberance comes at the cost of having relatively little ballistic protection.",
+  "context": "ID: metro_redvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redvest",
+  "stage": 1
+ },
+ {
+  "key": "e69a889f8daa6ed0f7770afc898a767e",
+  "original": "A combat vest found in common use amongst the well-trained, but somewhat rare, members of the 4th Reich stations. Offers a relatively decent amount of protection, at the cost of increased encumbrance.",
+  "translation": "A combat vest found in common use amongst the well-trained, but somewhat rare, members of the 4th Reich stations. Offers a relatively decent amount of protection, at the cost of increased encumbrance.",
+  "context": "ID: metro_nsmvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmvest",
+  "stage": 1
+ },
+ {
+  "key": "1b9e9e66a5f161df9c884104dc6fa9ab",
+  "original": "A compact light-weight polymer magazine for use with 5mm standard round compatible firearms.",
+  "translation": "A compact light-weight polymer magazine for use with 5mm standard round compatible firearms.",
+  "context": "ID: sgs5mag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs5mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5mag",
+  "stage": 1
+ },
+ {
+  "key": "4ff92d8972186906de6c4bf7b3099db7",
+  "original": "A crude magazine for the bastard carbine.  Holds 30 rounds.",
+  "translation": "A crude magazine for the bastard carbine.  Holds 30 rounds.",
+  "context": "ID: metro_basmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_basmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_basmag",
+  "stage": 1
+ },
+ {
+  "key": "69af0293a6b65d2b7c3941f917960cb6",
+  "original": "A curious and rare pistol in the underrail. What's not so curious is what its acid vials do to your skin when they want to dissolve it into its base components.",
+  "translation": "A curious and rare pistol in the underrail. What's not so curious is what its acid vials do to your skin when they want to dissolve it into its base components.",
+  "context": "ID: sgs_acid_pistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_acid_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_pistol",
+  "stage": 1
+ },
+ {
+  "key": "ece2cf8b6816c561e20d74cc624b2173",
+  "original": "A device used to decrease the player character's relationship with the 4th Reich and Red Line. Should only be available at spawn, otherwise a glitch has occurred.",
+  "translation": "A device used to decrease the player character's relationship with the 4th Reich and Red Line. Should only be available at spawn, otherwise a glitch has occurred.",
+  "context": "ID: sgs_idticketcard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/sgs_factionchange.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_idticketcard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_idticketcard",
+  "stage": 1
+ },
+ {
+  "key": "2a7a93a120050e401f51bedd03269c4a",
+  "original": "A device used to decrease the player character's relationship with the 4th Reich and South Gate Station. Should only be available at spawn, otherwise a glitch has occurred.",
+  "translation": "A device used to decrease the player character's relationship with the 4th Reich and South Gate Station. Should only be available at spawn，otherwise a glitch has occurred.",
+  "context": "ID: reich_idticketcard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/reich_factionchange.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→reich_idticketcard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reich_idticketcard",
+  "stage": 1
+ },
+ {
+  "key": "73fb033567e38f5e853eb083eea0673a",
+  "original": "A drum magazine for use with the Steel Cat SMG.  Much greater capacity but less reliable the factory specification magazine.",
+  "translation": "A drum magazine for use with the Steel Cat SMG.  Much greater capacity but less reliable the factory specification magazine.",
+  "context": "ID: steelcatbigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→steelcatbigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steelcatbigmag",
+  "stage": 1
+ },
+ {
+  "key": "5213aa7c7da642d61f80f0eb377c9fff",
+  "original": "A famed 7.62mm Spearhead sniper rifle. Purported to once be far, far more powerful than it now is.",
+  "translation": "A famed 7.62mm Spearhead sniper rifle. Purported to once be far, far more powerful than it now is.",
+  "context": "ID: sgs_spearhead\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_spearhead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_spearhead",
+  "stage": 1
+ },
+ {
+  "key": "4909a2ae124c9dfec92fbe22d08cc3ac",
+  "original": "A group of bandits have taken up a position near South Gate Station, find them and kill them for us.",
+  "translation": "A group of bandits have taken up a position near South Gate Station, find them and kill them for us.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "1579e358476883717f17ec2171758823",
+  "original": "A hat made from the pelts of animals.  Extremely warm. Often worn by the citizens of the Red Line.",
+  "translation": "A hat made from the pelts of animals.  Extremely warm. Often worn by the citizens of the Red Line.",
+  "context": "ID: metro_redfur\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redfur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redfur",
+  "stage": 1
+ },
+ {
+  "key": "ff3be229e38189e49a41cf0cf5217fe6",
+  "original": "A heavy steel helmet that provides excellent protection from all sorts of damage.  How exactly people forced to live in the New England Metro got a hold of these seemingly geniune articles is one of the great many mysteries of the Cataclysm.",
+  "translation": "A heavy steel helmet that provides excellent protection from all sorts of damage.  How exactly people forced to live in the New England Metro got a hold of these seemingly geniune articles is one of the great many mysteries of the Cataclysm.",
+  "context": "ID: metro_nsmhelmet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmhelmet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmhelmet",
+  "stage": 1
+ },
+ {
+  "key": "93b6471afa8db44efe65a599075ceb9f",
+  "original": "A helmet made from plates of steel with a visor of ballistic glass. Made for use in tandem with underrail metal armor.",
+  "translation": "A helmet made from plates of steel with a visor of ballistic glass. Made for use in tandem with underrail metal armor.",
+  "context": "ID: sgs_metal_helmet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_metal_helmet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_metal_helmet",
+  "stage": 1
+ },
+ {
+  "key": "1fa403885033168bdfff14f03df26ea9",
+  "original": "A high-power crossbow with with an intricate 4-bar mechanism to reduce felt load when tensing the crossbow.  Takes less time to reload due to a modern string-pulling system, but comes at the expense of stopping power.",
+  "translation": "A high-power crossbow with with an intricate 4-bar mechanism to reduce felt load when tensing the crossbow.  Takes less time to reload due to a modern string-pulling system, but comes at the expense of stopping power.",
+  "context": "ID: sgs_cyclon\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_crossbows.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_cyclon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_cyclon",
+  "stage": 1
+ },
+ {
+  "key": "8b17d9e7ccce421560248e678352c901",
+  "original": "A large Reich flag made to fly in even the worst conditions.",
+  "translation": "A large Reich flag made to fly in even the worst conditions.",
+  "context": "ID: metro_nsmflag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmflag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmflag",
+  "stage": 1
+ },
+ {
+  "key": "f17b23f3f6ef30cd4c17aa2d0dec854c",
+  "original": "A large Soviet flag made to fly in even the worst conditions.",
+  "translation": "A large Soviet flag made to fly in even the worst conditions.",
+  "context": "ID: metro_redflag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redflag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redflag",
+  "stage": 1
+ },
+ {
+  "key": "2f33f2b313e0baffa8824498387abeb3",
+  "original": "A large, heavy hammer.  Makes an acceptable melee weapon for the very strong, but is nearly useless in the hands of the weak. This variant has been outfitted with electrodes, making it useful to shock people with.",
+  "translation": "A large, heavy hammer.  Makes an acceptable melee weapon for the very strong, but is nearly useless in the hands of the weak. This variant has been outfitted with electrodes, making it useful to shock people with.",
+  "context": "ID: sgs_shocksledge\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_shocksledge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_shocksledge",
+  "stage": 1
+ },
+ {
+  "key": "aeff37f6dd8ed661181a0984f1ef50df",
+  "original": "A light crossbow common amongst the more poor denizens of the underrail.  Stronger people can reload it much faster.  Bolts fired from this weapon have a good chance of remaining intact for re-use. Why one would use these instead of firearms is unknown, but many swear by them.",
+  "translation": "A light crossbow common amongst the more poor denizens of the underrail.  Stronger people can reload it much faster.  Bolts fired from this weapon have a good chance of remaining intact for re-use. Why one would use these instead of firearms is unknown, but many swear by them.",
+  "context": "ID: sgs_zephyr\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_crossbows.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_zephyr\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_zephyr",
+  "stage": 1
+ },
+ {
+  "key": "cb727d67b129dbbbe766be72479f9ef5",
+  "original": "A nylon vest equipped with several pouches for magazine and ammunition storage. Comes pre-equipped with several light ballistic plates that provide a small modicum of protection.",
+  "translation": "A nylon vest equipped with several pouches for magazine and ammunition storage. Comes pre-equipped with several light ballistic plates that provide a small modicum of protection.",
+  "context": "ID: sgs_secvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_secvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_secvest",
+  "stage": 1
+ },
+ {
+  "key": "05ab17328e78be04b6f91ab4e4abf32e",
+  "original": "A perforated barrel filled with some kind of combusting fuel to give light to people around it.",
+  "translation": "A perforated barrel filled with some kind of combusting fuel to give light to people around it.",
+  "context": "ID: t_sgs_lbarrel_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_lbarrel_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_lbarrel_c",
+  "stage": 1
+ },
+ {
+  "key": "212dc5916d1e0279e43b6170d76db38d",
+  "original": "A rather lightweight armor protecting user's vital torso area, in addition to some arm protection. This armor is made of cave hopper leather. .",
+  "translation": "A rather lightweight armor protecting user's vital torso area, in addition to some arm protection. This armor is made of cave hopper leather. .",
+  "context": "ID: sgs_leatherjacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_leatherjacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_leatherjacket",
+  "stage": 1
+ },
+ {
+  "key": "af03163fd9b327ff96700e19d5e853db",
+  "original": "A shotgun modified to use a revolver cylinder mechanism, it can hold 6 cartridges. Common among the denizens of the metro, and packs quite a punch.",
+  "translation": "A shotgun modified to use a revolver cylinder mechanism, it can hold 6 cartridges. Common among the denizens of the metro, and packs quite a punch.",
+  "context": "ID: metro_shambler\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_shambler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_shambler",
+  "stage": 1
+ },
+ {
+  "key": "981b1e2ef79d5a82db90b69eb3b59045",
+  "original": "A simple electric lamp that emits energy via an electric current.",
+  "translation": "A simple electric lamp that emits energy via an electric current.",
+  "context": "ID: t_sgs_lamp_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_lamp_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_lamp_c",
+  "stage": 1
+ },
+ {
+  "key": "658dd6135d50fd8f80c28347233cd97b",
+  "original": "A single-use card that summons a 4th Reich Soldier for the user.",
+  "translation": "A single-use card that summons a 4th Reich Soldier for the user.",
+  "context": "ID: metro_reich_card\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/reich_talk_spawncard.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→metro_reich_card\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_reich_card",
+  "stage": 1
+ },
+ {
+  "key": "74350a683154de8b1be6e5d26928f7fc",
+  "original": "A single-use card that summons a Red Line Soldier for the user.",
+  "translation": "A single-use card that summons a Red Line Soldier for the user.",
+  "context": "ID: metro_red_card\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/red_talk_spawncard.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→metro_red_card\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_red_card",
+  "stage": 1
+ },
+ {
+  "key": "7a32ada4445e51d79edf02bf4209cff1",
+  "original": "A small glass vial containing a pre-measured charge of caustic acid. Be careful!",
+  "translation": "A small glass vial containing a pre-measured charge of caustic acid. Be careful!",
+  "context": "ID: sgs_acid_b_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs_acid_b_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_b_c",
+  "stage": 1
+ },
+ {
+  "key": "eb69628b8e3d5f73356640dea0123768",
+  "original": "A small stamped circuit containing a pre-set amount of South Gate credits, popular in the underrail and quite valuable.",
+  "translation": "A small stamped circuit containing a pre-set amount of South Gate credits, popular in the underrail and quite valuable.",
+  "context": "ID: sgs_credit\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs_credit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_credit",
+  "stage": 1
+ },
+ {
+  "key": "7d5f9dc665fd0d365ed81ff13b4b18c5",
+  "original": "A somehwat crude metal magazine for use with the common lolife pistol of the metro.",
+  "translation": "A somehwat crude metal magazine for use with the common lolife pistol of the metro.",
+  "context": "ID: metro_lolifebigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_lolifebigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_lolifebigmag",
+  "stage": 1
+ },
+ {
+  "key": "88e3244f90c347ada362ec7fc0f31363",
+  "original": "A stadard 10-round steel box magazine compatible with 7.62 Spearhead rifle.",
+  "translation": "A stadard 10-round steel box magazine compatible with 7.62 Spearhead rifle.",
+  "context": "ID: sgs_spearmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_spearmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_spearmag",
+  "stage": 1
+ },
+ {
+  "key": "c602316b40fe9e84be77b4a655d63a03",
+  "original": "A standard 30-round steel box magazine for use with the Jackrabbit SMG.",
+  "translation": "A standard 30-round steel box magazine for use with the Jackrabbit SMG.",
+  "context": "ID: sgs_jackrabbit_mag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_jackrabbit_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jackrabbit_mag",
+  "stage": 1
+ },
+ {
+  "key": "3dcccddd7310b24af75e0113e68a1895",
+  "original": "A standard capacity 25-round box magazine for use with Marauder 8.6mm compatible rifles.",
+  "translation": "A standard capacity 25-round box magazine for use with Marauder 8.6mm compatible rifles.",
+  "context": "ID: sgs_marmag_30rd\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_marmag_30rd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_marmag_30rd",
+  "stage": 1
+ },
+ {
+  "key": "f788cc3162f2eab3762846b218d4aa38",
+  "original": "A standard capacity 30-round box magazine for use with the Hornet 7.62mm assault rifles.",
+  "translation": "A standard capacity 30-round box magazine for use with the Hornet 7.62mm assault rifles.",
+  "context": "ID: sgs_hornmag_30rd\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_hornmag_30rd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hornmag_30rd",
+  "stage": 1
+ },
+ {
+  "key": "90f2eec944f6551e3fb1242d6612432e",
+  "original": "A standard capacity curved magazine for use with the Steel Cat SMG.",
+  "translation": "A standard capacity curved magazine for use with the Steel Cat SMG.",
+  "context": "ID: steelcatmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→steelcatmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steelcatmag",
+  "stage": 1
+ },
+ {
+  "key": "e1da5b4fd851b6d87d7f307be0ec665e",
+  "original": "A standard magazine made for the Kalash 2012 rifle, made entirely of a complex polymer.  Holds 40 rounds.",
+  "translation": "A standard magazine made for the Kalash 2012 rifle, made entirely of a complex polymer.  Holds 40 rounds.",
+  "context": "ID: metro_kalmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_kalmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_kalmag",
+  "stage": 1
+ },
+ {
+  "key": "d5da8f8edffbbf00e4037e33f78764cf",
+  "original": "A thick leather jacket.  Protects against the cold of the metro when the warmth of the revolutionary spirit isn't enough.",
+  "translation": "A thick leather jacket.  Protects against the cold of the metro when the warmth of the revolutionary spirit isn't enough.",
+  "context": "ID: metro_red_offcoat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_red_offcoat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_red_offcoat",
+  "stage": 1
+ },
+ {
+  "key": "28c782db0678aad787c1f895d2f36c39",
+  "original": "A weak pistol common amongst all strata of the underrail, from the lowest junkyard mutant to the highest protectorate officer. Prized by all for its ease of use, low production costs, and relatively common ammunition.",
+  "translation": "A weak pistol common amongst all strata of the underrail, from the lowest junkyard mutant to the highest protectorate officer. Prized by all for its ease of use, low production costs, and relatively common ammunition.",
+  "context": "ID: sgs_hawker\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_hawker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hawker",
+  "stage": 1
+ },
+ {
+  "key": "ac6ccca24cd9de1ad2c0b0f6c7ba27a8",
+  "original": "Acid Pistol",
+  "translation": "Acid Pistol",
+  "context": "ID: sgs_acid_pistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_acid_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_pistol",
+  "stage": 1
+ },
+ {
+  "key": "69b20d3b45cc367e8882b84c78508f72",
+  "original": "Acid vial",
+  "translation": "Acid vial",
+  "context": "ID: sgs_acid_b_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs_acid_b_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_b_c",
+  "stage": 1
+ },
+ {
+  "key": "0f5dda8d4770f361661a172325809bdc",
+  "original": "Adds a variety of items, enemies and locations inspired by the games Metro 2033 and Underrail.",
+  "translation": "Adds a variety of items, enemies and locations inspired by the games Metro 2033 and Underrail.",
+  "context": "ID: underrailmetro_mod\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MOD_INFO→underrailmetro_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=underrailmetro_mod",
+  "stage": 1
+ },
+ {
+  "key": "46d10edbc5fe5d6fe849e6954b339fc3",
+  "original": "Alright, at least you tried.",
+  "translation": "Alright, at least you tried.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "88a3497aa7b4c813ed1c5ac28d3f17c4",
+  "original": "An 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail.",
+  "translation": "An 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail.",
+  "context": "ID: sgs86_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_b",
+  "stage": 1
+ },
+ {
+  "key": "8abec7341e7a471d97ae03c28566956b",
+  "original": "An 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "translation": "An 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
+  "context": "ID: sgs86_w\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→AMMO→sgs86_w\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_w",
+  "stage": 1
+ },
+ {
+  "key": "90cb6e89e2e9b483b4ed4d8b8ec5dcf3",
+  "original": "An authoritative-looking jacket outfitted with a 4th Reich Armband. Common amongst the higher ranking members of the 4th Reich stations.",
+  "translation": "An authoritative-looking jacket outfitted with a 4th Reich Armband. Common amongst the higher ranking members of the 4th Reich stations.",
+  "context": "ID: metro_nsmjacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmjacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmjacket",
+  "stage": 1
+ },
+ {
+  "key": "0ae2ddbbfd460f4ff304d9ac0e902ea7",
+  "original": "An empty casing from a 5mm standard round.",
+  "translation": "An empty casing from a 5mm standard round.",
+  "context": "ID: sgs5_casing\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs5_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5_casing",
+  "stage": 1
+ },
+ {
+  "key": "bcf44a84397e5ba93b194644c3800c20",
+  "original": "An empty casing from a 8.6mm standard round.",
+  "translation": "An empty casing from a 8.6mm standard round.",
+  "context": "ID: sgs86_casing\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs86_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs86_casing",
+  "stage": 1
+ },
+ {
+  "key": "8e6670468e483af732e77585c8bb7034",
+  "original": "An empty vial from an acid pistol.",
+  "translation": "An empty vial from an acid pistol.",
+  "context": "ID: sgs_acid_vial\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs_acid_vial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_vial",
+  "stage": 1
+ },
+ {
+  "key": "f240f343c831f583df46f5caee9693da",
+  "original": "An extended 28-round polymer magazine for use with standard round compatible firearms.",
+  "translation": "An extended 28-round polymer magazine for use with standard round compatible firearms.",
+  "context": "ID: sgs5bigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs5bigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5bigmag",
+  "stage": 1
+ },
+ {
+  "key": "c568f9ec229d690394ecd38add67aa63",
+  "original": "Are they dead yet?",
+  "translation": "Are they dead yet？",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL"
+ },
+ {
+  "key": "e682594e003780d746a8ec1050184bf3",
+  "original": "Azuridae are mutated and enlarged insects that resemble Rhinoceros beetles, instead of horns though, they have massive brains that they use to power their psionic abilities. Azuridae are so called due to the azure hue on their carapace. Their psionic powers have granted them nicknames such as psi beetle and psi bug by residents of the Underrail.",
+  "translation": "Azuridae are mutated and enlarged insects that resemble Rhinoceros beetles, instead of horns though, they have massive brains that they use to power their psionic abilities. Azuridae are so called due to the azure hue on their carapace. Their psionic powers have granted them nicknames such as psi beetle and psi bug by residents of the Underrail.",
+  "context": "ID: mon_sgs_psi_beetle\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_sgs_psi_beetle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sgs_psi_beetle",
+  "stage": 1
+ },
+ {
+  "key": "6b8665241796a28f1d2eb877f796666c",
+  "original": "Bastard",
+  "translation": "Bastard",
+  "context": "ID: metro_bastard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_bastard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_bastard",
+  "stage": 1
+ },
+ {
+  "key": "22ed331a4917534754de661a064c4117",
+  "original": "Bastard magazine",
+  "translation": "Bastard magazine",
+  "context": "ID: metro_basmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_basmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_basmag",
+  "stage": 1
+ },
+ {
+  "key": "5c3442ad852985ea0df1c1fdf829725e",
+  "original": "Be sure to kill those people as soon as possible.",
+  "translation": "Be sure to kill those people as soon as possible.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "d68edb425fe11afe1c97522307b419e9",
+  "original": "Can't you see that I'm busy? whatever you wan't make sure it's important.",
+  "translation": "Can't you see that I'm busy？ whatever you wan't make sure it's important.",
+  "context": "ID: TALK_sgs_admin_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_admin_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_admin_start",
+  "stage": 1
+ },
+ {
+  "key": "aaf61215850102dd0ffa640003f35063",
+  "original": "Cave Hopper Leather Armor",
+  "translation": "Cave Hopper Leather Armor",
+  "context": "ID: sgs_leatherjacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_leatherjacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_leatherjacket",
+  "stage": 1
+ },
+ {
+  "key": "cf8ab41e27c5a7c7e45acfd0083e5dd8",
+  "original": "Contested Station",
+  "translation": "Contested Station",
+  "context": "ID: MGS_STATION1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/Metro_map/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→overmap_terrain→MGS_STATION1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MGS_STATION1",
+  "stage": 1
+ },
+ {
+  "key": "f60f3f092718131cc14d0a1128c268c0",
+  "original": "Could I get any food?",
+  "translation": "Could I get any food？",
+  "context": "ID: TALK_SGSCOOK_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSCOOK_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSCOOK_Town"
+ },
+ {
+  "key": "1d1a23cdeb2cbf9c908638113a27a725",
+  "original": "Crawlers live in dark places, both ruins and caves and haunt the nightmares of Underrail and metro denizens alike. They look like pony-sized black scorpions. Beware if you find one, for the few moments of your life left to you might be brief.",
+  "translation": "Crawlers live in dark places, both ruins and caves and haunt the nightmares of Underrail and metro denizens alike. They look like pony-sized black scorpions. Beware if you find one, for the few moments of your life left to you might be brief.",
+  "context": "ID: mon_sgs_crawler\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_sgs_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sgs_crawler",
+  "stage": 1
+ },
+ {
+  "key": "1cf1d2a3ab22e1dc84da812e8631b7d7",
+  "original": "Cyclon crossbow",
+  "translation": "Cyclon crossbow",
+  "context": "ID: sgs_cyclon\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_crossbows.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_cyclon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_cyclon",
+  "stage": 1
+ },
+ {
+  "key": "1f798bc9c2a316ce561030a779dbf77d",
+  "original": "Deal with the infestation",
+  "translation": "Deal with the infestation",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "f378fbcfa52b3f0a3ea29c0a03d1eb78",
+  "original": "Decrease the Red Line's reputation with me.",
+  "translation": "Decrease the Red Line's reputation with me.",
+  "context": "ID: TALK_REICH_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_reich_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICH_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICH_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "e83fdae6ab2b675bea13845f6edc095b",
+  "original": "Decrease the Reich's reputation with me.",
+  "translation": "Decrease the Reich's reputation with me.",
+  "context": "ID: TALK_SGS_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "1af83fe3562902bb504f78fe94ae4435",
+  "original": "Do you have a task for me?",
+  "translation": "Do you have a task for me？",
+  "context": "ID: TALK_SGSGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_Town"
+ },
+ {
+  "key": "79d12e1e7c2a79691fa49426b7f47c50",
+  "original": "Do you have any medical items for me?",
+  "translation": "Do you have any medical items for me？",
+  "context": "ID: TALK_SGSDOC_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSDOC_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSDOC_Town"
+ },
+ {
+  "key": "7a8fb7e531b9e70c8086c04461b6bc48",
+  "original": "Do you have anything for me to buy?",
+  "translation": "Do you have anything for me to buy？",
+  "context": "ID: TALK_RECGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_reichmerchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_RECGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_RECGUN_Town",
+  "stage": 1
+ },
+ {
+  "key": "6fb192d590f52cf177bc53bee19db168",
+  "original": "Do you want anything from me? I'm a bit busy being at the moment.",
+  "translation": "Do you want anything from me？ I'm a bit busy being at the moment.",
+  "context": "ID: TALK_SGSDOC_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSDOC_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSDOC_Town"
+ },
+ {
+  "key": "ee9f0205c3507ea6381e07b5049a9e75",
+  "original": "Don't underestimate these people, they're more robust than you think.",
+  "translation": "Don't underestimate these people, they're more robust than you think.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "f7f1e26d16c4647e6f8bc95868add2ea",
+  "original": "Faction Changer",
+  "translation": "Faction Changer",
+  "context": "ID: npc_ticketcard_sgs\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/sgs_factionchange.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→npc_ticketcard_sgs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=npc_ticketcard_sgs",
+  "stage": 1
+ },
+ {
+  "key": "312665aeecdf18ea23e6b52e67038d5d",
+  "original": "Few can be deemed pure enough to be allowed entry into the Reich Stations. Even fewer can become officers with an inflated sense of self importance.",
+  "translation": "Few can be deemed pure enough to be allowed entry into the Reich Stations. Even fewer can become officers with an inflated sense of self importance.",
+  "context": "ID: metro_nsmhat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmhat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmhat",
+  "stage": 1
+ },
+ {
+  "key": "71f2b2ffe67fc2d7835bcf6bb6675a44",
+  "original": "Found only amongst the rarest of the rare Reich troops, this armor portends doom for those of the Red Line who come across it. Outfitted with thick metal plates, this armor is rather heavy.",
+  "translation": "Found only amongst the rarest of the rare Reich troops, this armor portends doom for those of the Red Line who come across it. Outfitted with thick metal plates, this armor is rather heavy.",
+  "context": "ID: metro_nsm_armor\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsm_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsm_armor",
+  "stage": 1
+ },
+ {
+  "key": "3c606f44b708425f5bbbbe180d234f2f",
+  "original": "Get to it, you know how infestations can get if we don't act quickly.",
+  "translation": "Get to it, you know how infestations can get if we don't act quickly.",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "de5d42deb361ad2bc7f8195bb4c648f8",
+  "original": "Goodbye, thank you for your time.",
+  "translation": "Goodbye，thank you for your time.",
+  "context": "ID: TALK_SGSDOC_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSDOC_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSDOC_Town"
+ },
+ {
+  "key": "0101977b4093f837ff6276a762fba7be",
+  "original": "Goodbye.",
+  "translation": "再见。",
+  "context": "ID: TALK_sgs_pipe_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_start"
+ },
+ {
+  "key": "06c73dc7fba4ff143a1c42cb8b749dc8",
+  "original": "Got it.",
+  "translation": "知道了。",
+  "context": "ID: TALK_SGSGUN_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_infotown"
+ },
+ {
+  "key": "6c7c1ae3da24487a627e948478e068a1",
+  "original": "Great work, I'll become a master chef in no time.",
+  "translation": "Great work，I'll become a master chef in no time.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM"
+ },
+ {
+  "key": "e5151895c591407d25ee74b5fb22e7aa",
+  "original": "Great work, things in South Gate just got a little safer thanks to you.",
+  "translation": "Great work, things in South Gate just got a little safer thanks to you.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "5353c814cff2e9e8fb984d6baa9c3f3d",
+  "original": "Great work, this adrenaline will be useful.",
+  "translation": "Great work, this adrenaline will be useful.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "eeb8fd846233441040dd0234e166ef75",
+  "original": "Great work, you've done South Great Station a great service.",
+  "translation": "Great work, you've done South Great Station a great service.",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "7c11a4e335ed6939e806bb1e4b53de7e",
+  "original": "Gun stores on the surface probably have firearm repair kits, perhaps you could even make one yourself if you know enough.",
+  "translation": "Gun stores on the surface probably have firearm repair kits, perhaps you could even make one yourself if you know enough.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "103648ab386ef1db420156ef85eca0af",
+  "original": "Has the infestation been dealt with?",
+  "translation": "Has the infestation been dealt with?",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "7917629a89790f2259b3f0a1231cc0f5",
+  "original": "Have you found what I requested yet?",
+  "translation": "Have you found what I requested yet？",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM"
+ },
+ {
+  "key": "54098fda899dac93be23c8f59f1a3198",
+  "original": "Hawker extended magazine",
+  "translation": "Hawker extended magazine",
+  "context": "ID: sgs5bigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs5bigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5bigmag",
+  "stage": 1
+ },
+ {
+  "key": "d75022e0eec15d4c9f4aaef7c26df3b4",
+  "original": "Hawker magazine",
+  "translation": "Hawker magazine",
+  "context": "ID: sgs5mag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs5mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs5mag",
+  "stage": 1
+ },
+ {
+  "key": "0f0050a08081d7fb6ebc9f2f23105124",
+  "original": "Hawker pistol",
+  "translation": "Hawker pistol",
+  "context": "ID: sgs_hawker\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_hawker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hawker",
+  "stage": 1
+ },
+ {
+  "key": "11eca79209a45008d3545e80e61e52a2",
+  "original": "Hello Fraulein Officer, I am ready to join you on your journey!",
+  "translation": "Hello Fraulein Officer, I am ready to join you on your journey!",
+  "context": "ID: TALK_REICHFAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/reich_talk_spawncard.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICHFAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICHFAC",
+  "stage": 1
+ },
+ {
+  "key": "d7c8a76f389981f58b96ee46b5eb2802",
+  "original": "Hello Herr Officer, I am ready to join you on your journey!",
+  "translation": "Hello Herr Officer, I am ready to join you on your journey!",
+  "context": "ID: TALK_REICHFAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/reich_talk_spawncard.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICHFAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICHFAC",
+  "stage": 1
+ },
+ {
+  "key": "086910ef5bc402448e8e5494829cffdd",
+  "original": "Hello comrade officer, I am ready to join you on your journey!",
+  "translation": "Hello comrade officer，I am ready to join you on your journey！",
+  "context": "ID: TALK_REDFAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/red_talk_spawncard.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REDFAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REDFAC",
+  "stage": 1
+ },
+ {
+  "key": "0db5d11f106f1885772b77c3394a1390",
+  "original": "Hello lady, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the Red Line Profession Start.",
+  "translation": "Hello lady，I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the Red Line Profession Start.",
+  "context": "ID: TALK_REICH_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_reich_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICH_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICH_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "bc70e7fbe71594558fc9c6b9f531d55b",
+  "original": "Hello lady, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the South Gate Profession Start.",
+  "translation": "Hello lady, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the South Gate Profession Start.",
+  "context": "ID: TALK_SGS_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "0858c616868a27b8671ede35588b4150",
+  "original": "Hello sir, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the Red Line Profession Start.",
+  "translation": "Hello sir，I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the Red Line Profession Start.",
+  "context": "ID: TALK_REICH_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_reich_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICH_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICH_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "f5605268afa18c3cc1b565287fecb5b0",
+  "original": "Hello sir, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the South Gate Profession Start.",
+  "translation": "Hello sir, I am a stopgap to allow the user to change their faction at the start of the game. Otherwise it would be impossible to play for the South Gate Profession Start.",
+  "context": "ID: TALK_SGS_TICK_FAC\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICK_FAC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICK_FAC",
+  "stage": 1
+ },
+ {
+  "key": "0eb263f498ce69201223e31218b9d028",
+  "original": "Hello, Miss, What do you want from me?",
+  "translation": "Hello，Miss，What do you want from me？",
+  "context": "ID: TALK_sgs_guard_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_guardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_guard_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_guard_start",
+  "stage": 1
+ },
+ {
+  "key": "352d572748338f76085455b653621e22",
+  "original": "Hello, What do you want from me?",
+  "translation": "Hello，What do you want from me？",
+  "context": "ID: TALK_sgs_civ_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_civ.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_civ_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_civ_start",
+  "stage": 1
+ },
+ {
+  "key": "90d9273c4612fe5429a5f78165f77a4b",
+  "original": "Hello, Why do you think you're important enough to talk to me, woman?",
+  "translation": "Hello, Why do you think you're important enough to talk to me, woman?",
+  "context": "ID: TALK_reich_off_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichofficer.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_off_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_off_start",
+  "stage": 1
+ },
+ {
+  "key": "0649c3f569f925b6ee024d0848d5d47f",
+  "original": "Hello, Why do you think you're important enough to talk to me.",
+  "translation": "Hello, Why do you think you're important enough to talk to me.",
+  "context": "ID: TALK_reich_off_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichofficer.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_off_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_off_start",
+  "stage": 1
+ },
+ {
+  "key": "ea5dd895aee3c5d76c0bfc1f87360cdb",
+  "original": "Hello, what do you want from me?",
+  "translation": "Hello，what do you want from me？",
+  "context": "ID: TALK_sgs_guard_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_guardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_guard_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_guard_start",
+  "stage": 1
+ },
+ {
+  "key": "2d58ebb8622ab14ccf20b31945fadc21",
+  "original": "Help me find a copy of the book 'Cooking on a Budget'. I'm not a very good cook, and I could use the knowledge contained within that text.",
+  "translation": "Help me find a copy of the book 'Cooking on a Budget'. I'm not a very good cook, and I could use the knowledge contained within that text.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "db9c0721dd9da15e49ff0d27b0036632",
+  "original": "Heya, Missy what's a girl like you doing around here? *burps*",
+  "translation": "Heya, Missy what's a girl like you doing around here? *burps*",
+  "context": "ID: TALK_sgs_pipe_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_start",
+  "stage": 1
+ },
+ {
+  "key": "8d98aa532425f00539c710755ca767f6",
+  "original": "Hm, I guess I'll just get one of the guards to deal with them!",
+  "translation": "Hm, I guess I'll just get one of the guards to deal with them!",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "ab8352b767abbdebc31845fb189b87d7",
+  "original": "Hornet 30-round magazine",
+  "translation": "Hornet 30-round magazine",
+  "context": "ID: sgs_hornmag_30rd\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_hornmag_30rd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hornmag_30rd",
+  "stage": 1
+ },
+ {
+  "key": "0d9888bc694ffd798ccb83d3c34fa499",
+  "original": "Hornet 7.62mm",
+  "translation": "Hornet 7.62mm",
+  "context": "ID: sgs_hornet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_hornet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hornet",
+  "stage": 1
+ },
+ {
+  "key": "52b7b5c9aa04d85dad654b8d23e3256b",
+  "original": "How do you perform the job of being a councilor for South Gate station??",
+  "translation": "How do you perform the job of being a councilor for South Gate station??",
+  "context": "ID: TALK_sgs_admin_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_admin_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_admin_start",
+  "stage": 1
+ },
+ {
+  "key": "b5c566b22a149f4f6e8eaf2fffcaf87d",
+  "original": "How do you serve as a soldier for South Gate Station?",
+  "translation": "How do you serve as a soldier for South Gate Station?",
+  "context": "ID: TALK_sgs_guard_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_guardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_guard_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_guard_start",
+  "stage": 1
+ },
+ {
+  "key": "e3465451c14fb3748dba33a7ce6ebf94",
+  "original": "How do you serve as a soldier of the Red line?",
+  "translation": "How do you serve as a soldier of the Red line?",
+  "context": "ID: TALK_metro_redguard_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_redguardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_metro_redguard_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_metro_redguard_start",
+  "stage": 1
+ },
+ {
+  "key": "8ff0ade3e4009d0319c3131b3ec6965b",
+  "original": "How do you serve as a soldier of the Reich?",
+  "translation": "How do you serve as a soldier of the Reich?",
+  "context": "ID: TALK_metro_reichsoldier_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichsoldier.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_metro_reichsoldier_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_metro_reichsoldier_start",
+  "stage": 1
+ },
+ {
+  "key": "35f55d0f287d6263221413867f3460f9",
+  "original": "Howdy partner, what are you doing moseying?",
+  "translation": "Howdy partner, what are you doing moseying?",
+  "context": "ID: TALK_sgs_pipe_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_start",
+  "stage": 1
+ },
+ {
+  "key": "5975165cd31077151a1bc343de2c1cca",
+  "original": "I have decreased your relationship with South Gate Station by 75 points.",
+  "translation": "I have decreased your relationship with South Gate Station by 75 points.",
+  "context": "ID: TALK_REICH_TICKETFAC_G1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_reich_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICH_TICKETFAC_G1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICH_TICKETFAC_G1",
+  "stage": 1
+ },
+ {
+  "key": "0dc43fbb4cc41ea2f4567f8df5bebd43",
+  "original": "I have decreased your relationship with the 4th Reich by 75 points.",
+  "translation": "I have decreased your relationship with the 4th Reich by 75 points.",
+  "context": "ID: TALK_SGS_TICKETFAC_E1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETFAC_E1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETFAC_E1",
+  "stage": 1
+ },
+ {
+  "key": "cc0a4e0e621784859625ee079b6096a5",
+  "original": "I have decreased your relationship with the Red Line by 75 points.",
+  "translation": "I have decreased your relationship with the Red Line by 75 points.",
+  "context": "ID: TALK_SGS_TICKETFAC_G1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETFAC_G1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETFAC_G1",
+  "stage": 1
+ },
+ {
+  "key": "c3abfa6fd0f51ef44eb5136c515fadce",
+  "original": "I know you're a bit new to the Underrail, but an infestation has come to our attention near South Gate Station, and I want you to deal with it.",
+  "translation": "I know you're a bit new to the Underrail，but an infestation has come to our attention near South Gate Station，and I want you to deal with it.",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "18e355f8ba12d8be73c604262ac9b4c7",
+  "original": "I need your help again, some bandits have set up camp near our station, and extoring local travellers for their property. We need you to deal with it.",
+  "translation": "I need your help again，some bandits have set up camp near our station，and extoring local travellers for their property. We need you to deal with it.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "ba24e4e0889797a89ec76dbd5df56e9d",
+  "original": "I see.",
+  "translation": "我懂了。",
+  "context": "ID: TALK_sgs_bandit_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_bandit.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_bandit_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_bandit_go"
+ },
+ {
+  "key": "9cb2f00452225f70ced72e30f28a387c",
+  "original": "I thank you for accepting this, now make it quick, we don't have time to spare.",
+  "translation": "I thank you for accepting this, now make it quick, we don't have time to spare.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "8eae6e7f2d479fa2ea5a5c6f692e3b57",
+  "original": "I truly love my job around here. Sure the food might be pretty basic: a few selections of cavehopper meat and farmed potatoes, but it never gets old seeing the look on people's faces when they eat this slop.",
+  "translation": "I truly love my job around here. Sure the food might be pretty basic： a few selections of cavehopper meat and farmed potatoes，but it never gets old seeing the look on people's faces when they eat this slop.",
+  "context": "ID: TALK_SGSCOOK_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSCOOK_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSCOOK_infotown",
+  "stage": 1
+ },
+ {
+  "key": "866578e2b48ffbec3a3e13b6462c8b0b",
+  "original": "I would appreciate it greatly if you could get me two firearm repair kits, if that's not too much to ask.",
+  "translation": "I would appreciate it greatly if you could get me two firearm repair kits, if that's not too much to ask.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "11fc9dd8fb766c737ef7c0cf8c4814f0",
+  "original": "I'll let you in on a little secret, well perhaps it's not very little. I'm not a very good cook and I think people are starting to become aware of that, could you help me out by finding me a cookbook, it would be a great help.",
+  "translation": "I'll let you in on a little secret, well perhaps it's not very little. I'm not a very good cook and I think people are starting to become aware of that, could you help me out by finding me a cookbook, it would be a great help.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "50da8f50e51009b928ce849f4628edde",
+  "original": "I'm not entirely sure if you're telling the truth, but alright.",
+  "translation": "I'm not entirely sure if you're telling the truth, but alright.",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "6beb3ab6ed1f10da5629e69e6cd7c452",
+  "original": "I've been running low on gun repair kits. It seems like conflict with other stations has flared up again recently, and we're quickly running through supplies. We'll reach a maintenance bottleneck soon, and we can't afford to have that happen.",
+  "translation": "I've been running low on gun repair kits. It seems like conflict with other stations has flared up again recently, and we're quickly running through supplies. We'll reach a maintenance bottleneck soon, and we can't afford to have that happen.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "a7825da14bbccbaf729aedfdbb70069f",
+  "original": "It can be difficult at times, but it's better than being some pipe-worker who gets stabbed by a nightstalker out of nowhere..",
+  "translation": "It can be difficult at times, but it's better than being some pipe-worker who gets stabbed by a nightstalker out of nowhere..",
+  "context": "ID: TALK_sgs_guard_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_guardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_guard_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_guard_go",
+  "stage": 1
+ },
+ {
+  "key": "80b5ddee85dda5beff264613891897dc",
+  "original": "It's a duty I take with the utmost importance, there is no duty as solemn or as important as being a standard bearer of the proletarian revolution. Those Reich fascists and South Gate dogs will soon be welcomed into our fold, with blood if need be!",
+  "translation": "It's a duty I take with the utmost importance, there is no duty as solemn or as important as being a standard bearer of the proletarian revolution. Those Reich fascists and South Gate dogs will soon be welcomed into our fold, with blood if need be!",
+  "context": "ID: TALK_metro_redguard_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_redguardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_metro_redguard_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_metro_redguard_go",
+  "stage": 1
+ },
+ {
+  "key": "a0e71cb1d3ced58483f44f41fe4c2c5c",
+  "original": "It's actually pretty easy, all things considered. Most of the time people come back with little more than a few cave hopper scratches. Watch out for nighstalkers though, they can be pretty nasty.",
+  "translation": "It's actually pretty easy，all things considered. Most of the time people come back with little more than a few cave hopper scratches. Watch out for nighstalkers though，they can be pretty nasty.",
+  "context": "ID: TALK_SGSDOC_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSDOC_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSDOC_infotown",
+  "stage": 1
+ },
+ {
+  "key": "19e5e054561a647d833fc648b810614e",
+  "original": "Jackrabbit 5mm",
+  "translation": "Jackrabbit 5mm",
+  "context": "ID: sgs_jackrabbit\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_jackrabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jackrabbit",
+  "stage": 1
+ },
+ {
+  "key": "7ccc3d9a8f30a581eff263dd47854a58",
+  "original": "Jackrabbit magazine",
+  "translation": "Jackrabbit magazine",
+  "context": "ID: sgs_jackrabbit_mag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_jackrabbit_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jackrabbit_mag",
+  "stage": 1
+ },
+ {
+  "key": "6b9599ebbc157ce50b500b5ae1b98cde",
+  "original": "Kalash 2012",
+  "translation": "Kalash 2012",
+  "context": "ID: metro_kalashtwen\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_kalashtwen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_kalashtwen",
+  "stage": 1
+ },
+ {
+  "key": "5a41cecdf57e0a3fe9c9081f5766b51a",
+  "original": "Kalash 2012 is one of the weapons in the Metro that predates the war and it is highly prized. It's advanced polymer frame is rather unusual for Russian weapons, but it seems to make a good account of itself.",
+  "translation": "Kalash 2012 is one of the weapons in the Metro that predates the war and it is highly prized. It's advanced polymer frame is rather unusual for Russian weapons, but it seems to make a good account of itself.",
+  "context": "ID: metro_kalashtwen\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_kalashtwen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_kalashtwen",
+  "stage": 1
+ },
+ {
+  "key": "552c8fc42d9ca5e64c275a1a29f79f5d",
+  "original": "Kalash 2012 magazine",
+  "translation": "Kalash 2012 magazine",
+  "context": "ID: metro_kalmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_kalmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_kalmag",
+  "stage": 1
+ },
+ {
+  "key": "48a0509ec08ff631c01aaea322272ef3",
+  "original": "Kill Underrail Bandits",
+  "translation": "Kill Underrail Bandits",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "7c5446941f2ce27450224e88770cb096",
+  "original": "Killing people? Have you been watching too many video tapes or something? The criminal life isn't easy, friend, most of us barely get by. Sure, assaulting random people for their stuff can be fun, but we're more than just that.",
+  "translation": "Killing people? Have you been watching too many video tapes or something? The criminal life isn't easy, friend, most of us barely get by. Sure, assaulting random people for their stuff can be fun, but we're more than just that.",
+  "context": "ID: TALK_sgs_bandit_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_bandit.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_bandit_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_bandit_go",
+  "stage": 1
+ },
+ {
+  "key": "0f49f1fd4c17e0cfdbd5614045ce1abb",
+  "original": "Laziness of your caliber is rare, perhaps you're no better than the scum out on the Underrail.",
+  "translation": "Laziness of your caliber is rare, perhaps you're no better than the scum out on the Underrail.",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "4fc666031e6ee27c98d1af9eeec59376",
+  "original": "Libraries, Schools and Homes might have a cookbook or two, see what you can find.",
+  "translation": "Libraries, Schools and Homes might have a cookbook or two, see what you can find.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "b1f9ab68b81c60fb570b2b6d58f73c58",
+  "original": "Lolife",
+  "translation": "Lolife",
+  "context": "ID: metro_lolife_pistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_lolife_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_lolife_pistol",
+  "stage": 1
+ },
+ {
+  "key": "e73b23038a5c05ca8da0333af412f944",
+  "original": "Look for doctor's officers and hospitals on the surface, you'll probably find some there.",
+  "translation": "Look for doctor's officers and hospitals on the surface, you'll probably find some there.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "2632253213ed3fedfb5da238da82535e",
+  "original": "Look, I'm a bit busy here, but I think you could help me out here. I fear that more skirmishes with other stations are on the horizon, and its imperative that we prepare for any eventuality. Would you be willing to get me an adrenaline syringe?",
+  "translation": "Look, I'm a bit busy here, but I think you could help me out here. I fear that more skirmishes with other stations are on the horizon, and its imperative that we prepare for any eventuality. Would you be willing to get me an adrenaline syringe?",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "1af260d3ac0e1d740cb7ac3664d66215",
+  "original": "MY deal? What's YOUR deal? You walk up to me and start asking inane questions to every person you meet and you think we're always going to be kind to you? How about some manners you cave hopper-brained imbecile.",
+  "translation": "MY deal? What's YOUR deal? You walk up to me and start asking inane questions to every person you meet and you think we're always going to be kind to you? How about some manners you cave hopper-brained imbecile.",
+  "context": "ID: TALK_sgs_pipe_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_go",
+  "stage": 1
+ },
+ {
+  "key": "a60af1b74ec65fc53ac7334bd87a8e00",
+  "original": "Marauder 25-round magazine",
+  "translation": "Marauder 25-round magazine",
+  "context": "ID: sgs_marmag_30rd\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_marmag_30rd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_marmag_30rd",
+  "stage": 1
+ },
+ {
+  "key": "94dc0779e63e659835a982a12bcade82",
+  "original": "Marauder 8.6mm",
+  "translation": "Marauder 8.6mm",
+  "context": "ID: sgs_marauder\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_marauder\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_marauder",
+  "stage": 1
+ },
+ {
+  "key": "8f5dbb2f0731739d248a47b13e0240da",
+  "original": "My task weighs heavily upon me at all times, the war with the Reds, that is. Managing the stations and the war at the same time can be taxing, even for us Reich specimens. But I trust that we will win this war in the end.",
+  "translation": "My task weighs heavily upon me at all times, the war with the Reds, that is. Managing the stations and the war at the same time can be taxing, even for us Reich specimens. But I trust that we will win this war in the end.",
+  "context": "ID: TALK_reich_off_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichofficer.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_off_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_off_go",
+  "stage": 1
+ },
+ {
+  "key": "e8e9b3a4bfee80f8bbe8084c27327820",
+  "original": "Near all-encompasing suit of metal armor. Outfitted with enough steel plates to cover the overwhelming majority of the user's body. Its immense protection comes with a drawback: its immense weight and incumberence for all but strong users.",
+  "translation": "Near all-encompasing suit of metal armor. Outfitted with enough steel plates to cover the overwhelming majority of the user's body. Its immense protection comes with a drawback: its immense weight and incumberence for all but strong users.",
+  "context": "ID: sgs_metal_armor\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_metal_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_metal_armor",
+  "stage": 1
+ },
+ {
+  "key": "5cdae0fdf9698d0f2ff1c42c56e76eab",
+  "original": "Nosalises are the standard enemy of the metro. They are fierce predators, extremely territorial, and can easily overwhelm fortified positions in large numbers. Common between all types however, is a bipedal and humanoid shape with two arms and legs, arched spines, and large round heads that prominently display big noses, gaping jaws, and huge teeth. Their nests are seemingly everywhere in the metro, but the creatures are less frequently seen on the surface.",
+  "translation": "Nosalises are the standard enemy of the metro. They are fierce predators, extremely territorial, and can easily overwhelm fortified positions in large numbers. Common between all types however, is a bipedal and humanoid shape with two arms and legs, arched spines, and large round heads that prominently display big noses, gaping jaws, and huge teeth. Their nests are seemingly everywhere in the metro, but the creatures are less frequently seen on the surface.",
+  "context": "ID: mon_metro_nosalis\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_metro_nosalis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_metro_nosalis",
+  "stage": 1
+ },
+ {
+  "key": "f0f0f731f40ed39cb6daf70916d85bce",
+  "original": "Now change my relationship with South Gate Station.",
+  "translation": "Now change my relationship with South Gate Station.",
+  "context": "ID: TALK_REICH_TICKETFAC_E1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_reich_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REICH_TICKETFAC_E1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REICH_TICKETFAC_E1",
+  "stage": 1
+ },
+ {
+  "key": "918de99bdfb2abfc0a29d75e4e7fcd16",
+  "original": "Now change my relationship with the Red Line.",
+  "translation": "Now change my relationship with the Red Line.",
+  "context": "ID: TALK_SGS_TICKETFAC_E1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETFAC_E1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETFAC_E1",
+  "stage": 1
+ },
+ {
+  "key": "be43ae7b5f2a4be334edf2b8c2dd66f6",
+  "original": "Now go away",
+  "translation": "Now go away",
+  "context": "ID: TALK_SGS_TICKETDEATH\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETDEATH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETDEATH",
+  "stage": 1
+ },
+ {
+  "key": "43d22bf5484077c08a286a7ae2c7f5e5",
+  "original": "Okay, jeez.",
+  "translation": "Okay, jeez.",
+  "context": "ID: TALK_sgs_pipe_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_go",
+  "stage": 1
+ },
+ {
+  "key": "d806c9dfd336e5288f5a46041336aef3",
+  "original": "Ouch, I guess people are gonna have to get used to cave hopper burgers for a long while.",
+  "translation": "Ouch, I guess people are gonna have to get used to cave hopper burgers for a long while.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "70a934513d1265f8cce0b10ec8923bd2",
+  "original": "Pipeworker",
+  "translation": "Pipeworker",
+  "context": "ID: sgs_pipeworker\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_pipeworker.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_pipeworker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_pipeworker",
+  "stage": 1
+ },
+ {
+  "key": "1a2b0308955dc5ec6915b1eafd1a230c",
+  "original": "Proceed.",
+  "translation": "Proceed.",
+  "context": "ID: TALK_SGS_TICKETFAC_G1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETFAC_G1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETFAC_G1",
+  "stage": 1
+ },
+ {
+  "key": "02eb8338063035fb159de3ecca758226",
+  "original": "Red Line",
+  "translation": "Red Line",
+  "context": "ID: fac_metred\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_metred\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_metred",
+  "stage": 1
+ },
+ {
+  "key": "49c0f68aea468d70face4e798b8c737e",
+  "original": "Red Line Civilian",
+  "translation": "Red Line Civilian",
+  "context": "ID: red_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→red_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=red_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "6878124d5e603783d477108eb1dc78d0",
+  "original": "Red Line Merchant",
+  "translation": "Red Line Merchant",
+  "context": "ID: metro_gunred_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_redmerchant.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→metro_gunred_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_gunred_merchant",
+  "stage": 1
+ },
+ {
+  "key": "db8d56db0df5d3dbf4594b9c43ebd944",
+  "original": "Red Line Officer",
+  "translation": "Red Line Officer",
+  "context": "ID: met_redofficer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_redofficer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_redofficer_p",
+  "stage": 1
+ },
+ {
+  "key": "267451a686ecf628c82ba7a02aabbb60",
+  "original": "Red Line Officer Card",
+  "translation": "Red Line Officer Card",
+  "context": "ID: metro_red_card\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/red_talk_spawncard.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→metro_red_card\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_red_card",
+  "stage": 1
+ },
+ {
+  "key": "f0ffd4c7a778fc8fa6e4f4cf9d0c6da0",
+  "original": "Red Line Resident",
+  "translation": "Red Line Resident",
+  "context": "ID: sgs_red_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_red_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_red_start",
+  "stage": 1
+ },
+ {
+  "key": "4595d10b3538989f47db17160a7885a5",
+  "original": "Red Line Soldier",
+  "translation": "Red Line Soldier",
+  "context": "ID: met_redsoldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_redsoldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_redsoldier_p",
+  "stage": 1
+ },
+ {
+  "key": "c2e0880871a3e09e90b8b605ac7c9f5a",
+  "original": "Red Line Station",
+  "translation": "Red Line Station",
+  "context": "ID: met_redline\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/startlocation.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→start_location→met_redline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_redline",
+  "stage": 1
+ },
+ {
+  "key": "8331ca9b10f55f9e5d4aa994b74d1de0",
+  "original": "Red Line Ushanka",
+  "translation": "Red Line Ushanka",
+  "context": "ID: metro_redfur\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redfur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redfur",
+  "stage": 1
+ },
+ {
+  "key": "c71670a7f408ed591bd4536182c7c9ca",
+  "original": "Red Line combat vest",
+  "translation": "Red Line combat vest",
+  "context": "ID: metro_redvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redvest",
+  "stage": 1
+ },
+ {
+  "key": "b45e2bacf2d2b89f4a43812b89507ef5",
+  "original": "Red Line faction change device",
+  "translation": "Red Line faction change device",
+  "context": "ID: red_idticketcard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/red_factionchange.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→red_idticketcard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=red_idticketcard",
+  "stage": 1
+ },
+ {
+  "key": "994dcf0351a4b2cf0913803891686cf3",
+  "original": "Red Line station",
+  "translation": "Red Line station",
+  "context": "ID: METRO_REDLINES_1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/Metro_map/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→overmap_terrain→METRO_REDLINES_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=METRO_REDLINES_1",
+  "stage": 1
+ },
+ {
+  "key": "6925feba80035d142386d14655828787",
+  "original": "Reich Civilian",
+  "translation": "Reich Civilian",
+  "context": "ID: reich_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→reich_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reich_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "289523532a3f98ba8ab012ba5f727e11",
+  "original": "Reich Doctor",
+  "translation": "Reich Doctor",
+  "context": "ID: metro_doc_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_doctor.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→metro_doc_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_doc_merchant",
+  "stage": 1
+ },
+ {
+  "key": "744b77bf717d1dda0e4e3b64e32b46cd",
+  "original": "Reich Heavy Soldier",
+  "translation": "Reich Heavy Soldier",
+  "context": "ID: metro_reichheavy\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_reichheavy.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→metro_reichheavy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_reichheavy",
+  "stage": 1
+ },
+ {
+  "key": "eb55f8c7e2d37bfd82f1afa5b17f449a",
+  "original": "Reich Merchant",
+  "translation": "Reich Merchant",
+  "context": "ID: metro_gunreich_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_reichmerchant.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→metro_gunreich_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_gunreich_merchant",
+  "stage": 1
+ },
+ {
+  "key": "38ca3c6686ba24ef8c30653c53744f24",
+  "original": "Reich Officer",
+  "translation": "Reich Officer",
+  "context": "ID: met_reichofficer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_reichofficer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_reichofficer_p",
+  "stage": 1
+ },
+ {
+  "key": "62a3db31cd2d4530293d076f85c44c40",
+  "original": "Reich Officer Card",
+  "translation": "Reich Officer Card",
+  "context": "ID: metro_reich_card\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/reich_talk_spawncard.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→metro_reich_card\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_reich_card",
+  "stage": 1
+ },
+ {
+  "key": "57224c7e2a01f02a5256f800cf3bf7d0",
+  "original": "Reich Soldier",
+  "translation": "Reich Soldier",
+  "context": "ID: met_reichsoldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_reichsoldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_reichsoldier_p",
+  "stage": 1
+ },
+ {
+  "key": "041a812d0aadccfcda4aeaef48d0e83a",
+  "original": "Reich Stahlhelm",
+  "translation": "Reich Stahlhelm",
+  "context": "ID: metro_nsmhelmet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_nsmhelmet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_nsmhelmet",
+  "stage": 1
+ },
+ {
+  "key": "95c750b713d81343303ed4fca16697d2",
+  "original": "Reich Station",
+  "translation": "Reich Station",
+  "context": "ID: METRO_NSMS1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/Metro_map/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→overmap_terrain→METRO_NSMS1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=METRO_NSMS1",
+  "stage": 1
+ },
+ {
+  "key": "b1f75e658ec56b42d0491357a9781cae",
+  "original": "Remember, Psibugs can induce a state of fear in their targets, please be careful.",
+  "translation": "Remember, Psibugs can induce a state of fear in their targets, please be careful.",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "0f21ab1f2b12c12dd819c418fbc612d2",
+  "original": "Resources are tight, but we have more stuff than the reich. That much I can say with certainty.",
+  "translation": "Resources are tight，but we have more stuff than the reich. That much I can say with certainty.",
+  "context": "ID: TALK_REDGUN_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_redmerchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_REDGUN_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REDGUN_infotown",
+  "stage": 1
+ },
+ {
+  "key": "155e0f46e1d26d8a1210c76c6bc7b8ac",
+  "original": "Resources are tight, but we're better equipped than the reds. That much I can say with certainty.",
+  "translation": "Resources are tight，but we're better equipped than the reds. That much I can say with certainty.",
+  "context": "ID: TALK_RECGUN_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_reichmerchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_RECGUN_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_RECGUN_infotown",
+  "stage": 1
+ },
+ {
+  "key": "0654bacd6d1e310ae65fc1ad34eef1e9",
+  "original": "Retrieve a copy of Cooking on a Budget.",
+  "translation": "Retrieve a copy of Cooking on a Budget.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "a8d6636bd9a4bff2ed33feb5c45547b2",
+  "original": "Retrieve a syringe of adrenaline.",
+  "translation": "Retrieve a syringe of adrenaline.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "3be15b953aa88e26248d46081655134c",
+  "original": "Retrieve two firearm repair kits for the Gun Merchant.",
+  "translation": "Retrieve two firearm repair kits for the Gun Merchant.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "be266dedb6a4fbcec6a69464d399117a",
+  "original": "See you later.",
+  "translation": "后会有期！",
+  "context": "ID: TALK_SGSGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_Town"
+ },
+ {
+  "key": "108295afda2297e1a8c0bd544fa08c99",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. After becoming a guard, you worked your up through the ranks of SGS until you became a heavy trooper.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. After becoming a guard, you worked your up through the ranks of SGS until you became a heavy trooper.",
+  "context": "ID: sgs_heavy_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_heavy_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_heavy_p",
+  "stage": 1
+ },
+ {
+  "key": "8b7db227bf020c93595dbb43c7ece318",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. After becoming a guard, you worked your up through the ranks of SGS until you became a soldier.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. After becoming a guard, you worked your up through the ranks of SGS until you became a soldier.",
+  "context": "ID: sgs_soldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_soldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_soldier_p",
+  "stage": 1
+ },
+ {
+  "key": "16144df162c457253a3d7ca2edb661b0",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you, and you soon enlisted as a guard defending the frontiers of SGS against the hidden terrors of the Underrail.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you, and you soon enlisted as a guard defending the frontiers of SGS against the hidden terrors of the Underrail.",
+  "context": "ID: sgs_guard_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_guard_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_guard_p",
+  "stage": 1
+ },
+ {
+  "key": "f672edb16042cf6ec0950b6f85e488e1",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you.",
+  "context": "ID: sgs_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "928e618c5304e30a44239f6a836fd24e",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you. After witnessing line upon line of code in the various consoles of SGS, you began to see a rythm to the apparently madness of programming. You became a well-respected member of South Gate Station's IT department.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you. After witnessing line upon line of code in the various consoles of SGS, you began to see a rythm to the apparently madness of programming. You became a well-respected member of South Gate Station's IT department.",
+  "context": "ID: sgs_computer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_computer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_computer_p",
+  "stage": 1
+ },
+ {
+  "key": "4af9d2ce1d6d25564903dd4498c874a6",
+  "original": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you. You had a natural aptitude for various mechanical and life support systems for South Gate Station, and took up training as a technician.",
+  "translation": "Seeking refuge away from the maelstrom of pain that is the New England surface world, you decided to gain citizenship as a member of South Gate Station. Amazingly, they actually accepted you. You had a natural aptitude for various mechanical and life support systems for South Gate Station, and took up training as a technician.",
+  "context": "ID: sgs_tech_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_tech_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_tech_p",
+  "stage": 1
+ },
+ {
+  "key": "d756a8372e3c82c7a6936fdd0382a41a",
+  "original": "Serving the Reich can be tedious at times, very, very, very tedious. Sometimes I really do doubt myself, but the prospect of giving up when those red bastards are still out there is too much to bear.",
+  "translation": "Serving the Reich can be tedious at times，very，very，very tedious. Sometimes I really do doubt myself，but the prospect of giving up when those red bastards are still out there is too much to bear.",
+  "context": "ID: TALK_METDOC_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_METDOC_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_METDOC_infotown",
+  "stage": 1
+ },
+ {
+  "key": "d92663635ae664e8aeaea769c9461661",
+  "original": "So the infestation isn't being dealt with?",
+  "translation": "So the infestation isn't being dealt with?",
+  "context": "ID: MISSION_SGS_ADMINKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINKILL",
+  "stage": 1
+ },
+ {
+  "key": "57d2dfbf965a3450d7c59d07283ad089",
+  "original": "So you're an officer in the Reich? What's that like",
+  "translation": "So you're an officer in the Reich? What's that like",
+  "context": "ID: TALK_reich_off_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichofficer.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_off_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_off_start",
+  "stage": 1
+ },
+ {
+  "key": "1eea70fa7aaf9ec340303fd9ae62fc8b",
+  "original": "Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail beneath New England.",
+  "translation": "Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail beneath New England.",
+  "context": "ID: sgs_station_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_station_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_station_start",
+  "stage": 1
+ },
+ {
+  "key": "887f8a1ceb43e4b9063e469ed9123b01",
+  "original": "South Gate Civilian",
+  "translation": "South Gate Civilian",
+  "context": "ID: sgs_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "14ea46224bee29dcf0b73c2d63d2ea95",
+  "original": "South Gate Computer Technician",
+  "translation": "South Gate Computer Technician",
+  "context": "ID: sgs_computer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_computer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_computer_p",
+  "stage": 1
+ },
+ {
+  "key": "3f22d0752c1334f096ef7604825d042d",
+  "original": "South Gate Cook",
+  "translation": "South Gate Cook",
+  "context": "ID: sgs_cook_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_cook_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_cook_merchant",
+  "stage": 1
+ },
+ {
+  "key": "d205750e5a080f14b036b4055f8cd438",
+  "original": "South Gate Councilor",
+  "translation": "South Gate Councilor",
+  "context": "ID: sgs_administrator\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_administrator.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_administrator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_administrator",
+  "stage": 1
+ },
+ {
+  "key": "87f0432c23d79944c0ba03a6f1ec1e1e",
+  "original": "South Gate Doctor",
+  "translation": "South Gate Doctor",
+  "context": "ID: sgs_doc_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_doc_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_doc_merchant",
+  "stage": 1
+ },
+ {
+  "key": "c005b1b72085c5a420ad9b75d4498f12",
+  "original": "South Gate Guard",
+  "translation": "South Gate Guard",
+  "context": "ID: sgs_guard_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_guard_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_guard_p",
+  "stage": 1
+ },
+ {
+  "key": "85a4ea0f28d5f3b2db35002993dbfdc2",
+  "original": "South Gate Gun Merchant",
+  "translation": "South Gate Gun Merchant",
+  "context": "ID: sgs_gun_merchant\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_gun_merchant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_gun_merchant",
+  "stage": 1
+ },
+ {
+  "key": "e0ca01eff95913fd529f57b2f12af2df",
+  "original": "South Gate Heavy Guard",
+  "translation": "South Gate Heavy Guard",
+  "context": "ID: sgs_heavy_guard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_heavy_guard.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_heavy_guard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_heavy_guard",
+  "stage": 1
+ },
+ {
+  "key": "944c79d334fb2c1aa7856adccecbfc1d",
+  "original": "South Gate Heavy Soldier",
+  "translation": "South Gate Heavy Soldier",
+  "context": "ID: sgs_heavy_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_heavy_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_heavy_p",
+  "stage": 1
+ },
+ {
+  "key": "6b82c7871af1fd22372af0543142aa30",
+  "original": "South Gate Junker",
+  "translation": "South Gate Junker",
+  "context": "ID: sgs_crossbow_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_crossbow_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_crossbow_p",
+  "stage": 1
+ },
+ {
+  "key": "b0d4dfa4df2e3722345f1b709b25b175",
+  "original": "South Gate Outpost",
+  "translation": "South Gate Outpost",
+  "context": "ID: SGS_STATIONPOST1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/SGS_maps/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→overmap_terrain→SGS_STATIONPOST1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SGS_STATIONPOST1",
+  "stage": 1
+ },
+ {
+  "key": "9d13372066980710ff24b48548b666bd",
+  "original": "South Gate Resident",
+  "translation": "South Gate Resident",
+  "context": "ID: sgs_station_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_station_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_station_start",
+  "stage": 1
+ },
+ {
+  "key": "dfda8abebce6b8ba8c9e46bbc3b29162",
+  "original": "South Gate Soldier",
+  "translation": "South Gate Soldier",
+  "context": "ID: sgs_soldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_soldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_soldier_p",
+  "stage": 1
+ },
+ {
+  "key": "d5d9976b1f7f6ac9d3778f0b0b3adad1",
+  "original": "South Gate Stalker",
+  "translation": "South Gate Stalker",
+  "context": "ID: sgs_aug_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_aug_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_aug_p",
+  "stage": 1
+ },
+ {
+  "key": "a0c64ab58b94de246eb2c051717a2178",
+  "original": "South Gate Station",
+  "translation": "South Gate Station",
+  "context": "ID: fac_southgate\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_southgate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_southgate",
+  "stage": 1
+ },
+ {
+  "key": "8d9a151c054312764329c77b4c6546ec",
+  "original": "South Gate Station Security Uniform",
+  "translation": "South Gate Station Security Uniform",
+  "context": "ID: sgs_jacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_jacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jacket",
+  "stage": 1
+ },
+ {
+  "key": "d314b55670b16d443e2a667692fc6b69",
+  "original": "South Gate Station credit chit",
+  "translation": "South Gate Station credit chit",
+  "context": "ID: sgs_credit\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs_credit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_credit",
+  "stage": 1
+ },
+ {
+  "key": "759bea3ffc87d4821f771ca7033ff5d7",
+  "original": "South Gate Station is led primarily by councilors. We are a small number of people that comprise the ruling council of South Gate Station. Without our guidance, the administration, engineering, life support, trade and security of the entire SGS complex would probably fall into disarray.",
+  "translation": "South Gate Station is led primarily by councilors. We are a small number of people that comprise the ruling council of South Gate Station. Without our guidance, the administration, engineering, life support, trade and security of the entire SGS complex would probably fall into disarray.",
+  "context": "ID: TALK_sgs_adm_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_adm_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_adm_go",
+  "stage": 1
+ },
+ {
+  "key": "e07d398103188bdae4cf80b7c60262d0",
+  "original": "South Gate Station is made safer by your efforts. Here, take these items as a reward",
+  "translation": "South Gate Station is made safer by your efforts. Here, take these items as a reward",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL",
+  "stage": 1
+ },
+ {
+  "key": "223545be81d780a56d07000e870c4a43",
+  "original": "South Gate Station security vest",
+  "translation": "South Gate Station security vest",
+  "context": "ID: sgs_secvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_secvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_secvest",
+  "stage": 1
+ },
+ {
+  "key": "fa8c6caf7ee2722da2b705d9c29485f8",
+  "original": "South Gate Technician",
+  "translation": "South Gate Technician",
+  "context": "ID: sgs_tech_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_tech_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_tech_p",
+  "stage": 1
+ },
+ {
+  "key": "e36052560637ee6b2cbcbd8c61cf17b8",
+  "original": "South Gate faction change device",
+  "translation": "South Gate faction change device",
+  "context": "ID: sgs_idticketcard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/sgs_factionchange.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_idticketcard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_idticketcard",
+  "stage": 1
+ },
+ {
+  "key": "18d6d325d667d6899d107ae1487a2efb",
+  "original": "South Gate is an autonomous community and not a member of United Stations, but could become its first member in south Underrail. It is the most powerful station in the entire south Lower Underrail.",
+  "translation": "South Gate is an autonomous community and not a member of United Stations, but could become its first member in south Underrail. It is the most powerful station in the entire south Lower Underrail.",
+  "context": "ID: fac_southgate\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_southgate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_southgate",
+  "stage": 1
+ },
+ {
+  "key": "da02dd1e37cfda2bd19d3c2d752f8316",
+  "original": "South Gate laser pistol",
+  "translation": "South Gate laser pistol",
+  "context": "ID: sgs_laspistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_laspistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_laspistol",
+  "stage": 1
+ },
+ {
+  "key": "c294a86e97b969e31d3c0cdb9149228a",
+  "original": "Soviet flag",
+  "translation": "Soviet flag",
+  "context": "ID: metro_redflag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redflag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redflag",
+  "stage": 1
+ },
+ {
+  "key": "a983bf5e055dd8c3063994141a014577",
+  "original": "Standard acid charge",
+  "translation": "Standard acid charge",
+  "context": "ID: sgs_acid_b\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ammunition_type→sgs_acid_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_b",
+  "stage": 1
+ },
+ {
+  "key": "0b4528d641abc54fdc4b9b7025c7551e",
+  "original": "Stash ammo",
+  "translation": "存储弹药",
+  "context": "ID: sgs_secvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_secvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_secvest"
+ },
+ {
+  "key": "dfb9bd3489167a2682cbe857e7d1fccd",
+  "original": "Steel Cat 8.6mm",
+  "translation": "Steel Cat 8.6mm",
+  "context": "ID: sgs_steelcat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_steelcat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_steelcat",
+  "stage": 1
+ },
+ {
+  "key": "194f375ac4d334ab0269ab0b27c7d144",
+  "original": "Steel Cat extended magazine",
+  "translation": "Steel Cat extended magazine",
+  "context": "ID: steelcatbigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→steelcatbigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steelcatbigmag",
+  "stage": 1
+ },
+ {
+  "key": "a7ad9be1cd95e27a973054a6f2148d6c",
+  "original": "Steel Cat magazine",
+  "translation": "Steel Cat magazine",
+  "context": "ID: steelcatmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→steelcatmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=steelcatmag",
+  "stage": 1
+ },
+ {
+  "key": "bc484804d4a3e47b55d460a4e8965a81",
+  "original": "Thanks for accepting my offer.",
+  "translation": "Thanks for accepting my offer.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "7be4cf6bb7fc58bd9ad0256de17b476e",
+  "original": "Thanks for the info.",
+  "translation": "Thanks for the info.",
+  "context": "ID: TALK_sgs_guard_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_guardnpc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_guard_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_guard_go",
+  "stage": 1
+ },
+ {
+  "key": "8941a638e18b810d268886d5d2611a01",
+  "original": "That's odd, I don't really know what to say.",
+  "translation": "That's odd，I don't really know what to say.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM"
+ },
+ {
+  "key": "c9d1b90f9a7c8cb369fe98135310a168",
+  "original": "That's unfortunate, but I guess I'll have to find some way to make things work out.",
+  "translation": "That's unfortunate, but I guess I'll have to find some way to make things work out.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "623273835e2541074897ab8459a175bd",
+  "original": "That's unfortunate.",
+  "translation": "That's unfortunate.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "909638630a835aafd8976d96b1861242",
+  "original": "The Bastard was one of the first Metro-made weapons. It is considerably cheaper to make and maintain than other guns, needing relatively few parts to create, making it ideal for weaponsmiths with few resources. This gun, like most, has its ups and downs. It has a high rate of fire and holds 30 rounds of ammunition, but fares poorly for sniping due to very poor accuracy beyond a few yards.",
+  "translation": "The Bastard was one of the first Metro-made weapons. It is considerably cheaper to make and maintain than other guns, needing relatively few parts to create, making it ideal for weaponsmiths with few resources. This gun, like most, has its ups and downs. It has a high rate of fire and holds 30 rounds of ammunition, but fares poorly for sniping due to very poor accuracy beyond a few yards.",
+  "context": "ID: metro_bastard\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_bastard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_bastard",
+  "stage": 1
+ },
+ {
+  "key": "d91c46b676f3b46f6f8df6558d766330",
+  "original": "The Hornet is a protectorate assault rifle that uses a bullpup design.  It is often seen as the long arm of the protectorate, although is also popular with other civilized stations, such as South Gate.",
+  "translation": "The Hornet is a protectorate assault rifle that uses a bullpup design.  It is often seen as the long arm of the protectorate, although is also popular with other civilized stations, such as South Gate.",
+  "context": "ID: sgs_hornet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_hornet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_hornet",
+  "stage": 1
+ },
+ {
+  "key": "de7806bb1ebad0e8de74c58f57297b5b",
+  "original": "The Lolife is a metro-made semi-automatic handgun with a standard eight-round magazine chambered in .44 Magnum. As the Lolife is a metro-made weapon, it has very little known history. It appears that Lolife has been produced since at least 2023.",
+  "translation": "The Lolife is a metro-made semi-automatic handgun with a standard eight-round magazine chambered in .44 Magnum. As the Lolife is a metro-made weapon, it has very little known history. It appears that Lolife has been produced since at least 2023.",
+  "context": "ID: metro_lolife_pistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_lolife_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_lolife_pistol",
+  "stage": 1
+ },
+ {
+  "key": "fb33b8827ef87b5a59df650d71c0b853",
+  "original": "The Marauder is a core-city assault rifle that uses a bullpup design.  It is often seen in use among the private security groups that essentially serve as private armies.",
+  "translation": "The Marauder is a core-city assault rifle that uses a bullpup design.  It is often seen in use among the private security groups that essentially serve as private armies.",
+  "context": "ID: sgs_marauder\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_marauder\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_marauder",
+  "stage": 1
+ },
+ {
+  "key": "aba88cc3c4dd1518fbb67615aada8bb2",
+  "original": "The Nazis are a fascist faction in the Metro centred around several stations which they dub The Reich. However, they maintain numerous outposts and a military presence in several outlying stations, possibly in an attempt at expansion since the Nazis are an imperialist faction.",
+  "translation": "The Nazis are a fascist faction in the Metro centred around several stations which they dub The Reich. However, they maintain numerous outposts and a military presence in several outlying stations, possibly in an attempt at expansion since the Nazis are an imperialist faction.",
+  "context": "ID: fac_metreich\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_metreich\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_metreich",
+  "stage": 1
+ },
+ {
+  "key": "465ab3723a0b4ea1b0f48abcef82bb15",
+  "original": "The Steel Cat is one of the most widely-used submachine guns in the entire underrail, and has been adopted by special forces and general security alike.",
+  "translation": "The Steel Cat is one of the most widely-used submachine guns in the entire underrail, and has been adopted by special forces and general security alike.",
+  "context": "ID: sgs_steelcat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_steelcat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_steelcat",
+  "stage": 1
+ },
+ {
+  "key": "bc201c5552e5fe03af73ad2f835944b7",
+  "original": "The jacrabbit is well deserving of its namesake. As far as SMGs go, its very rapid, albeit uncontrollable for inexperienced users.",
+  "translation": "The jacrabbit is well deserving of its namesake. As far as SMGs go, its very rapid, albeit uncontrollable for inexperienced users.",
+  "context": "ID: sgs_jackrabbit\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_smg.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_jackrabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jackrabbit",
+  "stage": 1
+ },
+ {
+  "key": "0c24a68c13a97882636663a13d175842",
+  "original": "The only hat for a man of the proletarian revolution. Shoot dissidents, reich fascists, dissidents and fascist dissidents disguised as civilians, and look great doing it!",
+  "translation": "The only hat for a man of the proletarian revolution. Shoot dissidents, reich fascists, dissidents and fascist dissidents disguised as civilians, and look great doing it!",
+  "context": "ID: metro_redhat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redhat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redhat",
+  "stage": 1
+ },
+ {
+  "key": "8b8aae8ce1550645865b083c9494703f",
+  "original": "The process is complete.",
+  "translation": "The process is complete.",
+  "context": "ID: TALK_SGS_TICKETDEATH\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/ticketcards/Faction Change/talk_sgs_factioncharge.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGS_TICKETDEATH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGS_TICKETDEATH",
+  "stage": 1
+ },
+ {
+  "key": "a1b3aa419da3a255404bd7c1934bf92f",
+  "original": "The standard and uniformly dull blue uniform worn by most members of the South Gate Station security detail. Often associated with bravery, or a quick death.",
+  "translation": "The standard and uniformly dull blue uniform worn by most members of the South Gate Station security detail. Often associated with bravery, or a quick death.",
+  "context": "ID: sgs_jacket\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_jacket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_jacket",
+  "stage": 1
+ },
+ {
+  "key": "7f21e6161f6bdca1b081323c407616ef",
+  "original": "There is no higher honor than to serve as a soldier of the Reich against the hated reds. Our enemies are many, but they are all beneath us. Soon, all the stations of the metro will be within our grasp, just you wait!",
+  "translation": "There is no higher honor than to serve as a soldier of the Reich against the hated reds. Our enemies are many, but they are all beneath us. Soon, all the stations of the metro will be within our grasp, just you wait!",
+  "context": "ID: TALK_metro_reichsoldier_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichsoldier.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_metro_reichsoldier_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_metro_reichsoldier_go",
+  "stage": 1
+ },
+ {
+  "key": "64653f77016f85fd7b39f35cb89923c3",
+  "original": "Things can get pretty rough at times. I don't know what's worse, the nosalises that threaten us outside the metro, or the commissars breathing down our necks. I guess it's better than being dead, though.",
+  "translation": "Things can get pretty rough at times. I don't know what's worse, the nosalises that threaten us outside the metro, or the commissars breathing down our necks. I guess it's better than being dead, though.",
+  "context": "ID: TALK_red_civ_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_redciv.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_red_civ_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_red_civ_go",
+  "stage": 1
+ },
+ {
+  "key": "6a0cd2ee8fd19dc888985ce84679937e",
+  "original": "This is a combat knife common to the underrail.  It is light and extremely sharp, and could be deadly in either the right hands or when attached as a bayonet. This version has been outfitted with electrodes, allowing the user to shock their target before going in for a stab.",
+  "translation": "This is a combat knife common to the underrail.  It is light and extremely sharp, and could be deadly in either the right hands or when attached as a bayonet. This version has been outfitted with electrodes, allowing the user to shock their target before going in for a stab.",
+  "context": "ID: sgs_knife_combat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_knife_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_knife_combat",
+  "stage": 1
+ },
+ {
+  "key": "db1ce6fabddc4250d324cbcddf1a6231",
+  "original": "This model of laser pistol is one of a rare type in the underail. Most denizens of the underrail are more than content to meet their death at the hands of a firearm, but few are ready for a laser weapon!",
+  "translation": "This model of laser pistol is one of a rare type in the underail. Most denizens of the underrail are more than content to meet their death at the hands of a firearm, but few are ready for a laser weapon!",
+  "context": "ID: sgs_laspistol\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_pistols.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_laspistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_laspistol",
+  "stage": 1
+ },
+ {
+  "key": "c7a18b1e9c3c28a61d472deb3dfc70e6",
+  "original": "Underrail Cave",
+  "translation": "Underrail Cave",
+  "context": "ID: SGS_CAVE1\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/SGS_maps/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→overmap_terrain→SGS_CAVE1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SGS_CAVE1",
+  "stage": 1
+ },
+ {
+  "key": "f5b59bb50550ef4b9a8c1441fb9e3888",
+  "original": "Underrail Malcontents",
+  "translation": "Underrail Malcontents",
+  "context": "ID: fac_undergang\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_undergang\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_undergang",
+  "stage": 1
+ },
+ {
+  "key": "406fc231c7f423de151367f242ec092f",
+  "original": "Underrail Metal Armor",
+  "translation": "Underrail Metal Armor",
+  "context": "ID: sgs_metal_armor\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_metal_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_metal_armor",
+  "stage": 1
+ },
+ {
+  "key": "9efa9c5797f81b01c2e6cc0c863232e2",
+  "original": "Underrail bandit",
+  "translation": "Underrail bandit",
+  "context": "ID: sgs_bandit\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_bandit.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→npc→sgs_bandit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_bandit",
+  "stage": 1
+ },
+ {
+  "key": "cde87ba901ef577752922791e17c3186",
+  "original": "Underrail metal helmet",
+  "translation": "Underrail metal helmet",
+  "context": "ID: sgs_metal_helmet\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_metal_helmet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_metal_helmet",
+  "stage": 1
+ },
+ {
+  "key": "2c34d0845a9641ab14e795645b557779",
+  "original": "UnderrailMetro Mod",
+  "translation": "UnderrailMetro Mod",
+  "context": "ID: underrailmetro_mod\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MOD_INFO→underrailmetro_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=underrailmetro_mod",
+  "stage": 1
+ },
+ {
+  "key": "7260fb98c384e2c8956e615867375787",
+  "original": "Unlike most of the metro, things are pretty clean here. The rules are a bit too harsh at times though, and I'm often a bit fearful of the officers around here. It's hard to parse fact from fiction when it comes to this war with the reds.",
+  "translation": "Unlike most of the metro, things are pretty clean here. The rules are a bit too harsh at times though, and I'm often a bit fearful of the officers around here. It's hard to parse fact from fiction when it comes to this war with the reds.",
+  "context": "ID: TALK_reich_civ_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichciv.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_civ_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_civ_go",
+  "stage": 1
+ },
+ {
+  "key": "90b5901b957210b786b91c6e8f3904a4",
+  "original": "Want to travel with me?",
+  "translation": "[组队]与我同行吧，如何？",
+  "context": "ID: TALK_sgs_pipe_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_start"
+ },
+ {
+  "key": "27c12fa0e6bc9a9baea55a5d8e5f5146",
+  "original": "Well, you did what you could. It's just that food will be as bland as ever.",
+  "translation": "Well，you did what you could. It's just that food will be as bland as ever.",
+  "context": "ID: MISSION_GET_SGS_COOK_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_COOK_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_COOK_ITEM"
+ },
+ {
+  "key": "7cf20f8d202f0dbe31e74037312856ef",
+  "original": "Well, you did what you could. It's just that things will get more difficult fron now on.",
+  "translation": "Well, you did what you could. It's just that things will get more difficult fron now on.",
+  "context": "ID: MISSION_GET_SGS_GUN_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_GUN_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_GUN_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "e45393176224c302ee828e37b6d6f727",
+  "original": "Well, you did what you could. but it's unfortunate that we'll be lacking adrenaline.",
+  "translation": "Well, you did what you could. but it's unfortunate that we'll be lacking adrenaline.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "864d5602eaa951e5c0fca74cbb322d99",
+  "original": "What are you buying, what are you selling?",
+  "translation": "What are you buying，what are you selling？",
+  "context": "ID: TALK_SGSGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_Town"
+ },
+ {
+  "key": "fe7874a433644215addb0c1759835fc7",
+  "original": "What do you want, why are you speaking to me anyway, girl?",
+  "translation": "What do you want, why are you speaking to me anyway, girl?",
+  "context": "ID: TALK_sgs_bandit_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_bandit.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_bandit_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_bandit_start",
+  "stage": 1
+ },
+ {
+  "key": "8905a25285f2e265137e82b10d0f4fd6",
+  "original": "What do you want, why are you speaking to me anyway?",
+  "translation": "What do you want, why are you speaking to me anyway?",
+  "context": "ID: TALK_sgs_bandit_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_bandit.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_bandit_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_bandit_start",
+  "stage": 1
+ },
+ {
+  "key": "71fca948afe12e88fb69eaf73bb5db55",
+  "original": "What good does this do us?",
+  "translation": "你这样做对我们有什么好处？",
+  "context": "ID: MISSION_SGS_ADMINBANKILL\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_admin.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_SGS_ADMINBANKILL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SGS_ADMINBANKILL"
+ },
+ {
+  "key": "fe75ff5b488d1c2810284074a921fe37",
+  "original": "What is it like being a cook in this station?",
+  "translation": "What is it like being a cook in this station？",
+  "context": "ID: TALK_SGSCOOK_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_cook.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSCOOK_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSCOOK_Town"
+ },
+ {
+  "key": "1fc393a36f243f9d5782e21191f21639",
+  "original": "What is it like being a doctor in this metro?",
+  "translation": "What is it like being a doctor in this metro？",
+  "context": "ID: TALK_METDOC_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/metro_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_METDOC_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_METDOC_Town",
+  "stage": 1
+ },
+ {
+  "key": "0e26f71331e43f9c190cacee4a185fd9",
+  "original": "What is it like being a doctor in this station?",
+  "translation": "What is it like being a doctor in this station？",
+  "context": "ID: TALK_SGSDOC_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSDOC_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSDOC_Town"
+ },
+ {
+  "key": "005718163a09e075d462ad528b169a84",
+  "original": "What is it like being a gun merchant around here?",
+  "translation": "What is it like being a gun merchant around here？",
+  "context": "ID: TALK_SGSGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_Town"
+ },
+ {
+  "key": "d5836bab193a1abc43dbafebe1223d67",
+  "original": "What is there to say really? It's far better than getting mauled to death by whatever exists outside or on the surface world. Food is somewhat plentiful, and things are clean.",
+  "translation": "What is there to say really? It's far better than getting mauled to death by whatever exists outside or on the surface world. Food is somewhat plentiful, and things are clean.",
+  "context": "ID: TALK_sgs_civ_go\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_civ.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_civ_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_civ_go",
+  "stage": 1
+ },
+ {
+  "key": "db5836984781a41d1b7e1ea3f8479766",
+  "original": "What's it like being a ruthless bandit, do you get the kill people often?",
+  "translation": "What's it like being a ruthless bandit, do you get the kill people often?",
+  "context": "ID: TALK_sgs_bandit_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_bandit.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_bandit_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_bandit_start",
+  "stage": 1
+ },
+ {
+  "key": "c4be1ba7b797499d9d059dc70f5ff700",
+  "original": "What's it like living as member of South Gate Station?",
+  "translation": "What's it like living as member of South Gate Station?",
+  "context": "ID: TALK_sgs_civ_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_civ.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_civ_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_civ_start",
+  "stage": 1
+ },
+ {
+  "key": "35e9b6d41c1d2eefcfe16fc3259810eb",
+  "original": "What's it like living as member of the Red Line?",
+  "translation": "What's it like living as member of the Red Line?",
+  "context": "ID: TALK_red_civ_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_redciv.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_red_civ_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_red_civ_start",
+  "stage": 1
+ },
+ {
+  "key": "cb1588070812ef4f8cb257d4a8cfebd4",
+  "original": "What's it like living in the Reich?",
+  "translation": "What's it like living in the Reich?",
+  "context": "ID: TALK_reich_civ_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/NPCs/Talk_metro_reichciv.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_reich_civ_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_reich_civ_start",
+  "stage": 1
+ },
+ {
+  "key": "b812a8e843324a03e3839b46be720363",
+  "original": "What's your deal anyway, buddy?",
+  "translation": "What's your deal anyway, buddy?",
+  "context": "ID: TALK_sgs_pipe_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/Talk_sgs_pipe.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_sgs_pipe_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_sgs_pipe_start",
+  "stage": 1
+ },
+ {
+  "key": "a87173d6e92bc6a5a97bc2de989bf8ee",
+  "original": "Whether they're driven by wanderlust, greed or just a savage bloodlust, the underrail has always generated an underclass of degenerate criminals. These vandals prey upon the weak, and are generally without redemption.",
+  "translation": "Whether they're driven by wanderlust, greed or just a savage bloodlust, the underrail has always generated an underclass of degenerate criminals. These vandals prey upon the weak, and are generally without redemption.",
+  "context": "ID: fac_undergang\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_undergang\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_undergang",
+  "stage": 1
+ },
+ {
+  "key": "06ccdf87646658321c9290af8c238c84",
+  "original": "With one of the largest populations in the Underrail, an unparalleled capacity for mass conscription, and a number of stations and metres of track surpassed only by South Gate Station, the Red Line is one of the most formidable factions in the cataclysm world.",
+  "translation": "With one of the largest populations in the Underrail, an unparalleled capacity for mass conscription, and a number of stations and metres of track surpassed only by South Gate Station, the Red Line is one of the most formidable factions in the cataclysm world.",
+  "context": "ID: fac_metred\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→faction→fac_metred\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fac_metred",
+  "stage": 1
+ },
+ {
+  "key": "cc512e4c7c580f2d5ba395d434a81120",
+  "original": "Would you be willing to get me an adrenaline syringe? I think the troops out in the Underrail would greatly appreciate it.",
+  "translation": "Would you be willing to get me an adrenaline syringe? I think the troops out in the Underrail would greatly appreciate it.",
+  "context": "ID: MISSION_GET_SGS_DOCS_ITEM\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_doctor.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→mission_definition→MISSION_GET_SGS_DOCS_ITEM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GET_SGS_DOCS_ITEM",
+  "stage": 1
+ },
+ {
+  "key": "389a5a498e6de9dde5453046feb0e8a2",
+  "original": "Would you be willing to let me buy anything?",
+  "translation": "Would you be willing to let me buy anything？",
+  "context": "ID: TALK_SGSGUN_Town\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_Town\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_Town"
+ },
+ {
+  "key": "dfbe5204b82352d381f5b1ccfa64f622",
+  "original": "You are one of the citizens of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "translation": "You are one of the citizens of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "context": "ID: reich_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→reich_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reich_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "e2225ba7b735124e245b2df5bd7952e7",
+  "original": "You are one of the citizens of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "translation": "You are one of the citizens of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "context": "ID: red_civilian_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→red_civilian_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=red_civilian_p",
+  "stage": 1
+ },
+ {
+  "key": "c537a5f54f035ac845b924c8e37c242e",
+  "original": "You are one of the officers of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "translation": "You are one of the officers of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "context": "ID: met_reichofficer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_reichofficer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_reichofficer_p",
+  "stage": 1
+ },
+ {
+  "key": "27a1940b6dce0b2c392a34711fb1ad67",
+  "original": "You are one of the officers of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "translation": "You are one of the officers of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "context": "ID: met_redofficer_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_redofficer_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_redofficer_p",
+  "stage": 1
+ },
+ {
+  "key": "8686744510a2953bcc0491e4f6bb77cb",
+  "original": "You are one of the soldiers of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "translation": "You are one of the soldiers of the 4th Reich, a network of national socialist aligned stations in the New England Subway.",
+  "context": "ID: met_reichsoldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_reichsoldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_reichsoldier_p",
+  "stage": 1
+ },
+ {
+  "key": "76ed3d7248c64a86d1b94628d7279858",
+  "original": "You are one of the soldiers of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "translation": "You are one of the soldiers of the Red Line, a network of communist aligned stations in the New England Subway.",
+  "context": "ID: met_redsoldier_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→met_redsoldier_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=met_redsoldier_p",
+  "stage": 1
+ },
+ {
+  "key": "2c77a8919f555bb05035682410bedd9e",
+  "original": "You managed to find a 4th Reich station in the New England subway system.",
+  "translation": "You managed to find a 4th Reich station in the New England subway system.",
+  "context": "ID: sgs_reich_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_reich_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_reich_start",
+  "stage": 1
+ },
+ {
+  "key": "5b592d1ae5714eb60843e7db6be84a46",
+  "original": "You managed to find a Red Line station in the New England subway system.",
+  "translation": "You managed to find a Red Line station in the New England subway system.",
+  "context": "ID: sgs_red_start\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→scenario→sgs_red_start\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_red_start",
+  "stage": 1
+ },
+ {
+  "key": "32b951a29def3c665853a9ea1e5b4c47",
+  "original": "You stash your %s.",
+  "translation": "你收好了%s。",
+  "context": "ID: sgs_secvest\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_armor/sgs_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→sgs_secvest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_secvest"
+ },
+ {
+  "key": "397f8e813dedac84655b02a0149be9c0",
+  "original": "You were never content to just stay within the protective embrace of South Gate. You saw other citizens as being too cowardly, too afraid, too soft. You decided to buck their trend, traipsing throughout the underrail to make a name for yourself.",
+  "translation": "You were never content to just stay within the protective embrace of South Gate. You saw other citizens as being too cowardly, too afraid, too soft. You decided to buck their trend, traipsing throughout the underrail to make a name for yourself.",
+  "context": "ID: sgs_crossbow_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_crossbow_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_crossbow_p",
+  "stage": 1
+ },
+ {
+  "key": "d4fa0112cb02d09a13bf80694c193311",
+  "original": "You were never content to just stay within the protective embrace of South Gate. You saw other citizens as being too cowardly, too afraid, too soft. You were uniquely talented as a stalker, finding rare and valuable equipment in the Underrail.",
+  "translation": "You were never content to just stay within the protective embrace of South Gate. You saw other citizens as being too cowardly, too afraid, too soft. You were uniquely talented as a stalker, finding rare and valuable equipment in the Underrail.",
+  "context": "ID: sgs_aug_p\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/subway_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→profession→sgs_aug_p\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_aug_p",
+  "stage": 1
+ },
+ {
+  "key": "48cba8e615ddb219840159aeae09fc49",
+  "original": "You would be surprised at the amount of business we get, even all the way down here in a subway. I guess it pays to be a safe-haven in an unsafe world. A lot of people are pretty confused by our guns though, it's like they've never seen them before.",
+  "translation": "You would be surprised at the amount of business we get，even all the way down here in a subway. I guess it pays to be a safe-haven in an unsafe world. A lot of people are pretty confused by our guns though，it's like they've never seen them before.",
+  "context": "ID: TALK_SGSGUN_infotown\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/NPCs/sgs_gun_merchant.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→talk_topic→TALK_SGSGUN_infotown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SGSGUN_infotown",
+  "stage": 1
+ },
+ {
+  "key": "db08419aadbd108b5ebdc72e0312d096",
+  "original": "Zephyr crossbow",
+  "translation": "Zephyr crossbow",
+  "context": "ID: sgs_zephyr\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_crossbows.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→sgs_zephyr\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_zephyr",
+  "stage": 1
+ },
+ {
+  "key": "75c76dfd81180a5007818595d1db9990",
+  "original": "communist officer's coat",
+  "translation": "communist officer's coat",
+  "context": "ID: metro_red_offcoat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_red_offcoat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_red_offcoat",
+  "stage": 1
+ },
+ {
+  "key": "ca8aba1db2e7e254800a3745eec8f9be",
+  "original": "communist officer's hat",
+  "translation": "communist officer's hat",
+  "context": "ID: metro_redhat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_armor/metro_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→ARMOR→metro_redhat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_redhat",
+  "stage": 1
+ },
+ {
+  "key": "969f42c7499b81a4d77f278e956e0ae9",
+  "original": "electric lamp",
+  "translation": "electric lamp",
+  "context": "ID: t_sgs_lamp_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_lamp_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_lamp_c",
+  "stage": 1
+ },
+ {
+  "key": "7b8381a9740e58886619fb823196f6e8",
+  "original": "empty acid vial",
+  "translation": "empty acid vial",
+  "context": "ID: sgs_acid_vial\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GENERIC→sgs_acid_vial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_acid_vial",
+  "stage": 1
+ },
+ {
+  "key": "bd08b0bfa6a1ff3b706e6be3a91277c9",
+  "original": "flaming barrel",
+  "translation": "flaming barrel",
+  "context": "ID: t_sgs_lbarrel_c\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_lbarrel_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_lbarrel_c",
+  "stage": 1
+ },
+ {
+  "key": "f171136d54740b7696d31b6cab964f80",
+  "original": "glow wort",
+  "translation": "glow wort",
+  "context": "ID: t_sgs_mushroom\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→terrain→t_sgs_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sgs_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "f840cda1dde1129a10da6465022d3ffd",
+  "original": "lolife extended magazine",
+  "translation": "lolife extended magazine",
+  "context": "ID: metro_lolifebigmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_lolifebigmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_lolifebigmag",
+  "stage": 1
+ },
+ {
+  "key": "b4e830b261c7e8d7994e180c590833e1",
+  "original": "lolife magazine",
+  "translation": "lolife magazine",
+  "context": "ID: metro_lolifemag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_pistols.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→metro_lolifemag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_lolifemag",
+  "stage": 1
+ },
+ {
+  "key": "27da80a03bb68bb0c317ede0144a0ae2",
+  "original": "nosalis",
+  "translation": "nosalis",
+  "context": "ID: mon_metro_nosalis\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_metro_nosalis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_metro_nosalis",
+  "stage": 1
+ },
+ {
+  "key": "66ef670ea19739a8bdefa927a72ca7ce",
+  "original": "psi beetle",
+  "translation": "psi beetle",
+  "context": "ID: mon_sgs_psi_beetle\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_sgs_psi_beetle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sgs_psi_beetle",
+  "stage": 1
+ },
+ {
+  "key": "11327313837fa6ebe1de6f3c95b25437",
+  "original": "shambler",
+  "translation": "蹒跚而行的怪兽",
+  "context": "ID: metro_shambler\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/Metro/metro_weapons/metro_rifles.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→GUN→metro_shambler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metro_shambler"
+ },
+ {
+  "key": "628ac72913cc8dc8617540b6411b6043",
+  "original": "shock dagger",
+  "translation": "shock dagger",
+  "context": "ID: sgs_knife_combat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_knife_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_knife_combat",
+  "stage": 1
+ },
+ {
+  "key": "f716a943805da396c2d81d42dbdab3ae",
+  "original": "shock daggerss",
+  "translation": "shock daggerss",
+  "context": "ID: sgs_knife_combat\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_knife_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_knife_combat",
+  "stage": 1
+ },
+ {
+  "key": "c4230a8679e64e5484b7bf0ffeebb5be",
+  "original": "shock steel sledge hammer",
+  "translation": "shock steel sledge hammer",
+  "context": "ID: sgs_shocksledge\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→TOOL→sgs_shocksledge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_shocksledge",
+  "stage": 1
+ },
+ {
+  "key": "51dca649d25516a5e1050dac7b02307a",
+  "original": "spearhead magazine",
+  "translation": "spearhead magazine",
+  "context": "ID: sgs_spearmag\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/underrail_weapons/sgs_rifles.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MAGAZINE→sgs_spearmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sgs_spearmag",
+  "stage": 1
+ },
+ {
+  "key": "b48710141721af7ed4fdaf02790afe12",
+  "original": "underrail crawler",
+  "translation": "underrail crawler",
+  "context": "ID: mon_sgs_crawler\n位于 /Kenan-Structured-Modpack/Subway_Factions_Mod_jm/UnderRail/sgs_mobs.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Subway_Factions_Mod_jm→MONSTER→mon_sgs_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sgs_crawler",
+  "stage": 1
+ }
+]

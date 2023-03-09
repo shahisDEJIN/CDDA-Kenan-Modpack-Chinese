@@ -1,0 +1,32 @@
+[
+ {
+  "key": "15fe19263f4fd45d27d017516973f435",
+  "original": "Demo for JSONized mapgens (megastore, missile silo).",
+  "translation": "JSON化的地图生成演示（购物广场，导弹发射井）。",
+  "context": "ID: mapgen_demo\n位于 /Kenan-Structured-Modpack/mapspecials_demo/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→MOD_INFO→mapgen_demo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mapgen_demo"
+ },
+ {
+  "key": "a3ea642438d4f30428ac5c0533808611",
+  "original": "Mapgen Demo",
+  "translation": "地图生成DEMO",
+  "context": "ID: mapgen_demo\n位于 /Kenan-Structured-Modpack/mapspecials_demo/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→MOD_INFO→mapgen_demo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mapgen_demo"
+ },
+ {
+  "key": "2f4c7d3ceca68bb5a450d076a26262d4",
+  "original": "megastore",
+  "translation": "购物广场",
+  "context": "ID: mega_2brc\n位于 /Kenan-Structured-Modpack/mapspecials_demo/megastore/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→overmap_terrain→mega_2brc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mega_2brc"
+ },
+ {
+  "key": "124f3a97765f21ffbd835d1cfb6c31c0",
+  "original": "megastore roof",
+  "translation": "购物广场（屋顶）",
+  "context": "ID: mega_3brc\n位于 /Kenan-Structured-Modpack/mapspecials_demo/megastore/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→overmap_terrain→mega_3brc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mega_3brc"
+ },
+ {
+  "key": "57c12d9454c9e8823ffd28e951487946",
+  "original": "missile silo",
+  "translation": "导弹发射井",
+  "context": "ID: silo_fbrc\n位于 /Kenan-Structured-Modpack/mapspecials_demo/missile_silo/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→overmap_terrain→silo_fbrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=silo_fbrc"
+ }
+]

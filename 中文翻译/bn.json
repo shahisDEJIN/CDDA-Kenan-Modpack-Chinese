@@ -1,0 +1,15 @@
+[
+ {
+  "key": "6760dbe521d90e4ed44588739fbc6069",
+  "original": "Bright Nights",
+  "translation": "明亮之夜",
+  "context": "ID: bn\n位于 /Kenan-Structured-Modpack/bn/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#bn→MOD_INFO→bn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bn"
+ },
+ {
+  "key": "d98b6c0435cbbfd1175456b7c780ee2c",
+  "original": "Core content for Cataclysm-BN",
+  "translation": "Core content for Cataclysm-BN",
+  "context": "ID: bn\n位于 /Kenan-Structured-Modpack/bn/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#bn→MOD_INFO→bn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bn",
+  "stage": 1
+ }
+]

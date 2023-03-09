@@ -1,0 +1,44 @@
+[
+ {
+  "key": "7bfe67c83f4511fb10e380da9164beee",
+  "original": "Adds a bionic and a non bionic variant of a gunslinger profession. Become the fastest gun in the cataclysm.",
+  "translation": "Adds a bionic and a non bionic variant of a gunslinger profession. Become the fastest gun in the cataclysm.",
+  "context": "ID: MkMaxxi's Gunslinger Mod\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→MOD_INFO→MkMaxxi's Gunslinger Mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MkMaxxi%27s%20Gunslinger%20Mod",
+  "stage": 1
+ },
+ {
+  "key": "13a9274364c1db894a378fb0adef4189",
+  "original": "Bionic Gunslinger",
+  "translation": "Bionic Gunslinger",
+  "context": "ID: Aug_Gunslinger\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/ProfessionsV1.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→profession→Aug_Gunslinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Aug_Gunslinger",
+  "stage": 1
+ },
+ {
+  "key": "dfb1e87498a944ac1c4b10880cb20074",
+  "original": "Gunslinger",
+  "translation": "Gunslinger",
+  "context": "ID: Nrm_Gunslinger\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/ProfessionsV1.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→profession→Nrm_Gunslinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Nrm_Gunslinger",
+  "stage": 1
+ },
+ {
+  "key": "e5d820197fe82e24026e1d4bff438e10",
+  "original": "Gunslinger Mod",
+  "translation": "Gunslinger Mod",
+  "context": "ID: MkMaxxi's Gunslinger Mod\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→MOD_INFO→MkMaxxi's Gunslinger Mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MkMaxxi%27s%20Gunslinger%20Mod",
+  "stage": 1
+ },
+ {
+  "key": "aa40d83e61b85ee3f691e2c1793e4e73",
+  "original": "Lynched but not killed for a crime you didn't commit, you underwent Augmentation surgery and hunted down those responsible with your trusty revolver. now the apocolypse is here, and it's you, your cybernetics and your gun against the world.",
+  "translation": "Lynched but not killed for a crime you didn't commit, you underwent Augmentation surgery and hunted down those responsible with your trusty revolver. now the apocolypse is here, and it's you, your cybernetics and your gun against the world.",
+  "context": "ID: Aug_Gunslinger\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/ProfessionsV1.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→profession→Aug_Gunslinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Aug_Gunslinger",
+  "stage": 1
+ },
+ {
+  "key": "4454d582b2ab4c671de8b42dda4f1f9b",
+  "original": "before the cataclysm, you dedicated your life to wandering the western reaches of the united states as a vigilante, killing modern criminals with your old school revolver. now the apocolypse has arrived, and in this new frontier your skills are needed more than ever.",
+  "translation": "before the cataclysm, you dedicated your life to wandering the western reaches of the united states as a vigilante, killing modern criminals with your old school revolver. now the apocolypse has arrived, and in this new frontier your skills are needed more than ever.",
+  "context": "ID: Nrm_Gunslinger\n位于 /Kenan-Structured-Modpack/MkMaxxi_Gunslinger_Mod/ProfessionsV1.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MkMaxxi_Gunslinger_Mod→profession→Nrm_Gunslinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Nrm_Gunslinger",
+  "stage": 1
+ }
+]

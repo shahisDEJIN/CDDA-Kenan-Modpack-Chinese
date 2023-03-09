@@ -1,0 +1,30 @@
+[
+ {
+  "key": "a8ac01f13eb6d1ce585ea4e06e7046e6",
+  "original": "A combat crow bar carefully adjusted in shape and weight balance. Various practical improvements such as hand guards and non-conductive grips have been made, and the open performance has also been improved compared to normal bars.",
+  "translation": "A combat crow bar carefully adjusted in shape and weight balance. Various practical improvements such as hand guards and non-conductive grips have been made, and the open performance has also been improved compared to normal bars.",
+  "context": "ID: surv_crowbar\n位于 /Kenan-Structured-Modpack/surv_crowbar/surv_crowbar_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#surv_crowbar→TOOL→surv_crowbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_crowbar",
+  "stage": 1
+ },
+ {
+  "key": "fef4d03aa2ab6d7922db26f5d5fea8cb",
+  "original": "Add Survivor Barr with improved combat performance.",
+  "translation": "Add Survivor Barr with improved combat performance.",
+  "context": "ID: surv_crowbar\n位于 /Kenan-Structured-Modpack/surv_crowbar/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#surv_crowbar→MOD_INFO→surv_crowbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_crowbar",
+  "stage": 1
+ },
+ {
+  "key": "78d5a1eaa03fd555e7dee212ca16eb8e",
+  "original": "Survivor crowbar",
+  "translation": "Survivor crowbar",
+  "context": "ID: surv_crowbar\n位于 /Kenan-Structured-Modpack/surv_crowbar/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#surv_crowbar→MOD_INFO→surv_crowbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_crowbar",
+  "stage": 1
+ },
+ {
+  "key": "6ba66696bd004ee71ee7cf404b3617a8",
+  "original": "survivor crowbar",
+  "translation": "survivor crowbar",
+  "context": "ID: surv_crowbar\n位于 /Kenan-Structured-Modpack/surv_crowbar/surv_crowbar_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#surv_crowbar→TOOL→surv_crowbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_crowbar",
+  "stage": 1
+ }
+]

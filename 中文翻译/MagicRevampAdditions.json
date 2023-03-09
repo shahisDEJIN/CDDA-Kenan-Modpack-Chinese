@@ -3,21 +3,18 @@
   "key": "2d74ea9425bed63ef458a284766ea196",
   "original": "#1 in the storm chain series of effects",
   "translation": "#1级闪电风暴链效果",
-  "context": "ID: storm_chain_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_1",
   "stage": 3
  },
  {
   "key": "a2594c984c45e286d8aac13c5728043d",
   "original": "#2 in the storm chain series of effects",
   "translation": "#2级闪电风暴链效果",
-  "context": "ID: storm_chain_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_2",
   "stage": 3
  },
  {
   "key": "83579a03ec55f548a440aba8e11ed07e",
   "original": "#3 in the storm chain series of effects",
   "translation": "#3级闪电风暴链效果",
-  "context": "ID: storm_chain_3\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_3",
   "stage": 3
  },
  {
@@ -45,7 +42,6 @@
   "key": "8fe7bd8274a9a9fbeab6fdf3877a952c",
   "original": "A candle burns the most brightly at both ends, and yet it burns twice as fast.",
   "translation": "一根蜡烛在两头烧时最明亮，但燃烧速度却是原来的两倍。",
-  "context": "ID: burn_at_both_ends\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→burn_at_both_ends\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=burn_at_both_ends",
   "stage": 5
  },
  {
@@ -66,7 +62,6 @@
   "key": "c947c5c1436e8f01c0ab99524c2235f6",
   "original": "A gust of wind, colder than any Earthly mountaintop, spirals from your fingers, damaging and pushing anything in its path.",
   "translation": "一阵比大地上任何山顶的都冷的风，从你指间盘旋而出，破坏、推动着途径的一切。",
-  "context": "ID: frozen_winds\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→frozen_winds\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frozen_winds",
   "stage": 5
  },
  {
@@ -94,7 +89,6 @@
   "key": "6aa33c1033c9790a1705f74975819c9c",
   "original": "A more advanced version of Banishment, which is a ritual spell that attempts to banish a monster.  Being closely related to blood magic, the Blood Mage is much more specialized to use a spell like this.",
   "translation": "放逐术的更高级版本，它是一种试图驱逐怪物的仪式法术。由于与血魔法联系紧密，所以血法师更擅长使用这样的法术。",
-  "context": "ID: banishment_greater\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→banishment_greater\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banishment_greater",
   "stage": 5
  },
  {
@@ -108,28 +102,24 @@
   "key": "9e6339cf73ab28d1c2a43a769f4ecd1e",
   "original": "A purifying blast of raw elemental heat wipes the slate clean, searing the Earth back to her most original state: a barren ball of burning rock.",
   "translation": "原初元素热能掀起的净化大爆炸将地表抹得干干净净，将地球炙烤回她最开始的模样：灼热岩石堆积成的不毛之球。",
-  "context": "ID: immolate\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate",
   "stage": 5
  },
  {
   "key": "170efc0ccf73874b7d4843e014fb3285",
   "original": "A quick burst of electricity strikes a target and possibly one other nearby.",
   "translation": "释放出一道极快的电流攻击目标，击中目标的同时可能会附带攻击临近的另一目标。",
-  "context": "ID: shocking_lash\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash",
   "stage": 5
  },
  {
   "key": "8ce41160ec15416f638078f2201be686",
   "original": "A rippling wave of luminous energy spreads from your hands, a beautiful torrent of magnetic force and chill wind.",
   "translation": "一道闪亮能量组成的涟漪自你手中荡漾开，化为磁力与寒风交织的壮丽洪流。",
-  "context": "ID: auroral_wave\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Boreal_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→auroral_wave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=auroral_wave",
   "stage": 5
  },
  {
   "key": "5e81dbb388ef5aa5babcd682597786c7",
   "original": "A shield of pure force that protects you from most types of physical damage.",
   "translation": "由纯粹的力场形成的护盾，能够保护你不受大多数的物理伤害。",
-  "context": "ID: force_magical_armor\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Force_Mage.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→ARMOR→force_magical_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=force_magical_armor",
   "stage": 5
  },
  {
@@ -143,7 +133,6 @@
   "key": "964dd338bf6e4c99a44c123abe947389",
   "original": "A single portion of the rock blast spell",
   "translation": "巨石冲击法术的一部分",
-  "context": "ID: single_rock_blast\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→single_rock_blast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=single_rock_blast",
   "stage": 5
  },
  {
@@ -164,28 +153,25 @@
   "key": "900355542a0944ffde86b7deb6fa5696",
   "original": "A stormcaller is a stormshaper with an additional affinity toward the weather in a localized area.  Historians agree that the druid requirement has something to do with the Druid's affinity for nature, just like their ability to summon animals.  You will know a stormcaller is in the room if your ears pop and your hair stands straight on end.  Stormcallers are not known for their subtlety.",
   "translation": "唤风者是对本地区的天气有额外魔法亲和度的风暴塑造者。历史学家一致认为德鲁伊的前置需求与德鲁伊对自然的魔法亲和相关，就像他们召唤动物的能力一样。当你开始耳鸣，毛发竖立之时，你就知道房间里来了位唤风者。唤风者从来不当隐姓埋名之辈。",
-  "context": "ID: STORMCALLER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMCALLER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMCALLER",
   "stage": 5
  },
  {
   "key": "0635ab635dd69082a924b1d21d16e4bc",
   "original": "A tradition as old as magic, the Magus focuses on binding and shaping the energy of the universe to their will.",
   "translation": "作为和魔法本身一样古老的魔法流派，魔术师专精于随心所欲结合并塑造宇宙的能量。",
-  "context": "ID: MAGUS\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→MAGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAGUS",
+  "context": "ID: MAGUS\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→MAGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAGUS",
   "stage": 5
  },
  {
   "key": "6b8d48ec84de4a1f72e4c64de33e06ff",
   "original": "Acid Bite",
   "translation": "酸液噬咬",
-  "context": "ID: acid_bite\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→acid_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acid_bite",
   "stage": 5
  },
  {
   "key": "b31f75984d42aed2b90c66be1d0bb699",
   "original": "Acid Claw",
   "translation": "酸液之爪",
-  "context": "ID: acid_claw\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→acid_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acid_claw",
   "stage": 5
  },
  {
@@ -199,7 +185,6 @@
   "key": "ce6527432eb39b609b2f0d5fb22ccbc8",
   "original": "Acid burst that punishes attackers.",
   "translation": "能反弹回攻击者的酸液伤害。",
-  "context": "ID: dragon_shell_retaliation_black\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_shell_retaliation_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_shell_retaliation_black",
   "stage": 5
  },
  {
@@ -213,7 +198,6 @@
   "key": "ea48ec314c1c50656515b00feca14b28",
   "original": "Adds a shield of pure force that protects your body and your clothing from attacks.",
   "translation": "你召唤出一个由纯粹力场凝聚而成的护盾，能够保护你自身和身上装备不受伤害。",
-  "context": "ID: force_magical_armor\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Force_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→force_magical_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=force_magical_armor",
   "stage": 5
  },
  {
@@ -227,7 +211,6 @@
   "key": "ac38ecf12a909a72be9906c95493924e",
   "original": "Alchemist",
   "translation": "炼金术士",
-  "context": "ID: ALCHEMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ALCHEMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ALCHEMIST",
   "stage": 3
  },
  {
@@ -255,7 +238,7 @@
   "key": "538400d24dd239e9222d3c54b5bb91b9",
   "original": "Animist",
   "translation": "泛灵师",
-  "context": "ID: ANIMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ANIMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ANIMIST",
+  "context": "ID: ANIMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ANIMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ANIMIST",
   "stage": 5
  },
  {
@@ -269,7 +252,6 @@
   "key": "da5a66ca66513d8a07c11094d88b32f3",
   "original": "Animists are known for their blood magic, and being a Biomancer you are able to take it another step further by strengthening your blood.  The dark arts have opened to you, and while dangerous, are incredible to behold.",
   "translation": "泛灵师以他们的血魔法而闻名，作为一名生化术士，你可以通过强化自身血液而更进一步。黑魔法的大门已经向你敞开了，虽然危险，却让人欲罢不能。",
-  "context": "ID: BLOOD_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BLOOD_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BLOOD_MAGE",
   "stage": 5
  },
  {
@@ -283,42 +265,36 @@
   "key": "a52fc072a2124dfc07a3e12684207afd",
   "original": "Artificer",
   "translation": "机关术师",
-  "context": "ID: ARTIFICER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ARTIFICER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ARTIFICER",
   "stage": 5
  },
  {
   "key": "36265d42daa10c11829656c49ad92738",
   "original": "Artificer's Toolkit",
   "translation": "机关术师工具箱",
-  "context": "ID: artificer_toolkit\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→artificer_toolkit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artificer_toolkit",
   "stage": 5
  },
  {
   "key": "4978b58412292e872926628eb5d6f61f",
   "original": "Artificers have a special pocket dimension with a magical tool that can cover a wide variety of tasks.  It is only a matter of temporarily summoning the item for use.",
   "translation": "机关术师们能通向一个特殊的口袋宇宙，其中有把魔法工具，可以完成各种各样的工作。你可以暂时召唤出这个工具供你使用一段时间。",
-  "context": "ID: artificer_toolkit\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→artificer_toolkit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artificer_toolkit",
   "stage": 5
  },
  {
   "key": "786017570bebb7d327c48f17cc95daa4",
   "original": "Assassin Strike",
   "translation": "刺杀术",
-  "context": "ID: assassin_strike\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_strike",
   "stage": 5
  },
  {
   "key": "27cc66f67de5d11714e335076d4d1da8",
   "original": "Assassin Teleport",
   "translation": "刺客传送术",
-  "context": "ID: assassin_teleport\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_teleport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_teleport",
   "stage": 5
  },
  {
   "key": "a188c554dfdec169f523ea97278b5eb2",
   "original": "Assassin Toxic Smoke",
   "translation": "刺客毒烟术",
-  "context": "ID: assassin_toxic_smoke\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_toxic_smoke\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_toxic_smoke",
   "stage": 5
  },
  {
@@ -338,14 +314,12 @@
   "key": "620e215aff8e741ca3dcad6e10f3b7d8",
   "original": "Auroral Guard",
   "translation": "极光防护",
-  "context": "ID: borealmage_auroral_guard\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Boreal_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→borealmage_auroral_guard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=borealmage_auroral_guard",
   "stage": 3
  },
  {
   "key": "74f6bdd946966064004c8dd073b5ceab",
   "original": "Auroral Wave",
   "translation": "极光浪潮",
-  "context": "ID: auroral_wave_cold\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Boreal_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→auroral_wave_cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=auroral_wave_cold",
   "stage": 5
  },
  {
@@ -359,14 +333,12 @@
   "key": "4e9edb4da07fb6c21ccf5abe3fd6a2ab",
   "original": "Baleful Polymorph",
   "translation": "恶意变形术",
-  "context": "ID: magus_baleful_polymorph\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_baleful_polymorph\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_baleful_polymorph",
   "stage": 5
  },
  {
   "key": "ebcebd749eb3449a3036b7e6959e8367",
   "original": "Banish a monster to the lesser-known nether dimension.  If a monster is more powerful than you can handle, the spell drains your life force to make up the difference.",
   "translation": "把怪物放逐到鲜为人知的异界之中。如果怪物比你更强大，这个法术会消耗你的生命来弥补其中的差异。",
-  "context": "ID: banishment_lesser\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→banishment_lesser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banishment_lesser",
   "stage": 3
  },
  {
@@ -380,7 +352,7 @@
   "key": "13a95090b493334b8bf1101efd29fcb2",
   "original": "Biomancer",
   "translation": "生化术士",
-  "context": "ID: BIOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOMANCER",
+  "context": "ID: BIOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOMANCER",
   "stage": 5
  },
  {
@@ -394,42 +366,36 @@
   "key": "5658b59e4f2d1737e4c6549d4d0995ed",
   "original": "Biotek",
   "translation": "生化技师",
-  "context": "ID: BIOTEK\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOTEK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOTEK",
   "stage": 5
  },
  {
   "key": "9013a6c8b050052bd5920b23ee47259b",
   "original": "Black Dragon Breath",
   "translation": "黑龙之息",
-  "context": "ID: dragon_breath_acid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_breath_acid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_breath_acid",
   "stage": 5
  },
  {
   "key": "a0a2f5963d2f3de8491e49b2e750e2b5",
   "original": "Black Dragon Shell",
   "translation": "黑龙外鳞",
-  "context": "ID: dragon_shell_black\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_shell_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_shell_black",
   "stage": 5
  },
  {
   "key": "f9caed8c43758dec94778cea5bcfa3be",
   "original": "Black Dragon Shell Retaliation",
   "translation": "黑龙外鳞反弹",
-  "context": "ID: dragon_shell_retaliation_black\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_shell_retaliation_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_shell_retaliation_black",
   "stage": 5
  },
  {
   "key": "e9c59a2e8f6fb4e18f32e8d795644ff7",
   "original": "Black Dragons' Breath",
   "translation": "黑龙之息",
-  "context": "ID: dragon_breath_black\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/dragonbreath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_breath_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_breath_black",
   "stage": 5
  },
  {
   "key": "99b8f374158489a4358bfa2fc1b462c1",
   "original": "Bleed",
   "translation": "引血术",
-  "context": "ID: bleed\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→bleed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bleed",
   "stage": 5
  },
  {
@@ -457,21 +423,18 @@
   "key": "adcdf64c832cd47bb03fe0ebe2534a7a",
   "original": "Blood Mage",
   "translation": "血法师",
-  "context": "ID: BLOOD_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BLOOD_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BLOOD_MAGE",
   "stage": 5
  },
  {
   "key": "ceaec103e92d3e44f5288397712f663b",
   "original": "Boreal Mage",
   "translation": "北寒法师",
-  "context": "ID: BOREAL_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BOREAL_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BOREAL_MAGE",
   "stage": 5
  },
  {
   "key": "e18bd0fb71701355f45108bde2775d6b",
   "original": "Burn at Both Ends",
   "translation": "两头烧",
-  "context": "ID: burn_at_both_ends\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→burn_at_both_ends\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=burn_at_both_ends",
   "stage": 5
  },
  {
@@ -499,14 +462,12 @@
   "key": "d20261ea29186c9d7584615c71fefa0f",
   "original": "Call to the wilds for aid from some wolves.",
   "translation": "向荒野呼唤，寻求狼群的援助。",
-  "context": "ID: summon_wolf_druid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_wolf_druid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_wolf_druid",
   "stage": 5
  },
  {
   "key": "9a72c345c648118f1e3d167748228c31",
   "original": "Cast a field of intense shadows.",
   "translation": "投下一片强烈的阴影笼罩四周。",
-  "context": "ID: shadow_field\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shadow_field\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shadow_field",
   "stage": 5
  },
  {
@@ -527,14 +488,12 @@
   "key": "4d92fb2925f3aa7de266f0017f02626a",
   "original": "Cause a localized earthquake, knocking down enemies and overturning the earth.",
   "translation": "造成局部地震并会击倒敌人。",
-  "context": "ID: quake\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quake",
   "stage": 5
  },
  {
   "key": "e561e4eaa9c907e4b7c46d9e8b5b7b2b",
   "original": "Cause cell damage to everything in a wide area.  Fast to cast, but does damage slowly.",
   "translation": "在大范围内造成细胞损伤，施放速度快，但见效慢。",
-  "context": "ID: gamma_burst\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Radiation_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gamma_burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gamma_burst",
   "stage": 5
  },
  {
@@ -548,7 +507,6 @@
   "key": "a9ad3c61bde40a432c911c86db0e01eb",
   "original": "Causes an intense heat at the location, greatly damaging the target.",
   "translation": "在目标位置产生巨大热量，对目标造成极大伤害。",
-  "context": "ID: nova_flare\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→nova_flare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nova_flare",
   "stage": 5
  },
  {
@@ -562,28 +520,24 @@
   "key": "ad105cfad7711ba334599e29c7670719",
   "original": "Causes slowdown from the Cold Heart spell.  Subspell; you aren't allowed to see it except in debug mode.",
   "translation": "冰寒之心法术所造成的减速效果。子法术；除非在调试模式下，否则不应该看到它。",
-  "context": "ID: cold_heart_slow\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_heart_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_heart_slow",
   "stage": 3
  },
  {
   "key": "5011fd07bca28e8d23705c5759ee5769",
   "original": "Caustic Aura",
   "translation": "腐蚀光环",
-  "context": "ID: biomancer_caustic_aura\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_caustic_aura\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=biomancer_caustic_aura",
   "stage": 5
  },
  {
   "key": "dac2cf12fcdf9484157617b30d9ee06e",
   "original": "Caustic Feedback",
   "translation": "腐蚀反击",
-  "context": "ID: corrosive_aura_spell\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→corrosive_aura_spell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=corrosive_aura_spell",
   "stage": 5
  },
  {
   "key": "f852db089fef64f0262333db3192b9ec",
   "original": "Changes and amplifies gravitational pull towards a point you choose even through walls.  Pulls in items and deals bashing damage in its center.",
   "translation": "操控万有引力，将其放大并导向你选择的点，甚至能穿过墙壁。能将物体吸到中心并造成钝击伤害。",
-  "context": "ID: gravitymage_graviton\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton",
   "stage": 5
  },
  {
@@ -604,14 +558,12 @@
   "key": "0e36114b3868ff0e4adc14e1307991cc",
   "original": "Clairvoyance",
   "translation": "透视",
-  "context": "ID: clairvoyance\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→clairvoyance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=clairvoyance",
   "stage": 5
  },
  {
   "key": "76c91be3361d525e4183159714b2a49f",
   "original": "Cleansing Flame",
   "translation": "净火法师",
-  "context": "ID: CLEANSING_FLAME\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→CLEANSING_FLAME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CLEANSING_FLAME",
   "stage": 5
  },
  {
@@ -625,28 +577,24 @@
   "key": "7147b38ff576050c96633f8db047628e",
   "original": "Cold Heart",
   "translation": "冰寒之心",
-  "context": "ID: cold_heart\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_heart",
   "stage": 3
  },
  {
   "key": "eff44ca404952eba8524c8d85e9653f7",
   "original": "Cold Heart slowdown",
   "translation": "冰寒之心减速",
-  "context": "ID: cold_heart_slow\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_heart_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_heart_slow",
   "stage": 3
  },
  {
   "key": "65da1d3ba9d7f28ef0336f2a02c777c8",
   "original": "Cold Snap",
   "translation": "寒潮",
-  "context": "ID: cold_snap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_snap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_snap",
   "stage": 5
  },
  {
   "key": "d85da8126ba3ef1863455e6794e64f17",
   "original": "Cold Snap Freeze",
   "translation": "寒潮冻结",
-  "context": "ID: cold_snap_freeze\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_snap_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_snap_freeze",
   "stage": 5
  },
  {
@@ -667,63 +615,55 @@
   "key": "e468b8e9a77123c9a1739efd4b722480",
   "original": "Conjure Magical Throwing Blade Biological",
   "translation": "召唤魔法飞刀（生化）",
-  "context": "ID: conj_mag_throw_blade_biological\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_biological\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_biological",
   "stage": 3
  },
  {
   "key": "5f3033d16deaf057098c18b7f3e854e6",
   "original": "Conjure Magical Throwing Blade Cold",
   "translation": "召唤魔法飞刀（冰霜）",
-  "context": "ID: conj_mag_throw_blade_cold\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_cold",
   "stage": 3
  },
  {
   "key": "149f2760fb6112a1679c95f64f292b9a",
   "original": "Conjure Magical Throwing Blade Cut",
   "translation": "召唤魔法飞刀（斩击）",
-  "context": "ID: conj_mag_throw_blade_cut\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_cut",
   "stage": 3
  },
  {
   "key": "61fb8a6753f664e7d4c3197dcf6a6710",
   "original": "Conjure Magical Throwing Blade Fire",
   "translation": "召唤魔法飞刀（火焰）",
-  "context": "ID: conj_mag_throw_blade_fire\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_fire",
   "stage": 3
  },
  {
   "key": "84087332b2952e8d39a1b6a479a824f3",
   "original": "Conjure Magical Throwing Blade I",
   "translation": "召唤魔法飞刀 I",
-  "context": "ID: conj_mag_throw_blade_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_1",
   "stage": 3
  },
  {
   "key": "591bfe73cc09c0b2b88f1908de36c759",
   "original": "Conjure Magical Throwing Blade Pure",
   "translation": "召唤魔法飞刀（真实）",
-  "context": "ID: magical_throwing_knife_pure_special\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magical_throwing_knife_pure_special\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magical_throwing_knife_pure_special",
   "stage": 3
  },
  {
   "key": "3ab493f99590daf775f8ec24021278e7",
   "original": "Conjure Random Magical Throwing Blade",
   "translation": "召唤随机魔法飞刀",
-  "context": "ID: conj_mag_throw_blade_group\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_group\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_group",
   "stage": 3
  },
  {
   "key": "96441a4366381a861e3bad069879925f",
   "original": "Conjure Throwing Blade I",
   "translation": "召唤飞刃 I",
-  "context": "ID: conj_throwing_blade3\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade3",
+  "context": "ID: conj_throwing_blade1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade1",
   "stage": 5
  },
  {
   "key": "2e11f8e27ac0f323ca600d8bb0eec62c",
   "original": "Cook nearby monsters (and yourself to an extent)",
   "translation": "烤熟附近的怪物（还包括你自己）",
-  "context": "ID: shortwave_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Radiation_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shortwave_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shortwave_2",
   "stage": 5
  },
  {
@@ -744,14 +684,12 @@
   "key": "523680d75a2ba6a0dd73bc8237c71a5d",
   "original": "Create a sturdy shell that wraps around your body, gaining a sturdy defense.",
   "translation": "召唤出一个坚固的外壳包裹着你的身体，让你获得坚固的防御。",
-  "context": "ID: borealmage_auroral_guard\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Boreal_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→borealmage_auroral_guard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=borealmage_auroral_guard",
   "stage": 3
  },
  {
   "key": "4165fe3e17a2cb0571b1d2ad30b3d337",
   "original": "Creates a conductive channel from the caster's hand to the target by ionizing air molecules using a high-powered laser beam, then sends a powerful half million volt charge down the channel.",
   "translation": "通过使用高功率激光束电离空气分子，创建出一条从施法者手到目标的导电通道，然后沿着通道释放出50万伏的强大电荷。",
-  "context": "ID: magnetismmage_electrolaser\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magnetismmage_electrolaser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnetismmage_electrolaser",
   "stage": 3
  },
  {
@@ -800,7 +738,6 @@
   "key": "be39f562e01b65e55bf0e2b03c085340",
   "original": "Crusader",
   "translation": "圣战法师",
-  "context": "ID: CRUSADER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→CRUSADER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CRUSADER",
   "stage": 5
  },
  {
@@ -842,28 +779,24 @@
   "key": "fe46f1d276d73dd73c456e763e42a52e",
   "original": "Decaying Boneclub",
   "translation": "腐朽骨棍",
-  "context": "ID: animist_summon_decaying_boneclub\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→animist_summon_decaying_boneclub\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=animist_summon_decaying_boneclub",
   "stage": 5
  },
  {
   "key": "d016533c8efb92e4097c3460dd59b576",
   "original": "Deeply attuned to the spiritual fabric that shapes and nurtures the natural world.  Shamans call upon the primeval spirits of nature for aid and advice.  Be careful however, for ancient spirits are fickle and unknowable things.",
   "translation": "体内魔法深深地调谐适应了塑造和培育了这个自然世界的精神体系。萨满巫师向大自然的原始精魂寻求帮助和建议。不过要小心，因为古灵是变幻莫测的不可知之物。",
-  "context": "ID: SHAMAN\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SHAMAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SHAMAN",
   "stage": 5
  },
  {
   "key": "827afb2a6af25e8c9d7cf63387034bf8",
   "original": "Demonic Possession",
   "translation": "恶魔附身",
-  "context": "ID: demonic_possession\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→demonic_possession\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=demonic_possession",
   "stage": 5
  },
  {
   "key": "4d98bc4bac5ada34da71c9d2c10b9211",
   "original": "Dimension Door",
   "translation": "次元门",
-  "context": "ID: dimension_door\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dimension_door\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dimension_door",
   "stage": 3
  },
  {
@@ -877,35 +810,31 @@
   "key": "97ca95bf95bd6c6014c7efc9ef7d55d6",
   "original": "Disciples of the great Archwizard Lord Kelvin.  Kelvinists focus their magic on manipulation and control of the temperature of their environment, leading to spectacularly powerful explosions or bone-chilling cold.",
   "translation": "伟大的大魔法师开尔文勋爵的信徒。炽霜法师们凝聚魔力，操控温度，引发炽烈爆炸，制造刺骨严寒。",
-  "context": "ID: KELVINIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→KELVINIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KELVINIST",
+  "context": "ID: KELVINIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→KELVINIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KELVINIST",
   "stage": 5
  },
  {
   "key": "ce24791747b382272e9a647c57589a33",
   "original": "Dragon Acid Spit",
   "translation": "巨龙酸液喷射",
-  "context": "ID: dragon_spit_acid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_spit_acid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_spit_acid",
   "stage": 5
  },
  {
   "key": "cab845fc302ec81ca2d2a676adadf26f",
   "original": "Dragon Boost",
   "translation": "巨龙注能",
-  "context": "ID: dragon_boost\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_boost",
   "stage": 5
  },
  {
   "key": "c031bd287730e6b9f3c7464e9430055c",
   "original": "Dragon Terror",
   "translation": "巨龙恐惧",
-  "context": "ID: dragon_terror\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_terror\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_terror",
   "stage": 5
  },
  {
   "key": "dfe89d1bd30fa2d4511549590815080e",
   "original": "Dragon's Bite",
   "translation": "巨龙噬咬",
-  "context": "ID: dragon_bite\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_bite",
   "stage": 5
  },
  {
@@ -926,7 +855,7 @@
   "key": "e7b1c3af3203c42e8a5450beb229c09e",
   "original": "Druid",
   "translation": "德鲁伊",
-  "context": "ID: DRUID\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→DRUID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUID",
+  "context": "ID: DRUID\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→DRUID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUID",
   "stage": 5
  },
  {
@@ -940,7 +869,7 @@
   "key": "f047388f1d8b6bfe2e0cfa3d24fdcebd",
   "original": "Druids follow a wild tradition of allegiance and rebirth within the world of nature, especially the cycle of death and rebirth that is the plant world.  A powerful Druid is as much a part of that world as the human one.",
   "translation": "德鲁伊忠心遵循自然界中重生复苏的野性传统，特别是植物界中所存在的死亡和重生的轮回。一位强大的德鲁伊和那个世界的联系将会和与人类世界的联系一样紧密。",
-  "context": "ID: DRUID\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→DRUID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUID",
+  "context": "ID: DRUID\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→DRUID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DRUID",
   "stage": 5
  },
  {
@@ -954,14 +883,13 @@
   "key": "0ad20174eecf1243d10dace7e5e2b2ae",
   "original": "Earth Elemental",
   "translation": "土系法师",
-  "context": "ID: EARTH_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTH_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTH_ELEMENTAL",
   "stage": 5
  },
  {
   "key": "1393f4f52bbc01f9950d01f9d41bee6f",
   "original": "Earthshaper",
   "translation": "塑地者",
-  "context": "ID: EARTHSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTHSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTHSHAPER",
+  "context": "ID: EARTHSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTHSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTHSHAPER",
   "stage": 5
  },
  {
@@ -975,21 +903,19 @@
   "key": "ec153f7287366d0260da582dec2b831f",
   "original": "Earthshapers have allowed their minds to sink deep within the stones and metals of the planet, and become one with its secrets.  To a master Earthshaper, spells can be as permanent as the stones they are created from, and time is measured in geological eras.",
   "translation": "塑地者将自身思想深深地沉入地球的石头和金属之中，并与它的秘密融为一体。对于一位塑地者大师来说，法术可以像他们所创造出来的石头一样持久，而持续时间可以用地质时代来衡量。",
-  "context": "ID: EARTHSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTHSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTHSHAPER",
+  "context": "ID: EARTHSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTHSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTHSHAPER",
   "stage": 5
  },
  {
   "key": "4ba75a74bac048307951298b1cd212ee",
   "original": "Electrolaser",
   "translation": "电子激光",
-  "context": "ID: magnetismmage_electrolaser\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magnetismmage_electrolaser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnetismmage_electrolaser",
   "stage": 3
  },
  {
   "key": "ab3d89e5fe0119a6e3d7e85f2f87f492",
   "original": "Electrolaser electric damage",
   "translation": "电子激光电击伤害",
-  "context": "ID: magnetismmage_electrolaser_electro\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magnetismmage_electrolaser_electro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnetismmage_electrolaser_electro",
   "stage": 3
  },
  {
@@ -1059,7 +985,6 @@
   "key": "0ddb560e801bb26659714cd9d753368f",
   "original": "Feral Form",
   "translation": "狂野形态",
-  "context": "ID: druid_feralform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_feralform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_feralform",
   "stage": 5
  },
  {
@@ -1073,21 +998,18 @@
   "key": "b7e861c824cb164bc3c40b98df2656ff",
   "original": "Fire Elemental",
   "translation": "火系法师",
-  "context": "ID: FIRE_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→FIRE_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FIRE_ELEMENTAL",
   "stage": 5
  },
  {
   "key": "719275d61d63a069037e13e41c69fb87",
   "original": "Fire a blast of sunlight in a wide beam, blinding everything in its path and leaving it bright enough for you to see for a few seconds.",
   "translation": "发射一束阳光，使其路径上的所有生物都失明，并在几秒钟内保持明亮状态。",
-  "context": "ID: solar_beam\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Sun_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→solar_beam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=solar_beam",
   "stage": 5
  },
  {
   "key": "0868665c643ed78bc3cd379453a554bb",
   "original": "Fire three large rocks at an enemy, causing blunt damage and knocking it back.",
   "translation": "向敌人发射三块巨石，造成钝器伤害并击退敌人。",
-  "context": "ID: rock_blast\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→rock_blast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rock_blast",
   "stage": 5
  },
  {
@@ -1115,28 +1037,24 @@
   "key": "7e1f02c620f296c785db419e090c660d",
   "original": "Flamebreath",
   "translation": "火焰吐息",
-  "context": "ID: kelvinist_flamebreath\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_flamebreath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kelvinist_flamebreath",
   "stage": 5
  },
  {
   "key": "ba51e37f332dedac55fcdfa0b63bf6d4",
   "original": "Flamesword",
   "translation": "火焰剑",
-  "context": "ID: kelvinist_summon_flamesword\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_summon_flamesword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kelvinist_summon_flamesword",
   "stage": 5
  },
  {
   "key": "9f5d573b023f30dc3fa7a4a1bc501a0c",
   "original": "Flareup",
   "translation": "骤燃术",
-  "context": "ID: flareup\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Fire_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→flareup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flareup",
   "stage": 5
  },
  {
   "key": "68625bedc75b7f9da16c07bcb2af3ef1",
   "original": "Flarewhip",
   "translation": "火焰鞭",
-  "context": "ID: flarewhip\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Fire_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→flarewhip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flarewhip",
   "stage": 5
  },
  {
@@ -1157,28 +1075,24 @@
   "key": "d2e46c9409595aff56cecd15e99fabf9",
   "original": "Force = Mass x Acceleration.  This is the typical thing that people think of nowadays when the word is used, but Force Mages have a different meaning, coming from traditional roots: untyped magical damage appears to be a ghostly \"force.\"  This might be the effect of the attunement, but the cause is even more intriguing: they appear to turn Newton's Third Law on its head.  Magical scholars of the 21st century have theorized that this isn't really the case; instead of the opposite reaction happening on this plane of existence, a Force Mage uses the Aetherium's alternate Laws to rebound the force back upon itself, effectively doubling the force in the same direction instead.  However this ability comes with limitations, as the Force Mage can only do this for melee damage.",
   "translation": "力=质量x加速度。这是当今人们在提到“力”这个词时所想到的典型公式，但对原力法师而言，“力”有着不同的含义，来自于传统的根源：看起来像是幽灵“力”一般的无属性魔法伤害。这可能是魔法调谐的结果，但造成此现象的原因更为有趣：它们看起来完全违背了牛顿第三定律。21世纪的魔法理论研究家们认为另有原因；反作用力并未产生于物体所在位面，原力法师利用以太交换定律，将反作用力重新于作用力结合，结果等效于引力强度在相同方向上翻倍了。然而这项魔法也有其内在限制，因此原力法师只能操纵及影响近战伤害。",
-  "context": "ID: FORCE_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→FORCE_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FORCE_MAGE",
   "stage": 5
  },
  {
   "key": "c851e219b4208247b8d722032cc1ee3c",
   "original": "Force Blade",
   "translation": "力场刃",
-  "context": "ID: force_blade\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Force_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→force_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=force_blade",
   "stage": 5
  },
  {
   "key": "79f6dff0296c553f637b34a734ac23da",
   "original": "Force Mage",
   "translation": "原力法师",
-  "context": "ID: FORCE_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→FORCE_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FORCE_MAGE",
   "stage": 5
  },
  {
   "key": "3ecce2e14f37f4eaac09b56ae61c5b24",
   "original": "Force Shield",
   "translation": "力场护盾",
-  "context": "ID: force_magical_armor\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Force_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→force_magical_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=force_magical_armor",
   "stage": 5
  },
  {
@@ -1192,7 +1106,6 @@
   "key": "d1b1aa7986d1c5153cde9427b99e5819",
   "original": "Freezes the target monster in place",
   "translation": "冻结目标怪物",
-  "context": "ID: cold_snap_freeze\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_snap_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_snap_freeze",
   "stage": 5
  },
  {
@@ -1206,7 +1119,6 @@
   "key": "4156d0d112b28fabb8f4c19852bab66a",
   "original": "Freezing Touch",
   "translation": "极寒之触",
-  "context": "ID: freezing_touch\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→freezing_touch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=freezing_touch",
   "stage": 5
  },
  {
@@ -1227,70 +1139,60 @@
   "key": "8f6db4989c72c543af3807bb1bfc5f34",
   "original": "Frozen Winds",
   "translation": "凛冽狂风",
-  "context": "ID: frozen_winds\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→frozen_winds\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frozen_winds",
   "stage": 5
  },
  {
   "key": "183e9db6e75a3372d8d840e00b79b515",
   "original": "Frozen Winds push effect",
   "translation": "凛冽狂风击退效果",
-  "context": "ID: frozen_winds_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→frozen_winds_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frozen_winds_push",
   "stage": 5
  },
  {
   "key": "4f2406da1efb8ab0ffcc538c182333c9",
   "original": "Gaia's Chosen",
   "translation": "盖娅神选者",
-  "context": "ID: GAIAS_CHOSEN\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GAIAS_CHOSEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GAIAS_CHOSEN",
   "stage": 5
  },
  {
   "key": "3a7c585e23221931f7e388f50714b5fd",
   "original": "Gamma Burst",
   "translation": "伽马射线",
-  "context": "ID: gamma_burst\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Radiation_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gamma_burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gamma_burst",
   "stage": 5
  },
  {
   "key": "cc1a44b86a977c44ff9f214edcfe4272",
   "original": "Give back core",
   "translation": "Give back core",
-  "context": "ID: summon_golem_focus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_golem_focus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_golem_focus",
   "stage": 3
  },
  {
   "key": "488ee900701529b08c3a9a4128093123",
   "original": "Give some electric damage for Electrolaser spell.  Subspell; you aren't allowed to see it except in debug mode.",
   "translation": "电子激光法术所造成电击伤害。子法术；除非在调试模式下，否则不应该看到它。",
-  "context": "ID: magnetismmage_electrolaser_electro\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magnetismmage_electrolaser_electro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnetismmage_electrolaser_electro",
   "stage": 3
  },
  {
   "key": "f154ab05ade7df0acdcddb668338460a",
   "original": "Give some frost damage for Hermes Reborn spell.  Subspell; you aren't allowed to see it except in debug mode.",
   "translation": "赫耳墨斯复生法术所造成冰霜伤害。子法术；除非在调试模式下，否则不应该看到它。",
-  "context": "ID: cleansingflame_hermes_burn\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cleansingflame_hermes_burn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cleansingflame_hermes_burn",
   "stage": 3
  },
  {
   "key": "17723de365fdac109ad46260e7475328",
   "original": "Gives back a golem's core.  You should not see this spell",
   "translation": "Gives back a golem's core.  You should not see this spell",
-  "context": "ID: summon_golem_focus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_golem_focus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_golem_focus",
   "stage": 3
  },
  {
   "key": "09e3184517e5be9919790e8b7a974154",
   "original": "Gives you a manafusion bomb.  Subspell; you aren't allowed to see it except in debug mode.",
   "translation": "召唤一个魔能聚变炸弹。子法术；除非在调试模式下，否则不应该看到它。",
-  "context": "ID: alchemist_make_potion_bomb_create\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_bomb_create\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_bomb_create",
   "stage": 3
  },
  {
   "key": "d87226f86216826653d583e8fd882ead",
   "original": "Gives you a manafusion trap.  Subspell; you aren't allowed to see it except in debug mode.",
   "translation": "召唤一个魔能聚变陷阱。子法术；除非在调试模式下，否则不应该看到它。",
-  "context": "ID: alchemist_make_potion_trap_create\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_trap_create\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_trap_create",
   "stage": 3
  },
  {
@@ -1304,7 +1206,6 @@
   "key": "0da8afa3f7e0d820e02701b6b00f6207",
   "original": "Glacier Mage",
   "translation": "冰川法师",
-  "context": "ID: GLACIER_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GLACIER_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GLACIER_MAGE",
   "stage": 5
  },
  {
@@ -1318,42 +1219,36 @@
   "key": "98bff70f74acad3207900d778aa515d9",
   "original": "Golem Push",
   "translation": "魔像推动",
-  "context": "ID: golem_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→golem_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=golem_push",
   "stage": 5
  },
  {
   "key": "a6da242b887942064da01f9cb0ff2176",
   "original": "Golemancer",
   "translation": "魔像师",
-  "context": "ID: GOLEMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GOLEMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GOLEMANCER",
   "stage": 5
  },
  {
   "key": "c5aced9db49c68d55da4cb9f7ab3bae3",
   "original": "Graviton Polarization",
   "translation": "引力子极化",
-  "context": "ID: gravitymage_graviton\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton",
   "stage": 5
  },
  {
   "key": "36f32384e694ac6caadb52c1d48fe070",
   "original": "Graviton Polarization Damage",
   "translation": "引力子极化伤害",
-  "context": "ID: gravitymage_graviton_damage\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton_damage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton_damage",
   "stage": 5
  },
  {
   "key": "7c3bbc2ccb303c34d5f5329bcf20b121",
   "original": "Graviton Polarization centerdamage",
   "translation": "引力子极化中心伤害",
-  "context": "ID: gravitymage_graviton_centerdamage\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton_centerdamage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton_centerdamage",
   "stage": 5
  },
  {
   "key": "4bd22d95fdc7d6ed3178351c48fbc053",
   "original": "Gravity Mage",
   "translation": "重力法师",
-  "context": "ID: GRAVITY_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GRAVITY_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GRAVITY_MAGE",
   "stage": 5
  },
  {
@@ -1374,7 +1269,6 @@
   "key": "7c81fc6e2c4640a5f2720005f53e97e6",
   "original": "Greater Banishment",
   "translation": "高等放逐术",
-  "context": "ID: banishment_greater\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→banishment_greater\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banishment_greater",
   "stage": 5
  },
  {
@@ -1388,7 +1282,6 @@
   "key": "6ea2a7f5f77b675d943be3e2d4118a21",
   "original": "Harshly drop the temperature of your enemies from the inside, slowing down their bloodstreams or even shattering organs.",
   "translation": "将严寒注入敌人体内，降低体温，减缓血流，甚至粉碎器官。",
-  "context": "ID: cold_heart\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_heart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_heart",
   "stage": 3
  },
  {
@@ -1409,21 +1302,18 @@
   "key": "5ba114a0338bf7e0cee8172055572d34",
   "original": "Health recovery",
   "translation": "生命恢复",
-  "context": "ID: health_recovery\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→health_recovery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=health_recovery",
   "stage": 5
  },
  {
   "key": "b9a252325363ba549cb22283cf5f7e82",
   "original": "Hermes Reborn",
   "translation": "赫尔墨斯复生",
-  "context": "ID: cleansingflame_hermes_heal\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cleansingflame_hermes_heal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cleansingflame_hermes_heal",
   "stage": 3
  },
  {
   "key": "00365baa7e61d26e158d326f4747f2da",
   "original": "Hermes Reborn fire",
   "translation": "赫尔墨斯复生火焰",
-  "context": "ID: cleansingflame_hermes_burn\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cleansingflame_hermes_burn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cleansingflame_hermes_burn",
   "stage": 3
  },
  {
@@ -1458,7 +1348,6 @@
   "key": "d796921b2c9c49898d86da7012d0794f",
   "original": "Hypervelocity Knifeshot",
   "translation": "超高速飞刀术",
-  "context": "ID: technomancer_knifeshot_superior\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_knifeshot_superior\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=technomancer_knifeshot_superior",
   "stage": 5
  },
  {
@@ -1472,14 +1361,12 @@
   "key": "8eead4e908602f19912a7e9ca442d28d",
   "original": "Ice Clave",
   "translation": "寒冰之钥",
-  "context": "ID: ice_clave_blunt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→ice_clave_blunt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ice_clave_blunt",
   "stage": 5
  },
  {
   "key": "ebdaf0e56f6e022e7727327173c2ae70",
   "original": "Ice Elemental",
   "translation": "冰系法师",
-  "context": "ID: ICE_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ICE_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ICE_ELEMENTAL",
   "stage": 5
  },
  {
@@ -1507,42 +1394,36 @@
   "key": "45e5042ecdca144f34bf545f9966452e",
   "original": "Illusionist",
   "translation": "幻术师",
-  "context": "ID: ILLUSIONIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ILLUSIONIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ILLUSIONIST",
   "stage": 5
  },
  {
   "key": "75a9ff38a6b8b0b59297cc8521044cec",
   "original": "Immolate",
   "translation": "焚祭",
-  "context": "ID: immolate\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate",
   "stage": 5
  },
  {
   "key": "0a6f344929b217fa45dceae03add2ead",
   "original": "Immolate Transform",
   "translation": "焚祭转换",
-  "context": "ID: immolate_transform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate_transform",
   "stage": 5
  },
  {
   "key": "f254a4cca833b4d785e658b39bdddd77",
   "original": "Immolate push effect",
   "translation": "焚祭击退效果",
-  "context": "ID: immolate_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate_push",
   "stage": 5
  },
  {
   "key": "ac45e50c2ae8e6b52fbe13c475ec0d0b",
   "original": "Impact Sling",
   "translation": "冲击投索",
-  "context": "ID: magus_summon_impact_sling\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_summon_impact_sling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_summon_impact_sling",
   "stage": 5
  },
  {
   "key": "3254da68824244f7b31fdc5f77a7be87",
   "original": "Improved Knock",
   "translation": "万能开锁术",
-  "context": "ID: improved_knock\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→improved_knock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=improved_knock",
   "stage": 5
  },
  {
@@ -1556,7 +1437,6 @@
   "key": "225b7f2b951063a311f0051f75d37ef6",
   "original": "In the sea without lees\nStandeth the bird of Hermes\nEating his wings variable\nAnd maketh himself yet full stable",
   "translation": "在无背风处的海中\n站立着赫耳墨斯之鸟\n吃着自己多变的翅膀\n使自己变得完全稳定（注：《黎普列卷轴》）",
-  "context": "ID: cleansingflame_hermes_heal\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cleansingflame_hermes_heal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cleansingflame_hermes_heal",
   "stage": 3
  },
  {
@@ -1591,14 +1471,12 @@
   "key": "2be6681f5b19295ff5aad7987679cf32",
   "original": "Ixythyug the Destroyer's soul",
   "translation": "伊克斯蒂赫“毁灭者”之魂",
-  "context": "ID: demon_possession_aura\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→ARMOR→demon_possession_aura\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=demon_possession_aura",
   "stage": 5
  },
  {
   "key": "e699507c95989549d38c076e59bfe3db",
   "original": "Jar of Force",
   "translation": "力瓶术",
-  "context": "ID: magus_force_jar\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_force_jar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_force_jar",
   "stage": 3
  },
  {
@@ -1612,14 +1490,13 @@
   "key": "ddcd4ed8f75e077be72bf477d32620e9",
   "original": "Jury Rig",
   "translation": "紧急损管",
-  "context": "ID: biotek_healing\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Biotek.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biotek_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=biotek_healing",
   "stage": 5
  },
  {
   "key": "3bf18a6721550731035872fbe08bac5e",
   "original": "Kelvinist",
   "translation": "炽霜法师",
-  "context": "ID: KELVINIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→KELVINIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KELVINIST",
+  "context": "ID: KELVINIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→KELVINIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KELVINIST",
   "stage": 5
  },
  {
@@ -1647,14 +1524,12 @@
   "key": "d8d300449e6e62cbc2fddcf212326154",
   "original": "Knifeshot",
   "translation": "飞刀术",
-  "context": "ID: technomancer_knifeshot\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_knifeshot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=technomancer_knifeshot",
   "stage": 5
  },
  {
   "key": "3b5b8ec2903478fc081f603bd704f9be",
   "original": "Knock",
   "translation": "开锁术",
-  "context": "ID: knock\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→knock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=knock",
   "stage": 5
  },
  {
@@ -1668,28 +1543,28 @@
   "key": "392356882715dfbe2acbfd971a485c7e",
   "original": "Lava Bomb",
   "translation": "熔岩炸弹",
-  "context": "ID: lava_bomb_main\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_main",
+  "context": "ID: lava_bomb_main\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_main",
   "stage": 5
  },
  {
   "key": "5838cd61382ddd48e8a104a42a009a3b",
   "original": "Lava Bomb Heat",
   "translation": "熔岩炸弹热浪",
-  "context": "ID: lava_bomb_heat\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_heat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_heat",
+  "context": "ID: lava_bomb_heat\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_heat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_heat",
   "stage": 5
  },
  {
   "key": "870b31a35559b2ae4b0263d2dc752534",
   "original": "Lava Bomb Shrapnel",
   "translation": "熔岩炸弹碎岩",
-  "context": "ID: lava_bomb_shrapnel\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_shrapnel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_shrapnel",
+  "context": "ID: lava_bomb_shrapnel\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_shrapnel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_shrapnel",
   "stage": 5
  },
  {
   "key": "48bb99d6f687fd94fcbf705ad1ad6a4a",
   "original": "Lava Bomb Terrain",
   "translation": "熔岩炸弹地形",
-  "context": "ID: lava_bomb_ter\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_ter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_ter",
+  "context": "ID: lava_bomb_ter\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_ter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_ter",
   "stage": 5
  },
  {
@@ -1703,7 +1578,6 @@
   "key": "8a56ffd9035011ae5e574464f64a654f",
   "original": "Lesser Banishment",
   "translation": "次等放逐术",
-  "context": "ID: banishment_lesser\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→banishment_lesser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banishment_lesser",
   "stage": 3
  },
  {
@@ -1745,7 +1619,6 @@
   "key": "d7f642adf094f8b954b954f9c474dd00",
   "original": "Lupercalian Release",
   "translation": "狼人变身",
-  "context": "ID: lupercalia\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lupercalia\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lupercalia",
   "stage": 5
  },
  {
@@ -1773,21 +1646,19 @@
   "key": "615ffd31e47b4833afe36d49afe41967",
   "original": "Magnetism Mage",
   "translation": "磁力法师",
-  "context": "ID: MAGNETISM_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→MAGNETISM_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAGNETISM_MAGE",
   "stage": 5
  },
  {
   "key": "f42cda6cd734a00363a561a7f432cafe",
   "original": "Magnetize a bullet, and fire it at supersonic speeds by applying an opposite magnetic force to the bullet.  Leaves a trail of sparks",
   "translation": "将子弹磁化后通过一个反向磁场将子弹以超声速发射，并留下一道闪光的尾迹。",
-  "context": "ID: railgun\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→railgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=railgun",
   "stage": 5
  },
  {
   "key": "56b14eaf6f8ade2aac706cc7f4b233f7",
   "original": "Magus",
   "translation": "魔术师",
-  "context": "ID: MAGUS\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→MAGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAGUS",
+  "context": "ID: MAGUS\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→MAGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAGUS",
   "stage": 5
  },
  {
@@ -1801,7 +1672,6 @@
   "key": "52e425c947cbf2f641124d38852dc8af",
   "original": "Make a manafusion trap, stabilizing manafusion bombs and giving you some of the excess mana.",
   "translation": "召唤一个魔能聚变陷阱，稳定魔能聚变炸弹并给予你一些额外的魔力。",
-  "context": "ID: alchemist_make_potion_trap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_trap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_trap",
   "stage": 3
  },
  {
@@ -1836,28 +1706,24 @@
   "key": "b31dbca3f59c49dd673e34f5aa7cfc09",
   "original": "Manafusion bomb",
   "translation": "魔能聚变炸弹",
-  "context": "ID: alchemist_make_potion_bomb\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_bomb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_bomb",
   "stage": 3
  },
  {
   "key": "92098c246ce5a77abc56ef74c98e95c8",
   "original": "Manafusion bomb create",
   "translation": "制作魔能聚变炸弹",
-  "context": "ID: alchemist_make_potion_bomb_create\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_bomb_create\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_bomb_create",
   "stage": 3
  },
  {
   "key": "0edb88eb87b3876416c5cc125cb1ab75",
   "original": "Manafusion trap",
   "translation": "魔能聚变陷阱",
-  "context": "ID: alchemist_make_potion_trap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_trap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_trap",
   "stage": 3
  },
  {
   "key": "45d9b415d8f069277d14cb51aaa2beff",
   "original": "Manafusion trap create",
   "translation": "制作魔能聚变陷阱",
-  "context": "ID: alchemist_make_potion_trap_create\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_trap_create\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_trap_create",
   "stage": 3
  },
  {
@@ -1871,7 +1737,6 @@
   "key": "27a2992cc826eaffe36f4626ada33653",
   "original": "Manifests an aura of crackling electricity around you to strike attackers with baleful lightning.",
   "translation": "你在你周围召唤出一道噼啪作响的电弧光环，能放出可怕的闪电电击近战攻击你的敌人。",
-  "context": "ID: stormshaper_repelling_arc\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormshaper_repelling_arc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stormshaper_repelling_arc",
   "stage": 5
  },
  {
@@ -1906,7 +1771,6 @@
   "key": "0b508fcfc647e0f69fea187faba6597c",
   "original": "Named for the auroras that grace the poles of the earth, the Boreal mage specializes in auras that protect ethereally.  Boreal mages definitely know their way around cold spells, but their real strength is protection.",
   "translation": "以优雅地照亮了地球的两极的极光命名，北寒法师专门研究魔法保护的光环。北寒法师当然也很了解寒冷法术，但他们真正强大之处还是在于防护。",
-  "context": "ID: BOREAL_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BOREAL_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BOREAL_MAGE",
   "stage": 5
  },
  {
@@ -1934,20 +1798,19 @@
   "key": "8efae9863e8d6bd84ca830f27ee6a828",
   "original": "Nitro Boost",
   "translation": "氮气加速",
-  "context": "ID: nitro_boost\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Biotek.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→nitro_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nitro_boost",
   "stage": 5
  },
  {
   "key": "70b5d88817577d838869165df4a07a4d",
   "original": "Nothing seems to be happening",
   "translation": "看起来什么都没发生",
+  "context": "ID: sonic_pulse\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/ter_furn_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→ter_furn_transform→sonic_pulse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sonic_pulse",
   "stage": 3
  },
  {
   "key": "d78b2a15f7bcf785805776660768446d",
   "original": "Nova Flare",
   "translation": "超新星炎爆",
-  "context": "ID: nova_flare\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→nova_flare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nova_flare",
   "stage": 5
  },
  {
@@ -1961,7 +1824,6 @@
   "key": "68851218ac60d8d7ab60b182e6ffb87a",
   "original": "Offer some of your life in a ritual to get tokens of growth in return.",
   "translation": "在仪式中献出你的部分生命来换取成长的象征。",
-  "context": "ID: druid_growth\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_growth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_growth",
   "stage": 3
  },
  {
@@ -1975,7 +1837,6 @@
   "key": "9b04070cb5ae21af9c1b0ff73ddf686c",
   "original": "One of the most destructive forces on earth, a Volcano Mage takes some aspect of its namesake.  Their spells tend to be a little slow, but their resilience in proximity to a volcano is legendary.",
   "translation": "火山是地球上最具有破坏性的力量之一，而火山法师也正如其名字一般采用了火山的力量。他们的法术施展起来较为缓慢，但是他们在火山附近时的坚韧却已经成为传说。",
-  "context": "ID: VULCANIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→VULCANIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VULCANIST",
   "stage": 5
  },
  {
@@ -1989,7 +1850,6 @@
   "key": "a25cabc40ea0350a197474a893d5dea9",
   "original": "Overaccelerate",
   "translation": "超速术",
-  "context": "ID: overaccelerate\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Overclocker.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→overaccelerate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=overaccelerate",
   "stage": 5
  },
  {
@@ -2003,14 +1863,12 @@
   "key": "08c506b6ac39e7575fed77f70f7fe3c6",
   "original": "Overclocker",
   "translation": "超频法师",
-  "context": "ID: OVERCLOCKER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→OVERCLOCKER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=OVERCLOCKER",
   "stage": 5
  },
  {
   "key": "49e3bbc7a7b31ae297d6d6b567694f65",
   "original": "Oversaturates potion starter with mana to create a deadly mana explosion.",
   "translation": "使基础药剂的法力过饱和，造成致命的魔能爆炸。",
-  "context": "ID: alchemist_make_potion_bomb\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Alchemist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→alchemist_make_potion_bomb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alchemist_make_potion_bomb",
   "stage": 3
  },
  {
@@ -2045,7 +1903,6 @@
   "key": "0700733c00da8b738b321e30c084bc1c",
   "original": "Permafrost Mage",
   "translation": "永霜法师",
-  "context": "ID: PERMAFROST_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→PERMAFROST_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PERMAFROST_MAGE",
   "stage": 5
  },
  {
@@ -2080,7 +1937,6 @@
   "key": "ba6fa906ffb125eddfde08845a6e2f07",
   "original": "Pocket Sun",
   "translation": "口袋太阳",
-  "context": "ID: sunmage_pocket_sun\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Sun_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→sunmage_pocket_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sunmage_pocket_sun",
   "stage": 3
  },
  {
@@ -2122,42 +1978,36 @@
   "key": "c64c84c88b991458b38eeaaa0bbd44cb",
   "original": "Quake",
   "translation": "地震术",
-  "context": "ID: quake\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quake",
   "stage": 5
  },
  {
   "key": "a85eb7a515499bd5b050f8c707055306",
   "original": "Quake Transform",
   "translation": "地震术地形转换",
-  "context": "ID: quake_transform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→quake_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quake_transform",
   "stage": 5
  },
  {
   "key": "d19044738ec68523f8c1cf5f6caa1599",
   "original": "RIP AND TEAR",
   "translation": "撕碎万物！",
-  "context": "ID: demon_possession_aura\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→ARMOR→demon_possession_aura\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=demon_possession_aura",
   "stage": 5
  },
  {
   "key": "62582e5d9c6aff45826da433dcb9a5ec",
   "original": "Radiation Mage",
   "translation": "辐射法师",
-  "context": "ID: RADIATION_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→RADIATION_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=RADIATION_MAGE",
   "stage": 5
  },
  {
   "key": "22e6726fc91ec9a1a9a4d43afcdaa745",
   "original": "Railgun",
   "translation": "轨道炮",
-  "context": "ID: railgun\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→railgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=railgun",
   "stage": 5
  },
  {
   "key": "c45c27a0d8d7787e31da609bec4c43b7",
   "original": "Railgun Sparks",
   "translation": "轨道炮闪光",
-  "context": "ID: railgun_sparks\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→railgun_sparks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=railgun_sparks",
   "stage": 5
  },
  {
@@ -2171,21 +2021,18 @@
   "key": "91205c61234149571161ffc01d129319",
   "original": "Reference spell definition used for Shocking Lash and Shocking Lash Jump",
   "translation": "作为闪电鞭和闪电鞭跳跃的参考法术定义。",
-  "context": "ID: shocking_lash_base\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash_base\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash_base",
   "stage": 5
  },
  {
   "key": "8dc253f9cb55e8d907ab0590856231ce",
   "original": "Repelling Arc",
   "translation": "电弧光环",
-  "context": "ID: stormshaper_repelling_arc\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormshaper_repelling_arc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stormshaper_repelling_arc",
   "stage": 5
  },
  {
   "key": "b85da2ce2024540e240d4d0e5ee0dd47",
   "original": "Repelling Arc Aura",
   "translation": "电弧光环",
-  "context": "ID: thorns_zap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→thorns_zap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thorns_zap",
   "stage": 5
  },
  {
@@ -2199,14 +2046,12 @@
   "key": "9f6de229256cd694a0fb1213d2edccc2",
   "original": "Rock Blast",
   "translation": "巨石冲击",
-  "context": "ID: rock_blast\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→rock_blast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rock_blast",
   "stage": 5
  },
  {
   "key": "7259e6e6c3d37c472cd9280d7ce339ca",
   "original": "Rock Blast Push",
   "translation": "巨石冲击（击退）",
-  "context": "ID: rock_blast_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→rock_blast_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rock_blast_push",
   "stage": 5
  },
  {
@@ -2241,7 +2086,6 @@
   "key": "618bc7d26ddfb2b20e96d98f3be74cd0",
   "original": "Samsara",
   "translation": "轮回术",
-  "context": "ID: gaiaschosen_samsara\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gaias_Chosen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gaiaschosen_samsara\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gaiaschosen_samsara",
   "stage": 3
  },
  {
@@ -2255,7 +2099,6 @@
   "key": "21313628994f1d0e55b4a1566d0a7caf",
   "original": "Seed of Growth",
   "translation": "成长之种",
-  "context": "ID: druid_growth\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_growth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_growth",
   "stage": 3
  },
  {
@@ -2276,28 +2119,24 @@
   "key": "e5d94e804736135c676ce02a2a550396",
   "original": "Sends out a partly magical, partly electronic spy drone shaped like a wasp that reveals terrain in a line in front of you.  The wasp can travel through walls.",
   "translation": "派出一只部分魔法、部分电子、外形像黄蜂的侦察无人机，揭示你正前方一条线上的地形。侦察蜂可以穿过墙壁。",
-  "context": "ID: spy_wasp\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→spy_wasp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spy_wasp",
   "stage": 5
  },
  {
   "key": "4d106b2b9775bed4766f135831a52737",
   "original": "Shadow Field",
   "translation": "暗影结界",
-  "context": "ID: shadow_field\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shadow_field\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shadow_field",
   "stage": 5
  },
  {
   "key": "578f6b829abd7b984a8465def59115cc",
   "original": "Shaman",
   "translation": "萨满巫师",
-  "context": "ID: SHAMAN\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SHAMAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SHAMAN",
   "stage": 5
  },
  {
   "key": "ec786af560b47dc5bb54c93df6ec5317",
   "original": "Shapeshifter",
   "translation": "变形者",
-  "context": "ID: SHAPESHIFTER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SHAPESHIFTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SHAPESHIFTER",
   "stage": 5
  },
  {
@@ -2318,49 +2157,42 @@
   "key": "92bef7676d1bd904b6c5ebd5e8233dc1",
   "original": "Shocking Lash",
   "translation": "闪电鞭",
-  "context": "ID: shocking_lash\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash",
   "stage": 5
  },
  {
   "key": "46e871173bf723ef80e31a2648d91b8f",
   "original": "Shocking Lash Base",
   "translation": "闪电鞭基础",
-  "context": "ID: shocking_lash_base\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash_base\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash_base",
   "stage": 5
  },
  {
   "key": "9713f7135f5400bea228d1d29b7f385d",
   "original": "Shocking Lash Jump",
   "translation": "闪电鞭跳跃",
-  "context": "ID: shocking_lash_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash_2",
   "stage": 5
  },
  {
   "key": "47d450ece07ed877dd4a14169e30096f",
   "original": "Shoot directed light from your fingertips that is so bright you can see through the skin of the targets for an instant.",
   "translation": "从指尖发出耀眼的光束，能使你在一瞬间透过目标的皮肤看到亮光。",
-  "context": "ID: spear_of_light\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Illusionist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→spear_of_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spear_of_light",
   "stage": 5
  },
  {
   "key": "565bc75ba371c7b74719e9fbdd2edf64",
   "original": "Shortwave",
   "translation": "短波术",
-  "context": "ID: shortwave\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Radiation_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shortwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shortwave",
   "stage": 5
  },
  {
   "key": "f3fac169c64ad0c5b010e9abd5dabeab",
   "original": "Shortwave 2",
   "translation": "短波术2",
-  "context": "ID: shortwave_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Radiation_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shortwave_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shortwave_2",
   "stage": 5
  },
  {
   "key": "0ed21213b103330c0f2b21f1d7ec451c",
   "original": "Single Rock Blast",
   "translation": "巨石冲击（单块）",
-  "context": "ID: single_rock_blast\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→single_rock_blast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=single_rock_blast",
   "stage": 5
  },
  {
@@ -2374,7 +2206,6 @@
   "key": "dbb874e37fbd84219f3431c8de80fe0d",
   "original": "Solar Beam",
   "translation": "日光束",
-  "context": "ID: solar_beam\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Sun_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→solar_beam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=solar_beam",
   "stage": 5
  },
  {
@@ -2444,42 +2275,36 @@
   "key": "5a88113ef1f5a7bffced9c0740626156",
   "original": "Soul Afterburner",
   "translation": "灵魂助推",
-  "context": "ID: soul_afterburner\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soul_afterburner\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soul_afterburner",
   "stage": 5
  },
  {
   "key": "499de754416140524f206d68859b6d34",
   "original": "Soul Burn",
   "translation": "灵魂燃烧",
-  "context": "ID: soul_afterburner_effect_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soul_afterburner_effect_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soul_afterburner_effect_1",
   "stage": 5
  },
  {
   "key": "5c7b31d65dbb3e3a2c7940f0ab7b04a7",
   "original": "Soulfire",
   "translation": "魂火法师",
-  "context": "ID: SOULFIRE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SOULFIRE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SOULFIRE",
   "stage": 5
  },
  {
   "key": "c3732f4a3bcd1ee621c41b289d18bb5b",
   "original": "Soulrend",
   "translation": "裂魂术",
-  "context": "ID: soulrend\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soulrend\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soulrend",
   "stage": 5
  },
  {
   "key": "8c7de053b830b9e59a9b22e0974f17de",
   "original": "Spear of Light",
   "translation": "光之矛",
-  "context": "ID: spear_of_light\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Illusionist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→spear_of_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spear_of_light",
   "stage": 5
  },
  {
   "key": "5290418df6f2fe578bf425be83b8f33f",
   "original": "Spews a line of acid from your mouth.",
   "translation": "从你的口中喷出一道酸液。",
-  "context": "ID: dragon_breath_acid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_breath_acid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_breath_acid",
   "stage": 5
  },
  {
@@ -2500,21 +2325,18 @@
   "key": "ddab29c4dc52b28b153eb613f7120407",
   "original": "Spy Wasp",
   "translation": "侦察蜂",
-  "context": "ID: spy_wasp\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→spy_wasp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spy_wasp",
   "stage": 5
  },
  {
   "key": "92cc3c7db6852011d5782766c4947d2a",
   "original": "Stamina recovery",
   "translation": "耐力恢复",
-  "context": "ID: stamina_recovery\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stamina_recovery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stamina_recovery",
   "stage": 5
  },
  {
   "key": "0cc2f923809c98f06700a7b275353171",
   "original": "Stone is superior to flesh.  You have allowed this axiom into your life, and work to correct your own weakness with biomancy.  The strength of the Earth rushed up to meet you with open arms.",
   "translation": "石胜于肉。你将句话作为你的座右铭，并努力用你的生化术士能力来纠正自身血肉的不足。大地的力量张开双臂迎接向你。",
-  "context": "ID: EARTH_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→EARTH_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EARTH_ELEMENTAL",
   "stage": 5
  },
  {
@@ -2542,49 +2364,43 @@
   "key": "0399ce418c0e543fed4f24ca87d5e3b7",
   "original": "Storm Chain",
   "translation": "闪电风暴链",
-  "context": "ID: storm_chain_master\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_master\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_master",
   "stage": 5
  },
  {
   "key": "9322a4a816eb489d5cc37062e2d611a7",
   "original": "Storm Chain 1",
   "translation": "闪电风暴链1",
-  "context": "ID: storm_chain_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_1",
   "stage": 5
  },
  {
   "key": "ab125ae5cc3b5319ae192ee5308bffc4",
   "original": "Storm Chain 2",
   "translation": "闪电风暴链2",
-  "context": "ID: storm_chain_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_2",
   "stage": 5
  },
  {
   "key": "dcdfb290b4ecc16f328701cd7865de22",
   "original": "Storm Chain 3",
   "translation": "闪电风暴链3",
-  "context": "ID: storm_chain_3\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_3",
   "stage": 5
  },
  {
   "key": "ae638234cf75b94ed109bfd22420cd8c",
   "original": "Storm Elemental",
   "translation": "暴风术师",
-  "context": "ID: STORM_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORM_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORM_ELEMENTAL",
   "stage": 5
  },
  {
   "key": "8e34b0c005a6511183eab44ee5a71ab2",
   "original": "Stormcaller",
   "translation": "唤风者",
-  "context": "ID: STORMCALLER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMCALLER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMCALLER",
   "stage": 5
  },
  {
   "key": "ceedaffea1aad4d4e0b38d5751eeef0c",
   "original": "Stormshaper",
   "translation": "风暴塑造者",
-  "context": "ID: STORMSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMSHAPER",
+  "context": "ID: STORMSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMSHAPER",
   "stage": 5
  },
  {
@@ -2598,21 +2414,19 @@
   "key": "c743ff31de8f2bd5fd43289c152321b3",
   "original": "Stormshapers follow ancient arcane disciplines of meditation and harmony with the winds and tides that shape the planet.  Through their deep connection to these forces, they can request powerful changes.",
   "translation": "风暴塑造者遵循古老的奥术信条，依靠冥想与风暴和潮汐融为一体来改造这个世界。通过他们与这些力量的深入联系，他们可以请求强大力量的改变。",
-  "context": "ID: STORMSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMSHAPER",
+  "context": "ID: STORMSHAPER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORMSHAPER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORMSHAPER",
   "stage": 5
  },
  {
   "key": "57cd327640fa159549c30467dc28599e",
   "original": "Subzero Talons",
   "translation": "冰爪",
-  "context": "ID: summon_subzero_talons\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_subzero_talons\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_subzero_talons",
   "stage": 5
  },
  {
   "key": "6b86f90a243f245e4f2aa79e64cb758d",
   "original": "Summon Claygolem",
   "translation": "召唤粘土傀儡",
-  "context": "ID: summon_golem_clay\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_golem_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_golem_clay",
   "stage": 3
  },
  {
@@ -2626,7 +2440,6 @@
   "key": "0b85fde20929dbe7b4c75a39904fdffe",
   "original": "Summon Mojocycle",
   "translation": "召唤魔托车",
-  "context": "ID: summon_magic_motorcycle\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_magic_motorcycle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_magic_motorcycle",
   "stage": 5
  },
  {
@@ -2640,7 +2453,6 @@
   "key": "14aabd299e169122e1e3c19d0fa3f298",
   "original": "Summon Wolf",
   "translation": "召唤狼",
-  "context": "ID: summon_wolf_druid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_wolf_druid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_wolf_druid",
   "stage": 5
  },
  {
@@ -2654,7 +2466,6 @@
   "key": "92c1d5851da2f2314d60116d8fc28ffd",
   "original": "Summon a jar of force in which you can store liquids.",
   "translation": "召唤出一个能够用来储存液体的魔力瓶。",
-  "context": "ID: magus_force_jar\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_force_jar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_force_jar",
   "stage": 3
  },
  {
@@ -2668,7 +2479,6 @@
   "key": "e394072a5d0f662c92571cc4a87967d3",
   "original": "Summon your personal pack of winter wolves to freeze and maul your foes.",
   "translation": "召唤你直属的冬狼群来冻结并撕碎你的敌人。",
-  "context": "ID: summon_winter_wolf\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_winter_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_winter_wolf",
   "stage": 5
  },
  {
@@ -2703,7 +2513,6 @@
   "key": "0a93462fd63c978d1597e14833741d5e",
   "original": "Sun Mage",
   "translation": "日炎法师",
-  "context": "ID: SUN_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SUN_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SUN_MAGE",
   "stage": 5
  },
  {
@@ -2724,7 +2533,7 @@
   "key": "eef73d6e06c625f3bfb1a6abf214c7c6",
   "original": "Technomancer",
   "translation": "科技法师",
-  "context": "ID: TECHNOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TECHNOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TECHNOMANCER",
+  "context": "ID: TECHNOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TECHNOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TECHNOMANCER",
   "stage": 5
  },
  {
@@ -2738,7 +2547,7 @@
   "key": "0e6c9e2aa342da5d419db1c0c07a796a",
   "original": "Technomancers are the new breed of modern magician, blending their arcane might with their advanced knowledge of the fundamental nature of the universe.  They use technology to enhance their magic and vice versa.",
   "translation": "科技法师是现代魔法师的新兴流派，他们将神秘的奥法力量与他们对宇宙基本性质的深入了解结合为一体。他们使用科技来强化他们的魔法，反之亦然。",
-  "context": "ID: TECHNOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TECHNOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TECHNOMANCER",
+  "context": "ID: TECHNOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TECHNOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TECHNOMANCER",
   "stage": 5
  },
  {
@@ -2759,21 +2568,19 @@
   "key": "ff765d9d3bb4620fc671561585c64dfc",
   "original": "Teleports you randomly near a target location.",
   "translation": "将你随机传送至目标位置附近。",
-  "context": "ID: dimension_door\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dimension_door\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dimension_door",
   "stage": 3
  },
  {
   "key": "667ea313b2df0e5693bc06db70ece015",
   "original": "The Biomancer focuses on manipulating and even absorbing flesh; their own, and that of other living or dead things.  Most other wizards find their powers gross and disturbing, but no one can question the potency of their abilities, and certainly not their adaptability to any situation.",
   "translation": "生化术士着重于操纵甚至吸收血肉：自己的，以及其他活物或者死尸的血肉。大多数魔法师认为他们的法术令人恶心与不安，但没人敢质疑它们的威力，当然也没有人敢质疑他们对各种情况的适应力。",
-  "context": "ID: BIOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOMANCER",
+  "context": "ID: BIOMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOMANCER",
   "stage": 5
  },
  {
   "key": "1846f942a361b20ee41664735f011585",
   "original": "The Biotek is quite simply the marriage of technology and flesh.  It was not even discovered as an attunement until recent times due to the great advancements in technology in the last 50 years.  The Biotek is unique as it is the only known attunement that warps the Aethereum in such a way as to allow cybernetics to coincide with magical abilities, to an extent.",
   "translation": "生化技师是技术和肉体的简单结合。由于科技在过去50年中的巨大进步，直到最近人们才发现了魔法调谐现象。生化技师是独一无二的，因为它是唯一已知能够在某种程度上扭曲以太的魔法调谐，从而让生化插件与魔法能力在某种程度上融合一致。",
-  "context": "ID: BIOTEK\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→BIOTEK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BIOTEK",
   "stage": 5
  },
  {
@@ -2787,56 +2594,48 @@
   "key": "8947c7052d3b69f0232b28242f5b0350",
   "original": "The Champion of the Earth, Gaia's Chosen is blessed on all things nature, animate and inanimate.",
   "translation": "大地的捍卫者，盖亚的神选民，你被大自然中一切有生与无生之物所祝福。",
-  "context": "ID: GAIAS_CHOSEN\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GAIAS_CHOSEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GAIAS_CHOSEN",
   "stage": 5
  },
  {
   "key": "691b3493f51d4032716e81c39996a6ac",
   "original": "The Cleansing Flame is the fire that burns away the chaff, in preparation for the regrowth of new life.",
   "translation": "净化之火是能够燃尽一切污秽的火焰，为生命的新生做准备。",
-  "context": "ID: CLEANSING_FLAME\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→CLEANSING_FLAME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CLEANSING_FLAME",
   "stage": 5
  },
  {
   "key": "077d85bbf211a8b5fd02acc88c2a81b7",
   "original": "The Crusader attunement is a clashing dichotomy of Man and Nature.  Utilizing man's propensity for tools and nature's resilience, the Crusader is a juggernaut in armed combat.",
   "translation": "圣战法师魔法调谐中专注于人与自然的矛盾二分法。圣战法师同时利用人类使用工具的倾向和以及自然的复原能力，是武装近战中的佼佼者。",
-  "context": "ID: CRUSADER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→CRUSADER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CRUSADER",
   "stage": 5
  },
  {
   "key": "236109d85cc13c21cc63818097242f84",
   "original": "The Golemancer is the ancient myth of the clay golem, made reality from constant use of Animist summons and Earthshaper self-strengthening spells.  Takes some traits from the golems they create, such as immunity to slowing effects.",
   "translation": "魔像师是神话故事中操纵粘土傀儡的人，他使用泛灵师召唤物和塑地者强化法术。他们也从傀儡造物中习得了一些特质，例如免疫减速效果。",
-  "context": "ID: GOLEMANCER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GOLEMANCER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GOLEMANCER",
   "stage": 5
  },
  {
   "key": "648242696737e9244fe91d9bbbaa7d8e",
   "original": "The Radiation mage was discovered as an attunement in the 20th century, closely guarded as a military secret in close relation to the Manhatten Project.  It was declassified in 1989 as a part of the attunement awareness movement, but it is still poorly understood even by the very few researchers that wrote books on attunements.",
   "translation": "辐射法师在 20 世纪作为一种魔法调谐被发现，由于其发现过程与曼哈顿计划密切相关，因此一直被作为军事机密严密保管。但在 1989 年，它作为魔法调谐全民科普运动的一部分而被解密，但是至今仍未有研究者彻底理解其原理，即使对于极少数写过魔法调谐专著的研究者也是如此。",
-  "context": "ID: RADIATION_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→RADIATION_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=RADIATION_MAGE",
   "stage": 5
  },
  {
   "key": "c1d461c5012143146b7a3ac738019bc7",
   "original": "The Soulfire is a phenomena of the caster's spirit binding to a fragment of a spirit of flame.  This makes it possible for the Soulfire to use its namesake as an element - much like fire, it does burn, but it burns away at the soul instead of the flesh.",
   "translation": "灵魂之火是施法者将自身部分灵魂与火焰碎片结合而成的现象。这使得魂火法师可以像使用火焰一样使用这种命名了自身魔法调谐的元素，它确实能够燃烧，但它燃烧的是你的灵魂而非肉体。",
-  "context": "ID: SOULFIRE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SOULFIRE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SOULFIRE",
   "stage": 5
  },
  {
   "key": "847f3f051e6eea8d0b0e4f9570af7ade",
   "original": "The Sun Mage has been studying the Laws governing heat, and has attained a special relationship with that life-giving yellow orb in the sky.  Glimpses of the Sun meet its foes, and its own burning light pierces the darkness.",
   "translation": "日炎法师通过长期研究热量传导规律，与天空中那个造就生命的黄色火球产生了特殊的联系。太阳的光辉将击穿黑暗，使任何瞥见这光芒的敌人畏惧。",
-  "context": "ID: SUN_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SUN_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SUN_MAGE",
   "stage": 5
  },
  {
   "key": "cbca4d7f15d7bd182038bb4c5f42c64a",
   "original": "The Technomancer specializes in augmenting humans without actually modifying them; and the Overclocker takes the heat aptitude of a Kelvinist and puts that to work.  You are able to think significantly faster, and are able to align your leylines for spellcasting faster as a result.",
   "translation": "科技法师擅长于在不完全抛弃肉体的情况下增强自身；而超频法师利用了炽霜法师对高热的适应，并将其付诸实践。这让你能够更快地思考，并且能够更迅速地调节你的灵脉提升施法速度。",
-  "context": "ID: OVERCLOCKER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→OVERCLOCKER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=OVERCLOCKER",
   "stage": 5
  },
  {
@@ -2850,42 +2649,37 @@
   "key": "2ee4ced9b15c69cffcd82d235cce1ad0",
   "original": "The alchemist comes from the technomancer's skills with unliving matter combined with the animist's grasp on the ambient ley lines.  It requires magical talent and lots of time, but is invaluable for creating powerful magical effects in a storable, accessible form.",
   "translation": "炼金术士来自于科技法师处理无机物的技能，加上泛灵师对周围魔法灵脉的掌握。掌握它需要魔法天赋和大量时间，但对于将魔法能量以可存储、便于使用的形式创造更强大的法术效果来说是无价的。",
-  "context": "ID: ALCHEMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ALCHEMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ALCHEMIST",
   "stage": 3
  },
  {
   "key": "9dbf392b95d416ff272390cffd1b4913",
   "original": "The animist tradition is a relatively new school of magical thought, formed through combination of many older ways that focus on harmony and connection to the natural world.  This does not mean that animists are passive: the natural world is a savage place.",
   "translation": "泛灵师是一个相对较新的魔法理论流派，它由许多注重与自然世界的联系以及和谐的古老理论融合而成。但这并不意味着泛灵师们只会被动挨打：不要忘了，自然界可是一个野蛮的地方。",
-  "context": "ID: ANIMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ANIMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ANIMIST",
+  "context": "ID: ANIMIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/classes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ANIMIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ANIMIST",
   "stage": 5
  },
  {
   "key": "e7b3072671a18ec6d4d8877c80758d62",
   "original": "The barren cold of the world's far reaches flows through the Tundra Mage.  They find power in the all-pervasive frost of the North and in the creatures that defy its deathly chill.",
   "translation": "源自世界上遥远荒原的寒冷流淌在苔原法师的体内。他们在北方无所不在的霜冻以及那些不畏严寒的生物身上找到了力量。",
-  "context": "ID: TUNDRA_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TUNDRA_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TUNDRA_MAGE",
   "stage": 5
  },
  {
   "key": "2e9b018b97e2791b0d826a9201a55928",
   "original": "The bite damage in Acid Bite.",
   "translation": "酸液噬咬造成的咬伤。",
-  "context": "ID: dragon_bite\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_bite",
   "stage": 5
  },
  {
   "key": "0d0e460e8afceff059c52960c23d78a5",
   "original": "The earth is scorched clean!",
   "translation": "大地被烈焰焚烧殆尽！",
-  "context": "ID: immolate_transform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→ter_furn_transform→immolate_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate_transform",
   "stage": 5
  },
  {
   "key": "cfcaed9c6c3a81acf112226f156796de",
   "original": "The fundamental Laws of the universe are thought of as the end-all-be-all in magical circles, and the Gravity Mage is a result of mages mucking around with those laws.  Unfortunately, this attunement does not give supreme control over gravity as a fundamental force, though the affinity is prominent and comes with some non-negligible benefits.",
   "translation": "宇宙的基本定律被认为是魔法圈的终极法则，而重力法师则是魔法师中爱折腾这些定律的结果。不幸的是，这种魔法调谐并没能完全控制及利用重力这一基本力量，不过魔力亲和度获得了显著提升，并带来了一些不可忽视的增益。",
-  "context": "ID: GRAVITY_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GRAVITY_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GRAVITY_MAGE",
   "stage": 5
  },
  {
@@ -2899,42 +2693,36 @@
   "key": "cc2df13924adb11c89aba9bf04e93948",
   "original": "The immolate spell is powerful enough to push targets from its epicenter.",
   "translation": "焚祭法术的威力足以将目标从震中推出去。",
-  "context": "ID: immolate_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate_push",
   "stage": 5
  },
  {
   "key": "c4c529eaf7060f44676a0b714adba109",
   "original": "The part of the Immolate spell that causes the transform.",
   "translation": "焚祭法术中造成转换的部分。",
-  "context": "ID: immolate_transform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Cleansing_Flame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→immolate_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=immolate_transform",
   "stage": 5
  },
  {
   "key": "eaab1cc98671004d311b8b7d26646eff",
   "original": "The power of a Glacier Mage is backed by a thousand tons of ice and snow, with a brutal might in their spells.  While they are skilled with cold spells, their greatest strength is in offense.",
   "translation": "冰川法师的魔法威力得到了上千吨冰雪的支持，他们所施放的法术充满了这种野蛮的力量。虽然他们擅长寒冷法术，但他们真正强大之处还是在于进攻。",
-  "context": "ID: GLACIER_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→GLACIER_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GLACIER_MAGE",
   "stage": 5
  },
  {
   "key": "9f6eaece98523b79c499e22d2f7a3811",
   "original": "The push portion of the rock blast spell",
   "translation": "巨石冲击法术的击退效果",
-  "context": "ID: rock_blast_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→rock_blast_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rock_blast_push",
   "stage": 5
  },
  {
   "key": "d110f589124c6fa73be2c56d3009cbf0",
   "original": "The secondary jump from Shocking Lash.",
   "translation": "闪电鞭的第二跳。",
-  "context": "ID: shocking_lash_2\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_lash_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shocking_lash_2",
   "stage": 5
  },
  {
   "key": "8169eb5c20bd15a1d4085a5c099a2902",
   "original": "The shapeshifter is the Biomancer refined - able to use a flicker of mana to change shape at the drop of a hat to make yourself more inviting or shape others into desired shapes.",
   "translation": "变形者是一位精益求精的生化术士，摘帽瞬间就能仅用少许的魔力改变自身形状，将你自己变的更迷人或其他想要的体型。",
-  "context": "ID: SHAPESHIFTER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SHAPESHIFTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SHAPESHIFTER",
   "stage": 5
  },
  {
@@ -2948,14 +2736,12 @@
   "key": "68c22f475f8e86afc8e5bdb71638fb09",
   "original": "The spark portion of the Railgun spell",
   "translation": "轨道炮法术的闪光效果",
-  "context": "ID: railgun_sparks\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Magnetism_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→railgun_sparks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=railgun_sparks",
   "stage": 5
  },
  {
   "key": "e3ddf2752c4229da21247ea5ce1f740e",
   "original": "The tip of the spear glows white hot as you strike.",
   "translation": "在你挥舞时，矛尖发出炽热的白光。",
-  "context": "ID: wolfsbane\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→wolfsbane\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wolfsbane",
   "stage": 5
  },
  {
@@ -2976,84 +2762,73 @@
   "key": "f42ab242e878e102e9ff460d3f60ec13",
   "original": "This drastically increases one target's metabolism to dangerous levels, causing its body to tear itself apart",
   "translation": "让目标体内的新陈代谢速度急剧增加至极度危险的水平，使其从内部撕裂躯体。",
-  "context": "ID: overaccelerate\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Overclocker.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→overaccelerate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=overaccelerate",
   "stage": 5
  },
  {
   "key": "95abdf64f69b29f8967721229412c5b9",
   "original": "This is a description for a spell the player will never see.",
   "translation": "这是玩家永远不该看到的法术描述。",
-  "context": "ID: soul_afterburner_effect_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soul_afterburner_effect_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soul_afterburner_effect_1",
   "stage": 5
  },
  {
   "key": "8bd53f3559dda5e825df1b2233a72ed1",
   "original": "This is a magical device that can take the shape of many tools.  When not in use it looks like a simple screwdriver.",
   "translation": "一个能够变形成各种工具的魔法装置。当它未被使用时，它看起来就像一把简单的螺丝刀。",
-  "context": "ID: artificer_toolkit\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→GENERIC→artificer_toolkit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artificer_toolkit",
   "stage": 5
  },
  {
   "key": "1fe0647c0f20a88b9ce0a0cc4da0e97c",
   "original": "This is a sub spell for the Lava Bomb spell.",
   "translation": "这只是熔岩炸弹附属的法术。",
-  "context": "ID: lava_bomb_ter\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_ter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_ter",
+  "context": "ID: lava_bomb_ter\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_ter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_ter",
   "stage": 5
  },
  {
   "key": "d4b64b3471d9ca36497a27c797e9d641",
   "original": "This is a sub-spell for Assassin Strike.  It generates toxic smoke in an area.",
   "translation": "这个是刺杀术的附属法术。它在一个区域产生有毒烟雾。",
-  "context": "ID: assassin_toxic_smoke\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_toxic_smoke\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_toxic_smoke",
   "stage": 5
  },
  {
   "key": "ea86fd1406d1198938c6811e9f3f3a8d",
   "original": "This is a sub-spell for Assassin Strike.  It teleports you.",
   "translation": "这个是刺杀术的附属法术。它可以传送你。",
-  "context": "ID: assassin_teleport\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_teleport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_teleport",
   "stage": 5
  },
  {
   "key": "7a5b6447cddad2686b6b8b5bbea73867",
   "original": "This is a sub-spell of Freezing touch.",
   "translation": "这是极寒之触的一个次级咒语。",
-  "context": "ID: freezing_touch_slow_effect\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→freezing_touch_slow_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=freezing_touch_slow_effect",
   "stage": 5
  },
  {
   "key": "431599d0fbe96ca35eff1ae1650023b4",
   "original": "This is a sub-spell of the Caustic Aura spell.",
   "translation": "这只是腐蚀光环附属的法术。",
-  "context": "ID: corrosive_aura_spell\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→corrosive_aura_spell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=corrosive_aura_spell",
   "stage": 5
  },
  {
   "key": "c9e967dadc5f473a2525ce9f6383c45e",
   "original": "This is a sub-spell of the Repelling Arc spell.",
   "translation": "这只是电弧光环附属的法术。",
-  "context": "ID: thorns_zap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→thorns_zap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thorns_zap",
   "stage": 5
  },
  {
   "key": "800fd09e35f5818ebb17f3d760e49c85",
   "original": "This is the blunt damage portion of the Ice Clave spell",
   "translation": "寒冰之钥法术的钝击伤害效果",
-  "context": "ID: ice_clave_blunt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→ice_clave_blunt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ice_clave_blunt",
   "stage": 5
  },
  {
   "key": "a7600ca104af6e0484958fc0f841cb66",
   "original": "This is the cold damage portion of the Auroral Wave spell, it is a wider blast around the central high damage cone.",
   "translation": "这是极光浪潮法术造成寒冷伤害的部分，一个环绕在中心的高伤害锥形区外且范围更广的冲击波。",
-  "context": "ID: auroral_wave_cold\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Boreal_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→auroral_wave_cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=auroral_wave_cold",
   "stage": 5
  },
  {
   "key": "5dfec67d80c69993977472ce98557a74",
   "original": "This is the push effect portion of the Frozen Winds spell.",
   "translation": "这是凛冽狂风法术的击退效果。",
-  "context": "ID: frozen_winds_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→frozen_winds_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frozen_winds_push",
   "stage": 5
  },
  {
@@ -3179,7 +2954,6 @@
   "key": "9e533b5db2292b01bbe31becfa442dbc",
   "original": "This spell generates a magnetic field around a knife, before launching it at high speed.",
   "translation": "这个法术能在一把刀子周围产生磁场，并将其高速发射出去。",
-  "context": "ID: technomancer_knifeshot\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_knifeshot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=technomancer_knifeshot",
   "stage": 5
  },
  {
@@ -3193,7 +2967,6 @@
   "key": "3dc3dda52305f4b31b47da7c9de813c2",
   "original": "This spell goes even further beyond, launching a knife so fast it can pierce through targets.",
   "translation": "这个法术比之前更进一步，它所射出的飞刀速度快到能够直接穿透目标。",
-  "context": "ID: technomancer_knifeshot_superior\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_knifeshot_superior\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=technomancer_knifeshot_superior",
   "stage": 5
  },
  {
@@ -3207,28 +2980,24 @@
   "key": "f134cd3f64da204a164e6833201171d8",
   "original": "This spell ignites a wooden sword, creating a flaming blade able to burn, bruise, and chop.",
   "translation": "这个法术点燃一柄木剑，将其变成一把燃烧的剑。可以对敌人造成烧伤，瘀伤和砍伤。",
-  "context": "ID: kelvinist_summon_flamesword\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_summon_flamesword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kelvinist_summon_flamesword",
   "stage": 5
  },
  {
   "key": "407825d5605dd9122db9154072969079",
   "original": "This spell ignites dust scattered in the air, creating a cone of flame.  The hot ashes can cling to targets, causing additional burns over time.",
   "translation": "这个法术点燃散布在空气中的尘埃，释放出一个火焰锥。炽热的灰烬会附着在目标身上，并随着时间的推移造成更多灼伤。",
-  "context": "ID: kelvinist_flamebreath\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_flamebreath\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kelvinist_flamebreath",
   "stage": 5
  },
  {
   "key": "ff1f3fe6968bcd53d4dc890a40c3887a",
   "original": "This spell infuses a sling with tremendous force, delivering devasting pebble shots until the energy tears it apart.",
   "translation": "这个法术将巨大的力量注入投石索，在能量撕碎自己之前，投掷出威力巨大的石子。",
-  "context": "ID: magus_summon_impact_sling\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_summon_impact_sling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_summon_impact_sling",
   "stage": 3
  },
  {
   "key": "a066071c0869eaeadf0305bb02331e10",
   "original": "This spell links your live blood to the dead blood & bones, creating a club hungry for the flesh of the living.",
   "translation": "这个法术将你体内的活血和死者的血和骨头联系起来，制造出一根渴望收割活物的骨棍。",
-  "context": "ID: animist_summon_decaying_boneclub\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→animist_summon_decaying_boneclub\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=animist_summon_decaying_boneclub",
   "stage": 5
  },
  {
@@ -3284,28 +3053,24 @@
   "key": "c2a2e25d887eeebb095d3fa2babd9656",
   "original": "This spell suspends acid in a layer around you, corroding melee attackers when struck and enhancing your melee damage.",
   "translation": "这个法术在你身体周围召唤出一个酸液光环，腐蚀攻击你的敌人，并增加你的近战伤害。",
-  "context": "ID: biomancer_caustic_aura\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_caustic_aura\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=biomancer_caustic_aura",
   "stage": 5
  },
  {
   "key": "868377a9d17303c571f01e482e94ed6d",
   "original": "This spell transforms you into a werewolf.  There may be some cons to this.",
   "translation": "这个法术把你变成狼人。这可能造成一些不可预料的后果。",
-  "context": "ID: lupercalia\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lupercalia\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lupercalia",
   "stage": 5
  },
  {
   "key": "c9077fde37387edfd4df6b522399d604",
   "original": "This spell unleashs your inner beast, growing claws & fangs to rend your foes limb from limb.",
   "translation": "这个法术释放出你内心暗藏的兽性，让你长出尖牙利爪，将你的敌人撕成碎片。",
-  "context": "ID: druid_feralform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_feralform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_feralform",
   "stage": 3
  },
  {
   "key": "912a366ea8c822131d8a22f9ad778ebb",
   "original": "This spell, which resembles Thornskin through the sap & needles covering the page, seemed to involve thorns and bleeding wounds.  The marred words may have altered the function.",
   "translation": "这个法术，从卷轴上覆盖的汁液和尖刺看来，似乎像是棘皮术，但现在那些荆棘效果变成撕裂皮肤造成流血。也许那些被污染的单词可能改变了法术的效果。",
-  "context": "ID: druid_tornskin\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_tornskin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_tornskin",
   "stage": 5
  },
  {
@@ -3326,14 +3091,12 @@
   "key": "3ee2575c644b8476fa438e28c3371383",
   "original": "Through the fine manipulation of light, an Illusionist might craft deceptively convincing and dangerous illusions.  An Illusionist excels at avoiding direct confrontation, instead relying on decoys and traps to slip by undetected.",
   "translation": "通过对光的精细操控，幻术师可能会制造出具有欺骗性的、令人信服的、而且十分危险的幻象。幻术师擅长于避免直接对抗，而是依靠投影和陷阱在未被察觉的情况下溜走。",
-  "context": "ID: ILLUSIONIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ILLUSIONIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ILLUSIONIST",
   "stage": 5
  },
  {
   "key": "4dabe05e7c09dc2aebc78de99e75ae72",
   "original": "Through your power in Biomancy, you have changed your body towards your Kelvinist affinity for ice.  Extreme cold has less effect on you, and your superchilled skin causes frostbite when touching others.  You're also starting to research more magic that focuses on your body's inherent ice affinity.",
   "translation": "通过你所掌握的生化术士的力量，你已经改变了你的身体，提升了自身炽霜法师对冰的魔法亲和度。极端寒冷对你的影响更小，而当你接触他人时，你的超冷皮肤会瞬间造成冻伤。你也开始研究更多专注于你身体内在与冰的魔法亲和度的魔法。",
-  "context": "ID: ICE_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ICE_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ICE_ELEMENTAL",
   "stage": 5
  },
  {
@@ -3347,14 +3110,12 @@
   "key": "286dea7435ec3ff031dc9959ab56bde8",
   "original": "Tornskin",
   "translation": "刺皮术",
-  "context": "ID: druid_tornskin\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_tornskin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=druid_tornskin",
   "stage": 5
  },
  {
   "key": "6697f4a416641da2368f0065be9b2364",
   "original": "Transform your enemies into frogs.",
   "translation": "把你的敌人变形成青蛙。",
-  "context": "ID: magus_baleful_polymorph\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_baleful_polymorph\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magus_baleful_polymorph",
   "stage": 5
  },
  {
@@ -3375,7 +3136,6 @@
   "key": "15c8e0a22b00efa08ac33c00754d1697",
   "original": "Tundra Mage",
   "translation": "苔原法师",
-  "context": "ID: TUNDRA_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→TUNDRA_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TUNDRA_MAGE",
   "stage": 5
  },
  {
@@ -3396,14 +3156,12 @@
   "key": "25fb90802dc84dc0e8765e053bb9f759",
   "original": "Use a golem core as a focus to shape clay into a roughly humanoid shape and animate it for some time.",
   "translation": "以一个傀儡核心作为核心，将黏土塑造成一个人形傀儡，并使其运作一段时间。",
-  "context": "ID: summon_golem_clay\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_golem_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_golem_clay",
   "stage": 3
  },
  {
   "key": "e0ae900e5b525fe8176ad81a6342d9ab",
   "original": "Use the unstoppable force from a glacier to cause severe damage.",
   "translation": "驭使源于冰川的万夫莫当之力造成严重的破坏。",
-  "context": "ID: ice_clave\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Glacier_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→ice_clave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ice_clave",
   "stage": 5
  },
  {
@@ -3424,7 +3182,6 @@
   "key": "f14aa7505f135f13b60f6202fbd46061",
   "original": "Violently tears the spirit from the body, and bounds the resulting shade to your will.",
   "translation": "用暴力将灵魂与躯体撕裂开，并强迫所生成的暗影遵照你的意志行动。",
-  "context": "ID: soulrend\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soulrend\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soulrend",
   "stage": 5
  },
  {
@@ -3452,14 +3209,12 @@
   "key": "777cb6efa1346e241b46b64a1cc7c8ec",
   "original": "Void Mage",
   "translation": "虚空法师",
-  "context": "ID: VOID_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→VOID_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VOID_MAGE",
   "stage": 5
  },
  {
   "key": "567f9c2bbe819469f3f7de7dc1177973",
   "original": "Vulcanist",
   "translation": "火山法师",
-  "context": "ID: VULCANIST\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→VULCANIST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VULCANIST",
   "stage": 5
  },
  {
@@ -3480,14 +3235,12 @@
   "key": "5f264568cedb8edf84e3e813bc10e65f",
   "original": "Where there is nothing, there is still power, and the Void Mages embody that power.  The ability to wield emptiness itself is at their fingertips, and no living creature can withstand the call of the void.",
   "translation": "在一无所有之中，仍有魔力，而虚空法师的体内饱含着这一力量。掌控虚空本身的能力就在他们指尖，没有任何活物能够抵挡虚空的召唤。",
-  "context": "ID: VOID_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→VOID_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VOID_MAGE",
   "stage": 5
  },
  {
   "key": "d56eda0d1ce05077635340c823685c0d",
   "original": "While biomancers focus on both life and death; Wither Mages set their sights on the transitional period between these two stages.  They wield entropy and decay hand and hand, using it to enhance their combat prowess to surgical precision.  This confluence of abilities are what lead to assassin mages gaining this attunement.",
   "translation": "生化术士将注意力放在生命和死亡之上，而枯萎法师却专注于生与死之间的转换。他们通过熵和衰老的力量增强他们的战斗精度直至外科手术一般。正是这种能力的汇集使得刺客法师获得这种魔法调谐。",
-  "context": "ID: WITHER_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→WITHER_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=WITHER_MAGE",
   "stage": 5
  },
  {
@@ -3508,28 +3261,24 @@
   "key": "f4b6a355fa6adedf86d1edca5b4da664",
   "original": "Winter Wolf's Call",
   "translation": "召唤冬狼",
-  "context": "ID: summon_winter_wolf\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_winter_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_winter_wolf",
   "stage": 5
  },
  {
   "key": "d8de1d0c7954d3ac2f82a80d33d81584",
   "original": "With a shout and a gesture, the target starts bleeding from old wounds.",
   "translation": "随着咒语念出并做出手势，使目标的旧伤口开始流血。",
-  "context": "ID: bleed\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→bleed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bleed",
   "stage": 5
  },
  {
   "key": "a4033388286aa63f039714d866b6449c",
   "original": "With a snap of your fingers, a target takes cold damage and freezes in place.",
   "translation": "只需要手指一弹，目标就会被冻结在原地并遭到寒冷伤害。",
-  "context": "ID: cold_snap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Tundra_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→cold_snap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cold_snap",
   "stage": 5
  },
  {
   "key": "ecbc246249cc10e0ce8763e92852e8b4",
   "original": "With an ear piercing roar, you channel the inner power of dragons and strike fear into those who stand before you, slowing their escape from your terror.",
   "translation": "伴随着一声刺耳的咆哮，你引导体内的龙族魔力，让那些站在你面前的敌人恐惧不已，降低他们逃离你恐怖力量的速度。",
-  "context": "ID: dragon_terror\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_terror\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_terror",
   "stage": 5
  },
  {
@@ -3543,21 +3292,18 @@
   "key": "2450cd2424e74cc408ba04e69df9c6e3",
   "original": "With the mechanically-minded Technomancer and the sheer power of lightning from a Stormshaper, the Artificer has a unique confluence of skills and spells to be perfect for invention.  While modern inventions and machines have won out in a modern society, after a cataclysm one has a chance to go back to roots of things.  To make weird gadgets that are just as likely to explode as explode the thing you're pointing at.",
   "translation": "作为同时拥有了机械思维的科技法师和拥有闪电力量的风暴塑造者，机关术师所掌握的技艺和法术在发明方面完美而独特的汇合在一起。虽然现代发明和机器已经在现代社会中取得了胜利，但在经历了一场大灾变之后，人们终于能有机会回归事物的本源。你制造出的各类奇怪小玩意自身就和被你所瞄准的东西一样容易爆炸。",
-  "context": "ID: ARTIFICER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ARTIFICER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ARTIFICER",
   "stage": 5
  },
  {
   "key": "70a32de719a34418c0243a948f5a84b8",
   "original": "Wither Mage",
   "translation": "枯萎法师",
-  "context": "ID: WITHER_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→WITHER_MAGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=WITHER_MAGE",
   "stage": 5
  },
  {
   "key": "de93c81d2f4bbc048877ee2481f34a5f",
   "original": "Wolfsbane",
   "translation": "狼牙棒",
-  "context": "ID: wolfsbane\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→wolfsbane\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wolfsbane",
   "stage": 5
  },
  {
@@ -3571,63 +3317,55 @@
   "key": "cb270043307d87afcba22fe5d7794729",
   "original": "X-ray Vision",
   "translation": "X光视觉",
-  "context": "ID: x-ray\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→x-ray\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=x-ray",
   "stage": 5
  },
  {
   "key": "00d5dee6d633641dd0b5d2060b54b720",
   "original": "You activate your bag and a throwing knife appears, ready to throw!",
   "translation": "你激活了你的袋子，一把飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_mag_throw_blade_1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_1",
   "stage": 3
  },
  {
   "key": "d43e786f4b463f98761240390a633b69",
   "original": "You activate your bag and a throwing knife covered in dark ooze appears, ready to throw!",
   "translation": "你激活了你的袋子，一把包裹着黑色软泥的魔法飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_mag_throw_blade_biological\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_biological\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_biological",
   "stage": 3
  },
  {
   "key": "05ce23eea0901a56446d22221d03dd1b",
   "original": "You activate your bag and a throwing knife emanating cold appears, ready to throw!",
   "translation": "你激活了你的袋子，一把散发着寒气的魔法飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_mag_throw_blade_cold\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_cold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_cold",
   "stage": 3
  },
  {
   "key": "7c93998d4139eb873d7ca4a6cf19eea1",
   "original": "You activate your bag and a throwing knife with unnaturally sharp edges appears, ready to throw!",
   "translation": "你激活了你的袋子，一把异常锋利的魔法飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_mag_throw_blade_cut\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_cut",
   "stage": 3
  },
  {
   "key": "2b28aea6bba55a50250dad6a635ae5be",
   "original": "You activate your bag and a throwing knife wrapped in ethereal flames appears, ready to throw!",
   "translation": "你激活了你的袋子，一把包裹着永恒之焰的魔法飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_mag_throw_blade_fire\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_fire",
   "stage": 3
  },
  {
   "key": "dd039debd094e129cf6a45a6c35d0648",
   "original": "You activate your bag and with a flash magical energies coalescence in your hand into a shape of knife.  It seems vastly more powerful than other knives that appear from the bag!",
   "translation": "你激活了你的袋子，一瞬间纯净的魔法能量在你的手上汇聚成飞刀的形状。它看起来比袋子里的其他飞刀威力要大得多！",
-  "context": "ID: magical_throwing_knife_pure_special\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magical_throwing_knife_pure_special\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magical_throwing_knife_pure_special",
   "stage": 3
  },
  {
   "key": "8f34bc1fc75a3cb080c2413181345eb3",
   "original": "You activate your ring and three throwing knives appear, ready to throw!",
   "translation": "你激活了你的戒指，三把飞刀随之产生，随时可以投掷！",
-  "context": "ID: conj_throwing_blade3\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade3",
+  "context": "ID: conj_throwing_blade1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade1",
   "stage": 5
  },
  {
   "key": "eab022aaecdecca5d1fcba679f4e1347",
   "original": "You allow a demon to possess your body for a short time, giving you great combat abilities.  You still retain control, though lose your spellcasting abilities temporariliy.",
   "translation": "你让恶魔短时间占有你的身体，赋予你强大的战斗能力。你仍然保持控制，不过你会暂时失去施法能力。",
-  "context": "ID: demonic_possession\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Blood_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→demonic_possession\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=demonic_possession",
   "stage": 3
  },
  {
@@ -3662,7 +3400,6 @@
   "key": "eb2b44a6f9320ab53e04aec4c7a66e60",
   "original": "You burn a small portion of your soul to gain a large burst of speed.",
   "translation": "你燃烧自身一小部分灵魂，获得巨大的速度增益。",
-  "context": "ID: soul_afterburner\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Soulfire.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→soul_afterburner\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soul_afterburner",
   "stage": 5
  },
  {
@@ -3676,35 +3413,30 @@
   "key": "8a675c9f946c13883bdbc73df39d3a98",
   "original": "You channel heat through your hands to severely burn a target you touch.",
   "translation": "你用双手引导魔法热能，严重烧伤你所接触的目标。",
-  "context": "ID: flareup\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Fire_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→flareup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flareup",
   "stage": 5
  },
  {
   "key": "b7d06735825d4dcb3b4613902bf97d9f",
   "original": "You channel magic into a force capable of opening doors.  This variant can only open wooden doors.",
   "translation": "你引导魔力，将其变成能够解开禁锢的力量。这种法术只能打开木门。",
-  "context": "ID: knock\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→knock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=knock",
   "stage": 5
  },
  {
   "key": "e8df85e0769fa669252fd93e37c33dcd",
   "original": "You channel magic into a force capable of opening doors.  This variant can open any locked door.",
   "translation": "你引导魔力，将其变成能够解开禁锢的力量。这种法术能打开任何锁住的门。\n“阿拉霍洞开！”",
-  "context": "ID: improved_knock\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→improved_knock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=improved_knock",
   "stage": 5
  },
  {
   "key": "4211d75cf23478cde6324161edf1f3bd",
   "original": "You channel the strength of a golem to push an enemy backward.",
   "translation": "你通过魔像的力量将敌人推开。",
-  "context": "ID: golem_push\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Golemancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→golem_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=golem_push",
   "stage": 5
  },
  {
   "key": "cefa28f2a332657c14927d6fded4fa91",
   "original": "You channel your inner draconic magic to protect yourself from damage and reflect some back as acid damage.",
   "translation": "你引导体内的龙族魔力来保护你自己不受伤害，并将一些伤害以酸液伤害的形式反弹给敌人。",
-  "context": "ID: dragon_shell_black\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_shell_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_shell_black",
   "stage": 5
  },
  {
@@ -3718,7 +3450,6 @@
   "key": "ee3e336961717cf039b17af9ca35a624",
   "original": "You close your eyes and the earth surrenders its secrets to you.",
   "translation": "你闭上双眼，大地随即向你透露了它的秘密。",
-  "context": "ID: clairvoyance\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→clairvoyance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=clairvoyance",
   "stage": 5
  },
  {
@@ -3732,28 +3463,24 @@
   "key": "8f7fe9645c18522dbcdbb2e6124b912a",
   "original": "You conjur up acidic spittle that you can shoot long distances as you close on your terrified prey.",
   "translation": "在你步步紧逼被你吓坏的猎物时，你能够喷射出一股远距离攻击的酸液。",
-  "context": "ID: dragon_spit_acid\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_spit_acid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_spit_acid",
   "stage": 5
  },
  {
   "key": "b0f7acfcc0b19fd2ae1f8b5b98f8d324",
   "original": "You conjure a whip made of solid flame.",
   "translation": "你召唤出一根由固态魔法火焰制成的鞭子。",
-  "context": "ID: flarewhip\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Fire_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→flarewhip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flarewhip",
   "stage": 5
  },
  {
   "key": "086d082cabecd19fe004c0a97eb5684f",
   "original": "You create a stable portal in the fabric of reality to the sun, through which you can draw on its light and temperature.",
   "translation": "你在客观现实的构架上创造出一个通往太阳的稳定传送门，通过它你可以利用太阳的光照和温度。",
-  "context": "ID: sunmage_pocket_sun\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Sun_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→sunmage_pocket_sun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sunmage_pocket_sun",
   "stage": 3
  },
  {
   "key": "c697b6089a6dcb5ba95cc286df7e023d",
   "original": "You fire a cone of X-rays that magically allow you to see that area for a short time.",
   "translation": "你发射出一道X光，并通过魔法来短暂地看清X光所及区域。",
-  "context": "ID: x-ray\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→x-ray\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=x-ray",
   "stage": 5
  },
  {
@@ -3795,7 +3522,6 @@
   "key": "0d16602f00d29fd7ddbada34a0d7cd6d",
   "original": "You have used your expertise in Biomancy to change your body more toward your affinity for fire as a Kelvinist.  Fire doesn't bother you as much anymore, and your blood is flammable when it touches the air, resulting in a gout of flame when something hurts you.  You are also starting to study more spells that focus on using your own body's affinity for fire.",
   "translation": "通过你所掌握的生化术士的力量，你已经改变了你的身体，提升了自身炽霜法师对火的魔法亲和度。火焰不再那么让你烦恼了，而且你的血液一旦接触到空气就会燃烧，这使你受到任何伤害时，就会喷出一道火焰。你也开始研究更多专注于你身体内在与火的魔法亲和度的魔法。",
-  "context": "ID: FIRE_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→FIRE_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FIRE_ELEMENTAL",
   "stage": 5
  },
  {
@@ -3809,7 +3535,6 @@
   "key": "400df02981195219c9bbcb201afadf91",
   "original": "You let out a mighty roar as you infuse yourself with the power of Dragons.",
   "translation": "伴随着一声刺耳的咆哮，你把龙族魔力灌注进自己体内。",
-  "context": "ID: dragon_boost\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragon_boost",
   "stage": 5
  },
  {
@@ -3837,7 +3562,6 @@
   "key": "1fc6f4b6bc509ce8fb284a8fa5d0e766",
   "original": "You overclock your flesh and bionics, charging so fast the friction can ignite the air, to wind up for a skull-cracking punch.",
   "translation": "你将自身肉体和生化插件超频，充能速度如此之快，以至于摩擦都能点燃四周的空气，给对方来一记碎骨拳。",
-  "context": "ID: nitro_boost\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Biotek.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→nitro_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nitro_boost",
   "stage": 5
  },
  {
@@ -3858,7 +3582,6 @@
   "key": "1250af0f2b264b4776ffc3063d9f5cc4",
   "original": "You shoot a blade of concentrated force in a straight line, cutting everything in its path.",
   "translation": "你直线射出一把力场凝聚而成的利刃，切割途经路径上的所有物品。",
-  "context": "ID: force_blade\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Force_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→force_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=force_blade",
   "stage": 5
  },
  {
@@ -3872,7 +3595,6 @@
   "key": "a56d99a9040cbfe1376d973b33f05ccf",
   "original": "You strike a poisonous blow and disappear in a puff of toxic smoke.",
   "translation": "你猛烈一击，然后消失在一股有毒的烟雾中。",
-  "context": "ID: assassin_strike\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Wither_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→assassin_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=assassin_strike",
   "stage": 5
  },
  {
@@ -3886,21 +3608,19 @@
   "key": "f90962fe07f95258b21654c3c967c2b8",
   "original": "You tear up the ground beneath you to fire a lava bomb: a globe of lava surrounded by hot, solid rock.  It shatters upon impact, spraying shards of rock and lava everywhere.",
   "translation": "你撕裂脚下的地面，发射出一个熔岩炸弹：一个被炽热的固体岩石包围的熔岩球。它撞击物体时会粉碎，朝四周射出大量碎岩石和熔岩。\n ",
-  "context": "ID: lava_bomb_main\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Vulcanist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_main",
+  "context": "ID: lava_bomb_main\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→lava_bomb_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lava_bomb_main",
   "stage": 5
  },
  {
   "key": "fe4c206af42f04cc0fe902d13e61af78",
   "original": "You tie your ley-lines to the world's, renewing your flesh as if reborn.",
   "translation": "你把你的灵脉与世界相连，让你的血肉再生，仿佛重生一般。",
-  "context": "ID: gaiaschosen_samsara\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gaias_Chosen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gaiaschosen_samsara\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gaiaschosen_samsara",
   "stage": 3
  },
  {
   "key": "1105d3467e8a1ebc991c91df991d2006",
   "original": "You touch an unwilling subject and lightning dances from you to multiple nearby enemies.",
   "translation": "除了目标遭到重创外，闪电还会跳到附近的多个敌人身上。",
-  "context": "ID: storm_chain_master\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Storm_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_chain_master\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storm_chain_master",
   "stage": 5
  },
  {
@@ -3921,7 +3641,6 @@
   "key": "fab81a35bf5bee4b8dce79fdcb0c733d",
   "original": "You're not a cowboy, but on a steel horse you ride regardless.",
   "translation": "你不是一个牛仔，但是你还是骑着铁骑。",
-  "context": "ID: summon_magic_motorcycle\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_magic_motorcycle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_magic_motorcycle",
   "stage": 5
  },
  {
@@ -3942,14 +3661,12 @@
   "key": "c0e6e4f3f390eb7da7ba8f7b24a8d345",
   "original": "You've used your knowledge of Biomancy to change your body into a form befitting a Stormshaper.  You can better withstand the power of electricity, and sparks leap from your skin when something hits you.  You're beginning to study spells that utilize your body's affinity for the electric.",
   "translation": "通过你所掌握的生化术士的力量，你已经改变了你的身体，提升了自身风暴塑造者对电的魔法亲和度。你能更好地承受电的力量，被物体击中后皮肤还会迸发出电火花。你也开始研究更多专注于你身体内在与电的魔法亲和度的魔法。",
-  "context": "ID: STORM_ELEMENTAL\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→STORM_ELEMENTAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STORM_ELEMENTAL",
   "stage": 5
  },
  {
   "key": "3af56a953513e922af73521c9bf6ff52",
   "original": "Your claws glow with yellow acid energy, and as you swipe your claw a wave of acid sweeps forth from it.",
   "translation": "你的爪子散发出黄色的酸液魔法光芒，当你挥动爪子时，一股酸液从中飞溅出来。",
-  "context": "ID: acid_claw\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→acid_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acid_claw",
   "stage": 5
  },
  {
@@ -3977,21 +3694,18 @@
   "key": "55eed03e93333e83345645916d301909",
   "original": "Your fingers stiffen as condensation freezes into claws, intensifying your naturally cold touch and protecting your hands from damage.",
   "translation": "你的手指凝结出坚硬的冰爪，让你的徒手攻击造成寒冷伤害并保护你的双手。",
-  "context": "ID: summon_subzero_talons\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Ice_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_subzero_talons\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_subzero_talons",
   "stage": 5
  },
  {
   "key": "ad301052320b9edebf35bc8ed8582428",
   "original": "Your hands freeze anything they touch at temperatures so cold it slows down your foes.",
   "translation": "你的双手在如此寒冷的温度下能冻结接触到的任何物体，它会减慢你触碰到的敌人。",
-  "context": "ID: freezing_touch\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→freezing_touch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=freezing_touch",
   "stage": 5
  },
  {
   "key": "0dddb63f3d829c24b71dc05d588d44b4",
   "original": "Your maw drips with acid as you make a bite attack.",
   "translation": "当你咬人时，你的大嘴能够分泌出酸液。",
-  "context": "ID: acid_bite\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→acid_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acid_bite",
   "stage": 5
  },
  {
@@ -4005,35 +3719,31 @@
   "key": "d877c00cddb251406e36185982c7f421",
   "original": "artificer's toolkit",
   "translation": "机关术师工具箱",
-  "context": "ID: artificer_toolkit\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Artificer.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→GENERIC→artificer_toolkit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artificer_toolkit",
   "stage": 5
  },
  {
   "key": "2bcbc43170921c755a3fe85c96c2fac3",
   "original": "causes rubble to be spawned occasionally",
   "translation": "偶尔会产生碎石",
-  "context": "ID: quake_transform\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Earth_Elemental.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→quake_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quake_transform",
   "stage": 5
  },
  {
   "key": "d658123ce3aa3549e747967ecdbb17f7",
   "original": "conjures 1 magical throwing knife",
   "translation": "召唤1把神奇的投掷刀",
-  "context": "ID: magical_throwing_knife_pure_special\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magical_throwing_knife_pure_special\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magical_throwing_knife_pure_special",
   "stage": 5
  },
  {
   "key": "c36c2e5a1aa2af788650f591ea0cbe9a",
   "original": "conjures 3 throwing knives",
   "translation": "召唤三把飞刀",
-  "context": "ID: conj_throwing_blade3\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade3",
+  "context": "ID: conj_throwing_blade1\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_throwing_blade1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_throwing_blade1",
   "stage": 5
  },
  {
   "key": "399800dd4cae145a31bad09ddd5cd469",
   "original": "conjures a magical throwing knife, one of the spells specified in extra effects",
   "translation": "召唤一把魔法飞刀，这是特效中指定的法术之一",
-  "context": "ID: conj_mag_throw_blade_group\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/item_only.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→conj_mag_throw_blade_group\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=conj_mag_throw_blade_group",
   "stage": 3
  },
  {
@@ -4047,28 +3757,24 @@
   "key": "0a46434d8f0ae0345ba9422d67b3428a",
   "original": "handles damage in the extreme center of the Graviton",
   "translation": "处理位于引力中心的额外伤害。",
-  "context": "ID: gravitymage_graviton_centerdamage\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton_centerdamage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton_centerdamage",
   "stage": 5
  },
  {
   "key": "a221cf665d0553357bb4ac71b6947e1f",
   "original": "handles the damage part of Graviton Polarization - if you see this something went wrong",
   "translation": "处理引力子极化的部分伤害 - 如果你看到这个说明出了bug。",
-  "context": "ID: gravitymage_graviton_damage\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/attunements/Gravity_Mage.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→gravitymage_graviton_damage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gravitymage_graviton_damage",
   "stage": 5
  },
  {
   "key": "fac953e05b673870accf139329f72fac",
   "original": "minor health recovery spell associated with Dragon Boost.",
   "translation": "巨龙注能相关的小型生命恢复法术。",
-  "context": "ID: health_recovery\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→health_recovery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=health_recovery",
   "stage": 5
  },
  {
   "key": "ceb2f5618cb286d4b02151e356dd8f5b",
   "original": "minor stamina recovery spell associated with Dragon Boost.",
   "translation": "巨龙注能相关的小型耐力恢复法术。",
-  "context": "ID: stamina_recovery\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/black_dragon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stamina_recovery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stamina_recovery",
   "stage": 5
  }
 ]
