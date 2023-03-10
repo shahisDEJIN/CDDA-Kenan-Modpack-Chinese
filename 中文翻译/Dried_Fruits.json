@@ -1,246 +1,506 @@
 [
-  {
-    "key": "7a66f9e1afde683a3840c12e64fc41c4",
-    "original": "Chewy dried banana slices, not to be confused with them artery clogging banana chips",
-    "translation": "有嚼劲的干香蕉片，别和阻塞动脉的香蕉片混为一谈",
-    "stage": 3,
-    "context": "ID: b_dried_bananas\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_bananas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_bananas"
-  },
-  {
-    "key": "e55572545bf68c328548e22b3cbab7eb",
-    "original": "Dried Fruits",
-    "translation": "干果制品",
-    "stage": 3,
-    "context": "ID: dried_fruits\n位于 /Kenan-Structured-Modpack/Dried_Fruits/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→MOD_INFO→dried_fruits\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_fruits"
-  },
-  {
-    "key": "0766f97c2dc5dd1a220aab8b979b3bf6",
-    "original": "Dried apple slices, none of that sugar syrup added.",
-    "translation": "干苹果片，未加糖浆。",
-    "stage": 3,
-    "context": "ID: b_dried_apple\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_apple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apple"
-  },
-  {
-    "key": "4d9c2bdf42d0abacf813fe9bc95152ca",
-    "original": "Dried apricots, good souce vitamin A",
-    "translation": "杏子干，富含维生素A",
-    "stage": 3,
-    "context": "ID: b_dried_apricots\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_apricots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apricots"
-  },
-  {
-    "key": "617fb94227cb24507e2a2280799abe8b",
-    "original": "Dried blueberries, less antioxidants then fresh ones, but still good for you",
-    "translation": "干蓝莓，抗氧化剂比新鲜的少，但对你还是有好处的",
-    "stage": 3,
-    "context": "ID: b_dried_blueberries\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_blueberries"
-  },
-  {
-    "key": "aa4f7b92134862e65e2d796ff93c3a97",
-    "original": "Dried cranberries, sugar added for taste so remember to brush.",
-    "translation": "蔓越莓干，加糖调味，记得刷洗。",
-    "stage": 3,
-    "context": "ID: b_dried_cranberries\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_cranberries"
-  },
-  {
-    "key": "fff04ad95d4bb31c16961876426355da",
-    "original": "Dried dates, don't worry these aren't poisoned.",
-    "translation": "干枣，别担心，这些是无毒的。",
-    "stage": 3,
-    "context": "ID: dried_dates\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_dates\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_dates"
-  },
-  {
-    "key": "25fb6a14ff132acc9eec081ba1f08b91",
-    "original": "Dried figs, odd looking but sweet ",
-    "translation": "无花果干，看着古怪但吃着很甜",
-    "stage": 3,
-    "context": "ID: dried_figs\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_figs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_figs"
-  },
-  {
-    "key": "27c7cc376118c8591f92400dbdc5fe05",
-    "original": "Dried fruits, not to be confused with them tatseless dehydrated fruit flakes.",
-    "translation": "干果制品，别将它们与寡淡的脱水水果片混为一谈。",
-    "stage": 3,
-    "context": "ID: dried_fruits\n位于 /Kenan-Structured-Modpack/Dried_Fruits/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→MOD_INFO→dried_fruits\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_fruits"
-  },
-  {
-    "key": "41636c560eb1e021266d9e34d12adb7c",
-    "original": "Dried kiwi slices.",
-    "translation": "干猕猴桃片。",
-    "stage": 3,
-    "context": "ID: dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_kiwi"
-  },
-  {
-    "key": "f00b0e79dfed56d65005573b13a90fe8",
-    "original": "Dried kiwi sugared slices, almost fluorescent in colour.",
-    "translation": "加糖干猕猴桃片，看起来像是在发荧光。",
-    "stage": 3,
-    "context": "ID: b_dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_kiwi"
-  },
-  {
-    "key": "e200b98e5d2113a4f05c79a085988c2c",
-    "original": "Dried mango slices.",
-    "translation": "干芒果片。",
-    "stage": 3,
-    "context": "ID: dried_mango\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_mango"
-  },
-  {
-    "key": "00b334ddf09dea2146df2871ba68449d",
-    "original": "Dried papaya slices, vibrant orange in colour.",
-    "translation": "干木瓜片，色泽橙黄。",
-    "stage": 3,
-    "context": "ID: b_dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_papaya"
-  },
-  {
-    "key": "879e353c80902a033ca74f209c90824b",
-    "original": "Dried papaya slices.",
-    "translation": "干木瓜片。",
-    "stage": 3,
-    "context": "ID: dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_papaya"
-  },
-  {
-    "key": "3ff7868776a401e297b70334d78a6080",
-    "original": "Dried peaches, no fuzz.",
-    "translation": "干桃子，去掉了绒毛。",
-    "stage": 3,
-    "context": "ID: b_dried_peaches\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_peaches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_peaches"
-  },
-  {
-    "key": "93405e551e91e55af29c2db67f5461da",
-    "original": "Dried pineapple chunks",
-    "translation": "干菠萝块",
-    "stage": 3,
-    "context": "ID: dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_pineapple"
-  },
-  {
-    "key": "8d322f1ba39438d491cf090df3cd688b",
-    "original": "Dried pineapple chunks, dusted in sugar, basicaly candy",
-    "translation": "干菠萝块，裹上糖粉，属于糖果食品",
-    "stage": 3,
-    "context": "ID: b_dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_pineapple"
-  },
-  {
-    "key": "ed60fa397f1b9710c5086181334cd6dd",
-    "original": "Dried plums AKA prunes.  High in fiber, good for keeping you regular.",
-    "translation": "干李子又名西梅干。富含纤维，有助于保持健康。",
-    "stage": 3,
-    "context": "ID: b_dried_plums\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_plums"
-  },
-  {
-    "key": "55d194d082643cbfd7bced7787493c68",
-    "original": "Dried suagred mango slices, bright orange colour.",
-    "translation": "干芒果片，鲜橙色。",
-    "stage": 3,
-    "context": "ID: b_dried_mango\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_mango"
-  },
-  {
-    "key": "821887f6d6d629fd7c122282bac5a7d8",
-    "original": "Raisins, tasty little wrinkly things, eat them by the handful.",
-    "translation": "葡萄干，好吃的有皱纹的小东西，一把一把吃。",
-    "stage": 3,
-    "context": "ID: b_raisins\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_raisins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_raisins"
-  },
-  {
-    "key": "134cd56a058e42b4104c5b8fa856a917",
-    "original": "dried apple slices",
-    "translation": "干苹果片",
-    "stage": 3,
-    "context": "ID: b_dried_apple\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_apple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apple"
-  },
-  {
-    "key": "f9f9d34f36305517007efcdee0ac4bc8",
-    "original": "dried apricots",
-    "translation": "杏子干",
-    "stage": 3,
-    "context": "ID: b_dried_apricots\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_apricots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apricots"
-  },
-  {
-    "key": "2b2e4070114e7d1f4db482a999c5c45d",
-    "original": "dried banana slices",
-    "translation": "干香蕉片",
-    "stage": 3,
-    "context": "ID: b_dried_bananas\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_bananas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_bananas"
-  },
-  {
-    "key": "263c00906d8fac9b9187e03cda5209e7",
-    "original": "dried blueberries",
-    "translation": "蓝莓干",
-    "stage": 3,
-    "context": "ID: b_dried_blueberries\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_blueberries"
-  },
-  {
-    "key": "5a1b1a90067de1e2b6f8287c4e101085",
-    "original": "dried cranberries",
-    "translation": "蔓越莓干",
-    "stage": 3,
-    "context": "ID: b_dried_cranberries\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_cranberries"
-  },
-  {
-    "key": "cca68ddab3e0c38fd4ee6cf215857917",
-    "original": "dried dates",
-    "translation": "干枣",
-    "stage": 3,
-    "context": "ID: dried_dates\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_dates\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_dates"
-  },
-  {
-    "key": "089c4dbea1069f86d1eab408870215f8",
-    "original": "dried figs",
-    "translation": "无花果干",
-    "stage": 3,
-    "context": "ID: dried_figs\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→dried_figs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_figs"
-  },
-  {
-    "key": "d4311ca14addcf1acb0bf44de32193f4",
-    "original": "dried kiwi slices",
-    "translation": "干猕猴桃片",
-    "stage": 3,
-    "context": "ID: b_dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_kiwi"
-  },
-  {
-    "key": "17ee9c2a15989b102d19da3e638c5c60",
-    "original": "dried mango slices",
-    "translation": "干芒果片",
-    "stage": 3,
-    "context": "ID: b_dried_mango\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_mango"
-  },
-  {
-    "key": "d704266fb6fb1d7a2a260273d6c8c76f",
-    "original": "dried papaya slices",
-    "translation": "干木瓜片",
-    "stage": 3,
-    "context": "ID: b_dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_papaya"
-  },
-  {
-    "key": "33736ce4bc61a3cce9ca8c31d796c916",
-    "original": "dried peaches",
-    "translation": "桃子干",
-    "stage": 3,
-    "context": "ID: b_dried_peaches\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_peaches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_peaches"
-  },
-  {
-    "key": "6841ff933cce14c976f105c72fa1e11a",
-    "original": "dried pineapple chunks",
-    "translation": "干菠萝块",
-    "stage": 3,
-    "context": "ID: b_dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_pineapple"
-  },
-  {
-    "key": "97d0746ff94d12ea4803c9c6356ecfdb",
-    "original": "dried plums",
-    "translation": "李子干",
-    "stage": 3,
-    "context": "ID: b_dried_plums\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_dried_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_plums"
-  },
-  {
-    "key": "f7a89b31fdf9255863139804963e88cf",
-    "original": "raisins",
-    "translation": "葡萄干",
-    "stage": 3,
-    "context": "ID: b_raisins\n位于 /Kenan-Structured-Modpack/Dried_Fruits/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_Fruits→COMESTIBLE→b_raisins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_raisins"
-  },
-  {
-    "key": "76cca64663bcf77e11df2d5a88fc7d4b",
-    "original": "DRY",
-    "translation": "风干",
-    "stage": 5
-  }
+ {
+  "key": "a3ff66b2f2cc0780b20b4a42ec0b757b",
+  "original": "A cluster of juicy grapes.",
+  "translation": "一串美味多汁的葡萄，富含葡萄糖，酸甜可口。\n“呸！葡萄皮！”",
+  "context": "ID: grapes\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→grapes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grapes"
+ },
+ {
+  "key": "e57a9a5ed5a46efc52bb5a3b00ece109",
+  "original": "A darker cousin of raspberry.",
+  "translation": "一些原产地北美洲的黑莓，有着非常丰富的营养价值。",
+  "context": "ID: blackberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→blackberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackberries"
+ },
+ {
+  "key": "20775b4363e6c10a026c8f0138873a5c",
+  "original": "A sweet red berry.",
+  "translation": "一把树莓灌木所结出的红色浆果，酸甜可口。",
+  "context": "ID: raspberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→raspberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raspberries"
+ },
+ {
+  "key": "9d3fa892e56209de2d454897601a4e9b",
+  "original": "Apple slices, ready for drying in a smoking rack.",
+  "translation": "Apple slices, ready for drying in a smoking rack.",
+  "context": "ID: apple_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→apple_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apple_slices",
+  "stage": 1
+ },
+ {
+  "key": "0ecb254ede97768d313a9343d4a21437",
+  "original": "Apricot slices, ready for drying in a smoking rack.",
+  "translation": "Apricot slices, ready for drying in a smoking rack.",
+  "context": "ID: apricot_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→apricot_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apricot_slices",
+  "stage": 1
+ },
+ {
+  "key": "d3e46401b1ccadeb800be5e341a44fbf",
+  "original": "Banana slices, ready for drying in a smoking rack.",
+  "translation": "Banana slices, ready for drying in a smoking rack.",
+  "context": "ID: banana_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→banana_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banana_slices",
+  "stage": 1
+ },
+ {
+  "key": "7a66f9e1afde683a3840c12e64fc41c4",
+  "original": "Chewy dried banana slices, not to be confused with them artery clogging banana chips",
+  "translation": "Chewy dried banana slices，not to be confused with them artery clogging banana chips",
+  "context": "ID: b_dried_bananas\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_bananas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_bananas",
+  "stage": 1
+ },
+ {
+  "key": "e55572545bf68c328548e22b3cbab7eb",
+  "original": "Dried Fruits",
+  "translation": "Dried Fruits",
+  "context": "ID: dried_fruits\n位于 /Kenan-Structured-Modpack/Dried_fruits/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→MOD_INFO→dried_fruits\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_fruits",
+  "stage": 1
+ },
+ {
+  "key": "0766f97c2dc5dd1a220aab8b979b3bf6",
+  "original": "Dried apple slices, none of that sugar syrup added.",
+  "translation": "Dried apple slices，none of that sugar syrup added.",
+  "context": "ID: b_dried_apple\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_apple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apple",
+  "stage": 1
+ },
+ {
+  "key": "4d9c2bdf42d0abacf813fe9bc95152ca",
+  "original": "Dried apricots, good souce vitamin A",
+  "translation": "Dried apricots，good souce vitamin A",
+  "context": "ID: b_dried_apricots\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_apricots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apricots",
+  "stage": 1
+ },
+ {
+  "key": "617fb94227cb24507e2a2280799abe8b",
+  "original": "Dried blueberries, less antioxidants then fresh ones, but still good for you",
+  "translation": "Dried blueberries，less antioxidants then fresh ones，but still good for you",
+  "context": "ID: b_dried_blueberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_blueberries",
+  "stage": 1
+ },
+ {
+  "key": "aa4f7b92134862e65e2d796ff93c3a97",
+  "original": "Dried cranberries, sugar added for taste so remember to brush.",
+  "translation": "Dried cranberries，sugar added for taste so remember to brush.",
+  "context": "ID: b_dried_cranberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_cranberries",
+  "stage": 1
+ },
+ {
+  "key": "fff04ad95d4bb31c16961876426355da",
+  "original": "Dried dates, don't worry these aren't poisoned.",
+  "translation": "Dried dates, don't worry these aren't poisoned.",
+  "context": "ID: dried_dates\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_dates\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_dates",
+  "stage": 1
+ },
+ {
+  "key": "25fb6a14ff132acc9eec081ba1f08b91",
+  "original": "Dried figs, odd looking but sweet ",
+  "translation": "Dried figs, odd looking but sweet ",
+  "context": "ID: dried_figs\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_figs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_figs",
+  "stage": 1
+ },
+ {
+  "key": "27c7cc376118c8591f92400dbdc5fe05",
+  "original": "Dried fruits, not to be confused with them tatseless dehydrated fruit flakes.",
+  "translation": "Dried fruits, not to be confused with them tatseless dehydrated fruit flakes.",
+  "context": "ID: dried_fruits\n位于 /Kenan-Structured-Modpack/Dried_fruits/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→MOD_INFO→dried_fruits\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_fruits",
+  "stage": 1
+ },
+ {
+  "key": "41636c560eb1e021266d9e34d12adb7c",
+  "original": "Dried kiwi slices.",
+  "translation": "Dried kiwi slices.",
+  "context": "ID: dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_kiwi",
+  "stage": 1
+ },
+ {
+  "key": "f00b0e79dfed56d65005573b13a90fe8",
+  "original": "Dried kiwi sugared slices, almost fluorescent in colour.",
+  "translation": "Dried kiwi sugared slices, almost fluorescent in colour.",
+  "context": "ID: b_dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_kiwi",
+  "stage": 1
+ },
+ {
+  "key": "e200b98e5d2113a4f05c79a085988c2c",
+  "original": "Dried mango slices.",
+  "translation": "Dried mango slices.",
+  "context": "ID: dried_mango\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_mango",
+  "stage": 1
+ },
+ {
+  "key": "00b334ddf09dea2146df2871ba68449d",
+  "original": "Dried papaya slices, vibrant orange in colour.",
+  "translation": "Dried papaya slices, vibrant orange in colour.",
+  "context": "ID: b_dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_papaya",
+  "stage": 1
+ },
+ {
+  "key": "879e353c80902a033ca74f209c90824b",
+  "original": "Dried papaya slices.",
+  "translation": "Dried papaya slices.",
+  "context": "ID: dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_papaya",
+  "stage": 1
+ },
+ {
+  "key": "3ff7868776a401e297b70334d78a6080",
+  "original": "Dried peaches, no fuzz.",
+  "translation": "Dried peaches，no fuzz.",
+  "context": "ID: b_dried_peaches\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_peaches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_peaches",
+  "stage": 1
+ },
+ {
+  "key": "93405e551e91e55af29c2db67f5461da",
+  "original": "Dried pineapple chunks",
+  "translation": "Dried pineapple chunks",
+  "context": "ID: dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_pineapple",
+  "stage": 1
+ },
+ {
+  "key": "8d322f1ba39438d491cf090df3cd688b",
+  "original": "Dried pineapple chunks, dusted in sugar, basicaly candy",
+  "translation": "Dried pineapple chunks, dusted in sugar, basicaly candy",
+  "context": "ID: b_dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_pineapple",
+  "stage": 1
+ },
+ {
+  "key": "ed60fa397f1b9710c5086181334cd6dd",
+  "original": "Dried plums AKA prunes.  High in fiber, good for keeping you regular.",
+  "translation": "Dried plums AKA prunes.  High in fiber，good for keeping you regular.",
+  "context": "ID: b_dried_plums\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_plums",
+  "stage": 1
+ },
+ {
+  "key": "55d194d082643cbfd7bced7787493c68",
+  "original": "Dried suagred mango slices, bright orange colour.",
+  "translation": "Dried suagred mango slices, bright orange colour.",
+  "context": "ID: b_dried_mango\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_mango",
+  "stage": 1
+ },
+ {
+  "key": "0de11d90353b776b46c40e5cbe92d75c",
+  "original": "Elderberries, toxic when eaten raw but great when cooked.",
+  "translation": "一把接骨木果，生吃有毒，但煮熟后很美味。",
+  "context": "ID: elderberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→elderberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=elderberries"
+ },
+ {
+  "key": "b53efbc987f701943f5cfde2e0f33eae",
+  "original": "Huckleberries, often times confused for blueberries.",
+  "translation": "一把美洲越橘，经常会和蓝莓混淆。",
+  "context": "ID: huckleberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→huckleberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=huckleberries"
+ },
+ {
+  "key": "d4acd29535610faad70123657d78af25",
+  "original": "Kiwi slices, ready for drying in a smoking rack.",
+  "translation": "Kiwi slices, ready for drying in a smoking rack.",
+  "context": "ID: kiwi_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→kiwi_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kiwi_slices",
+  "stage": 1
+ },
+ {
+  "key": "1424f6592ea2c02c29e3e4cc3e7ab52a",
+  "original": "Mango slices, ready for drying in a smoking rack.",
+  "translation": "Mango slices, ready for drying in a smoking rack.",
+  "context": "ID: mango_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→mango_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mango_slices",
+  "stage": 1
+ },
+ {
+  "key": "63d3df9559873e9cb16e7aaf867b5fb6",
+  "original": "Mulberries, this red variety is unique to east North America and is described to have the strongest flavor of any variety in the world.",
+  "translation": "一把北美桑椹，这种红色品种是北美东部所独有的，并被认为是世界上所有品种中风味最浓的一个品种。",
+  "context": "ID: mulberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→mulberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mulberries"
+ },
+ {
+  "key": "28018185e2eaf939eb421351b23a569c",
+  "original": "Papaya slices, ready for drying in a smoking rack.",
+  "translation": "Papaya slices, ready for drying in a smoking rack.",
+  "context": "ID: papaya_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→papaya_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=papaya_slices",
+  "stage": 1
+ },
+ {
+  "key": "cc410fd5de6faf88d41a2359dc1e7896",
+  "original": "Peach slices, ready for drying in a smoking rack.",
+  "translation": "Peach slices, ready for drying in a smoking rack.",
+  "context": "ID: peach_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→peach_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=peach_slices",
+  "stage": 1
+ },
+ {
+  "key": "a43208459535610ae9c2c4a75f762ef9",
+  "original": "Pineapple slices, ready for drying in a smoking rack.",
+  "translation": "Pineapple slices, ready for drying in a smoking rack.",
+  "context": "ID: pineapple_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→pineapple_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pineapple_slices",
+  "stage": 1
+ },
+ {
+  "key": "91d90f2693b28a2447070ecffd1e6e15",
+  "original": "Plum slices, ready for drying in a smoking rack.",
+  "translation": "Plum slices, ready for drying in a smoking rack.",
+  "context": "ID: plum_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→plum_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plum_slices",
+  "stage": 1
+ },
+ {
+  "key": "821887f6d6d629fd7c122282bac5a7d8",
+  "original": "Raisins, tasty little wrinkly things, eat them by the handful.",
+  "translation": "Raisins，tasty little wrinkly things，eat them by the handful.",
+  "context": "ID: b_raisins\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_raisins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_raisins",
+  "stage": 1
+ },
+ {
+  "key": "f267671179d56d006a8ad9fbee73238a",
+  "original": "Sour red berries.  Good for your health.",
+  "translation": "一把蔓越莓灌木所结出的红色浆果，很酸，但对健康有益。",
+  "context": "ID: cranberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cranberries"
+ },
+ {
+  "key": "454e6268add2e947023d48014282f71c",
+  "original": "Tasty, juicy berry.  Often found growing wild in fields.",
+  "translation": "一把在野外常见的草莓灌木所结出的果实，鲜红的果肉，多汁又美味。",
+  "context": "ID: strawberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→strawberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=strawberries"
+ },
+ {
+  "key": "4c277e2d9d9a30190d7f034d8fb5c890",
+  "original": "The fruit of a pollinated rose flower.",
+  "translation": "一把玫瑰果，是经过授粉后的玫瑰花所结的果实。",
+  "context": "ID: rose_hips\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→rose_hips\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rose_hips"
+ },
+ {
+  "key": "513552b0c0431f3a094d144134119f78",
+  "original": "They're blue, but that doesn't mean they're sad.",
+  "translation": "一把北美常见的蓝莓灌木所结出的蓝色果实。\n“适合在蓝色的天空下的蓝色小屋里听着蓝调布鲁斯吃着蓝莓。”",
+  "context": "ID: blueberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blueberries"
+ },
+ {
+  "key": "8f7f563c43dc3b027676b45b8dbf1c3e",
+  "original": "apple slices",
+  "translation": "apple slices",
+  "context": "ID: apple_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→apple_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apple_slices",
+  "stage": 1
+ },
+ {
+  "key": "8bfa992a7b261f6d9233f083859ad97d",
+  "original": "apricot slices",
+  "translation": "apricot slices",
+  "context": "ID: apricot_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→apricot_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apricot_slices",
+  "stage": 1
+ },
+ {
+  "key": "e8c50bf502cf24a4a619585eebbdc8d3",
+  "original": "banana slices",
+  "translation": "banana slices",
+  "context": "ID: banana_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→banana_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=banana_slices",
+  "stage": 1
+ },
+ {
+  "key": "38a230541d1638d64e04851d64195d37",
+  "original": "dreid dates",
+  "translation": "dreid dates",
+  "context": "ID: dried_dates\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_dates\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_dates",
+  "stage": 1
+ },
+ {
+  "key": "134cd56a058e42b4104c5b8fa856a917",
+  "original": "dried apple slices",
+  "translation": "dried apple slices",
+  "context": "ID: b_dried_apple\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_apple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apple",
+  "stage": 1
+ },
+ {
+  "key": "f9f9d34f36305517007efcdee0ac4bc8",
+  "original": "dried apricots",
+  "translation": "dried apricots",
+  "context": "ID: b_dried_apricots\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_apricots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_apricots",
+  "stage": 1
+ },
+ {
+  "key": "2b2e4070114e7d1f4db482a999c5c45d",
+  "original": "dried banana slices",
+  "translation": "dried banana slices",
+  "context": "ID: b_dried_bananas\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_bananas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_bananas",
+  "stage": 1
+ },
+ {
+  "key": "263c00906d8fac9b9187e03cda5209e7",
+  "original": "dried blueberries",
+  "translation": "dried blueberries",
+  "context": "ID: b_dried_blueberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_blueberries",
+  "stage": 1
+ },
+ {
+  "key": "5a1b1a90067de1e2b6f8287c4e101085",
+  "original": "dried cranberries",
+  "translation": "dried cranberries",
+  "context": "ID: b_dried_cranberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_cranberries",
+  "stage": 1
+ },
+ {
+  "key": "cca68ddab3e0c38fd4ee6cf215857917",
+  "original": "dried dates",
+  "translation": "dried dates",
+  "context": "ID: dried_dates\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_dates\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_dates",
+  "stage": 1
+ },
+ {
+  "key": "089c4dbea1069f86d1eab408870215f8",
+  "original": "dried figs",
+  "translation": "dried figs",
+  "context": "ID: dried_figs\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→dried_figs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dried_figs",
+  "stage": 1
+ },
+ {
+  "key": "d4311ca14addcf1acb0bf44de32193f4",
+  "original": "dried kiwi slices",
+  "translation": "dried kiwi slices",
+  "context": "ID: b_dried_kiwi\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_kiwi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_kiwi",
+  "stage": 1
+ },
+ {
+  "key": "17ee9c2a15989b102d19da3e638c5c60",
+  "original": "dried mango slices",
+  "translation": "dried mango slices",
+  "context": "ID: b_dried_mango\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_mango\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_mango",
+  "stage": 1
+ },
+ {
+  "key": "d704266fb6fb1d7a2a260273d6c8c76f",
+  "original": "dried papaya slices",
+  "translation": "dried papaya slices",
+  "context": "ID: b_dried_papaya\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_papaya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_papaya",
+  "stage": 1
+ },
+ {
+  "key": "33736ce4bc61a3cce9ca8c31d796c916",
+  "original": "dried peaches",
+  "translation": "dried peaches",
+  "context": "ID: b_dried_peaches\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_peaches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_peaches",
+  "stage": 1
+ },
+ {
+  "key": "6841ff933cce14c976f105c72fa1e11a",
+  "original": "dried pineapple chunks",
+  "translation": "dried pineapple chunks",
+  "context": "ID: b_dried_pineapple\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_pineapple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_pineapple",
+  "stage": 1
+ },
+ {
+  "key": "97d0746ff94d12ea4803c9c6356ecfdb",
+  "original": "dried plums",
+  "translation": "dried plums",
+  "context": "ID: b_dried_plums\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_dried_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_dried_plums",
+  "stage": 1
+ },
+ {
+  "key": "d2545584b78c1601c5900031cb53ecb8",
+  "original": "handful of apricots",
+  "translation": "一把杏子",
+  "context": "ID: apricot_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→apricot_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apricot_slices"
+ },
+ {
+  "key": "343b85b5f0d5bebdf645faf4d48178a8",
+  "original": "handful of blackberries",
+  "translation": "一把黑莓",
+  "context": "ID: blackberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→blackberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackberries"
+ },
+ {
+  "key": "a4db71bb97e0a35a814d3a8db56a2664",
+  "original": "handful of blueberries",
+  "translation": "蓝莓",
+  "context": "ID: blueberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blueberries"
+ },
+ {
+  "key": "53e420d2f8a4096fb56134c581f63845",
+  "original": "handful of cranberries",
+  "translation": "蔓越莓",
+  "context": "ID: cranberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→cranberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cranberries"
+ },
+ {
+  "key": "9d23a79855eef0140506e42d613043aa",
+  "original": "handful of elderberries",
+  "translation": "一把接骨木果",
+  "context": "ID: elderberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→elderberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=elderberries"
+ },
+ {
+  "key": "1df8e18729347369ea9e31f46696dd93",
+  "original": "handful of grapes",
+  "translation": "一把葡萄",
+  "context": "ID: grapes\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→grapes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grapes"
+ },
+ {
+  "key": "54b879655f6cac3ec4b121f9b9b4e36a",
+  "original": "handful of huckleberries",
+  "translation": "一把越橘",
+  "context": "ID: huckleberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→huckleberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=huckleberries"
+ },
+ {
+  "key": "5c51667c67fa65598c990dd90163aa2c",
+  "original": "handful of mulberries",
+  "translation": "一把桑椹",
+  "context": "ID: mulberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→mulberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mulberries"
+ },
+ {
+  "key": "33b3d3a895540ab7b4de9d3cfe88aa13",
+  "original": "handful of raspberries",
+  "translation": "一把树莓",
+  "context": "ID: raspberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→raspberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raspberries"
+ },
+ {
+  "key": "44a0b8b6d58c7c8e8b9485a8733bcdf1",
+  "original": "handful of rose hips",
+  "translation": "一把玫瑰果",
+  "context": "ID: rose_hips\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→rose_hips\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rose_hips"
+ },
+ {
+  "key": "4f4192841db14587ae1d8c72ecc1e98f",
+  "original": "handful of strawberries",
+  "translation": "草莓",
+  "context": "ID: strawberries\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→strawberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=strawberries"
+ },
+ {
+  "key": "9d27b9389a3057adf1decb91bf7bb594",
+  "original": "kiwi slices",
+  "translation": "kiwi slices",
+  "context": "ID: kiwi_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→kiwi_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kiwi_slices",
+  "stage": 1
+ },
+ {
+  "key": "c2fde5fee1e6a4adc98939052da94e43",
+  "original": "mango slices",
+  "translation": "mango slices",
+  "context": "ID: mango_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→mango_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mango_slices",
+  "stage": 1
+ },
+ {
+  "key": "6274748262810ad0b45304ef2111fe44",
+  "original": "papaya slices",
+  "translation": "papaya slices",
+  "context": "ID: papaya_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→papaya_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=papaya_slices",
+  "stage": 1
+ },
+ {
+  "key": "fe1a1f598fac991bab76bf5d522c6470",
+  "original": "peach slices",
+  "translation": "peach slices",
+  "context": "ID: peach_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→peach_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=peach_slices",
+  "stage": 1
+ },
+ {
+  "key": "95cd3fc01819b69d1a4900e6fe3d293c",
+  "original": "peaches",
+  "translation": "peaches",
+  "context": "ID: peach_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→peach_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=peach_slices",
+  "stage": 1
+ },
+ {
+  "key": "06b6dfd0002221c137771f589687ea14",
+  "original": "pineapple slices",
+  "translation": "pineapple slices",
+  "context": "ID: pineapple_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→pineapple_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pineapple_slices",
+  "stage": 1
+ },
+ {
+  "key": "32187f81610e9fdf3adaaa2ff618f11e",
+  "original": "plum slices",
+  "translation": "plum slices",
+  "context": "ID: plum_slices\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/raw_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→plum_slices\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plum_slices",
+  "stage": 1
+ },
+ {
+  "key": "f7a89b31fdf9255863139804963e88cf",
+  "original": "raisins",
+  "translation": "raisins",
+  "context": "ID: b_raisins\n位于 /Kenan-Structured-Modpack/Dried_fruits/items/comestibles/dried_fruits.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Dried_fruits→COMESTIBLE→b_raisins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_raisins",
+  "stage": 1
+ }
 ]
