@@ -878,6 +878,16 @@ ${getItemBrowserLink(fullItem)}`
     }
     if (Array.isArray(item.effect)) {
       for (let effects of item.effect) {
+        if (Array.isArray(effects.names)){
+          for ( const name of effects.names ) {
+            name = await translateFunction(name);
+          }
+        }
+        if (Array.isArray(effects.descriptions)){
+          for ( const description of effects.descriptions ) {
+            description = await translateFunction(description);
+          }
+        }
         effects.fail_message = await translateFunction(effects.fail_message);
         effects.u_message = await translateFunction(effects.u_message);
         if (effects?.u_cast_spell?.message)
