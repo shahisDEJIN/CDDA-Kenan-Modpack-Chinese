@@ -6,7 +6,8 @@
     "authors": [ "Eirenex", "fatalmojo" ],
     "description": "Surviving the dragon way",
     "category": "items",
-    "dependencies": [ "dda" ],
+    "dependencies": [ "bn" ],
     "version": "0.1"
   }
 ]
+

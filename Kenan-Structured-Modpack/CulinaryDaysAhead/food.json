@@ -19,8 +19,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
-    "charges": 1,
-    "vitamins": [ [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
+    "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
     "fun": 1
   },
   {
@@ -42,9 +41,8 @@
     "material": [ "tomato", "flesh" ],
     "volume": "250 ml",
     "phase": "liquid",
-    "charges": 1,
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
-    "vitamins": [ [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
+    "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
     "fun": 5
   },
   {
@@ -56,7 +54,7 @@
     "color": "red",
     "spoils_in": "730 days 0 hours",
     "container": "can_food",
-    "comestible_type": "FOOD",
+    "comestible_type": "EAT",
     "symbol": "o",
     "quench": 0,
     "healthy": 1,
@@ -67,9 +65,8 @@
     "material": [ "flesh" ],
     "volume": "250 ml",
     "phase": "liquid",
-    "charges": 1,
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
-    "vitamins": [ [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
+    "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
     "fun": 0
   },
   {
@@ -86,7 +83,8 @@
     "price_postapoc": "2 USD",
     "material": [ "egg" ],
     "volume": "250 ml",
-    "flags": [ "EATEN_HOT", "FREEZERBURN" ],
+    "charges": 2,
+    "flags": [ "EATEN_HOT" ],
     "fun": 5
   },
   {
@@ -103,7 +101,8 @@
     "price_postapoc": "2 USD",
     "material": [ "egg", "cheese" ],
     "volume": "250 ml",
-    "flags": [ "EATEN_HOT", "FREEZERBURN" ],
+    "charges": 2,
+    "flags": [ "EATEN_HOT" ],
     "fun": 8
   },
   {
@@ -120,7 +119,26 @@
     "price_postapoc": "2 USD",
     "material": [ "wheat", "fruit" ],
     "volume": "250 ml",
-    "flags": [ "EATEN_HOT", "FREEZERBURN" ],
+    "charges": 2,
+    "flags": [ "EATEN_HOT" ],
+    "fun": 10
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "garlic_bread",
+    "name": { "str": "Garlic bread" },
+    "weight": "350 g",
+    "copy-from": "johnnycake",
+    "color": "green",
+    "spoils_in": "2 days",
+    "symbol": "%",
+    "description": "This delicious toast is made from soft butter and crushed garlic infused into the toast, fried on a flat metal surface with seasoning added. Approved by Vampire hunters.",
+    "price": "4 USD",
+    "price_postapoc": "2 USD",
+    "material": [ "wheat", "veggy" ],
+    "volume": "250 ml",
+    "charges": 2,
+    "flags": [ "EATEN_HOT" ],
     "fun": 10
   }
 ]
