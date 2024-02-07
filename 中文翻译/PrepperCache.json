@@ -1,0 +1,51 @@
+[
+ {
+  "key": "15484f8faaa68a1c6a65bf37896b01ca",
+  "original": "A surprisingly well-drawn map outlining the locations of prepper cache's.",
+  "translation": "A surprisingly well-drawn map outlining the locations of prepper cache's.",
+  "context": "ID: cachemap\n位于 /Kenan-Structured-Modpack/PrepperCache/C_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→GENERIC→cachemap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cachemap",
+  "stage": 1
+ },
+ {
+  "key": "f6d4dc76ddd4ef416198afe9d6779f41",
+  "original": "Adds Prepper Caches, small bunkers full of supplies.",
+  "translation": "Adds Prepper Caches, small bunkers full of supplies.",
+  "context": "ID: P_Caches\n位于 /Kenan-Structured-Modpack/PrepperCache/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→MOD_INFO→P_Caches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=P_Caches",
+  "stage": 1
+ },
+ {
+  "key": "726e4408929c734666ebc0a0557674bf",
+  "original": "Caches",
+  "translation": "Caches",
+  "context": "ID: P_Caches\n位于 /Kenan-Structured-Modpack/PrepperCache/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→MOD_INFO→P_Caches\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=P_Caches",
+  "stage": 1
+ },
+ {
+  "key": "47c1b79f810aaf7e73054e6a8436ebe0",
+  "original": "You update your map with the prepper locations.",
+  "translation": "You update your map with the prepper locations.",
+  "context": "ID: cachemap\n位于 /Kenan-Structured-Modpack/PrepperCache/C_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→GENERIC→cachemap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cachemap",
+  "stage": 1
+ },
+ {
+  "key": "babef53c3a384cbe4450886c3657922b",
+  "original": "prepper cache",
+  "translation": "prepper cache",
+  "context": "ID: cache_under\n位于 /Kenan-Structured-Modpack/PrepperCache/C_om_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→overmap_terrain→cache_under\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cache_under",
+  "stage": 1
+ },
+ {
+  "key": "9da2f8f45fdfc8d5f5b219aeaaabe308",
+  "original": "prepper's map",
+  "translation": "prepper's map",
+  "context": "ID: cachemap\n位于 /Kenan-Structured-Modpack/PrepperCache/C_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→GENERIC→cachemap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cachemap",
+  "stage": 1
+ },
+ {
+  "key": "00c51dde4bfff0c2fbf268d696ded936",
+  "original": "prepper's maps",
+  "translation": "prepper's maps",
+  "context": "ID: cachemap\n位于 /Kenan-Structured-Modpack/PrepperCache/C_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PrepperCache→GENERIC→cachemap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cachemap",
+  "stage": 1
+ }
+]

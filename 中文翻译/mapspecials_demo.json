@@ -1,0 +1,21 @@
+[
+ {
+  "key": "d7ac23cef3456c5edb85fd54a10fe2d9",
+  "original": "Demo for JSONized mapgens (missile silo).",
+  "translation": "Demo for JSONized mapgens (missile silo).",
+  "context": "ID: mapgen_demo\n位于 /Kenan-Structured-Modpack/mapspecials_demo/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→MOD_INFO→mapgen_demo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mapgen_demo",
+  "stage": 1
+ },
+ {
+  "key": "a3ea642438d4f30428ac5c0533808611",
+  "original": "Mapgen Demo",
+  "translation": "地图生成DEMO",
+  "context": "ID: mapgen_demo\n位于 /Kenan-Structured-Modpack/mapspecials_demo/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→MOD_INFO→mapgen_demo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mapgen_demo"
+ },
+ {
+  "key": "57c12d9454c9e8823ffd28e951487946",
+  "original": "missile silo",
+  "translation": "导弹发射井",
+  "context": "ID: silo_fbrc\n位于 /Kenan-Structured-Modpack/mapspecials_demo/missile_silo/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mapspecials_demo→overmap_terrain→silo_fbrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=silo_fbrc"
+ }
+]

@@ -1,779 +1,1050 @@
 [
-  {
-    "key": "c144270e1cbfea2e4070b61d47f949f5",
-    "original": "Adds new Z-level buildings and dungeons.  Still unpolished.  Before generating a world, you can remove subfolders to nix unwanted locations.",
-    "translation": "加入了新的Z 轴建筑和地牢。仍有点粗糙。在创造世界之前，你可以删除子文件夹以排除不想要的地方。",
-    "stage": 5,
-    "context": "ID: more_locations\n位于 /Kenan-Structured-Modpack/More_Locations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→MOD_INFO→more_locations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=more_locations"
-  },
-  {
-    "key": "1b57a79f3d4e9da2dd932445f45d3efa",
-    "original": "Are you part of the rescue team?",
-    "translation": "你是救援队派来的人吗？",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE"
-  },
-  {
-    "key": "90fc70352f8415c97a0a8fe71ec4a077",
-    "original": "Captives",
-    "translation": "俘虏",
-    "stage": 5,
-    "context": "ID: captives\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→captives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=captives"
-  },
-  {
-    "key": "fad9e3110dcc2361ce9a9f8b20728093",
-    "original": "Hold tight, <sass>.  I've got to clear a path.",
-    "translation": "跟紧了，<sass>。我得先扫清一条路出来。",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE"
-  },
-  {
-    "key": "0746614d2c2527311e112b0ce642e7fa",
-    "original": "More Locations",
-    "translation": "更多的地点",
-    "stage": 5,
-    "context": "ID: more_locations\n位于 /Kenan-Structured-Modpack/More_Locations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→MOD_INFO→more_locations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=more_locations"
-  },
-  {
-    "key": "b7d587f4d770b91a1ab3ee1e3ea31bbb",
-    "original": "Pack your bags, <sass>.  We're going on a trip.",
-    "translation": "打好包裹，<sass>。我们要出发了。",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE"
-  },
-  {
-    "key": "443ee3825b26f46bce9aad46657c0f94",
-    "original": "Part?  I AM the rescue team.",
-    "translation": "派来？救援队只有我一个。",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE"
-  },
-  {
-    "key": "4694c777b5ca7d0be256b4e3d9327205",
-    "original": "Refugees",
-    "translation": "难民",
-    "stage": 5,
-    "context": "ID: refugees\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→refugees\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=refugees"
-  },
-  {
-    "key": "38ab2499f52cfb004f6fba06f8ab1260",
-    "original": "So are you busting us out of here or what?",
-    "translation": "那你是要把我们从这里弄出去还是什么？",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE"
-  },
-  {
-    "key": "c5632999a2dc7470b42c675c3f344107",
-    "original": "Sorry, <sass>, the rescue has been delayed.",
-    "translation": "很抱歉，<sass>，救援被延迟了。",
-    "stage": 5,
-    "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE"
-  },
-  {
-    "key": "55e70e725b7662abe62e127a6443b17b",
-    "original": "The scattered remnants of civilization, these lucky few managed to barricade themselves inside during the earliest stages of the Cataclysm.  Although temporarily secure, they are short on supplies and lack the skills to obtain more.  It's only a matter of time before they too become the prey of otherwordly creatures, or of all-too-human monsters.",
-    "translation": "人类文明的残存幸存者，少数幸运的人在大灾变初期成功搭建了安全屋并活了下来。虽然暂时安全，但是他们缺少补给及获得更多补给的能力。对他们来说，成为种种异界生物或是“那些人”的晚餐只是时间问题。",
-    "stage": 5,
-    "context": "ID: refugees\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→refugees\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=refugees"
-  },
-  {
-    "key": "27cdd3eda0279153b17422014f66d6ec",
-    "original": "These are hapless survivors who have been captured by raiders, slavers, mutants, or worse.  Without your help, the remainder of their lives will be short and gruesome.",
-    "translation": "这些倒霉的幸存者们，曾经被各路掠夺者、奴隶贩子、变异人或者更糟糕的人抓住过。如果没有你的帮助，这些人的余生将会很短而且很恐怖。",
-    "stage": 5,
-    "context": "ID: captives\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→captives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=captives"
-  },
-  {
-    "key": "6cbd58cc64ca293a12e938edf9d6e7db",
-    "original": "book case",
-    "translation": "书柜",
-    "stage": 5,
-    "context": "ID: t_decoy_bookcase\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_decoy_bookcase\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_decoy_bookcase"
-  },
-  {
-    "key": "b8e633a161f3a1fc1bc526730919de47",
-    "original": "brick wall",
-    "translation": "砖墙",
-    "stage": 5,
-    "context": "ID: t_sliding_brick_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_brick_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_c"
-  },
-  {
-    "key": "476642acc2211cfc71edb8429fde9021",
-    "original": "bridge control",
-    "translation": "桥梁控制台",
-    "stage": 5,
-    "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control"
-  },
-  {
-    "key": "eaa5e6539e2f75d1deb2f7e161ef0e15",
-    "original": "broken console",
-    "translation": "电脑（损坏）",
-    "stage": 5,
-    "context": "ID: t_sliding_concrete_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_concrete_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_control"
-  },
-  {
-    "key": "fa396e13fac4dad80cdcd4ba543119db",
-    "original": "chemical mixer",
-    "translation": "化工混合机",
-    "stage": 5,
-    "context": "ID: t_ind_mixer\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_mixer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_mixer"
-  },
-  {
-    "key": "7c8afd2bb14c1aad6259a3c0dd701d14",
-    "original": "concrete floor",
-    "translation": "混凝土地板",
-    "stage": 5,
-    "context": "ID: t_concrete_floor\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_concrete_floor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_concrete_floor"
-  },
-  {
-    "key": "32af0c288e61ca39a9f360316f99e37b",
-    "original": "concrete wall",
-    "translation": "混凝土墙",
-    "stage": 5,
-    "context": "ID: t_sliding_concrete_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_concrete_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_c"
-  },
-  {
-    "key": "fd16dbb793b148c25f14b7b45837a63a",
-    "original": "containment manual override",
-    "translation": "隔离区手动超越控制",
-    "stage": 5,
-    "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control"
-  },
-  {
-    "key": "396e99c23fcb92fe3f73d11bc54c67b3",
-    "original": "electro furnace",
-    "translation": "电炉",
-    "stage": 5,
-    "context": "ID: t_ind_furnace\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_furnace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_furnace"
-  },
-  {
-    "key": "cbf8537aa309fa8e316b6b70dd22495a",
-    "original": "heavy pipe",
-    "translation": "重型钢管",
-    "stage": 5,
-    "context": "ID: t_ind_pipe\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_pipe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_pipe"
-  },
-  {
-    "key": "1db87a2cd85f29d51d2e079f0a7511b3",
-    "original": "hydraulic press",
-    "translation": "液压机",
-    "stage": 5,
-    "context": "ID: t_ind_press\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_press\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_press"
-  },
-  {
-    "key": "2be90e854480146b8b7dedc5c8ae208f",
-    "original": "industrial drill",
-    "translation": "工业钻机",
-    "stage": 5,
-    "context": "ID: t_ind_drill\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_drill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_drill"
-  },
-  {
-    "key": "b060166970512d46227543d96df57c7d",
-    "original": "open secret",
-    "translation": "打开密道",
-    "stage": 5,
-    "context": "ID: t_secretdoor_brick_wall_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_secretdoor_brick_wall_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_secretdoor_brick_wall_o"
-  },
-  {
-    "key": "bc6dd56ac7e684ce0c1abc36b2a6bee5",
-    "original": "open secret door",
-    "translation": "打开秘门",
-    "stage": 5,
-    "context": "ID: t_secretdoor_bookcase_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_secretdoor_bookcase_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_secretdoor_bookcase_o"
-  },
-  {
-    "key": "d19fb89e755e5825b9a9b45d69e7d795",
-    "original": "open sliding wall",
-    "translation": "打开墙壁",
-    "stage": 5,
-    "context": "ID: t_sliding_wall_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_o"
-  },
-  {
-    "key": "8f8449add28abd7fcb15db392a188f69",
-    "original": "power lathe",
-    "translation": "动力车床",
-    "stage": 5,
-    "context": "ID: t_ind_lathe\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_lathe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_lathe"
-  },
-  {
-    "key": "803654b8907c1b172c5035611cfa5da6",
-    "original": "robotic assembler",
-    "translation": "装配机器人",
-    "stage": 5,
-    "context": "ID: t_ind_assembler\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_assembler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_assembler"
-  },
-  {
-    "key": "7d6d2333d97775c2704e2473299301a2",
-    "original": "security bolt release",
-    "translation": "安防卡榫",
-    "stage": 5,
-    "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control"
-  },
-  {
-    "key": "6366156407c41f2cef3bb89453550e64",
-    "original": "solid rock",
-    "translation": "坚岩",
-    "stage": 5,
-    "context": "ID: t_border_rock\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_border_rock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_border_rock"
-  },
-  {
-    "key": "01a389ea1000645dd1bab4627ab98f39",
-    "original": "unusual book case",
-    "translation": "奇怪的书柜",
-    "stage": 5,
-    "context": "ID: t_sliding_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_control"
-  },
-  {
-    "key": "f4a9daa5d605877285137a61aeef85e6",
-    "original": "unusual statue",
-    "translation": "奇怪的雕像",
-    "stage": 5,
-    "context": "ID: t_sliding_brick_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_brick_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_control"
-  },
-  {
-    "key": "2d86bdac01a3315b95794ffa7360edc3",
-    "original": "wall",
-    "translation": "墙",
-    "stage": 5,
-    "context": "ID: t_sliding_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_c"
-  },
-  {
-    "key": "9ca4a9123cc14e55604d638cd7278199",
-    "original": "The bolts fall open!",
-    "translation": "安全螺栓打开了！",
-    "stage": 5,
-    "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control"
-  },
-  {
-    "key": "f74d2c11cfdbd0d1e6f2a3646ff76d9b",
-    "original": "The bolts slide back into place.",
-    "translation": "安全螺栓关上了。",
-    "stage": 5,
-    "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control"
-  },
-  {
-    "key": "76df7b2067f3282fe0201c8efc9bf584",
-    "original": "The bookcase can't be closed!",
-    "translation": "书架的门无法被关上！",
-    "stage": 5,
-    "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control"
-  },
-  {
-    "key": "58fc64d4764727a21083b44188f850ed",
-    "original": "The bookcase slides closed.",
-    "translation": "书架的门关上了。",
-    "stage": 5,
-    "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control"
-  },
-  {
-    "key": "1d6f09799611b0192855340de9b400b9",
-    "original": "The bookcase slides open!",
-    "translation": "书架滑开了！",
-    "stage": 5,
-    "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control"
-  },
-  {
-    "key": "1787f271f174a73978cc57e1c737eeda",
-    "original": "The bridge can't be extended!",
-    "translation": "吊桥无法被放下！",
-    "stage": 5,
-    "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control"
-  },
-  {
-    "key": "52fdcafbcb8a084e630fe8143ec525fa",
-    "original": "The bridge extends.",
-    "translation": "吊桥放下了。",
-    "stage": 5,
-    "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control"
-  },
-  {
-    "key": "cbd3432f13de84ebae1fe5e2399d98d3",
-    "original": "The bridge retracts!",
-    "translation": "吊桥收起了！",
-    "stage": 5,
-    "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control"
-  },
-  {
-    "key": "6e03507ae7812c5693e8849347844f8c",
-    "original": "The glass slides open!",
-    "translation": "玻璃墙滑开了！",
-    "stage": 5,
-    "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control"
-  },
-  {
-    "key": "f7480c0d22ec15023caec32bca0e01dd",
-    "original": "The glass wall can't be closed!",
-    "translation": "玻璃墙壁上的门无法被关上！",
-    "stage": 5,
-    "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control"
-  },
-  {
-    "key": "d45c04219c2f17491d1f779f1ea4164b",
-    "original": "The glass wall slides closed.",
-    "translation": "玻璃墙壁上的门关上了。",
-    "stage": 5,
-    "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control"
-  },
-  {
-    "key": "34b7abee8e20a5333df51577d72dea99",
-    "original": "The release can't be activated!",
-    "translation": "安全螺栓无法被关上！",
-    "stage": 5,
-    "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control"
-  },
-  {
-    "key": "73b451efb5fc30aa000999a5283879b0",
-    "original": "The sliding wall can't be closed!",
-    "translation": "墙壁上的门无法被关上！",
-    "stage": 5,
-    "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control"
-  },
-  {
-    "key": "56b9f51ead771042a36cfc54c396bf02",
-    "original": "The wall slides closed.",
-    "translation": "墙壁上的门关上了。",
-    "stage": 5,
-    "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control"
-  },
-  {
-    "key": "d8705a82a0f37b28dbf15c7d8fd223d9",
-    "original": "The wall slides open!",
-    "translation": "墙壁上的门滑开了！",
-    "stage": 5,
-    "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control"
-  },
-  {
-    "key": "43aa5690e06f853620ca3f0265f35462",
-    "original": "You activate the mechanism...",
-    "translation": "你触发了机关……",
-    "stage": 5,
-    "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control"
-  },
-  {
-    "key": "9090d067b3a9e2f41db99542fa3c4606",
-    "original": "You activate the security bolt release...",
-    "translation": "你激活了安全螺栓控制器……",
-    "stage": 5,
-    "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control"
-  },
-  {
-    "key": "c7eb00fb508f1eeb7a087ca043537323",
-    "original": "You pull an odd looking book...",
-    "translation": "你搬动了一本奇怪的书……",
-    "stage": 5,
-    "context": "ID: t_sliding_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_control"
-  },
-  {
-    "key": "b6e8b71f0366c3d6a075c98d33d2f1a9",
-    "original": "You pull the lever...",
-    "translation": "你扳下开关……",
-    "stage": 5,
-    "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control"
-  },
-  {
-    "key": "23afdaee44feb2eb772c2f665a46cca3",
-    "original": "You trigger the hidden mechanism...",
-    "translation": "你触发了隐藏的机关……",
-    "stage": 5,
-    "context": "ID: t_sliding_concrete_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_concrete_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_control"
-  },
-  {
-    "key": "e4696be7198178a32b1f7411d1464ef7",
-    "original": "You trigger the mechanism...",
-    "translation": "你触发了机关……",
-    "stage": 5,
-    "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control"
-  },
-  {
-    "key": "67441c008fefb552a3ae734ec78da741",
-    "original": "You trigger the odd looking statue...",
-    "translation": "你触碰了一座奇怪的雕像……",
-    "stage": 5,
-    "context": "ID: t_sliding_brick_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_brick_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_control"
-  },
-  {
-    "key": "f728877419628aa42aab2f05a02dd6cb",
-    "original": "Captive",
-    "translation": "俘虏",
-    "stage": 5,
-    "context": "ID: mutant_captive\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/captive_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→mutant_captive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_captive"
-  },
-  {
-    "key": "53ee1f6d941b631ed8148da497853787",
-    "original": "Raider",
-    "translation": "强盗",
-    "stage": 5,
-    "context": "ID: raider\n位于 /Kenan-Structured-Modpack/More_Locations/npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→raider\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raider"
-  },
-  {
-    "key": "88b1c5a11567c98cf25fd92734ccbf43",
-    "original": "Refugee",
-    "translation": "难民",
-    "stage": 5,
-    "context": "ID: mutant_refugee\n位于 /Kenan-Structured-Modpack/More_Locations/refugee_faction/refugee_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→mutant_refugee\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_refugee"
-  },
-  {
-    "key": "8d3d8f90a52e5caad876a7bfc5197b33",
-    "original": "apartment towers",
-    "translation": "公寓大楼",
-    "stage": 5,
-    "context": "ID: tri_tower_utrc\n位于 /Kenan-Structured-Modpack/More_Locations/tri_tower/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→tri_tower_utrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tri_tower_utrc"
-  },
-  {
-    "key": "97b53f6a1640dd20e14b156d1dcee223",
-    "original": "attached garage",
-    "translation": "附属车库",
-    "stage": 5,
-    "context": "ID: combogarageC_first\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_first\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_first"
-  },
-  {
-    "key": "9549dd6065d019211460c59a86dd6536",
-    "original": "factory",
-    "translation": "工厂",
-    "stage": 5,
-    "context": "ID: factory_brc\n位于 /Kenan-Structured-Modpack/More_Locations/factory/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→factory_brc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=factory_brc"
-  },
-  {
-    "key": "63d721d24d2dde776e05e4b8c47f08a3",
-    "original": "gate",
-    "translation": "大门",
-    "stage": 5,
-    "context": "ID: mil_outpost_ybe_gate\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ybe_gate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ybe_gate"
-  },
-  {
-    "key": "2ca63cddd54f9490efad22421891a9d1",
-    "original": "house",
-    "translation": "民宅",
-    "stage": 5,
-    "context": "ID: combogarageC_second\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_second\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_second"
-  },
-  {
-    "key": "de43284718be754d9f51e24fc58cce91",
-    "original": "house basement",
-    "translation": "房屋地下室",
-    "stage": 5,
-    "context": "ID: combohouseC_basement\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combohouseC_basement\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combohouseC_basement"
-  },
-  {
-    "key": "246f35c08933163a8118806e5c0f311f",
-    "original": "house roof",
-    "translation": "房顶",
-    "stage": 5,
-    "context": "ID: combogarageC_roof\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_roof"
-  },
-  {
-    "key": "a78db10de466b05376e528accb8dad6a",
-    "original": "mansion",
-    "translation": "别墅",
-    "stage": 5,
-    "context": "ID: estate_2troc\n位于 /Kenan-Structured-Modpack/More_Locations/estate/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→estate_2troc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=estate_2troc"
-  },
-  {
-    "key": "f24ff5bf540aa95092db4bfc456c629a",
-    "original": "military outpost",
-    "translation": "军事哨站",
-    "stage": 5,
-    "context": "ID: mil_outpost_ubrc\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ubrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ubrc"
-  },
-  {
-    "key": "19dd8336ada04421ad9dedede74e1cc3",
-    "original": "mine field",
-    "translation": "雷区",
-    "stage": 5,
-    "context": "ID: mil_outpost_ybrc\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ybrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ybrc"
-  },
-  {
-    "key": "05a2b56836f876e10d307262ca612d85",
-    "original": " <full_name> & <full_name>.  Crashed their motorcycles at 120mph.  Buried the pieces together.",
-    "translation": " <full_name> 和 <full_name>。死于120迈飚摩托车的车祸。合葬于此。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[18]\n"
-  },
-  {
-    "key": "0707741612ebf4eb8185035b0fb00feb",
-    "original": " <full_name>.  Done in by mutant wasps.",
-    "translation": " <full_name>。被变异黄蜂扎烂了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[26]\n"
-  },
-  {
-    "key": "87d4f5edb0b742e3850211a92e2156cd",
-    "original": " <full_name>.  Drank a mystery serum and mutated to death.",
-    "translation": " <full_name>。喝了一种神秘血清变异致死。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[24]\n"
-  },
-  {
-    "key": "46dc2988dcc2d46a87b9aa646b875d43",
-    "original": " <full_name>.  Eaten by wolves.",
-    "translation": " <full_name>。被狼吃了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[10]\n"
-  },
-  {
-    "key": "41e824dd9916e761c2f4ec24fea7b71c",
-    "original": " <full_name>.  Fallen Soldier.",
-    "translation": " <full_name>。阵亡士兵。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[15]\n"
-  },
-  {
-    "key": "7998976c19826c52cefcb36d2b836de5",
-    "original": " <full_name>.  Friend, Lover, Cannibal.",
-    "translation": " <full_name>。朋友，爱人，食人族。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[19]\n"
-  },
-  {
-    "key": "cf7425bedf1c0d254522e64a39e9b754",
-    "original": " <full_name>.  Gunned down in his prime.",
-    "translation": " <full_name>。在年富力强时被一枪毙命。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[23]\n"
-  },
-  {
-    "key": "263347f120e676935a9c8f858ca9b7bf",
-    "original": " <full_name>.  Infected.",
-    "translation": " <full_name>。死于感染。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[11]\n"
-  },
-  {
-    "key": "daa0e8f9cc74fe6d295b863029c028c1",
-    "original": " <full_name>.  Ripped apart by a gross tentacle thing in the woods.",
-    "translation": " <full_name>。被林中恶心的触手怪物撕成碎片。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[16]\n"
-  },
-  {
-    "key": "2d396635149aec119fcd365a08eeb01b",
-    "original": " <full_name>.  Roasting in Hell.",
-    "translation": " <full_name>。在地狱中燃烧吧。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[14]\n"
-  },
-  {
-    "key": "9c9b06845e55b30b45759d6218692ea4",
-    "original": " <full_name>.  Vaporized by Tank Bot.",
-    "translation": " <full_name>。被坦克无人机蒸发了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[20]\n"
-  },
-  {
-    "key": "101b2acbdb958e80097b8a54e4948686",
-    "original": " <given_name>.  Died as he lived, drunk and on fire.",
-    "translation": " <given_name>。死于酗酒时纵火。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[17]\n"
-  },
-  {
-    "key": "59dbf80b0a4b81f953fd6e74bbf78c51",
-    "original": " <given_name>.  Died in his sleep.  Lucky Bastard.",
-    "translation": " <given_name>。死于睡眠中。真是个幸运的狗家伙。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[21]\n"
-  },
-  {
-    "key": "ad1951fa4212c1a2e47728110b4af061",
-    "original": " <given_name>.  We'll never see another like him.",
-    "translation": " <given_name>。我们再也没法见到另一个像他那么优秀的人了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[25]\n"
-  },
-  {
-    "key": "92fd7e3c102432fec9feabeaa88ea89c",
-    "original": " Here lies <full_name>.  No Smoking near Molotov storage!",
-    "translation": " <full_name>在此安息。下辈子记得别在燃烧瓶堆里吸烟了！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[22]\n"
-  },
-  {
-    "key": "108e682327829c01f7ea733a2123a4f6",
-    "original": "Bring back our jobs!",
-    "translation": "还我工作！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[4]\n"
-  },
-  {
-    "key": "92e147707eec5d8f5a915fcab39c5975",
-    "original": "HELP!",
-    "translation": "救命！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[40]\n"
-  },
-  {
-    "key": "5955c51cd75587bd007ccdc20b5b294b",
-    "original": "Health check required for entrance.",
-    "translation": "需要体检后才能进入。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[37]\n"
-  },
-  {
-    "key": "c3061cbcf726e62e02c7dcbec7e5643d",
-    "original": "Here Lies  <full_name>.  What a Jerk.",
-    "translation": " <full_name>在此安息。他是个蠢蛋。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[9]\n"
-  },
-  {
-    "key": "e49dbbb4e262037bbfb2e8c34b654e8c",
-    "original": "Human labor",
-    "translation": "让人来劳动",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[6]\n"
-  },
-  {
-    "key": "5dbe5d344b0dc90107910315963a1b1c",
-    "original": "LIVING INSIDE!",
-    "translation": "内有活人！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[27]\n"
-  },
-  {
-    "key": "2fefe2327fe89d0e40874c64ebf1ecfc",
-    "original": "Need clean water.",
-    "translation": "需要净水。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[31]\n"
-  },
-  {
-    "key": "1785c66b6bda9164c7d361f323483943",
-    "original": "No Power.  No Food.  Send Airdrops Please!",
-    "translation": "没电。没食物。请快送点空投补给！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[35]\n"
-  },
-  {
-    "key": "a0b2ff30429b935a553644f463c33e9b",
-    "original": "No more FEMA camp refugees.  You're already dying.",
-    "translation": "没有更多的FEMA难民了。你已经快死了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[36]\n"
-  },
-  {
-    "key": "698a66dac6a10b133ebfbcf0ebec3b8c",
-    "original": "No sick allowed inside!",
-    "translation": "病患勿进！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[30]\n"
-  },
-  {
-    "key": "166dde606cf6cbd41273a5b7d634e510",
-    "original": "RIP  <given_name> ",
-    "translation": "安息吧 <given_name>",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[13]\n"
-  },
-  {
-    "key": "d48b1319684252deca0808f1db7c8f8d",
-    "original": "Ready for EVAC.",
-    "translation": "准备好撤离了。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[33]\n"
-  },
-  {
-    "key": "d31cd9dbf8a3556604dcc6cc78d86c41",
-    "original": "Real work for real people!",
-    "translation": "真实的工作应该给真实的人！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[0]\n"
-  },
-  {
-    "key": "97178f8b8557d104c4770d43dc95e623",
-    "original": "Robots go home!",
-    "translation": "机器人滚蛋！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[5]\n"
-  },
-  {
-    "key": "c1dfe25b360f2f80ba314625ccb408be",
-    "original": "Robots stole my job!",
-    "translation": "机器偷走了我的工作！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[2]\n"
-  },
-  {
-    "key": "6fffe77a50cf211b38273a288f2f41d5",
-    "original": "Rooms Available.  Rent Negotiable.",
-    "translation": "房间可用。房租可议。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[29]\n"
-  },
-  {
-    "key": "c20a304dacfef80b745c10db2a45cc4e",
-    "original": "Running low on Medicine, Food, Water, Optimism.",
-    "translation": "缺少药品，食物，水源，乐观主义。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[38]\n"
-  },
-  {
-    "key": "ffb3468f4c62022dc2cb30a554f5c939",
-    "original": "STILL ALIVE.  for now.",
-    "translation": "还活着，暂时。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[41]\n"
-  },
-  {
-    "key": "7c3700309ba03333c88793b3b4e3c0e9",
-    "original": "Save us, army men.",
-    "translation": "救救我们，士兵们。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[39]\n"
-  },
-  {
-    "key": "de7e29e15ff16c6386c9420fda7ef861",
-    "original": "Send Help.",
-    "translation": "快找人来帮我。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[28]\n"
-  },
-  {
-    "key": "cec4f2219755b451c0f2934ec135569d",
-    "original": "Smash the Bots!",
-    "translation": "粉碎机器人！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[8]\n"
-  },
-  {
-    "key": "d6a1f51e4d414431b503156423528610",
-    "original": "Strike!",
-    "translation": "大罢工！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[1]\n"
-  },
-  {
-    "key": "2ca14a710c9a4f8a16279d4835d598b2",
-    "original": "Waiting for airlift.",
-    "translation": "等待空运。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[32]\n"
-  },
-  {
-    "key": "73986cefcb982da2e188656ee6c6b3a7",
-    "original": "We send <full_name> on to Valhalla",
-    "translation": "我们将<full_name>送至英灵殿",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[12]\n"
-  },
-  {
-    "key": "76d133b6bf1151c67b9080a6f36432ce",
-    "original": "We want our old factory!",
-    "translation": "恢复老工厂！",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[7]\n"
-  },
-  {
-    "key": "e78f97b1f3deaa3259f454a92d02f701",
-    "original": "robot labor=slave labor",
-    "translation": "机器工人=奴隶工人",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[3]\n"
-  },
-  {
-    "key": "5c52befee513e1e7611586fc447b5af8",
-    "original": "S.O.S.",
-    "translation": "S.O.S.",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[34]\n"
-  }
+ {
+  "key": "05a2b56836f876e10d307262ca612d85",
+  "original": " <full_name> & <full_name>.  Crashed their motorcycles at 120mph.  Buried the pieces together.",
+  "translation": " <full_name> 和 <full_name>。死于120迈飚摩托车的车祸。合葬于此。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[18]\n",
+  "stage": 5
+ },
+ {
+  "key": "0707741612ebf4eb8185035b0fb00feb",
+  "original": " <full_name>.  Done in by mutant wasps.",
+  "translation": " <full_name>。被变异黄蜂扎烂了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[26]\n",
+  "stage": 5
+ },
+ {
+  "key": "87d4f5edb0b742e3850211a92e2156cd",
+  "original": " <full_name>.  Drank a mystery serum and mutated to death.",
+  "translation": " <full_name>。喝了一种神秘血清变异致死。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[24]\n",
+  "stage": 5
+ },
+ {
+  "key": "46dc2988dcc2d46a87b9aa646b875d43",
+  "original": " <full_name>.  Eaten by wolves.",
+  "translation": " <full_name>。被狼吃了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[10]\n",
+  "stage": 5
+ },
+ {
+  "key": "41e824dd9916e761c2f4ec24fea7b71c",
+  "original": " <full_name>.  Fallen Soldier.",
+  "translation": " <full_name>。阵亡士兵。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[15]\n",
+  "stage": 5
+ },
+ {
+  "key": "7998976c19826c52cefcb36d2b836de5",
+  "original": " <full_name>.  Friend, Lover, Cannibal.",
+  "translation": " <full_name>。朋友，爱人，食人族。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[19]\n",
+  "stage": 5
+ },
+ {
+  "key": "cf7425bedf1c0d254522e64a39e9b754",
+  "original": " <full_name>.  Gunned down in his prime.",
+  "translation": " <full_name>。在年富力强时被一枪毙命。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[23]\n",
+  "stage": 5
+ },
+ {
+  "key": "263347f120e676935a9c8f858ca9b7bf",
+  "original": " <full_name>.  Infected.",
+  "translation": " <full_name>。死于感染。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[11]\n",
+  "stage": 5
+ },
+ {
+  "key": "daa0e8f9cc74fe6d295b863029c028c1",
+  "original": " <full_name>.  Ripped apart by a gross tentacle thing in the woods.",
+  "translation": " <full_name>。被林中恶心的触手怪物撕成碎片。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[16]\n",
+  "stage": 5
+ },
+ {
+  "key": "2d396635149aec119fcd365a08eeb01b",
+  "original": " <full_name>.  Roasting in Hell.",
+  "translation": " <full_name>。在地狱中燃烧吧。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[14]\n",
+  "stage": 5
+ },
+ {
+  "key": "9c9b06845e55b30b45759d6218692ea4",
+  "original": " <full_name>.  Vaporized by Tank Bot.",
+  "translation": " <full_name>。被坦克无人机蒸发了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[20]\n",
+  "stage": 5
+ },
+ {
+  "key": "101b2acbdb958e80097b8a54e4948686",
+  "original": " <given_name>.  Died as he lived, drunk and on fire.",
+  "translation": " <given_name>。死于酗酒时纵火。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[17]\n",
+  "stage": 5
+ },
+ {
+  "key": "59dbf80b0a4b81f953fd6e74bbf78c51",
+  "original": " <given_name>.  Died in his sleep.  Lucky Bastard.",
+  "translation": " <given_name>。死于睡眠中。真是个幸运的狗家伙。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[21]\n",
+  "stage": 5
+ },
+ {
+  "key": "ad1951fa4212c1a2e47728110b4af061",
+  "original": " <given_name>.  We'll never see another like him.",
+  "translation": " <given_name>。我们再也没法见到另一个像他那么优秀的人了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[25]\n",
+  "stage": 5
+ },
+ {
+  "key": "92fd7e3c102432fec9feabeaa88ea89c",
+  "original": " Here lies <full_name>.  No Smoking near Molotov storage!",
+  "translation": " <full_name>在此安息。下辈子记得别在燃烧瓶堆里吸烟了！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[22]\n",
+  "stage": 5
+ },
+ {
+  "key": "7805de1528bdff473b765f35b7a97cb3",
+  "original": "\"I am programmed to not engage wandering monsters.\"",
+  "translation": "“I am programmed to not engage wandering monsters.”",
+  "context": "ID: MORE_LOCATIONS_HOLOGRAM_PROTECTION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mutation→MORE_LOCATIONS_HOLOGRAM_PROTECTION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MORE_LOCATIONS_HOLOGRAM_PROTECTION"
+ },
+ {
+  "key": "7b0fe7b6636bb3167ac074d73b14600e",
+  "original": "About that mission...",
+  "translation": "About that mission...",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
+ },
+ {
+  "key": "c144270e1cbfea2e4070b61d47f949f5",
+  "original": "Adds new Z-level buildings and dungeons.  Still unpolished.  Before generating a world, you can remove subfolders to nix unwanted locations.",
+  "translation": "加入了新的Z 轴建筑和地牢。仍有点粗糙。在创造世界之前，你可以删除子文件夹以排除不想要的地方。",
+  "context": "ID: more_locations\n位于 /Kenan-Structured-Modpack/More_Locations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→MOD_INFO→more_locations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=more_locations",
+  "stage": 5
+ },
+ {
+  "key": "1b57a79f3d4e9da2dd932445f45d3efa",
+  "original": "Are you part of the rescue team?",
+  "translation": "你是救援队派来的人吗？",
+  "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE",
+  "stage": 5
+ },
+ {
+  "key": "108e682327829c01f7ea733a2123a4f6",
+  "original": "Bring back our jobs!",
+  "translation": "还我工作！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[4]\n",
+  "stage": 5
+ },
+ {
+  "key": "5fbddbf2360e069f05cb6d4903e06840",
+  "original": "Can I talk to you about something else?",
+  "translation": "Can I talk to you about something else？",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_2\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_2"
+ },
+ {
+  "key": "f728877419628aa42aab2f05a02dd6cb",
+  "original": "Captive",
+  "translation": "俘虏",
+  "context": "ID: mutant_captive\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/captive_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→mutant_captive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_captive",
+  "stage": 5
+ },
+ {
+  "key": "90fc70352f8415c97a0a8fe71ec4a077",
+  "original": "Captives",
+  "translation": "俘虏",
+  "context": "ID: captives\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→captives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=captives",
+  "stage": 5
+ },
+ {
+  "key": "f7998c2dad0f46540b649ce71967c6e4",
+  "original": "Go to Apartment Towers",
+  "translation": "Go to Apartment Towers",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
+ },
+ {
+  "key": "7421b31c5709b4e7bcd63a81764fef0f",
+  "original": "Go to Factory",
+  "translation": "Go to Factory",
+  "context": "ID: MISSION_MORE_LOCATIONS_FACTORY\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_FACTORY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_FACTORY",
+  "stage": 1
+ },
+ {
+  "key": "9d79a76f79fa83c1dcf76b0c412a105b",
+  "original": "Go to Mansion",
+  "translation": "Go to Mansion",
+  "context": "ID: MISSION_MORE_LOCATIONS_ESTATE\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_ESTATE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_ESTATE",
+  "stage": 1
+ },
+ {
+  "key": "c17bddb7c7be9a36aa70e072abd76e60",
+  "original": "Go to Military Outpost",
+  "translation": "Go to Military Outpost",
+  "context": "ID: MISSION_MORE_LOCATIONS_MILITARY_OUTPOST\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_MILITARY_OUTPOST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_MILITARY_OUTPOST",
+  "stage": 1
+ },
+ {
+  "key": "f6f0d46a87a4ed7f85cec92046da207e",
+  "original": "Good luck to you!",
+  "translation": "Good luck to you！",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE"
+ },
+ {
+  "key": "24f599953ba2cc5aef66360f6ba54c51",
+  "original": "Good work!",
+  "translation": "Good work！",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "92e147707eec5d8f5a915fcab39c5975",
+  "original": "HELP!",
+  "translation": "救命！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[40]\n",
+  "stage": 5
+ },
+ {
+  "key": "3afe17954c9f5261148f207c95c41d89",
+  "original": "Have you went to this location that I have found for you to explore?",
+  "translation": "Have you went to this location that I have found for you to explore？",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "5955c51cd75587bd007ccdc20b5b294b",
+  "original": "Health check required for entrance.",
+  "translation": "需要体检后才能进入。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[37]\n",
+  "stage": 5
+ },
+ {
+  "key": "c3061cbcf726e62e02c7dcbec7e5643d",
+  "original": "Here Lies  <full_name>.  What a Jerk.",
+  "translation": " <full_name>在此安息。他是个蠢蛋。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[9]\n",
+  "stage": 5
+ },
+ {
+  "key": "fad9e3110dcc2361ce9a9f8b20728093",
+  "original": "Hold tight, <sass>.  I've got to clear a path.",
+  "translation": "跟紧了，<sass>。我得先扫清一条路出来。",
+  "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE",
+  "stage": 5
+ },
+ {
+  "key": "e60c9ec0a4ac669002d88a91ec4588fa",
+  "original": "Hologram Projector - Locator of Apartment Towers",
+  "translation": "Hologram Projector - Locator of Apartment Towers",
+  "context": "ID: More_Locations_tri_tower_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_tri_tower_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_tri_tower_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "a58e896a97263233c1f39776c6742c28",
+  "original": "Hologram Projector - Locator of Factory",
+  "translation": "Hologram Projector - Locator of Factory",
+  "context": "ID: More_Locations_factory_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_factory_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_factory_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "6622c895fb8759eb4bbb544cd3b1fec4",
+  "original": "Hologram Projector - Locator of Mansion",
+  "translation": "Hologram Projector - Locator of Mansion",
+  "context": "ID: More_Locations_estate_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_estate_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_estate_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "8a940a93fa9297b9cd66f70e44a5f638",
+  "original": "Hologram Projector - Locator of Military Outpost",
+  "translation": "Hologram Projector - Locator of Military Outpost",
+  "context": "ID: More_Locations_military_outpost_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_military_outpost_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_military_outpost_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "624b0c4c78cd6dd2eb859ed514834b13",
+  "original": "Hologram Protection",
+  "translation": "Hologram Protection",
+  "context": "ID: MORE_LOCATIONS_HOLOGRAM_PROTECTION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mutation→MORE_LOCATIONS_HOLOGRAM_PROTECTION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MORE_LOCATIONS_HOLOGRAM_PROTECTION",
+  "stage": 1
+ },
+ {
+  "key": "e49dbbb4e262037bbfb2e8c34b654e8c",
+  "original": "Human labor",
+  "translation": "让人来劳动",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[6]\n",
+  "stage": 5
+ },
+ {
+  "key": "d4c2780842c6a48ad6b0c53146c468ba",
+  "original": "I like some of these a lot honestly. Healthy stuff",
+  "translation": "I like some of these a lot honestly. Healthy stuff",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_3\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_3",
+  "stage": 1
+ },
+ {
+  "key": "9ef698c3adc397752d5fc5f7196d6282",
+  "original": "I'm a magic genie from a magic camera. No, I'm just joking. What kind of a question is this? You don't like to explore or don't know much about your own world? Have not you seen stuff in labs? Military structures? Top secret stuff? Aliens or whatever these creatures are? You think that your own people don't have tech which can produce holograms? I'm a hologram, software with some additional technologies, it is that simple",
+  "translation": "I'm a magic genie from a magic camera. No，I'm just joking. What kind of a question is this？ You don't like to explore or don't know much about your own world？ Have not you seen stuff in labs？ Military structures？ Top secret stuff？ Aliens or whatever these creatures are？ You think that your own people don't have tech which can produce holograms？ I'm a hologram，software with some additional technologies，it is that simple",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_1\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_1"
+ },
+ {
+  "key": "6260f9ecf01911c5534ee1c96faadeeb",
+  "original": "Initiate search mode. Please, wait for a couple of minutes or less. You've heard me clearly. Still, we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
+  "translation": "Initiate search mode. Please，wait for a couple of minutes or less. You've heard me clearly. Still，we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION"
+ },
+ {
+  "key": "5dbe5d344b0dc90107910315963a1b1c",
+  "original": "LIVING INSIDE!",
+  "translation": "内有活人！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[27]\n",
+  "stage": 5
+ },
+ {
+  "key": "0746614d2c2527311e112b0ce642e7fa",
+  "original": "More Locations",
+  "translation": "更多的地点",
+  "context": "ID: more_locations\n位于 /Kenan-Structured-Modpack/More_Locations/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→MOD_INFO→more_locations\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=more_locations",
+  "stage": 5
+ },
+ {
+  "key": "3cf8b706fd69604b04d53a873d69f9e1",
+  "original": "More Locations Apartment Towers Locator Hologram",
+  "translation": "More Locations Apartment Towers Locator Hologram",
+  "context": "ID: More_Locations_tri_tower_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→More_Locations_tri_tower_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_tri_tower_hologram",
+  "stage": 1
+ },
+ {
+  "key": "e507c5e1a0c9a80298fb24ef43d7231c",
+  "original": "More Locations Factory Locator Hologram",
+  "translation": "More Locations Factory Locator Hologram",
+  "context": "ID: More_Locations_factory_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→More_Locations_factory_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_factory_hologram",
+  "stage": 1
+ },
+ {
+  "key": "2ed6b22a4695ec11fb0603d6d8a45ea8",
+  "original": "More Locations Mansion Locator Hologram",
+  "translation": "More Locations Mansion Locator Hologram",
+  "context": "ID: More_Locations_estate_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→More_Locations_estate_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_estate_hologram",
+  "stage": 1
+ },
+ {
+  "key": "ee048d61ed69674a64955a89753d1a24",
+  "original": "More Locations Military Outpost Locator Hologram",
+  "translation": "More Locations Military Outpost Locator Hologram",
+  "context": "ID: More_Locations_military_outpost_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→More_Locations_military_outpost_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_military_outpost_hologram",
+  "stage": 1
+ },
+ {
+  "key": "2fefe2327fe89d0e40874c64ebf1ecfc",
+  "original": "Need clean water.",
+  "translation": "需要净水。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[31]\n",
+  "stage": 5
+ },
+ {
+  "key": "1785c66b6bda9164c7d361f323483943",
+  "original": "No Power.  No Food.  Send Airdrops Please!",
+  "translation": "没电。没食物。请快送点空投补给！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[35]\n",
+  "stage": 5
+ },
+ {
+  "key": "a0b2ff30429b935a553644f463c33e9b",
+  "original": "No more FEMA camp refugees.  You're already dying.",
+  "translation": "没有更多的FEMA难民了。你已经快死了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[36]\n",
+  "stage": 5
+ },
+ {
+  "key": "698a66dac6a10b133ebfbcf0ebec3b8c",
+  "original": "No sick allowed inside!",
+  "translation": "病患勿进！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[30]\n",
+  "stage": 5
+ },
+ {
+  "key": "43179cc6fdc8177f70c0fa9bf36ed2fe",
+  "original": "Not interested in explorations of new locations? No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
+  "translation": "Not interested in explorations of new locations？ No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "b7d587f4d770b91a1ab3ee1e3ea31bbb",
+  "original": "Pack your bags, <sass>.  We're going on a trip.",
+  "translation": "打好包裹，<sass>。我们要出发了。",
+  "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE",
+  "stage": 5
+ },
+ {
+  "key": "443ee3825b26f46bce9aad46657c0f94",
+  "original": "Part?  I AM the rescue team.",
+  "translation": "派来？救援队只有我一个。",
+  "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE",
+  "stage": 5
+ },
+ {
+  "key": "166dde606cf6cbd41273a5b7d634e510",
+  "original": "RIP  <given_name> ",
+  "translation": "安息吧 <given_name>",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[13]\n",
+  "stage": 5
+ },
+ {
+  "key": "53ee1f6d941b631ed8148da497853787",
+  "original": "Raider",
+  "translation": "强盗",
+  "context": "ID: raider\n位于 /Kenan-Structured-Modpack/More_Locations/npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→raider\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raider",
+  "stage": 5
+ },
+ {
+  "key": "d48b1319684252deca0808f1db7c8f8d",
+  "original": "Ready for EVAC.",
+  "translation": "准备好撤离了。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[33]\n",
+  "stage": 5
+ },
+ {
+  "key": "d31cd9dbf8a3556604dcc6cc78d86c41",
+  "original": "Real work for real people!",
+  "translation": "真实的工作应该给真实的人！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[0]\n",
+  "stage": 5
+ },
+ {
+  "key": "88b1c5a11567c98cf25fd92734ccbf43",
+  "original": "Refugee",
+  "translation": "难民",
+  "context": "ID: mutant_refugee\n位于 /Kenan-Structured-Modpack/More_Locations/refugee_faction/refugee_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→npc→mutant_refugee\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_refugee",
+  "stage": 5
+ },
+ {
+  "key": "4694c777b5ca7d0be256b4e3d9327205",
+  "original": "Refugees",
+  "translation": "难民",
+  "context": "ID: refugees\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→refugees\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=refugees",
+  "stage": 5
+ },
+ {
+  "key": "97178f8b8557d104c4770d43dc95e623",
+  "original": "Robots go home!",
+  "translation": "机器人滚蛋！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[5]\n",
+  "stage": 5
+ },
+ {
+  "key": "c1dfe25b360f2f80ba314625ccb408be",
+  "original": "Robots stole my job!",
+  "translation": "机器偷走了我的工作！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[2]\n",
+  "stage": 5
+ },
+ {
+  "key": "6fffe77a50cf211b38273a288f2f41d5",
+  "original": "Rooms Available.  Rent Negotiable.",
+  "translation": "房间可用。房租可议。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[29]\n",
+  "stage": 5
+ },
+ {
+  "key": "c20a304dacfef80b745c10db2a45cc4e",
+  "original": "Running low on Medicine, Food, Water, Optimism.",
+  "translation": "缺少药品，食物，水源，乐观主义。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[38]\n",
+  "stage": 5
+ },
+ {
+  "key": "5c52befee513e1e7611586fc447b5af8",
+  "original": "S.O.S.",
+  "translation": "S.O.S.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[34]\n",
+  "stage": 5
+ },
+ {
+  "key": "ffb3468f4c62022dc2cb30a554f5c939",
+  "original": "STILL ALIVE.  for now.",
+  "translation": "还活着，暂时。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[41]\n",
+  "stage": 5
+ },
+ {
+  "key": "7c3700309ba03333c88793b3b4e3c0e9",
+  "original": "Save us, army men.",
+  "translation": "救救我们，士兵们。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[39]\n",
+  "stage": 5
+ },
+ {
+  "key": "de7e29e15ff16c6386c9420fda7ef861",
+  "original": "Send Help.",
+  "translation": "快找人来帮我。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[28]\n",
+  "stage": 5
+ },
+ {
+  "key": "cec4f2219755b451c0f2934ec135569d",
+  "original": "Smash the Bots!",
+  "translation": "粉碎机器人！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[8]\n",
+  "stage": 5
+ },
+ {
+  "key": "38ab2499f52cfb004f6fba06f8ab1260",
+  "original": "So are you busting us out of here or what?",
+  "translation": "那你是要把我们从这里弄出去还是什么？",
+  "context": "ID: TALK_CAPTIVE_FREE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE_FREE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE_FREE",
+  "stage": 5
+ },
+ {
+  "key": "c5632999a2dc7470b42c675c3f344107",
+  "original": "Sorry, <sass>, the rescue has been delayed.",
+  "translation": "很抱歉，<sass>，救援被延迟了。",
+  "context": "ID: TALK_CAPTIVE\n位于 /Kenan-Structured-Modpack/More_Locations/captive_faction/TALK_CAPTIVE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_CAPTIVE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CAPTIVE",
+  "stage": 5
+ },
+ {
+  "key": "d6a1f51e4d414431b503156423528610",
+  "original": "Strike!",
+  "translation": "大罢工！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[1]\n",
+  "stage": 5
+ },
+ {
+  "key": "04872bd87dd13412357143f22713944f",
+  "original": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily! Yeah, my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So, do you want me to show you where this location is via my network system? I can grant you access to archived global network system which my creators have managed to restore. However, after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
+  "translation": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily！ Yeah，my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So，do you want me to show you where this location is via my network system？ I can grant you access to archived global network system which my creators have managed to restore. However，after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+ },
+ {
+  "key": "00d06796e489999226fb5bb27fe1b3b2",
+  "original": "Thanks",
+  "translation": "Thanks",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE",
+  "stage": 1
+ },
+ {
+  "key": "9ca4a9123cc14e55604d638cd7278199",
+  "original": "The bolts fall open!",
+  "translation": "安全螺栓打开了！",
+  "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control",
+  "stage": 5
+ },
+ {
+  "key": "f74d2c11cfdbd0d1e6f2a3646ff76d9b",
+  "original": "The bolts slide back into place.",
+  "translation": "安全螺栓关上了。",
+  "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control",
+  "stage": 5
+ },
+ {
+  "key": "76df7b2067f3282fe0201c8efc9bf584",
+  "original": "The bookcase can't be closed!",
+  "translation": "书架的门无法被关上！",
+  "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control",
+  "stage": 5
+ },
+ {
+  "key": "58fc64d4764727a21083b44188f850ed",
+  "original": "The bookcase slides closed.",
+  "translation": "书架的门关上了。",
+  "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control",
+  "stage": 5
+ },
+ {
+  "key": "1d6f09799611b0192855340de9b400b9",
+  "original": "The bookcase slides open!",
+  "translation": "书架滑开了！",
+  "context": "ID: t_sliding_bookcase_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_bookcase_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_bookcase_control",
+  "stage": 5
+ },
+ {
+  "key": "1787f271f174a73978cc57e1c737eeda",
+  "original": "The bridge can't be extended!",
+  "translation": "吊桥无法被放下！",
+  "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control",
+  "stage": 5
+ },
+ {
+  "key": "52fdcafbcb8a084e630fe8143ec525fa",
+  "original": "The bridge extends.",
+  "translation": "吊桥放下了。",
+  "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control",
+  "stage": 5
+ },
+ {
+  "key": "cbd3432f13de84ebae1fe5e2399d98d3",
+  "original": "The bridge retracts!",
+  "translation": "吊桥收起了！",
+  "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control",
+  "stage": 5
+ },
+ {
+  "key": "6e03507ae7812c5693e8849347844f8c",
+  "original": "The glass slides open!",
+  "translation": "玻璃墙滑开了！",
+  "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control",
+  "stage": 5
+ },
+ {
+  "key": "f7480c0d22ec15023caec32bca0e01dd",
+  "original": "The glass wall can't be closed!",
+  "translation": "玻璃墙壁上的门无法被关上！",
+  "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control",
+  "stage": 5
+ },
+ {
+  "key": "d45c04219c2f17491d1f779f1ea4164b",
+  "original": "The glass wall slides closed.",
+  "translation": "玻璃墙壁上的门关上了。",
+  "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control",
+  "stage": 5
+ },
+ {
+  "key": "34b7abee8e20a5333df51577d72dea99",
+  "original": "The release can't be activated!",
+  "translation": "安全螺栓无法被关上！",
+  "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control",
+  "stage": 5
+ },
+ {
+  "key": "55e70e725b7662abe62e127a6443b17b",
+  "original": "The scattered remnants of civilization, these lucky few managed to barricade themselves inside during the earliest stages of the Cataclysm.  Although temporarily secure, they are short on supplies and lack the skills to obtain more.  It's only a matter of time before they too become the prey of otherwordly creatures, or of all-too-human monsters.",
+  "translation": "人类文明的残存幸存者，少数幸运的人在大灾变初期成功搭建了安全屋并活了下来。虽然暂时安全，但是他们缺少补给及获得更多补给的能力。对他们来说，成为种种异界生物或是“那些人”的晚餐只是时间问题。",
+  "context": "ID: refugees\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→refugees\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=refugees",
+  "stage": 5
+ },
+ {
+  "key": "73b451efb5fc30aa000999a5283879b0",
+  "original": "The sliding wall can't be closed!",
+  "translation": "墙壁上的门无法被关上！",
+  "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control",
+  "stage": 5
+ },
+ {
+  "key": "56b9f51ead771042a36cfc54c396bf02",
+  "original": "The wall slides closed.",
+  "translation": "墙壁上的门关上了。",
+  "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control",
+  "stage": 5
+ },
+ {
+  "key": "d8705a82a0f37b28dbf15c7d8fd223d9",
+  "original": "The wall slides open!",
+  "translation": "墙壁上的门滑开了！",
+  "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control",
+  "stage": 5
+ },
+ {
+  "key": "27cdd3eda0279153b17422014f66d6ec",
+  "original": "These are hapless survivors who have been captured by raiders, slavers, mutants, or worse.  Without your help, the remainder of their lives will be short and gruesome.",
+  "translation": "这些倒霉的幸存者们，曾经被各路掠夺者、奴隶贩子、变异人或者更糟糕的人抓住过。如果没有你的帮助，这些人的余生将会很短而且很恐怖。",
+  "context": "ID: captives\n位于 /Kenan-Structured-Modpack/More_Locations/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→faction→captives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=captives",
+  "stage": 5
+ },
+ {
+  "key": "3ae4d1e38b5a879b5cb7b2eebd3e150d",
+  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Apartment Towers",
+  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Apartment Towers",
+  "context": "ID: More_Locations_tri_tower_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_tri_tower_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_tri_tower_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "ff5af2204a6557dd37477d16c6ecc091",
+  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Factory",
+  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Factory",
+  "context": "ID: More_Locations_factory_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_factory_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_factory_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "35b73eba150e2a62e8016d481e4e51b8",
+  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Mansion",
+  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Mansion",
+  "context": "ID: More_Locations_estate_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_estate_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_estate_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "bc50a4e85726fd4f5d68c3b7166cf5e4",
+  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Military Outpost",
+  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Military Outpost",
+  "context": "ID: More_Locations_military_outpost_mission_hologram\n位于 /Kenan-Structured-Modpack/More_Locations/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→TOOL→More_Locations_military_outpost_mission_hologram\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=More_Locations_military_outpost_mission_hologram",
+  "stage": 1
+ },
+ {
+  "key": "c5e210ace21c68d6274b7b1995fca140",
+  "original": "This question is much more intelligent than the other one. My creators can be described as a bunch of highly technological geeks majority of which are humans honestly. They neither possess that many combat skills nor they are that interested in subjecting their lives to unnecessary risk clearly. They only engage hostile creatures for basic survival needs. They try to rely on self-sufficiency with relative success thanks to their applied intelligence along with tech that they have managed to find or engineer themselves. They have made these projectors so that we can help each other. We provide you with locations with dangerous creatures along with valuable items or survivors who are captive. You clear these locations acquiring whatever valuable items or survivors you want from there making these locations safe shelters where we including you can live hopefully as well",
+  "translation": "This question is much more intelligent than the other one. My creators can be described as a bunch of highly technological geeks majority of which are humans honestly. They neither possess that many combat skills nor they are that interested in subjecting their lives to unnecessary risk clearly. They only engage hostile creatures for basic survival needs. They try to rely on self-sufficiency with relative success thanks to their applied intelligence along with tech that they have managed to find or engineer themselves. They have made these projectors so that we can help each other. We provide you with locations with dangerous creatures along with valuable items or survivors who are captive. You clear these locations acquiring whatever valuable items or survivors you want from there making these locations safe shelters where we including you can live hopefully as well",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_2\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_2",
+  "stage": 1
+ },
+ {
+  "key": "de6f3e352a273b2074a5c6ce1a194731",
+  "original": "Use your wits for your own safety hopefully as well",
+  "translation": "Use your wits for your own safety hopefully as well",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
+ },
+ {
+  "key": "2ca14a710c9a4f8a16279d4835d598b2",
+  "original": "Waiting for airlift.",
+  "translation": "等待空运。",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[32]\n",
+  "stage": 5
+ },
+ {
+  "key": "73986cefcb982da2e188656ee6c6b3a7",
+  "original": "We send <full_name> on to Valhalla",
+  "translation": "我们将<full_name>送至英灵殿",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[12]\n",
+  "stage": 5
+ },
+ {
+  "key": "76d133b6bf1151c67b9080a6f36432ce",
+  "original": "We want our old factory!",
+  "translation": "恢复老工厂！",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[7]\n",
+  "stage": 5
+ },
+ {
+  "key": "bf611a453b29615c2573febf4da42cf2",
+  "original": "What do you want to do? Play archived games? Browse archived social media? Watch archived videos? Listen to archived music? Read archived files along with archived books? Something to play, read, listen, watch for fun, intelligence improving, spiritual improving, mental improving? Or for reproductive physical state improving?",
+  "translation": "What do you want to do？ Play archived games？ Browse archived social media？ Watch archived videos？ Listen to archived music？ Read archived files along with archived books？ Something to play，read，listen，watch for fun，intelligence improving，spiritual improving，mental improving？ Or for reproductive physical state improving？",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_3\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_3"
+ },
+ {
+  "key": "fa5a43c2a4f82c90be11d23e3175ba2d",
+  "original": "What's the point of lying to me? You think I'm gonna reward you? Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
+  "translation": "What's the point of lying to me？ You think I'm gonna reward you？ Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "adbb63366f62496822a690123352faca",
+  "original": "Who are your creators? What is the purpose of producing these projectors?",
+  "translation": "Who are your creators？ What is the purpose of producing these projectors？",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+ },
+ {
+  "key": "5c8524ade8e6e878bd4e60c9ee0e363d",
+  "original": "Who or what are you?",
+  "translation": "Who or what are you？",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+ },
+ {
+  "key": "43aa5690e06f853620ca3f0265f35462",
+  "original": "You activate the mechanism...",
+  "translation": "你触发了机关……",
+  "context": "ID: t_reinforced_glass_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_reinforced_glass_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_reinforced_glass_control",
+  "stage": 5
+ },
+ {
+  "key": "9090d067b3a9e2f41db99542fa3c4606",
+  "original": "You activate the security bolt release...",
+  "translation": "你激活了安全螺栓控制器……",
+  "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control",
+  "stage": 5
+ },
+ {
+  "key": "fcf8016e02a6e73738286c79a6611e2f",
+  "original": "You are a boring, lazy person honestly. I guess that laziness applies to both of us",
+  "translation": "You are a boring，lazy person honestly. I guess that laziness applies to both of us",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "c7eb00fb508f1eeb7a087ca043537323",
+  "original": "You pull an odd looking book...",
+  "translation": "你搬动了一本奇怪的书……",
+  "context": "ID: t_sliding_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "b6e8b71f0366c3d6a075c98d33d2f1a9",
+  "original": "You pull the lever...",
+  "translation": "你扳下开关……",
+  "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control",
+  "stage": 5
+ },
+ {
+  "key": "23afdaee44feb2eb772c2f665a46cca3",
+  "original": "You trigger the hidden mechanism...",
+  "translation": "你触发了隐藏的机关……",
+  "context": "ID: t_sliding_concrete_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_concrete_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "e4696be7198178a32b1f7411d1464ef7",
+  "original": "You trigger the mechanism...",
+  "translation": "你触发了机关……",
+  "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control",
+  "stage": 5
+ },
+ {
+  "key": "67441c008fefb552a3ae734ec78da741",
+  "original": "You trigger the odd looking statue...",
+  "translation": "你触碰了一座奇怪的雕像……",
+  "context": "ID: t_sliding_brick_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_gates.json\n类型为 gate\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→gate→t_sliding_brick_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "1a6e607a3deed5c5d372a477f005b3b4",
+  "original": "You want me to find this location for you to explore? Sure, you will just need to wait for a couple of minutes or less for me to find it via my network system",
+  "translation": "You want me to find this location for you to explore？ Sure，you will just need to wait for a couple of minutes or less for me to find it via my network system",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "77f123741b8f5b9f5b0f33d1ffb25cc2",
+  "original": "You want me to locate it now for you to explore? Sure, just tell me, you will just need to wait for a couple of minutes or less for me to find it via my network system",
+  "translation": "You want me to locate it now for you to explore？ Sure，just tell me，you will just need to wait for a couple of minutes or less for me to find it via my network system",
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+ },
+ {
+  "key": "2c8d6bf92c3a8a7f7c646fd999ad2d80",
+  "original": "[GOODBYE]",
+  "translation": "[GOODBYE]",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
+ },
+ {
+  "key": "3215bfd8941bed917c11f46e8c7014cc",
+  "original": "[IMPROVE MOOD] I want you to grant me access to archived global network system",
+  "translation": "[IMPROVE MOOD] I want you to grant me access to archived global network system",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
+ },
+ {
+  "key": "51035ca3d204bfb3a5ebb6ef94482758",
+  "original": "[MISSIONS] I want you to find this location for me to explore it hopefully via your network system",
+  "translation": "[MISSIONS] I want you to find this location for me to explore it hopefully via your network system",
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
+ },
+ {
+  "key": "8d3d8f90a52e5caad876a7bfc5197b33",
+  "original": "apartment towers",
+  "translation": "公寓大楼",
+  "context": "ID: tri_tower_utrc\n位于 /Kenan-Structured-Modpack/More_Locations/tri_tower/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→tri_tower_utrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tri_tower_utrc",
+  "stage": 5
+ },
+ {
+  "key": "97b53f6a1640dd20e14b156d1dcee223",
+  "original": "attached garage",
+  "translation": "附属车库",
+  "context": "ID: combogarageC_first\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_first\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_first",
+  "stage": 5
+ },
+ {
+  "key": "6cbd58cc64ca293a12e938edf9d6e7db",
+  "original": "book case",
+  "translation": "书柜",
+  "context": "ID: t_decoy_bookcase\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_decoy_bookcase\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_decoy_bookcase",
+  "stage": 5
+ },
+ {
+  "key": "b8e633a161f3a1fc1bc526730919de47",
+  "original": "brick wall",
+  "translation": "砖墙",
+  "context": "ID: t_sliding_brick_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_brick_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_c",
+  "stage": 5
+ },
+ {
+  "key": "476642acc2211cfc71edb8429fde9021",
+  "original": "bridge control",
+  "translation": "桥梁控制台",
+  "context": "ID: t_ins_bridge_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ins_bridge_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ins_bridge_control",
+  "stage": 5
+ },
+ {
+  "key": "eaa5e6539e2f75d1deb2f7e161ef0e15",
+  "original": "broken console",
+  "translation": "电脑（损坏）",
+  "context": "ID: t_sliding_concrete_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_concrete_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "fa396e13fac4dad80cdcd4ba543119db",
+  "original": "chemical mixer",
+  "translation": "化工混合机",
+  "context": "ID: t_ind_mixer\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_mixer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_mixer",
+  "stage": 5
+ },
+ {
+  "key": "7c8afd2bb14c1aad6259a3c0dd701d14",
+  "original": "concrete floor",
+  "translation": "混凝土地板",
+  "context": "ID: t_concrete_floor\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_concrete_floor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_concrete_floor",
+  "stage": 5
+ },
+ {
+  "key": "32af0c288e61ca39a9f360316f99e37b",
+  "original": "concrete wall",
+  "translation": "混凝土墙",
+  "context": "ID: t_sliding_concrete_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_concrete_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_concrete_wall_c",
+  "stage": 5
+ },
+ {
+  "key": "fd16dbb793b148c25f14b7b45837a63a",
+  "original": "containment manual override",
+  "translation": "隔离区手动超越控制",
+  "context": "ID: t_containment_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_containment_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_containment_control",
+  "stage": 5
+ },
+ {
+  "key": "396e99c23fcb92fe3f73d11bc54c67b3",
+  "original": "electro furnace",
+  "translation": "电炉",
+  "context": "ID: t_ind_furnace\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_furnace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_furnace",
+  "stage": 5
+ },
+ {
+  "key": "9549dd6065d019211460c59a86dd6536",
+  "original": "factory",
+  "translation": "工厂",
+  "context": "ID: factory_brc\n位于 /Kenan-Structured-Modpack/More_Locations/factory/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→factory_brc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=factory_brc",
+  "stage": 5
+ },
+ {
+  "key": "63d721d24d2dde776e05e4b8c47f08a3",
+  "original": "gate",
+  "translation": "大门",
+  "context": "ID: mil_outpost_ybe_gate\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ybe_gate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ybe_gate",
+  "stage": 5
+ },
+ {
+  "key": "cbf8537aa309fa8e316b6b70dd22495a",
+  "original": "heavy pipe",
+  "translation": "重型钢管",
+  "context": "ID: t_ind_pipe\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_pipe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_pipe",
+  "stage": 5
+ },
+ {
+  "key": "2ca63cddd54f9490efad22421891a9d1",
+  "original": "house",
+  "translation": "民宅",
+  "context": "ID: combogarageC_second\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_second\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_second",
+  "stage": 5
+ },
+ {
+  "key": "de43284718be754d9f51e24fc58cce91",
+  "original": "house basement",
+  "translation": "房屋地下室",
+  "context": "ID: combohouseC_basement\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combohouseC_basement\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combohouseC_basement",
+  "stage": 5
+ },
+ {
+  "key": "246f35c08933163a8118806e5c0f311f",
+  "original": "house roof",
+  "translation": "房顶",
+  "context": "ID: combogarageC_roof\n位于 /Kenan-Structured-Modpack/More_Locations/multistory_houses/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→combogarageC_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=combogarageC_roof",
+  "stage": 5
+ },
+ {
+  "key": "1db87a2cd85f29d51d2e079f0a7511b3",
+  "original": "hydraulic press",
+  "translation": "液压机",
+  "context": "ID: t_ind_press\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_press\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_press",
+  "stage": 5
+ },
+ {
+  "key": "2be90e854480146b8b7dedc5c8ae208f",
+  "original": "industrial drill",
+  "translation": "工业钻机",
+  "context": "ID: t_ind_drill\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_drill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_drill",
+  "stage": 5
+ },
+ {
+  "key": "a78db10de466b05376e528accb8dad6a",
+  "original": "mansion",
+  "translation": "别墅",
+  "context": "ID: estate_2troc\n位于 /Kenan-Structured-Modpack/More_Locations/estate/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→estate_2troc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=estate_2troc",
+  "stage": 5
+ },
+ {
+  "key": "f24ff5bf540aa95092db4bfc456c629a",
+  "original": "military outpost",
+  "translation": "军事哨站",
+  "context": "ID: mil_outpost_ubrc\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ubrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ubrc",
+  "stage": 5
+ },
+ {
+  "key": "19dd8336ada04421ad9dedede74e1cc3",
+  "original": "mine field",
+  "translation": "雷区",
+  "context": "ID: mil_outpost_ybrc\n位于 /Kenan-Structured-Modpack/More_Locations/military_outpost/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→overmap_terrain→mil_outpost_ybrc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_outpost_ybrc",
+  "stage": 5
+ },
+ {
+  "key": "b060166970512d46227543d96df57c7d",
+  "original": "open secret",
+  "translation": "打开密道",
+  "context": "ID: t_secretdoor_brick_wall_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_secretdoor_brick_wall_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_secretdoor_brick_wall_o",
+  "stage": 5
+ },
+ {
+  "key": "bc6dd56ac7e684ce0c1abc36b2a6bee5",
+  "original": "open secret door",
+  "translation": "打开秘门",
+  "context": "ID: t_secretdoor_bookcase_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_secretdoor_bookcase_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_secretdoor_bookcase_o",
+  "stage": 5
+ },
+ {
+  "key": "d19fb89e755e5825b9a9b45d69e7d795",
+  "original": "open sliding wall",
+  "translation": "打开墙壁",
+  "context": "ID: t_sliding_wall_o\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_o\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_o",
+  "stage": 5
+ },
+ {
+  "key": "8f8449add28abd7fcb15db392a188f69",
+  "original": "power lathe",
+  "translation": "动力车床",
+  "context": "ID: t_ind_lathe\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_lathe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_lathe",
+  "stage": 5
+ },
+ {
+  "key": "e78f97b1f3deaa3259f454a92d02f701",
+  "original": "robot labor=slave labor",
+  "translation": "机器工人=奴隶工人",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/More_Locations/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→snippet→[3]\n",
+  "stage": 5
+ },
+ {
+  "key": "803654b8907c1b172c5035611cfa5da6",
+  "original": "robotic assembler",
+  "translation": "装配机器人",
+  "context": "ID: t_ind_assembler\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_ind_assembler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_ind_assembler",
+  "stage": 5
+ },
+ {
+  "key": "7d6d2333d97775c2704e2473299301a2",
+  "original": "security bolt release",
+  "translation": "安防卡榫",
+  "context": "ID: t_jaildoor_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_jaildoor_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_jaildoor_control",
+  "stage": 5
+ },
+ {
+  "key": "6366156407c41f2cef3bb89453550e64",
+  "original": "solid rock",
+  "translation": "坚岩",
+  "context": "ID: t_border_rock\n位于 /Kenan-Structured-Modpack/More_Locations/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_border_rock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_border_rock",
+  "stage": 5
+ },
+ {
+  "key": "01a389ea1000645dd1bab4627ab98f39",
+  "original": "unusual book case",
+  "translation": "奇怪的书柜",
+  "context": "ID: t_sliding_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "f4a9daa5d605877285137a61aeef85e6",
+  "original": "unusual statue",
+  "translation": "奇怪的雕像",
+  "context": "ID: t_sliding_brick_wall_control\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_brick_wall_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_brick_wall_control",
+  "stage": 5
+ },
+ {
+  "key": "2d86bdac01a3315b95794ffa7360edc3",
+  "original": "wall",
+  "translation": "墙",
+  "context": "ID: t_sliding_wall_c\n位于 /Kenan-Structured-Modpack/More_Locations/secret_doors/secret_door_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→terrain→t_sliding_wall_c\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_sliding_wall_c",
+  "stage": 5
+ }
 ]

@@ -1,0 +1,74 @@
+[
+ {
+  "key": "73736244c654648f33901a4680cc67f8",
+  "original": "Atreyupan",
+  "translation": "弱效广谱抗生素",
+  "context": "ID: weak_antibiotic\n位于 /Kenan-Structured-Modpack/fast_healing/meds.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→COMESTIBLE→weak_antibiotic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=weak_antibiotic"
+ },
+ {
+  "key": "d5acc0a3babe313a6c4393683832e95c",
+  "original": "Bandaged",
+  "translation": "已包扎",
+  "context": "ID: bandaged\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→bandaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bandaged"
+ },
+ {
+  "key": "aaaebce4215890ea19c2888e43a8d4b5",
+  "original": "Disinfected",
+  "translation": "已消毒",
+  "context": "ID: disinfected\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→disinfected\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=disinfected"
+ },
+ {
+  "key": "9a6fba4a16b41614f0b6fa67ea172a03",
+  "original": "EZ-Mode Medical",
+  "translation": "简单医疗模式",
+  "context": "ID: fast_healing\n位于 /Kenan-Structured-Modpack/fast_healing/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→MOD_INFO→fast_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fast_healing"
+ },
+ {
+  "key": "279a991c5a889ed2584f0095049967d0",
+  "original": "Increases broken limb mending speed and the effectiveness of healing items.",
+  "translation": "增加断肢愈合速度和治疗物品的效果。",
+  "context": "ID: fast_healing\n位于 /Kenan-Structured-Modpack/fast_healing/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→MOD_INFO→fast_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fast_healing"
+ },
+ {
+  "key": "290d065d6b8f4e1ccf0435161268a924",
+  "original": "Mostly recovered",
+  "translation": "快恢复好",
+  "context": "ID: mending\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→mending\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mending"
+ },
+ {
+  "key": "74e9d494d732494a8362f360203bbb68",
+  "original": "Recovering",
+  "translation": "恢复中",
+  "context": "ID: mending\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→mending\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mending"
+ },
+ {
+  "key": "b1f1da85905ebb1d94f4af32d0514dc1",
+  "original": "Started recovery",
+  "translation": "开始恢复",
+  "context": "ID: mending\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→mending\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mending"
+ },
+ {
+  "key": "c3d71b7c9e47b321fc0e772f4e288264",
+  "original": "This damaged limb is slowly regaining its functions.",
+  "translation": "损坏的肢体正缓慢恢复其功能。",
+  "context": "ID: mending\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→mending\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mending"
+ },
+ {
+  "key": "782f9581d179e83a501df34bdd4a3adc",
+  "original": "Your wounds are bandaged.",
+  "translation": "你身上的伤口已经被包扎过了。",
+  "context": "ID: bandaged\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→bandaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bandaged"
+ },
+ {
+  "key": "c6cd2cf19232d77c5ba99ea2bda3885b",
+  "original": "Your wounds are disinfected.",
+  "translation": "你身上的伤口已经被消毒过了。",
+  "context": "ID: disinfected\n位于 /Kenan-Structured-Modpack/fast_healing/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→effect_type→disinfected\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=disinfected"
+ },
+ {
+  "key": "a2ffe15f270c8cfff3ada4a394d798f9",
+  "original": "antibiotics",
+  "translation": "抗生素",
+  "context": "ID: antibiotics\n位于 /Kenan-Structured-Modpack/fast_healing/meds.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#fast_healing→COMESTIBLE→antibiotics\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antibiotics"
+ }
+]

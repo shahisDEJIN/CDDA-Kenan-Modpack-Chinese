@@ -1,0 +1,34 @@
+[
+ {
+  "key": "7e8ba77bbb996d888e71c56bcb2efcbe",
+  "original": "Prevents no collisions with t_shrubs ETC",
+  "translation": "Prevents no collisions with t_shrubs ETC",
+  "context": "ID: shrub_mod\n位于 /Kenan-Structured-Modpack/shrub_it_off/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#shrub_it_off→MOD_INFO→shrub_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shrub_mod",
+  "stage": 1
+ },
+ {
+  "key": "43a104aa7bb9fdde47a180f0100fb43b",
+  "original": "Shrub it off",
+  "translation": "Shrub it off",
+  "context": "ID: shrub_mod\n位于 /Kenan-Structured-Modpack/shrub_it_off/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#shrub_it_off→MOD_INFO→shrub_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shrub_mod",
+  "stage": 1
+ },
+ {
+  "key": "064445b84c42b188584f73be15961073",
+  "original": "Small plants and shrubs that decorate the forest.  An observant forager could obtain edible plants, acorns, eggs, and mushrooms from it.",
+  "translation": "四散在森林中的小型植物和灌木。一个有敏锐观察力的采集者能从中找到各种食用植物，橡实，蛋和蘑菇。",
+  "context": "ID: t_underbrush\n位于 /Kenan-Structured-Modpack/shrub_it_off/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#shrub_it_off→terrain→t_underbrush\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_underbrush"
+ },
+ {
+  "key": "2f5bae73b10ef2e507c59f609abc5eb5",
+  "original": "shrub",
+  "translation": "灌木",
+  "context": "ID: t_shrub\n位于 /Kenan-Structured-Modpack/shrub_it_off/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#shrub_it_off→terrain→t_shrub\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_shrub"
+ },
+ {
+  "key": "2a09de672351e44f214c71fdf56d3202",
+  "original": "underbrush",
+  "translation": "灌木丛",
+  "context": "ID: t_underbrush\n位于 /Kenan-Structured-Modpack/shrub_it_off/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#shrub_it_off→terrain→t_underbrush\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_underbrush"
+ }
+]

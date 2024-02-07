@@ -1,0 +1,1124 @@
+[
+ {
+  "key": "b6729d9aab678b2d66aaf31fe4e950eb",
+  "original": "20L mushroom tank",
+  "translation": "20L mushroom tank",
+  "context": "ID: mushroom_tank_medium\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→mushroom_tank_medium\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_tank_medium",
+  "stage": 1
+ },
+ {
+  "key": "6df1a2ad0fdf0f73db5822e775a3814b",
+  "original": "60L mushroom tank",
+  "translation": "60L mushroom tank",
+  "context": "ID: mushroom_tank\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→mushroom_tank\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_tank",
+  "stage": 1
+ },
+ {
+  "key": "938fd1a9a2dfb2cd36568997aa501c48",
+  "original": "A backpack made of hardened fungi. We have made every effort to prevent movement and make adjustments so that you can carry your luggage comfortably. You can put the sword in an easy-to-use position.",
+  "translation": "A backpack made of hardened fungi. We have made every effort to prevent movement and make adjustments so that you can carry your luggage comfortably. You can put the sword in an easy-to-use position.",
+  "context": "ID: mushroom_bag02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag02",
+  "stage": 1
+ },
+ {
+  "key": "9bf70440387cf26f6d359a4975018c59",
+  "original": "A brown mushroom helmet made of hardened fungi. Improved to be easier to use as a protective gear.",
+  "translation": "A brown mushroom helmet made of hardened fungi. Improved to be easier to use as a protective gear.",
+  "context": "ID: mushroom_helmet02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_helmet02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_helmet02",
+  "stage": 1
+ },
+ {
+  "key": "b602fbd2f48f1e44287086cac6eea30f",
+  "original": "A brown mushroom helmet made of hardened fungi. The wide brim allows you to protect your eyes from the sun.",
+  "translation": "A brown mushroom helmet made of hardened fungi. The wide brim allows you to protect your eyes from the sun.",
+  "context": "ID: mushroom_helmet01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_helmet01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_helmet01",
+  "stage": 1
+ },
+ {
+  "key": "07735348f199104ed48d550aa4dd0de8",
+  "original": "A cloak made of hardened fungus. This armor is highly resistant to environmental pollution such as poison gas.",
+  "translation": "A cloak made of hardened fungus. This armor is highly resistant to environmental pollution such as poison gas.",
+  "context": "ID: armor_cloak_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→armor_cloak_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_cloak_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "88b6ae04be8203b8af36e6a877cc05e5",
+  "original": "A cover is put on this Yakutake, and it is made not to shine. Remove to brighten.",
+  "translation": "A cover is put on this Yakutake, and it is made not to shine. Remove to brighten.",
+  "context": "ID: mycena_chlorophos_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mycena_chlorophos_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycena_chlorophos_lamp_off",
+  "stage": 1
+ },
+ {
+  "key": "f29336fc1480b438271c51b8fcc4e179",
+  "original": "A delicious pie filled with delicious mycus mushrooms.",
+  "translation": "A delicious pie filled with delicious mycus mushrooms.",
+  "context": "ID: pie_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pie_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pie_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "54197ce7d0cc4519c735ea5d71fff03a",
+  "original": "A fluid bladder from a plant based lifeform.  Not very nutritious, but fine to eat anyway.",
+  "translation": "一个从那些活生生的植物体上采集来的囊胞，里面有一些汁液，营养并不丰富，但勉强能食用。",
+  "context": "ID: plant_sac\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→plant_sac\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plant_sac"
+ },
+ {
+  "key": "39d1e3f403e2672b0e1d4f0da1844692",
+  "original": "A large shield made of hardened fungi. It is difficult to move, but has a good defense.",
+  "translation": "A large shield made of hardened fungi. It is difficult to move, but has a good defense.",
+  "context": "ID: large_shield_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→large_shield_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=large_shield_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "b99dfc5a0420ed23629d8a620b81fc26",
+  "original": "A lovely polka-dot mushroom umbrella. You can prevent rain by equipping it or holding it in your hand.",
+  "translation": "A lovely polka-dot mushroom umbrella. You can prevent rain by equipping it or holding it in your hand.",
+  "context": "ID: umbrella_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→umbrella_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "928225f43a4be65df85b6be06480d6ff",
+  "original": "A nutritious, delicious and healthy mycus soup.",
+  "translation": "A nutritious, delicious and healthy mycus soup.",
+  "context": "ID: soup_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→soup_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soup_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "f0bf602e7ab23ddede7b32fc8b51cc8a",
+  "original": "A polka dot cloak made of fungus. Softly wrap the whole body, it is comfortable to wear.",
+  "translation": "A polka dot cloak made of fungus. Softly wrap the whole body, it is comfortable to wear.",
+  "context": "ID: cloak_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→cloak_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cloak_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "ee966c6093d59ba0787f11cbf56661b3",
+  "original": "A small polka dot shield made of fungus. Because it was made on the fly, there is only a quick performance.",
+  "translation": "A small polka dot shield made of fungus. Because it was made on the fly, there is only a quick performance.",
+  "context": "ID: shield_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→shield_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "bccb323b4b977939431d226638867b27",
+  "original": "A special processing is applied and it is mutated to a storage pot. The capacity is small but you can not afford luxury.",
+  "translation": "A special processing is applied and it is mutated to a storage pot. The capacity is small but you can not afford luxury.",
+  "context": "ID: mushroom_storage_battery\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→MAGAZINE→mushroom_storage_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_storage_battery",
+  "stage": 1
+ },
+ {
+  "key": "490db7fcdde24f11eaf4220e6da800c7",
+  "original": "A wonderfully savory mixture, fermented with an exquisite combination of mycus mushroom and several kinds of ingredients. I promise that I can not stop after drinking a bite.",
+  "translation": "A wonderfully savory mixture, fermented with an exquisite combination of mycus mushroom and several kinds of ingredients. I promise that I can not stop after drinking a bite.",
+  "context": "ID: drink_veggy_tainted_alcohol\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→drink_veggy_tainted_alcohol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=drink_veggy_tainted_alcohol",
+  "stage": 1
+ },
+ {
+  "key": "fd82e96a0051df707192465e44e48d5e",
+  "original": "Among the light-emitting mushrooms, the brightness of Yakutake is particularly great. Furthermore, this Yakutake is mutated, and illuminates a very wide area.",
+  "translation": "Among the light-emitting mushrooms, the brightness of Yakutake is particularly great. Furthermore, this Yakutake is mutated, and illuminates a very wide area.",
+  "context": "ID: mycena_chlorophos_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mycena_chlorophos_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycena_chlorophos_lamp",
+  "stage": 1
+ },
+ {
+  "key": "b38e17ca36226a9fae00db3f318086ba",
+  "original": "An umbrella with a hard stone like a hammer. It is inferior to a proper tool and weapon, but it is quite easy to use.",
+  "translation": "An umbrella with a hard stone like a hammer. It is inferior to a proper tool and weapon, but it is quite easy to use.",
+  "context": "ID: mushroom_hammer\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_hammer",
+  "stage": 1
+ },
+ {
+  "key": "8100ef3d2910c8dade2a83f82bc7cf40",
+  "original": "At first glance it is a vegetable that is likely to cause harm to the body, but depending on the recipe, it seems that you can eat various ways.",
+  "translation": "At first glance it is a vegetable that is likely to cause harm to the body, but depending on the recipe, it seems that you can eat various ways.",
+  "context": "ID: veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "ef6f8f98c7c9c395d30f6d89ac0ea4b0",
+  "original": "Close cover",
+  "translation": "关上灯罩",
+  "context": "ID: tukiyotake_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp"
+ },
+ {
+  "key": "e58f7fdc92d2df5c3dd48a323e07acca",
+  "original": "Comfortable polka-dot seating made of fungi. Used for vehicle construction.",
+  "translation": "Comfortable polka-dot seating made of fungi. Used for vehicle construction.",
+  "context": "ID: seat_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→seat_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seat_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "508a9f5e04aec67a8dd27a8408281ea4",
+  "original": "For those who want to play as a mycus.",
+  "translation": "For those who want to play as a mycus.",
+  "context": "ID: mycus_tomodati\n位于 /Kenan-Structured-Modpack/mycus/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→MOD_INFO→mycus_tomodati\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_tomodati",
+  "stage": 1
+ },
+ {
+  "key": "b42bc60201c71ab9d11f52681e82be91",
+  "original": "Fungus Institute",
+  "translation": "Fungus Institute",
+  "context": "ID: mycus_lab\n位于 /Kenan-Structured-Modpack/mycus/scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→scenario→mycus_lab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_lab",
+  "stage": 1
+ },
+ {
+  "key": "86d7c75ceb0d5601ffd050bab1a0825a",
+  "original": "Fungus grower",
+  "translation": "Fungus grower",
+  "context": "ID: mycus02\n位于 /Kenan-Structured-Modpack/mycus/map/mycus01.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→overmap_terrain→mycus02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus02",
+  "stage": 1
+ },
+ {
+  "key": "1635368561089876749a91f4909568a8",
+  "original": "Fungus researcher",
+  "translation": "Fungus researcher",
+  "context": "ID: mycus_tech\n位于 /Kenan-Structured-Modpack/mycus/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→profession→mycus_tech\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_tech",
+  "stage": 1
+ },
+ {
+  "key": "eedc567d689ba71e5d79ab0d034e4ff5",
+  "original": "Fungus-full veggies in bread.",
+  "translation": "Fungus-full veggies in bread.",
+  "context": "ID: sandwich_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→sandwich_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sandwich_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "f4e7936ebedd804d5ba2a1def22e47e4",
+  "original": "Gauntlet made of hardened fungi. Contrary to high defense, it is very light and hardly disturbs movement.",
+  "translation": "Gauntlet made of hardened fungi. Contrary to high defense, it is very light and hardly disturbs movement.",
+  "context": "ID: mushroom_gauntlet02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gauntlet02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gauntlet02",
+  "stage": 1
+ },
+ {
+  "key": "88cd2c18772c5d055065f46ba023c501",
+  "original": "Gauntlets made of hardened fungi. Its performance is quite good.",
+  "translation": "Gauntlets made of hardened fungi. Its performance is quite good.",
+  "context": "ID: mushroom_gauntlet\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gauntlet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gauntlet",
+  "stage": 1
+ },
+ {
+  "key": "ae2ffe96e9328d6d64bf442f3929836e",
+  "original": "I concealed the light emission part and made it not light.",
+  "translation": "I concealed the light emission part and made it not light.",
+  "context": "ID: tukiyotake_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp",
+  "stage": 1
+ },
+ {
+  "key": "aa2ad685c56eafa4e9c4e931e660f902",
+  "original": "I converted a wood-like cocoon into a weapon. It is a stranger to look at swinging the ax, but let's put up with it.",
+  "translation": "I converted a wood-like cocoon into a weapon. It is a stranger to look at swinging the ax, but let's put up with it.",
+  "context": "ID: mushroom_stick\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_stick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_stick",
+  "stage": 1
+ },
+ {
+  "key": "4732667175545af96eb0d39c6b6f1aea",
+  "original": "I cut out the contents of a large mushroom and worked to use it as a backpack. It is not too bad usability. You can put the sword in a convenient position.",
+  "translation": "I cut out the contents of a large mushroom and worked to use it as a backpack. It is not too bad usability. You can put the sword in a convenient position.",
+  "context": "ID: mushroom_bag\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag",
+  "stage": 1
+ },
+ {
+  "key": "846296e0f2b1ccf0cdb27b066a6866e3",
+  "original": "I hollowed out the contents of the mushroom and worked to use it as a pouch. The usability is really good. You can put the knife in a position where it is easy to take out.",
+  "translation": "I hollowed out the contents of the mushroom and worked to use it as a pouch. The usability is really good. You can put the knife in a position where it is easy to take out.",
+  "context": "ID: mushroom_pochi\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_pochi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_pochi",
+  "stage": 1
+ },
+ {
+  "key": "d200ae2579b5b11348de269c0bbb49db",
+  "original": "I modified the spore sac and remodeled it so that it could be used as a firearm. It's far from being a decent gun, but only the availability of ammunition is unobtrusive.",
+  "translation": "I modified the spore sac and remodeled it so that it could be used as a firearm. It's far from being a decent gun, but only the availability of ammunition is unobtrusive.",
+  "context": "ID: mushroom_gun\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gun",
+  "stage": 1
+ },
+ {
+  "key": "d3c1611bfeedb32af4b5aa6e97de7664",
+  "original": "I modified the spore sac and remodeled it so that it could be used as a firearm. The overall length was increased and some stability was obtained.",
+  "translation": "I modified the spore sac and remodeled it so that it could be used as a firearm. The overall length was increased and some stability was obtained.",
+  "context": "ID: mushroom_rifle\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_rifle",
+  "stage": 1
+ },
+ {
+  "key": "e9c905376840eb4213c0a7bbae9249f7",
+  "original": "I removed the cover and let the surrounding lights shine.",
+  "translation": "I removed the cover and let the surrounding lights shine.",
+  "context": "ID: tukiyotake_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp_off",
+  "stage": 1
+ },
+ {
+  "key": "faeb35a2016c5d3e5e376af2707ac447",
+  "original": "It is a big frame made of fungi. Used for vehicle construction.",
+  "translation": "It is a big frame made of fungi. Used for vehicle construction.",
+  "context": "ID: frame_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→frame_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frame_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "e691834b4cb866e66990fa44c7dd418b",
+  "original": "It is a cute mushroom-shaped big hat with polka dots. The wide brim allows you to protect your eyes from the sun.",
+  "translation": "It is a cute mushroom-shaped big hat with polka dots. The wide brim allows you to protect your eyes from the sun.",
+  "context": "ID: mushroom_cap01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_cap01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_cap01",
+  "stage": 1
+ },
+ {
+  "key": "fc551103ba8dc326b9bb28a554ee4130",
+  "original": "It is a drink with a very delicious taste of persimmons. This newest brand is a favorite item that can be called a symbol after the catastrophe.",
+  "translation": "It is a drink with a very delicious taste of persimmons. This newest brand is a favorite item that can be called a symbol after the catastrophe.",
+  "context": "ID: veggy_tainted_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_vodka",
+  "stage": 1
+ },
+ {
+  "key": "8e1f72c0efeadb56e853041635b277ae",
+  "original": "It is a foolish-sized mushroom that can be said to be a collection of mushroom guns. This load will handle most monsters. But it's really big.",
+  "translation": "It is a foolish-sized mushroom that can be said to be a collection of mushroom guns. This load will handle most monsters. But it's really big.",
+  "context": "ID: mushroom_smg\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_smg",
+  "stage": 1
+ },
+ {
+  "key": "19b5b634d0b82a22fa5e12ea00913783",
+  "original": "It is a gas mask made of hardened fungus. We integrated the know-how of the protective armor and condensed the function to one mask. It is highly resistant to environmental pollution such as poison gas.",
+  "translation": "It is a gas mask made of hardened fungus. We integrated the know-how of the protective armor and condensed the function to one mask. It is highly resistant to environmental pollution such as poison gas.",
+  "context": "ID: armor_mask_mushroom02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→armor_mask_mushroom02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_mask_mushroom02",
+  "stage": 1
+ },
+ {
+  "key": "b5f0e7dff40000deae84390e157c64ed",
+  "original": "It is a hammer for crushing buildings, etc. Thanks to the adjustments made to one point of power, it is very fragile and will break just by shaking it.",
+  "translation": "It is a hammer for crushing buildings, etc. Thanks to the adjustments made to one point of power, it is very fragile and will break just by shaking it.",
+  "context": "ID: mushroom_sledge_hammer\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_sledge_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_sledge_hammer",
+  "stage": 1
+ },
+ {
+  "key": "e3372c17c4dc8eaa92e36b9f8e0e3c1b",
+  "original": "It is a large magazine pouch attached to the legs. You can put only one magazine in an easy-to-use position.",
+  "translation": "It is a large magazine pouch attached to the legs. You can put only one magazine in an easy-to-use position.",
+  "context": "ID: mushroom_legpouch\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_legpouch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_legpouch",
+  "stage": 1
+ },
+ {
+  "key": "aa39cf4de0b4f5ef850ad832a3175569",
+  "original": "It is a large shield that can completely cover the whole body. It is difficult to move, but has excellent defense.",
+  "translation": "It is a large shield that can completely cover the whole body. It is difficult to move, but has excellent defense.",
+  "context": "ID: large_shield_mushroom02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→large_shield_mushroom02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=large_shield_mushroom02",
+  "stage": 1
+ },
+ {
+  "key": "c325307d3b0a7b9d670ba5a24ba51423",
+  "original": "It is a large spore isolated from a fungus. Although the productivity dropped, I was able to greatly improve the power.",
+  "translation": "It is a large spore isolated from a fungus. Although the productivity dropped, I was able to greatly improve the power.",
+  "context": "ID: mushroom_ammo02\n位于 /Kenan-Structured-Modpack/mycus/item/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→AMMO→mushroom_ammo02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_ammo02",
+  "stage": 1
+ },
+ {
+  "key": "b50648193898d785d5be3c2db12922cb",
+  "original": "It is a moss made of hardened fungus. The gentle surface works as an angle for lunch. Much lighter than it looks and it makes it easier for you to move.",
+  "translation": "It is a moss made of hardened fungus. The gentle surface works as an angle for lunch. Much lighter than it looks and it makes it easier for you to move.",
+  "context": "ID: mushroom_armor02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_armor02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_armor02",
+  "stage": 1
+ },
+ {
+  "key": "842fad70f3df5db144a7fabe6c327f17",
+  "original": "It is a mushroom pizza that can be eaten by vegetarians at ease. Delicious milky lotion is used abundantly in thick fluffy fabric. It is the smell of Maros that looks delicious.",
+  "translation": "It is a mushroom pizza that can be eaten by vegetarians at ease. Delicious milky lotion is used abundantly in thick fluffy fabric. It is the smell of Maros that looks delicious.",
+  "context": "ID: pizza_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pizza_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pizza_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "abca8a1acee8657e72623d9132e219ba",
+  "original": "It is a mushroom with a sharp umbrella. If you pierce into the enemy's body, the umbrella will rotate and you will easily get a deadly wound through the wound. The rotating umbrella also helps with corpse dismantling.",
+  "translation": "It is a mushroom with a sharp umbrella. If you pierce into the enemy's body, the umbrella will rotate and you will easily get a deadly wound through the wound. The rotating umbrella also helps with corpse dismantling.",
+  "context": "ID: mushroom_spear\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→TOOL→mushroom_spear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_spear",
+  "stage": 1
+ },
+ {
+  "key": "555a9d435ff1588e8b98fdb152930833",
+  "original": "It is a primary moromi that has not finished fermentation. It is a sweet liquid made by mixing enzyme-degraded persimmons and undigested persimmons and vegetables.",
+  "translation": "It is a primary moromi that has not finished fermentation. It is a sweet liquid made by mixing enzyme-degraded persimmons and undigested persimmons and vegetables.",
+  "context": "ID: veggy_tainted_brew_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_brew_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_brew_vodka",
+  "stage": 1
+ },
+ {
+  "key": "27bdb6b84d3270bc6888aa2680aae2e3",
+  "original": "It is a secondary mash that is not distilled after fermentation. It is not delicious because it is mixed with alcohol and water with persimmons and vegetables.",
+  "translation": "It is a secondary mash that is not distilled after fermentation. It is not delicious because it is mixed with alcohol and water with persimmons and vegetables.",
+  "context": "ID: veggy_tainted_wash_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_wash_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_wash_vodka",
+  "stage": 1
+ },
+ {
+  "key": "201a318c9ad97eceb3fd2d9867a73d82",
+  "original": "It is a self-made armor made from fungi. Made of soft fiber, it is a vehicle component that aims to absorb rather than prevent attacks.",
+  "translation": "It is a self-made armor made from fungi. Made of soft fiber, it is a vehicle component that aims to absorb rather than prevent attacks.",
+  "context": "ID: mushroom_plate\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_plate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_plate",
+  "stage": 1
+ },
+ {
+  "key": "faec028d7cdfbb4e6ea7312af8e8a36f",
+  "original": "It is a self-made wheel that is made by combining fungi.",
+  "translation": "It is a self-made wheel that is made by combining fungi.",
+  "context": "ID: wheel_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 WHEEL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→WHEEL→wheel_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "377c03ada67ec9a2e22c7c392a828c4d",
+  "original": "It is a spore extracted from a fungus. The stone is blown away using the explosive power that spore bursts. It can be used as such, but it will still be a lack of power for monsters.",
+  "translation": "It is a spore extracted from a fungus. The stone is blown away using the explosive power that spore bursts. It can be used as such, but it will still be a lack of power for monsters.",
+  "context": "ID: mushroom_ammo01\n位于 /Kenan-Structured-Modpack/mycus/item/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→AMMO→mushroom_ammo01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_ammo01",
+  "stage": 1
+ },
+ {
+  "key": "58036d223402e0a7dbe99b45216c54a6",
+  "original": "It is a strange mushroom-shaped suit that wraps around the body. There is no defense equal, but some warmth can be secured.",
+  "translation": "It is a strange mushroom-shaped suit that wraps around the body. There is no defense equal, but some warmth can be secured.",
+  "context": "ID: mushroom_suit01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_suit01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_suit01",
+  "stage": 1
+ },
+ {
+  "key": "6d3fa957aab8dd05b634de3f4fabfeea",
+  "original": "It is a trap that moves rhythmically powered by electricity. This extremely efficient device gives you amazing output.",
+  "translation": "It is a trap that moves rhythmically powered by electricity. This extremely efficient device gives you amazing output.",
+  "context": "ID: motor_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→motor_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=motor_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "68e53cdea7fe922c75e75e951d73cb52",
+  "original": "It is fungi dried to protect it from corruption. It was carefully detoxified and made. It can be stored for a long time by placing it in a suitable environment.",
+  "translation": "It is fungi dried to protect it from corruption. It was carefully detoxified and made. It can be stored for a long time by placing it in a suitable environment.",
+  "context": "ID: dry_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→dry_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dry_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "a879d22f0398817a7325babdd0715a8f",
+  "original": "It is the one that collects and squeezes the latex that comes out when you damage the brow. Those aged are transformed into milk by mycus.",
+  "translation": "It is the one that collects and squeezes the latex that comes out when you damage the brow. Those aged are transformed into milk by mycus.",
+  "context": "ID: milk_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→milk_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "26a685ebe61b63f363323c7f6a98d420",
+  "original": "It is the wisdom of the old-fashioned life that uses Minamata as a remedy. The microbes in the blisters promote treatment.",
+  "translation": "It is the wisdom of the old-fashioned life that uses Minamata as a remedy. The microbes in the blisters promote treatment.",
+  "context": "ID: sphagnum_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→sphagnum_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sphagnum_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "1df2ad7896ff5a7ad7abda53709b02d2",
+  "original": "It's a very delicious, fried veggie.",
+  "translation": "It's a very delicious, fried veggie.",
+  "context": "ID: veggy_tainted_fried\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_fried\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_fried",
+  "stage": 1
+ },
+ {
+  "key": "129fefd596e249e746250cbdfa7ccb8e",
+  "original": "It's bad for bad smell and bitterness, and unpleasant throat like sludge. This drink has the effect of suppressing the attack of asthma.",
+  "translation": "It's bad for bad smell and bitterness, and unpleasant throat like sludge. This drink has the effect of suppressing the attack of asthma.",
+  "context": "ID: veggy_juice_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_juice_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_juice_tainted",
+  "stage": 1
+ },
+ {
+  "key": "2a7b90c16c576a03985d7fcca7258c8f",
+  "original": "It's hard to move, but the moss made of hardened fungus has defenses that you can not think of as a mushroom.",
+  "translation": "It's hard to move, but the moss made of hardened fungus has defenses that you can not think of as a mushroom.",
+  "context": "ID: mushroom_armor01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_armor01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_armor01",
+  "stage": 1
+ },
+ {
+  "key": "848362b6a86c72dacf827d78f7e8824b",
+  "original": "Mycus",
+  "translation": "马卡斯",
+  "context": "ID: mycus_lab\n位于 /Kenan-Structured-Modpack/mycus/scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→scenario→mycus_lab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_lab"
+ },
+ {
+  "key": "9bfdd0380e43eaf00d615adc5b2e576d",
+  "original": "Mycus Identity",
+  "translation": "马卡斯认同",
+  "context": "ID: M_IMMUNE\n位于 /Kenan-Structured-Modpack/mycus/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→mutation→M_IMMUNE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=M_IMMUNE"
+ },
+ {
+  "key": "6034d55ef44d58d96ee3db6bb0bc0adc",
+  "original": "Mycus milk",
+  "translation": "Mycus milk",
+  "context": "ID: milk_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→milk_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "fad3a96548a73015cb57ad88270c860e",
+  "original": "Mycus mod",
+  "translation": "Mycus mod",
+  "context": "ID: mycus_tomodati\n位于 /Kenan-Structured-Modpack/mycus/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→MOD_INFO→mycus_tomodati\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_tomodati",
+  "stage": 1
+ },
+ {
+  "key": "ad9a1cf9cd792a1294539b9d05a5c835",
+  "original": "Mycus rice cake and fluid sac were fried until it turned black and made it coffee flavor. It is not good enough compared to the real thing, but it will be a substitute for the time being.",
+  "translation": "Mycus rice cake and fluid sac were fried until it turned black and made it coffee flavor. It is not good enough compared to the real thing, but it will be a substitute for the time being.",
+  "context": "ID: coffee_bean_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→coffee_bean_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=coffee_bean_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "e47b22468f784c770964399106333ec0",
+  "original": "Mystery of Fungus Researchers",
+  "translation": "Mystery of Fungus Researchers",
+  "context": "ID: mycus01\n位于 /Kenan-Structured-Modpack/mycus/map/mycus01.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→overmap_terrain→mycus01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus01",
+  "stage": 1
+ },
+ {
+  "key": "b180f5bd0cd75457c934abfde029eb03",
+  "original": "Open cover",
+  "translation": "打开灯罩",
+  "context": "ID: tukiyotake_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp_off"
+ },
+ {
+  "key": "75007097036a8293be9dcf6ef9a6d3d9",
+  "original": "Research seems to have to be interrupted by the fact that zombies have begun to crawl outside. Is it fortunate that there is an infinite increase of supplies? Let's use this body with fungal immunity.",
+  "translation": "Research seems to have to be interrupted by the fact that zombies have begun to crawl outside. Is it fortunate that there is an infinite increase of supplies? Let's use this body with fungal immunity.",
+  "context": "ID: mycus_tech\n位于 /Kenan-Structured-Modpack/mycus/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→profession→mycus_tech\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_tech",
+  "stage": 1
+ },
+ {
+  "key": "27d954a14fd062e2f06064a338c482c3",
+  "original": "Sheath knife",
+  "translation": "插入刀鞘",
+  "context": "ID: mushroom_boots02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_boots02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_boots02"
+ },
+ {
+  "key": "e0afd66b210ff2762a99bc428f6566ac",
+  "original": "Sheath sword",
+  "translation": "收刀",
+  "context": "ID: mushroom_bag02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag02"
+ },
+ {
+  "key": "0b4528d641abc54fdc4b9b7025c7551e",
+  "original": "Stash ammo",
+  "translation": "存储弹药",
+  "context": "ID: mushroom_legpouch\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_legpouch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_legpouch"
+ },
+ {
+  "key": "a09e9e7ab6253c4269ab2341c58ed56a",
+  "original": "Sturdy shoes made of hardened fungus. It wraps up both feet perfectly, but it is a drawback that it is very thick and it is hard to walk.",
+  "translation": "Sturdy shoes made of hardened fungus. It wraps up both feet perfectly, but it is a drawback that it is very thick and it is hard to walk.",
+  "context": "ID: mushroom_boots\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_boots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_boots",
+  "stage": 1
+ },
+ {
+  "key": "3107c1fbe97dde17f1e94bb9deb96144",
+  "original": "Sturdy shoes made of hardened fungus. It's very light for defense, easy to move and comfortable.",
+  "translation": "Sturdy shoes made of hardened fungus. It's very light for defense, easy to move and comfortable.",
+  "context": "ID: mushroom_boots02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_boots02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_boots02",
+  "stage": 1
+ },
+ {
+  "key": "4c1e22b6cfba1fc6e237b4918a3dd64e",
+  "original": "The harmful part of the contaminated vegetables is alcohol pickled. Slightly contains mutagens.",
+  "translation": "The harmful part of the contaminated vegetables is alcohol pickled. Slightly contains mutagens.",
+  "context": "ID: veggy_tainted_tornado\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_tornado\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_tornado",
+  "stage": 1
+ },
+ {
+  "key": "47d645c06296c3332ca1e7bd8ab4978e",
+  "original": "The platter is a name-only, pre-divided and cut-away item. It is not delicious at all, as it has not been cooked well.",
+  "translation": "The platter is a name-only, pre-divided and cut-away item. It is not delicious at all, as it has not been cooked well.",
+  "context": "ID: veggy_tainted_salad\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_salad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_salad",
+  "stage": 1
+ },
+ {
+  "key": "03cdb8c504890d5e913c229c4b43a6a1",
+  "original": "These are gloves made of fungus. It does not get in the way of the fingertips than I thought, and it is a good fit.",
+  "translation": "These are gloves made of fungus. It does not get in the way of the fingertips than I thought, and it is a good fit.",
+  "context": "ID: mushroom_gloves\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gloves",
+  "stage": 1
+ },
+ {
+  "key": "3f0bcf302a31746fef7395dc5f5274b3",
+  "original": "These are lovely mushroom slippers. It is a bit unreasonable to run with this.",
+  "translation": "These are lovely mushroom slippers. It is a bit unreasonable to run with this.",
+  "context": "ID: mushroom_shoes\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_shoes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_shoes",
+  "stage": 1
+ },
+ {
+  "key": "dbdacc98070cd8a61c78ebab029e5c00",
+  "original": "This Tsukiyotake is covered and covered so it does not glow. Remove to brighten.",
+  "translation": "This Tsukiyotake is covered and covered so it does not glow. Remove to brighten.",
+  "context": "ID: tukiyotake_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp_off",
+  "stage": 1
+ },
+ {
+  "key": "090a8e8e728da15548ff55184cd47def",
+  "original": "Tukiyotake is widely distributed in Far East Russia and northeastern China, centering on Japan. It is a kind of mushroom that belongs to the genus Tsukiyotake of the genus Haratake eyes. It is light-emitting though weak.",
+  "translation": "Tukiyotake is widely distributed in Far East Russia and northeastern China, centering on Japan. It is a kind of mushroom that belongs to the genus Tsukiyotake of the genus Haratake eyes. It is light-emitting though weak.",
+  "context": "ID: tukiyotake_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp",
+  "stage": 1
+ },
+ {
+  "key": "8e954abca36cc0531d9981e289d81924",
+  "original": "We have synchronized our local physiology with that of our reproductive systems.  Any spores we may encounter will not attempt to germinate inside the local system.",
+  "translation": "我們已經將生殖系統的生理學同步到當地。任何我們可能會遭遇的孢子將不會在當地的系統試著成長。",
+  "context": "ID: M_IMMUNE\n位于 /Kenan-Structured-Modpack/mycus/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→mutation→M_IMMUNE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=M_IMMUNE"
+ },
+ {
+  "key": "d9b519b807a63ddeeaa482102d8af34d",
+  "original": "We mixed flour with mycus mushroom and fluid sac and made it into a protein with no moss. You can make something close to meat if you process it well.",
+  "translation": "We mixed flour with mycus mushroom and fluid sac and made it into a protein with no moss. You can make something close to meat if you process it well.",
+  "context": "ID: meatblock_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→AMMO→meatblock_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meatblock_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "8c6d1cd091fbc3252cdbd11ba5d6b592",
+  "original": "When I finished writing a paper that advocated the usefulness of fungi, the world was different. I understand that fungi are wonderful than anyone else. You can do enough in this new world.",
+  "translation": "When I finished writing a paper that advocated the usefulness of fungi, the world was different. I understand that fungi are wonderful than anyone else. You can do enough in this new world.",
+  "context": "ID: mycus_lab\n位于 /Kenan-Structured-Modpack/mycus/scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→scenario→mycus_lab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_lab",
+  "stage": 1
+ },
+ {
+  "key": "e079c018077a2fa0c76edd340d3511b3",
+  "original": "You sheath your %s",
+  "translation": "你将%s收鞘",
+  "context": "ID: mushroom_bag02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag02"
+ },
+ {
+  "key": "32b951a29def3c665853a9ea1e5b4c47",
+  "original": "You stash your %s.",
+  "translation": "你收好了%s。",
+  "context": "ID: mushroom_legpouch\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_legpouch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_legpouch"
+ },
+ {
+  "key": "bf3ffc67c1fd7ce4e8cd4afccae5fa0b",
+  "original": "armored mushroom boots",
+  "translation": "armored mushroom boots",
+  "context": "ID: mushroom_boots02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_boots02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_boots02",
+  "stage": 1
+ },
+ {
+  "key": "1dab70e9319d831ba3997edb92388075",
+  "original": "armored mushroom cloak",
+  "translation": "armored mushroom cloak",
+  "context": "ID: armor_cloak_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→armor_cloak_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_cloak_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "575df4b4ca14c4f6a1f0b1d4214ff4b5",
+  "original": "armored mushroom gauntlets",
+  "translation": "armored mushroom gauntlets",
+  "context": "ID: mushroom_gauntlet02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gauntlet02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gauntlet02",
+  "stage": 1
+ },
+ {
+  "key": "983c32c3ba905b4d1db1109d3219928b",
+  "original": "armored mushroom helmet",
+  "translation": "armored mushroom helmet",
+  "context": "ID: mushroom_helmet02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_helmet02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_helmet02",
+  "stage": 1
+ },
+ {
+  "key": "fec409f26ff7ca731e637f105d34bdc3",
+  "original": "dry mycus",
+  "translation": "dry mycus",
+  "context": "ID: dry_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→dry_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dry_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "f747dbec81e6a625148ff0c6d7bcd49c",
+  "original": "dry mycuss",
+  "translation": "dry mycuss",
+  "context": "ID: dry_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→dry_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dry_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "48228be91bb612976326e678a8ea010e",
+  "original": "fluid sac",
+  "translation": "液囊",
+  "context": "ID: plant_sac\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→plant_sac\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plant_sac"
+ },
+ {
+  "key": "03b27309e62de1e42dfabc3bf0a543a3",
+  "original": "fried mycus",
+  "translation": "fried mycus",
+  "context": "ID: veggy_tainted_fried\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_fried\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_fried",
+  "stage": 1
+ },
+ {
+  "key": "d53a22fa5230a1a0a9c289d106bfb938",
+  "original": "fried mycuss",
+  "translation": "fried mycuss",
+  "context": "ID: veggy_tainted_fried\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_fried\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_fried",
+  "stage": 1
+ },
+ {
+  "key": "afff07382511e667422508e3a15cb9c4",
+  "original": "improved large mushroom shield",
+  "translation": "improved large mushroom shield",
+  "context": "ID: large_shield_mushroom02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→large_shield_mushroom02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=large_shield_mushroom02",
+  "stage": 1
+ },
+ {
+  "key": "8cec4a34a6f5b14dadfc72f6159b3669",
+  "original": "improved mushroom armor",
+  "translation": "improved mushroom armor",
+  "context": "ID: mushroom_armor02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_armor02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_armor02",
+  "stage": 1
+ },
+ {
+  "key": "9f9c7f55159eaa0dfdf1b1c3e7d8f5b9",
+  "original": "large mushroom shield",
+  "translation": "large mushroom shield",
+  "context": "ID: large_shield_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→large_shield_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=large_shield_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "d747c520980970921b11f5e1a31d5673",
+  "original": "large spore mass",
+  "translation": "large spore mass",
+  "context": "ID: mushroom_ammo02\n位于 /Kenan-Structured-Modpack/mycus/item/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→AMMO→mushroom_ammo02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_ammo02",
+  "stage": 1
+ },
+ {
+  "key": "527564cab1a056ca662a875e82a1c5f8",
+  "original": "minamata",
+  "translation": "minamata",
+  "context": "ID: sphagnum_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→sphagnum_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sphagnum_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "841e7a7f17d0b1e803eda603c18c84d3",
+  "original": "mushroom armor",
+  "translation": "mushroom armor",
+  "context": "ID: mushroom_armor01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_armor01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_armor01",
+  "stage": 1
+ },
+ {
+  "key": "49990db1ffe996e3b3e0e9d72a1e6ba6",
+  "original": "mushroom backpack",
+  "translation": "mushroom backpack",
+  "context": "ID: mushroom_bag02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag02",
+  "stage": 1
+ },
+ {
+  "key": "88d3fb8c0a9ffca8b43f576b5e990eb3",
+  "original": "mushroom bag",
+  "translation": "mushroom bag",
+  "context": "ID: mushroom_bag\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_bag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_bag",
+  "stage": 1
+ },
+ {
+  "key": "10e459b0a1b00bea832e7597019b1666",
+  "original": "mushroom boots",
+  "translation": "mushroom boots",
+  "context": "ID: mushroom_boots\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_boots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_boots",
+  "stage": 1
+ },
+ {
+  "key": "11ba64cc863e971f493ba3a180518ca4",
+  "original": "mushroom cap",
+  "translation": "mushroom cap",
+  "context": "ID: mushroom_cap01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_cap01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_cap01",
+  "stage": 1
+ },
+ {
+  "key": "0e506ba3cefa1516a9826edb37364400",
+  "original": "mushroom cloak",
+  "translation": "mushroom cloak",
+  "context": "ID: cloak_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→cloak_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cloak_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "732e4b13e3ad800e119c81a8b3cb96b8",
+  "original": "mushroom controls",
+  "translation": "mushroom controls",
+  "context": "ID: mushroom_controls\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→mushroom_controls\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_controls",
+  "stage": 1
+ },
+ {
+  "key": "76902f53b47389ac6fcef6e15f3b9968",
+  "original": "mushroom door",
+  "translation": "mushroom door",
+  "context": "ID: door_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→door_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=door_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "75e2d32082edf0b085e8ae8de80062c5",
+  "original": "mushroom engine",
+  "translation": "mushroom engine",
+  "context": "ID: engine_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→engine_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=engine_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "c377b267a60489b03d86374f371e34d3",
+  "original": "mushroom folding box",
+  "translation": "mushroom folding box",
+  "context": "ID: folding_mushroom_box\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→folding_mushroom_box\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=folding_mushroom_box",
+  "stage": 1
+ },
+ {
+  "key": "6a509bdbe6e097e8772c28089dd3495e",
+  "original": "mushroom frame",
+  "translation": "mushroom frame",
+  "context": "ID: frame_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→frame_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frame_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "8bfaf311fd9032e857cb80864629cdb5",
+  "original": "mushroom gas mask",
+  "translation": "mushroom gas mask",
+  "context": "ID: armor_mask_mushroom02\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→armor_mask_mushroom02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_mask_mushroom02",
+  "stage": 1
+ },
+ {
+  "key": "e35996a1b17f062b119cc60a4cd9f0f1",
+  "original": "mushroom gauntlets",
+  "translation": "mushroom gauntlets",
+  "context": "ID: mushroom_gauntlet\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gauntlet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gauntlet",
+  "stage": 1
+ },
+ {
+  "key": "afe2dc814d7fe619f1e1b9ab5e0584fa",
+  "original": "mushroom gloves",
+  "translation": "mushroom gloves",
+  "context": "ID: mushroom_gloves\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_gloves\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gloves",
+  "stage": 1
+ },
+ {
+  "key": "8b7d8bd6c0565cb8a41c00be20d9f8de",
+  "original": "mushroom gun",
+  "translation": "mushroom gun",
+  "context": "ID: mushroom_gun\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_gun",
+  "stage": 1
+ },
+ {
+  "key": "ed0bd0e2b8913143a221273acdd78b29",
+  "original": "mushroom hammer",
+  "translation": "mushroom hammer",
+  "context": "ID: mushroom_hammer\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_hammer",
+  "stage": 1
+ },
+ {
+  "key": "dd7b5aee03fcbe11f75a346eeb99d5b9",
+  "original": "mushroom helmet",
+  "translation": "mushroom helmet",
+  "context": "ID: mushroom_helmet01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_helmet01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_helmet01",
+  "stage": 1
+ },
+ {
+  "key": "c60f6b15f18c914e3a859905b39000da",
+  "original": "mushroom legpouch",
+  "translation": "mushroom legpouch",
+  "context": "ID: mushroom_legpouch\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_legpouch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_legpouch",
+  "stage": 1
+ },
+ {
+  "key": "a3fe013814752acf9107a29ee5783582",
+  "original": "mushroom motor",
+  "translation": "mushroom motor",
+  "context": "ID: motor_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→motor_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=motor_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "f8fd3e4a1531004cf53c1005b6eb8e45",
+  "original": "mushroom plate",
+  "translation": "mushroom plate",
+  "context": "ID: mushroom_plate\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_plate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_plate",
+  "stage": 1
+ },
+ {
+  "key": "2f664cd4ebe941ca8e896d83793b2e91",
+  "original": "mushroom plating",
+  "translation": "mushroom plating",
+  "context": "ID: plating_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→plating_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=plating_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "42807e276ba70811768a9572df036189",
+  "original": "mushroom pouch",
+  "translation": "mushroom pouch",
+  "context": "ID: mushroom_pochi\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_pochi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_pochi",
+  "stage": 1
+ },
+ {
+  "key": "25129aba1cd047099ce8b746894adaeb",
+  "original": "mushroom quarterpanel",
+  "translation": "mushroom quarterpanel",
+  "context": "ID: quarterpanel_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→quarterpanel_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quarterpanel_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "8dd3bcff9540d4b52be56cb968246fa0",
+  "original": "mushroom rifle",
+  "translation": "mushroom rifle",
+  "context": "ID: mushroom_rifle\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_rifle",
+  "stage": 1
+ },
+ {
+  "key": "bc03768fdc540e6f5e6a50ca50fc8456",
+  "original": "mushroom roof",
+  "translation": "mushroom roof",
+  "context": "ID: roof_mushroom02\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→roof_mushroom02\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roof_mushroom02",
+  "stage": 1
+ },
+ {
+  "key": "d8e548812b334addea533048c186f228",
+  "original": "mushroom seat",
+  "translation": "mushroom seat",
+  "context": "ID: seat_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→seat_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seat_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "9bac1eb6c662af309fdd4eae357518fd",
+  "original": "mushroom shield",
+  "translation": "mushroom shield",
+  "context": "ID: shield_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→shield_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "c92c5957e793fc40c6ff9deb2e7f0845",
+  "original": "mushroom sledge",
+  "translation": "mushroom sledge",
+  "context": "ID: mushroom_sledge_hammer\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_sledge_hammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_sledge_hammer",
+  "stage": 1
+ },
+ {
+  "key": "2d5ca49f45e3d4d01d02f657a6a52295",
+  "original": "mushroom slippers",
+  "translation": "mushroom slippers",
+  "context": "ID: mushroom_shoes\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_shoes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_shoes",
+  "stage": 1
+ },
+ {
+  "key": "a25fea93491b96483458a5b3800a70ab",
+  "original": "mushroom smg",
+  "translation": "mushroom smg",
+  "context": "ID: mushroom_smg\n位于 /Kenan-Structured-Modpack/mycus/item/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GUN→mushroom_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_smg",
+  "stage": 1
+ },
+ {
+  "key": "3cfd335edbd2f9818b3e863def430259",
+  "original": "mushroom solar panel",
+  "translation": "mushroom solar panel",
+  "context": "ID: mushroom_solar_panel\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→mushroom_solar_panel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_solar_panel",
+  "stage": 1
+ },
+ {
+  "key": "f073a2fc4f4560c5ce7b7e4d8070e22b",
+  "original": "mushroom spear",
+  "translation": "mushroom spear",
+  "context": "ID: mushroom_spear\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→TOOL→mushroom_spear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_spear",
+  "stage": 1
+ },
+ {
+  "key": "17e74ff93189b3b5326313d29576662c",
+  "original": "mushroom staff",
+  "translation": "mushroom staff",
+  "context": "ID: mushroom_stick\n位于 /Kenan-Structured-Modpack/mycus/item/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mushroom_stick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_stick",
+  "stage": 1
+ },
+ {
+  "key": "defa8008729ca73cadb52be81539adb9",
+  "original": "mushroom storage battery",
+  "translation": "mushroom storage battery",
+  "context": "ID: mushroom_storage_battery\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→mushroom_storage_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_storage_battery",
+  "stage": 1
+ },
+ {
+  "key": "9e117d82a6824364c147540ea4dc8efb",
+  "original": "mushroom suit",
+  "translation": "mushroom suit",
+  "context": "ID: mushroom_suit01\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ARMOR→mushroom_suit01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_suit01",
+  "stage": 1
+ },
+ {
+  "key": "5a28fb4308e935d42408ccbe58ed4797",
+  "original": "mushroom umbrella",
+  "translation": "mushroom umbrella",
+  "context": "ID: umbrella_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/armor.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→umbrella_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=umbrella_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "28d840670cbe40e39900391250c9a018",
+  "original": "mushroom wheel",
+  "translation": "mushroom wheel",
+  "context": "ID: wheel_mushroom\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→wheel_mushroom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_mushroom",
+  "stage": 1
+ },
+ {
+  "key": "c9354d411abced23526bf62295d820b5",
+  "original": "mycena chlorophos lamp (off)",
+  "translation": "mycena chlorophos lamp (off)",
+  "context": "ID: mycena_chlorophos_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mycena_chlorophos_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycena_chlorophos_lamp_off",
+  "stage": 1
+ },
+ {
+  "key": "d49a57ae815ad9d7a2dd0965cd08f580",
+  "original": "mycena chlorophos lamp (on)",
+  "translation": "mycena chlorophos lamp (on)",
+  "context": "ID: mycena_chlorophos_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→mycena_chlorophos_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycena_chlorophos_lamp",
+  "stage": 1
+ },
+ {
+  "key": "d0ce84afa9dc983e9f36aa4c34cddba4",
+  "original": "mycus",
+  "translation": "mycus",
+  "context": "ID: veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "2193b8edcd6d4372151b317a0fb21abf",
+  "original": "mycus alcohol",
+  "translation": "mycus alcohol",
+  "context": "ID: drink_veggy_tainted_alcohol\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→drink_veggy_tainted_alcohol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=drink_veggy_tainted_alcohol",
+  "stage": 1
+ },
+ {
+  "key": "d845b2fad3409e2c11a27e36fece8284",
+  "original": "mycus juice",
+  "translation": "mycus juice",
+  "context": "ID: veggy_juice_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_juice_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_juice_tainted",
+  "stage": 1
+ },
+ {
+  "key": "57cb554ba205f599c7d04132de4ea354",
+  "original": "mycus pie",
+  "translation": "mycus pie",
+  "context": "ID: pie_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pie_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pie_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "37a5cc9fd3a6d90858f7576538cb119a",
+  "original": "mycus pies",
+  "translation": "mycus pies",
+  "context": "ID: pie_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pie_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pie_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "7dcea275abf8d724506e501a83e62e92",
+  "original": "mycus pizza",
+  "translation": "mycus pizza",
+  "context": "ID: pizza_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pizza_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pizza_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "e697709d6736b48fb84effbd632482ab",
+  "original": "mycus pizzas",
+  "translation": "mycus pizzas",
+  "context": "ID: pizza_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→pizza_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pizza_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "8a4119d403deef03f9205215f740ffd8",
+  "original": "mycus salad",
+  "translation": "mycus salad",
+  "context": "ID: veggy_tainted_salad\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_salad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_salad",
+  "stage": 1
+ },
+ {
+  "key": "c59894347b30e7a43af1915e79cb7db8",
+  "original": "mycus salads",
+  "translation": "mycus salads",
+  "context": "ID: veggy_tainted_salad\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_salad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_salad",
+  "stage": 1
+ },
+ {
+  "key": "8d93f245db1609462a90e9bc70345f9e",
+  "original": "mycus sandwich",
+  "translation": "mycus sandwich",
+  "context": "ID: sandwich_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→sandwich_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sandwich_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "0c845f2be0138d36c06585a2eb9d954f",
+  "original": "mycus sandwiches",
+  "translation": "mycus sandwiches",
+  "context": "ID: sandwich_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→sandwich_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sandwich_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "17978a722f2680df08b4f8be4edf1351",
+  "original": "mycus soup",
+  "translation": "mycus soup",
+  "context": "ID: soup_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→soup_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soup_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "39f7b8671a6693ed1368799bd14b39da",
+  "original": "mycus tornado",
+  "translation": "mycus tornado",
+  "context": "ID: veggy_tainted_tornado\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_tornado\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_tornado",
+  "stage": 1
+ },
+ {
+  "key": "031e19cecd066e98e5386d48a109196c",
+  "original": "mycus vodka",
+  "translation": "mycus vodka",
+  "context": "ID: veggy_tainted_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_vodka",
+  "stage": 1
+ },
+ {
+  "key": "2f510fc716cdcf86c4a0a26bbc2e4f52",
+  "original": "mycus vodka (undistilled)",
+  "translation": "mycus vodka （undistilled）",
+  "context": "ID: veggy_tainted_wash_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_wash_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_wash_vodka",
+  "stage": 1
+ },
+ {
+  "key": "1c45e7e7c1262ce2b6617fac63146c76",
+  "original": "mycus vodka (unfermented)",
+  "translation": "mycus vodka （unfermented）",
+  "context": "ID: veggy_tainted_brew_vodka\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→COMESTIBLE→veggy_tainted_brew_vodka\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veggy_tainted_brew_vodka",
+  "stage": 1
+ },
+ {
+  "key": "b3fa5dbb849fef51423a0633126aa245",
+  "original": "opaque mushroom door",
+  "translation": "opaque mushroom door",
+  "context": "ID: door_mushroom_opaque\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→door_mushroom_opaque\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=door_mushroom_opaque",
+  "stage": 1
+ },
+ {
+  "key": "1d2d39b243bc27f9558eeba2835e6117",
+  "original": "opaque mushroom quarterpanel",
+  "translation": "opaque mushroom quarterpanel",
+  "context": "ID: quarterpanel_mushroom_opaque\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→quarterpanel_mushroom_opaque\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quarterpanel_mushroom_opaque",
+  "stage": 1
+ },
+ {
+  "key": "7c976ececa6b3c3bc57d09f66d05b173",
+  "original": "protein block",
+  "translation": "protein block",
+  "context": "ID: meatblock_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ammunition_type→meatblock_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meatblock_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "876ed277448f169d6661f2b0df976b0c",
+  "original": "spore mass",
+  "translation": "spore mass",
+  "context": "ID: mushroom_ammo01\n位于 /Kenan-Structured-Modpack/mycus/item/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→AMMO→mushroom_ammo01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_ammo01",
+  "stage": 1
+ },
+ {
+  "key": "c0cc8819fa73268b5ec019dbe33b798c",
+  "original": "spores",
+  "translation": "spores",
+  "context": "ID: mushroom_ammo\n位于 /Kenan-Structured-Modpack/mycus/item/ammo.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→ammunition_type→mushroom_ammo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mushroom_ammo",
+  "stage": 1
+ },
+ {
+  "key": "5d5fe37bfde1aa7a68a3e4270ca3b90c",
+  "original": "steerable mushroom wheel",
+  "translation": "steerable mushroom wheel",
+  "context": "ID: wheel_mushroom2\n位于 /Kenan-Structured-Modpack/mycus/item/mycus_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→vehicle_part→wheel_mushroom2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_mushroom2",
+  "stage": 1
+ },
+ {
+  "key": "977e8dd6a0be7596b37b4e3b104ca25d",
+  "original": "substitute coffee beans",
+  "translation": "substitute coffee beans",
+  "context": "ID: coffee_bean_veggy_tainted\n位于 /Kenan-Structured-Modpack/mycus/item/food.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→coffee_bean_veggy_tainted\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=coffee_bean_veggy_tainted",
+  "stage": 1
+ },
+ {
+  "key": "579a479ee988250192ecd91f61664c4f",
+  "original": "tukiyotake lamp (off)",
+  "translation": "tukiyotake lamp (off)",
+  "context": "ID: tukiyotake_lamp_off\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp_off",
+  "stage": 1
+ },
+ {
+  "key": "69d9e4857e817e82491b613ebb48d06f",
+  "original": "tukiyotake lamp (on)",
+  "translation": "tukiyotake lamp (on)",
+  "context": "ID: tukiyotake_lamp\n位于 /Kenan-Structured-Modpack/mycus/item/item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#mycus→GENERIC→tukiyotake_lamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tukiyotake_lamp",
+  "stage": 1
+ }
+]

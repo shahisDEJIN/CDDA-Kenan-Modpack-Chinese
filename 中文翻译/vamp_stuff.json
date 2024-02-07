@@ -757,14 +757,14 @@
   "key": "c197c6ce529ba6fb1ceb998f081889f2",
   "original": "A pair of knuckles designed to imitate a jaw with heavily arranged metal teeth, textured in red hue. Every successful impacts will cause it to bite quickly to its prey.",
   "translation": "一对设计用来模仿下巴的指关节，有排列得很重的金属牙，有红色的纹理。每一次成功的撞击都会使它迅速地咬住猎物。",
-  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
+  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
   "stage": 1
  },
  {
   "key": "db2d598448ba49ea767f0f85394d3e62",
   "original": "A pair of knuckles designed to imitate a jaw with heavily arranged metal teeth. Every successful impacts will cause it to bite quickly to its prey.",
   "translation": "设计用来模仿有重排列的金属牙的下颚的一对指关节。每一次成功的撞击都会使它迅速地咬住猎物。",
-  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
+  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
   "stage": 3
  },
  {
@@ -4171,7 +4171,7 @@
  {
   "key": "634efc0701950e9b2b97384327c8d5d2",
   "original": "Let's go!",
-  "translation": "走吧！",
+  "translation": "Let's go！",
   "context": "ID: TALK_VAMP_UNDERSEEKER_umehelp_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_us_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_UNDERSEEKER_umehelp_yes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_VAMP_UNDERSEEKER_umehelp_yes",
   "stage": 1
  },
@@ -5693,6 +5693,13 @@
   "stage": 3
  },
  {
+  "key": "080925df176fe268b1e2042b2c3ec19a",
+  "original": "Take blood sac from the giant \"Thing\"",
+  "translation": "Take blood sac from the giant \"Thing\"",
+  "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_UNDERCOMMANDO_quest3",
+  "stage": 1
+ },
+ {
   "key": "c7dfd590aa241f7f185c69406b876709",
   "original": "Take down 10 elder zombies",
   "translation": "干掉10个老丧尸",
@@ -5703,7 +5710,6 @@
   "key": "6796e60fd849cadd9eb97759b25ae1b0",
   "original": "Take the blood sac from the giant \"Thing\"",
   "translation": "从巨大的“东西”上取血囊",
-  "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_UNDERCOMMANDO_quest3",
   "stage": 1
  },
  {
@@ -7043,7 +7049,7 @@
   "key": "b5427b7f1f3e72518804c15effddfc34",
   "original": "Viscious dire whip, serving its owner with an unbreakable loyalty. Throbs as if it is alive, its bloodlust flows through its wielder who radiates in faint, velvety aura.\n* 10% chance to perform Sweeping Strike while attacking. Sweeping Strike deals <color_light_red>16 cutting damage</color> to foes in a very wide cone.\n* 20% chance to drain life force from an adjacent foe when hit, dealing up to <color_green>2 biological damage</color> and heals you by <color_green>1</color>.",
   "translation": "贪婪的可怕鞭子，以牢不可破的忠诚为它的主人服务。它跳动着，仿佛它是活着的，它的嗜血流经它的持用者，而持用者散发出微弱的天鹅绒般的光环。\n *攻击时有10%几率进行横扫打击。横扫打击在一个非常宽的圆锥体中对敌人造成<color_light_red>点16点切割伤害</color>点。\n*受到攻击时，有20%的几率消耗邻近敌人的生命值，造成<color_green>点生物伤害，并治疗你1点。",
-  "context": "ID: v_hemo_whip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_item.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→v_hemo_whip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_hemo_whip",
+  "context": "ID: v_hemo_whip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→v_hemo_whip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_hemo_whip",
   "stage": 1
  },
  {
@@ -8719,7 +8725,7 @@
   "key": "e6ff514b71dc262b49af5918dae1616c",
   "original": "leech's whip",
   "translation": "水蛭鞭",
-  "context": "ID: v_hemo_whip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_item.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→v_hemo_whip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_hemo_whip",
+  "context": "ID: v_hemo_whip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→v_hemo_whip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_hemo_whip",
   "stage": 3
  },
  {
@@ -8775,28 +8781,28 @@
   "key": "52057e4333dcf2128f62353481dc9952",
   "original": "pair of knuckle biters",
   "translation": "指节啃咬者",
-  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
+  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
   "stage": 3
  },
  {
   "key": "5078e3af90977e39eec1011b763c01bc",
   "original": "pair of knuckle biters+",
   "translation": "指节啃咬者+",
-  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
+  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
   "stage": 3
  },
  {
   "key": "86f04764afea81fbfd27d4f2f1c435f9",
   "original": "pairs of Knuckle Biters",
   "translation": "指节啃咬者",
-  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
+  "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitie",
   "stage": 3
  },
  {
   "key": "9b5d465da5e8a7464e69099944518fb3",
   "original": "pairs of knuckle biters+",
   "translation": "指节啃咬者+",
-  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
+  "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→punchie_bitieplus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punchie_bitieplus",
   "stage": 3
  },
  {
