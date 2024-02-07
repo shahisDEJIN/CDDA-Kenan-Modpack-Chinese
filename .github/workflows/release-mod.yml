@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - update
+      - BN-0.5-HIGH
   # schedule:
     # * is a special character in YAML so you have to quote this string
     # - cron:  '0 0 * * *'
