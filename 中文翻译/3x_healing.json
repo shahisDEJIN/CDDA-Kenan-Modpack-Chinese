@@ -1,0 +1,23 @@
+[
+ {
+  "key": "ff9b75fdd6a260cb9926c5167d07ed64",
+  "original": "3x Healing",
+  "translation": "3x Healing",
+  "context": "ID: 3x_healing\n位于 /Kenan-Structured-Modpack/3x_healing/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#3x_healing→MOD_INFO→3x_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=3x_healing",
+  "stage": 1
+ },
+ {
+  "key": "73c7aed92e6aef5f6a0d3f3bf39723c6",
+  "original": "Set base player healing rate per turn. Default: 0.0001",
+  "translation": "Set base player healing rate per turn. Default: 0.0001",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/3x_healing/modinfo.json\n类型为 EXTERNAL_OPTION\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#3x_healing→EXTERNAL_OPTION→[1]\n",
+  "stage": 1
+ },
+ {
+  "key": "c0bf945040073e64e9001536877ec61a",
+  "original": "Triples base healing rate.",
+  "translation": "Triples base healing rate.",
+  "context": "ID: 3x_healing\n位于 /Kenan-Structured-Modpack/3x_healing/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#3x_healing→MOD_INFO→3x_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=3x_healing",
+  "stage": 1
+ }
+]

@@ -1,0 +1,84 @@
+[
+ {
+  "key": "fb5df40d56ad81147828e6b25ab09f47",
+  "original": "A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For Commercial Use, This Model Was Very Common To See On Rich Members Of society. Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.",
+  "translation": "A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For Commercial Use, This Model Was Very Common To See On Rich Members Of society. Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.",
+  "context": "ID: power_armor_Civilian\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→ARMOR→power_armor_Civilian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian",
+  "stage": 1
+ },
+ {
+  "key": "a0fdf23c4c53e3ea05fbe07fec95f997",
+  "original": "A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For Commercial Use, This Model Was Very Common To See On Rich Members Of society. Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.  It is currently turned on, activate it to turn it off.",
+  "translation": "A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For Commercial Use, This Model Was Very Common To See On Rich Members Of society. Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.  It is currently turned on, activate it to turn it off.",
+  "context": "ID: power_armor_Civilian_on\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→TOOL_ARMOR→power_armor_Civilian_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian_on",
+  "stage": 1
+ },
+ {
+  "key": "e77f307e8cc5d8fa51e9964d8c1dddba",
+  "original": "Adds a few power armor items",
+  "translation": "Adds a few power armor items",
+  "context": "ID: CIVILIANPOWAAA\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→MOD_INFO→CIVILIANPOWAAA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CIVILIANPOWAAA",
+  "stage": 1
+ },
+ {
+  "key": "fd279ab5abb0d6cd1a81b981477f613d",
+  "original": "CIVILIAN POWER ARMOR",
+  "translation": "CIVILIAN POWER ARMOR",
+  "context": "ID: CIVILIANPOWAAA\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→MOD_INFO→CIVILIANPOWAAA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CIVILIANPOWAAA",
+  "stage": 1
+ },
+ {
+  "key": "165be22890ad1a26782292e5d2c958b3",
+  "original": "Commercial Depowered armor",
+  "translation": "Commercial Depowered armor",
+  "context": "ID: Civilian_depower_armor\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→ARMOR→Civilian_depower_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Civilian_depower_armor",
+  "stage": 1
+ },
+ {
+  "key": "c7702b07dcceb1957a1c058f67cb53f3",
+  "original": "Commercial power armor",
+  "translation": "Commercial power armor",
+  "context": "ID: power_armor_Civilian\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→ARMOR→power_armor_Civilian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian",
+  "stage": 1
+ },
+ {
+  "key": "e0d341e04275090fff42a32eb15ed411",
+  "original": "Commercial power armor (active)",
+  "translation": "Commercial power armor (active)",
+  "context": "ID: power_armor_Civilian_on\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→TOOL_ARMOR→power_armor_Civilian_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian_on",
+  "stage": 1
+ },
+ {
+  "key": "22c2c493991e8e244e9c07839a5f67e1",
+  "original": "Commercial power armors (active)",
+  "translation": "Commercial power armors (active)",
+  "context": "ID: power_armor_Civilian_on\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→TOOL_ARMOR→power_armor_Civilian_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian_on",
+  "stage": 1
+ },
+ {
+  "key": "c1e16bb78ba682fd7623e2b34fedc3eb",
+  "original": "The %s disengages.",
+  "translation": "The %s disengages.",
+  "context": "ID: power_armor_Civilian_on\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→TOOL_ARMOR→power_armor_Civilian_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian_on",
+  "stage": 1
+ },
+ {
+  "key": "fc56dd568bdc6266f9c953a6aa64499c",
+  "original": "The %s engages.",
+  "translation": "%s 启动了。",
+  "context": "ID: power_armor_Civilian\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→ARMOR→power_armor_Civilian\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian"
+ },
+ {
+  "key": "a9d35fa2945e2f818d1e0cbe13bd1a50",
+  "original": "The DoubleTech civilian Power Armor,: A heavy suit of basic power armor that has been modified for civilian use, And Has Been Made For Storage, This suit has had its servos and cooling system stripped out, meaning it no longer requires power.",
+  "translation": "The DoubleTech civilian Power Armor,: A heavy suit of basic power armor that has been modified for civilian use, And Has Been Made For Storage, This suit has had its servos and cooling system stripped out, meaning it no longer requires power.",
+  "context": "ID: Civilian_depower_armor\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→ARMOR→Civilian_depower_armor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Civilian_depower_armor",
+  "stage": 1
+ },
+ {
+  "key": "8e61d99ca246955cc31b67a365b2a216",
+  "original": "Turn off",
+  "translation": "关闭",
+  "context": "ID: power_armor_Civilian_on\n位于 /Kenan-Structured-Modpack/Civilianpowerarmor/power_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Civilianpowerarmor→TOOL_ARMOR→power_armor_Civilian_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_Civilian_on"
+ }
+]

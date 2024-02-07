@@ -1,0 +1,417 @@
+[
+ {
+  "key": "8bc16ede6da4d794bfad206f00bfec08",
+  "original": "A colossal green ant with a bulging, bloated thorax.  It moves slowly and deliberately, tending to nearby eggs and continually laying more. Much like it's minions, it emits antifungal clouds.",
+  "translation": "A colossal green ant with a bulging, bloated thorax.  It moves slowly and deliberately, tending to nearby eggs and continually laying more. Much like it's minions, it emits antifungal clouds.",
+  "context": "ID: mon_ant_antifungal_queen\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal_queen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal_queen",
+  "stage": 1
+ },
+ {
+  "key": "f7dcf7ea2122e0e413abc63319c84a0b",
+  "original": "A huge and hairy green ant almost twice the size of other giant ants.  Bulging pincers extend from its jaws. It emits clouds of strong fungicide to protect the queen.",
+  "translation": "A huge and hairy green ant almost twice the size of other giant ants.  Bulging pincers extend from its jaws. It emits clouds of strong fungicide to protect the queen.",
+  "context": "ID: mon_ant_antifungal_soldier\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal_soldier",
+  "stage": 1
+ },
+ {
+  "key": "f463e3503ce5fc11948cb57a6b18abbd",
+  "original": "A pulsating sausage of glistening white flesh, the size of a large cat.  On one end is a set of squirming mouth parts.",
+  "translation": "浑身看起来像是白色果肉的蠕动香肠，体型像猫一样，一端是蠕动的锋利口器。",
+  "context": "ID: mon_ant_antifungal_larva\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal_larva"
+ },
+ {
+  "key": "3a91be280e10fd4a457506d6709588ba",
+  "original": "Allows taming of insects with various feed/fodder types.",
+  "translation": "Allows taming of insects with various feed/fodder types.",
+  "context": "ID: tamebugs\n位于 /Kenan-Structured-Modpack/tamebugs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MOD_INFO→tamebugs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tamebugs",
+  "stage": 1
+ },
+ {
+  "key": "f3c3a0e78b694822052112a3e3d7f4ff",
+  "original": "An enormous green ant covered in chitinous plates.  It possesses a pair of wriggling antennae and vicious-looking mandibles. It seems to emit fungicide.",
+  "translation": "An enormous green ant covered in chitinous plates.  It possesses a pair of wriggling antennae and vicious-looking mandibles. It seems to emit fungicide.",
+  "context": "ID: mon_ant_antifungal\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal",
+  "stage": 1
+ },
+ {
+  "key": "7ece7e4cf4707ddb8002e878cd478097",
+  "original": "Ant Researcher",
+  "translation": "Ant Researcher",
+  "context": "ID: antscientist\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antscientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antscientist",
+  "stage": 1
+ },
+ {
+  "key": "e5ff4349e871c22e46956de63adb1bec",
+  "original": "Ant maniac",
+  "translation": "Ant maniac",
+  "context": "ID: antmaniac\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antmaniac\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antmaniac",
+  "stage": 1
+ },
+ {
+  "key": "3762e5d5f30fcf7d9745bb2e6a78899d",
+  "original": "Ant nerd",
+  "translation": "Ant nerd",
+  "context": "ID: antnerd\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antnerd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antnerd",
+  "stage": 1
+ },
+ {
+  "key": "d98147ca7a439fc9d2d603c8205ed7b2",
+  "original": "Antagonizer Fanatic",
+  "translation": "Antagonizer Fanatic",
+  "context": "ID: antvillain\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antvillain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antvillain",
+  "stage": 1
+ },
+ {
+  "key": "22ba78d3dc69b1af14d6f00aca3eb6a6",
+  "original": "As a kid, you were a fan of the Grognak the Barbarian comics, and specifically their villain, the AntAgonizer. In the chaos of the Cataclysm, you managed to save your ant farm, costume, and favorite comic.",
+  "translation": "As a kid, you were a fan of the Grognak the Barbarian comics, and specifically their villain, the AntAgonizer. In the chaos of the Cataclysm, you managed to save your ant farm, costume, and favorite comic.",
+  "context": "ID: antvillain\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antvillain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antvillain",
+  "stage": 1
+ },
+ {
+  "key": "f2157371a3fb522eecf88d970635f9a6",
+  "original": "Before the cataclysm, you were an avid antkeeper, and kept a very dangerous breed. So dangerous, you had to wear protective gear in the ant room. You found a mysterious, large egg in there shortly before the cataclysm. Lets hope it can save you now.",
+  "translation": "Before the cataclysm, you were an avid antkeeper, and kept a very dangerous breed. So dangerous, you had to wear protective gear in the ant room. You found a mysterious, large egg in there shortly before the cataclysm. Lets hope it can save you now.",
+  "context": "ID: antmaniac\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antmaniac\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antmaniac",
+  "stage": 1
+ },
+ {
+  "key": "ea7ccae1c6e3782f59fb407592f44195",
+  "original": "Before the cataclysm, you were trying to make a breed of ants that could resist the cordyceps fungus. You had just succeeded when your undead co-worker spilled something on your ant tray.",
+  "translation": "Before the cataclysm, you were trying to make a breed of ants that could resist the cordyceps fungus. You had just succeeded when your undead co-worker spilled something on your ant tray.",
+  "context": "ID: antscientist\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antscientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antscientist",
+  "stage": 1
+ },
+ {
+  "key": "2aba60a5cabcb6e03f1dd37633141290",
+  "original": "Tame Bugs",
+  "translation": "Tame Bugs",
+  "context": "ID: tamebugs\n位于 /Kenan-Structured-Modpack/tamebugs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MOD_INFO→tamebugs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tamebugs",
+  "stage": 1
+ },
+ {
+  "key": "058a3cd240dc7a3482c320530832e788",
+  "original": "The egg hatches into a queen! It seems to like you.",
+  "translation": "The egg hatches into a queen！ It seems to like you.",
+  "context": "ID: mon_ant_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_ant_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_egg",
+  "stage": 1
+ },
+ {
+  "key": "fd45c8c62b37e60c6b4c0c89da6ad38c",
+  "original": "Your ants were your best friends for your life. Now theyre your only friends. At least nobody will bully you now... Also, your colony provided you a weird egg before the end times.",
+  "translation": "Your ants were your best friends for your life. Now theyre your only friends. At least nobody will bully you now... Also, your colony provided you a weird egg before the end times.",
+  "context": "ID: antnerd\n位于 /Kenan-Structured-Modpack/tamebugs/bug_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→profession→antnerd\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=antnerd",
+  "stage": 1
+ },
+ {
+  "key": "00676e4449ff486e654dd2510e8d47b6",
+  "original": "a mysterious brown egg. activate to hatch",
+  "translation": "a mysterious brown egg. activate to hatch",
+  "context": "ID: mon_acid_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_acid_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_acid_egg",
+  "stage": 1
+ },
+ {
+  "key": "1e3975a5a8590e26ba799c552b84c0ca",
+  "original": "a mysterious green egg. activate to hatch",
+  "translation": "a mysterious green egg. activate to hatch",
+  "context": "ID: mon_antifungal_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_antifungal_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_antifungal_egg",
+  "stage": 1
+ },
+ {
+  "key": "ad80eff1b0a9a39f07b67187889f985c",
+  "original": "a mysterious red egg. activate to hatch",
+  "translation": "a mysterious red egg. activate to hatch",
+  "context": "ID: mon_ant_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_ant_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_egg",
+  "stage": 1
+ },
+ {
+  "key": "ac451f8e7f28e1b8c54615480254635f",
+  "original": "acidic ant larva",
+  "translation": "酸蚁幼虫",
+  "context": "ID: mon_ant_acid_larva\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_acid_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_acid_larva"
+ },
+ {
+  "key": "7f2aa328dfd153777d40f2f0f7d52322",
+  "original": "acidic queen ant",
+  "translation": "酸蚁蚁后",
+  "context": "ID: mon_ant_acid_queen\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_acid_queen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_acid_queen"
+ },
+ {
+  "key": "26ec08f139f8534611787d82bb70975b",
+  "original": "acidic soldier ant",
+  "translation": "酸蚁士兵",
+  "context": "ID: mon_ant_acid_soldier\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_acid_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_acid_soldier"
+ },
+ {
+  "key": "68ba9268a6352c539632ddc3cd4d7cdc",
+  "original": "alpha razorclaw",
+  "translation": "利爪怪首领",
+  "context": "ID: mon_alpha_razorclaw\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_alpha_razorclaw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_alpha_razorclaw"
+ },
+ {
+  "key": "f827b87bc84a545f0057f8005cca3a2d",
+  "original": "ant larva",
+  "translation": "蚂蚁幼虫",
+  "context": "ID: mon_ant_larva\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_larva"
+ },
+ {
+  "key": "1183b6c800583eb0af629ed43bf8decf",
+  "original": "antifungal ant",
+  "translation": "antifungal ant",
+  "context": "ID: mon_ant_antifungal\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal",
+  "stage": 1
+ },
+ {
+  "key": "df68565e57ea5db7240a496bd9787da7",
+  "original": "antifungal larva",
+  "translation": "antifungal larva",
+  "context": "ID: mon_ant_antifungal_larva\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal_larva",
+  "stage": 1
+ },
+ {
+  "key": "4921c305e4bcd1c2a2c44192a3e64a49",
+  "original": "antifungal queen",
+  "translation": "antifungal queen",
+  "context": "ID: mon_ant_antifungal_queen\n位于 /Kenan-Structured-Modpack/tamebugs/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_antifungal_queen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal_queen",
+  "stage": 1
+ },
+ {
+  "key": "d81432540815a7cb06f04cb68f02985d",
+  "original": "crayfish",
+  "translation": "螯虾",
+  "context": "ID: mon_fish_crayfish\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_fish_crayfish\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fish_crayfish"
+ },
+ {
+  "key": "b560ae4d1c0ca8326ec84ef11fb91056",
+  "original": "dermatik",
+  "translation": "寄生蜂",
+  "context": "ID: mon_dermatik\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_dermatik\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dermatik"
+ },
+ {
+  "key": "975017801d617cdef10996b314bead50",
+  "original": "dermatik larva",
+  "translation": "寄生蜂幼体",
+  "context": "ID: mon_dermatik_larva\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_dermatik_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dermatik_larva"
+ },
+ {
+  "key": "050fcc24241d5d9e32283874734f65ad",
+  "original": "giant acidic ant",
+  "translation": "巨型酸蚁",
+  "context": "ID: mon_ant_acid\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_acid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_acid"
+ },
+ {
+  "key": "2d94a58e6f3188bf9eaad1f1b07fd0c4",
+  "original": "giant ant",
+  "translation": "巨型蚂蚁",
+  "context": "ID: mon_ant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant"
+ },
+ {
+  "key": "738ee37ff1288d0c30ffcc4af5698899",
+  "original": "giant bee",
+  "translation": "巨型蜜蜂",
+  "context": "ID: mon_bee\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_bee\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_bee"
+ },
+ {
+  "key": "cabf3c7f37999a7881d2540d52e7d9d4",
+  "original": "giant black widow",
+  "translation": "巨型黑寡妇蜘蛛",
+  "context": "ID: mon_spider_widow_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_widow_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_widow_giant"
+ },
+ {
+  "key": "71cebad9ab392754e74c7104d5514bca",
+  "original": "giant black widow spiderling",
+  "translation": "巨型黑寡妇蜘蛛幼体",
+  "context": "ID: mon_spider_widow_giant_s\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_widow_giant_s\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_widow_giant_s"
+ },
+ {
+  "key": "a85bddf14d02fbc14acb063adf6bca24",
+  "original": "giant cellar spider",
+  "translation": "巨型地窖蛛",
+  "context": "ID: mon_spider_cellar_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_cellar_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_cellar_giant"
+ },
+ {
+  "key": "c7f049aeb74a287606eafca8d029bb72",
+  "original": "giant centipede",
+  "translation": "巨型蜈蚣",
+  "context": "ID: mon_centipede_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_centipede_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_centipede_giant"
+ },
+ {
+  "key": "eef05fde9bb01514089257f4c0a1097f",
+  "original": "giant cockroach",
+  "translation": "巨型蟑螂",
+  "context": "ID: mon_giant_cockroach\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_giant_cockroach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_giant_cockroach"
+ },
+ {
+  "key": "fa6555a28b208b92a7e17fc15479b659",
+  "original": "giant cockroach nymph",
+  "translation": "巨型蟑螂幼虫",
+  "context": "ID: mon_giant_cockroach_nymph\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_giant_cockroach_nymph\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_giant_cockroach_nymph"
+ },
+ {
+  "key": "56e83618aa9a585097f1883043eb65f8",
+  "original": "giant crayfish",
+  "translation": "巨型螯虾",
+  "context": "ID: mon_giant_crayfish\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_giant_crayfish\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_giant_crayfish"
+ },
+ {
+  "key": "f5ce342ef463191cc48ce563f035853c",
+  "original": "giant dragonflies",
+  "translation": "giant dragonflies",
+  "context": "ID: mon_dragonfly_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_dragonfly_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dragonfly_giant",
+  "stage": 1
+ },
+ {
+  "key": "76542734f74cd3eb11b2b3f2c4e224a2",
+  "original": "giant dragonfly",
+  "translation": "巨型蜻蜓",
+  "context": "ID: mon_dragonfly_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_dragonfly_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dragonfly_giant"
+ },
+ {
+  "key": "7b03b0020596c68685289f3f9e8a9d68",
+  "original": "giant flies",
+  "translation": "giant flies",
+  "context": "ID: mon_fly\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_fly\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fly",
+  "stage": 1
+ },
+ {
+  "key": "c12d2fd7e0f5f3a75e0d5519298ca801",
+  "original": "giant fly",
+  "translation": "巨型苍蝇",
+  "context": "ID: mon_fly\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_fly\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fly"
+ },
+ {
+  "key": "465a1a4409c550d6da30d217410d567b",
+  "original": "giant jumping spider",
+  "translation": "巨型跳蛛",
+  "context": "ID: mon_spider_jumping_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_jumping_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_jumping_giant"
+ },
+ {
+  "key": "e34cd2c3c47cdfa9aaae67490881bee8",
+  "original": "giant locust",
+  "translation": "巨型蝗虫",
+  "context": "ID: mon_locust\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_locust\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_locust"
+ },
+ {
+  "key": "b779b345cadc46ef1948d42e908345a2",
+  "original": "giant mosquito",
+  "translation": "巨型蚊怪",
+  "context": "ID: mon_mosquito_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_mosquito_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mosquito_giant"
+ },
+ {
+  "key": "fb0b80e5c4b6d872c0d2abf7e04a2b86",
+  "original": "giant slug",
+  "translation": "巨型蛞蝓",
+  "context": "ID: mon_slug_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_slug_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_slug_giant"
+ },
+ {
+  "key": "75af033052a4031b0d678b9640b22e2d",
+  "original": "giant trapdoor spider",
+  "translation": "巨型螲蟷蛛",
+  "context": "ID: mon_spider_trapdoor_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_trapdoor_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_trapdoor_giant"
+ },
+ {
+  "key": "b3fd0830da774dc837295e0ec27532a4",
+  "original": "giant wasp",
+  "translation": "巨型黄蜂",
+  "context": "ID: mon_wasp\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_wasp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_wasp"
+ },
+ {
+  "key": "9e4c4049922ec421cce2f5bdae06e4cb",
+  "original": "giant web spider",
+  "translation": "巨型网蛛",
+  "context": "ID: mon_spider_web\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_web\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_web"
+ },
+ {
+  "key": "903bd23a7b2be9fa8222e479692d3131",
+  "original": "giant wolf spider",
+  "translation": "巨型狼蛛",
+  "context": "ID: mon_spider_wolf_giant\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_wolf_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_wolf_giant"
+ },
+ {
+  "key": "1d271474b91550e2ff6436d6515459c6",
+  "original": "giant worm",
+  "translation": "巨型蠕虫",
+  "context": "ID: mon_worm\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_worm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_worm"
+ },
+ {
+  "key": "1e22ef666196afcb72a1ae87070afe9b",
+  "original": "graboid",
+  "translation": "地魔虫",
+  "context": "ID: mon_graboid\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_graboid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_graboid"
+ },
+ {
+  "key": "9c9e5b31b457e34702dc9006c0ee821e",
+  "original": "half worm",
+  "translation": "半截巨蠕虫",
+  "context": "ID: mon_halfworm\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_halfworm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_halfworm"
+ },
+ {
+  "key": "04f5811323336a3331b5f8d948a625d3",
+  "original": "immature giant cellar spider",
+  "translation": "巨型地窖蛛幼体",
+  "context": "ID: mon_spider_cellar_giant_s\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_cellar_giant_s\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_cellar_giant_s"
+ },
+ {
+  "key": "d38da85f13e133cb5611de034df9bf36",
+  "original": "immature giant web spider",
+  "translation": "巨型网蛛幼体",
+  "context": "ID: mon_spider_web_s\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_spider_web_s\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_spider_web_s"
+ },
+ {
+  "key": "3168e6a60e8535eb3385afe8ff5748ce",
+  "original": "lobster",
+  "translation": "龙虾",
+  "context": "ID: mon_fish_lobster\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_fish_lobster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fish_lobster"
+ },
+ {
+  "key": "f2bfaadbadadb3a6b29a70ee09fdef99",
+  "original": "locust nymph",
+  "translation": "巨型蝗虫幼体",
+  "context": "ID: mon_locust_nymph\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_locust_nymph\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_locust_nymph"
+ },
+ {
+  "key": "4de086fdd8ad61264cee0252a876d6ac",
+  "original": "pregnant giant cockroach",
+  "translation": "怀孕的巨型蟑螂",
+  "context": "ID: mon_pregnant_giant_cockroach\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_pregnant_giant_cockroach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_pregnant_giant_cockroach"
+ },
+ {
+  "key": "dfc3f6a36962c09107d4149fff4f2f3b",
+  "original": "pulsating brown egg",
+  "translation": "pulsating brown egg",
+  "context": "ID: mon_acid_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_acid_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_acid_egg",
+  "stage": 1
+ },
+ {
+  "key": "301dc72f43194a2c5f3a613779cdb648",
+  "original": "pulsating green egg",
+  "translation": "pulsating green egg",
+  "context": "ID: mon_antifungal_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_antifungal_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_antifungal_egg",
+  "stage": 1
+ },
+ {
+  "key": "908b0cae77ad5b1434d9eea8ea11d9b5",
+  "original": "pulsating red egg",
+  "translation": "pulsating red egg",
+  "context": "ID: mon_ant_egg\n位于 /Kenan-Structured-Modpack/tamebugs/cratedqueens.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→TOOL→mon_ant_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_egg",
+  "stage": 1
+ },
+ {
+  "key": "75c62d4c158838f1bb1cf0046f2f26d1",
+  "original": "queen ant",
+  "translation": "蚁后",
+  "context": "ID: mon_ant_queen\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_queen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_queen"
+ },
+ {
+  "key": "3ff64193c9fdc5e7bcdb3044230d829d",
+  "original": "razorclaw",
+  "translation": "利爪怪",
+  "context": "ID: mon_razorclaw\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_razorclaw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_razorclaw"
+ },
+ {
+  "key": "d2767cb0e1002d851011deb136ed22a3",
+  "original": "soldier ant",
+  "translation": "兵蚁",
+  "context": "ID: mon_ant_soldier\n位于 /Kenan-Structured-Modpack/tamebugs/extend.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#tamebugs→MONSTER→mon_ant_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_soldier"
+ }
+]

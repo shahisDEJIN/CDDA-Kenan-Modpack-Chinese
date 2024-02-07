@@ -1,0 +1,134 @@
+[
+ {
+  "key": "d2191d50e8e2aaf8fbdfdb6df438a91f",
+  "original": "Chemical weapons?  Check.  Biological outbreak?  Check.  Nuclear war?  Check.  Sounds like the perfect job for you!",
+  "translation": "化学武器？打勾。生化疫情？打勾。核战争？打勾。看来你找对工作了！",
+  "context": "ID: mil_cbrn\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_cbrn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_cbrn"
+ },
+ {
+  "key": "a7133a3a57450bfe13cbe9ce63fc273a",
+  "original": "Doors and windows everywhere dare not speak your name.",
+  "translation": "全世界的门窗都不敢提起你的名字。",
+  "context": "ID: mil_breacher\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_breacher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_breacher"
+ },
+ {
+  "key": "8357d5cadd26304ff5c6cd1920b64210",
+  "original": "Frontline infantry, frontline infantry, frontline infantry, frontline infantry.",
+  "translation": "前线步兵，前线步兵，前线步兵，前线步兵。",
+  "context": "ID: mil_rifleman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_rifleman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_rifleman"
+ },
+ {
+  "key": "a9d8a3e7b4e1126873b5e39783f21507",
+  "original": "Fuji's Military Profession Pack",
+  "translation": "Fuji的军事职业Mod",
+  "context": "ID: fuji_mpp\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→MOD_INFO→fuji_mpp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fuji_mpp"
+ },
+ {
+  "key": "3c07f4d9bb5201e256b2e7d67a260738",
+  "original": "Military Automatic Rifleman",
+  "translation": "自动步枪兵",
+  "context": "ID: mil_auto_rifleman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_auto_rifleman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_auto_rifleman"
+ },
+ {
+  "key": "7730686929ddefee2d15d417ae3dc58c",
+  "original": "Military Breacher",
+  "translation": "破障兵",
+  "context": "ID: mil_breacher\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_breacher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_breacher"
+ },
+ {
+  "key": "55cb988e8138da2b2ab3f153d1adb8e9",
+  "original": "Military Grenadier",
+  "translation": "掷弹兵",
+  "context": "ID: mil_grenadier\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_grenadier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_grenadier"
+ },
+ {
+  "key": "87d54330f3d2fef405e716a3c800e796",
+  "original": "Military Marksman",
+  "translation": "狙击手",
+  "context": "ID: mil_marksman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_marksman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_marksman"
+ },
+ {
+  "key": "8d97ffa51bbfbd55025748401019b2cc",
+  "original": "Military Rifleman",
+  "translation": "步兵",
+  "context": "ID: mil_rifleman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_rifleman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_rifleman"
+ },
+ {
+  "key": "b04667a7b96a4b8819bdb70686860b26",
+  "original": "Numerous military themed professions",
+  "translation": "增添了许多军事职业",
+  "context": "ID: fuji_mpp\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→MOD_INFO→fuji_mpp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fuji_mpp"
+ },
+ {
+  "key": "8dac666c6ec5ac4892611e58c8cde1eb",
+  "original": "Operator CBRN",
+  "translation": "核生化特种兵",
+  "context": "ID: mil_cbrn\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_cbrn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_cbrn"
+ },
+ {
+  "key": "d660815a0687e8916993dbe89a1ca5f8",
+  "original": "Operator Hacker",
+  "translation": "特种兵黑客",
+  "context": "ID: mil_hacker\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_hacker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_hacker"
+ },
+ {
+  "key": "7476c990411915c5816265135683e679",
+  "original": "Operator Recon",
+  "translation": "特种侦察兵",
+  "context": "ID: mil_operator\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_operator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_operator"
+ },
+ {
+  "key": "2b65d89ca258441df5eedf72284606d3",
+  "original": "Operator Sniper",
+  "translation": "特种狙击手",
+  "context": "ID: mil_sniper\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_sniper"
+ },
+ {
+  "key": "e31305fc4b4ad928b4d10390ff32f00b",
+  "original": "Operator Undercover",
+  "translation": "特种兵卧底",
+  "context": "ID: mil_undercover\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_undercover\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_undercover"
+ },
+ {
+  "key": "f2a8ba53fbe27cbcddd3f94ca6cc946a",
+  "original": "S stands for suppressing fire!",
+  "translation": "火力压制！",
+  "context": "ID: mil_auto_rifleman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_auto_rifleman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_auto_rifleman"
+ },
+ {
+  "key": "544fad452471c10a4d4becb44fcdf772",
+  "original": "The only easy day was yesterday.",
+  "translation": "只有昨天是最容易的。",
+  "context": "ID: mil_operator\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_operator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_operator"
+ },
+ {
+  "key": "9c9868bc96bba93aab11b924ab927f22",
+  "original": "There's no kill like overkill.",
+  "translation": "爆炸就是艺术。",
+  "context": "ID: mil_grenadier\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_grenadier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_grenadier"
+ },
+ {
+  "key": "e55724498f77b19285362a57f3f0456c",
+  "original": "You insist you're not a hacker, you're an 'Electronic Warfare Specialist'",
+  "translation": "你坚持自己不是黑客，而是“电子战专家”。",
+  "context": "ID: mil_hacker\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_hacker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_hacker"
+ },
+ {
+  "key": "d988fdbacc7434b01368e537e4aa5b0c",
+  "original": "You like to think you're a real sniper, but really you're just infantry with a bigger gun.",
+  "translation": "你以为你是狙击手，其实你只是有把大枪的步兵。",
+  "context": "ID: mil_marksman\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/army.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_marksman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_marksman"
+ },
+ {
+  "key": "de484b55ba5eb6b56b25cffec68d97b4",
+  "original": "You spent days dueling an enemy sniper, then he just… died.  And then un-died.",
+  "translation": "你花了好几天和一个敌对狙击手斗智斗勇，而他却突然……死了。然后他又“活”了。",
+  "context": "ID: mil_sniper\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_sniper"
+ },
+ {
+  "key": "831d35a90007515182c4a311f93a5e88",
+  "original": "You've been tailing your target for months and now he's a zombie.  So much for that lead.",
+  "translation": "你已经监视你的目标数月，而他现在却变成了丧尸。真是有用的线索。",
+  "context": "ID: mil_undercover\n位于 /Kenan-Structured-Modpack/Fuji_Mil_Prof/prof/spc.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fuji_Mil_Prof→profession→mil_undercover\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mil_undercover"
+ }
+]

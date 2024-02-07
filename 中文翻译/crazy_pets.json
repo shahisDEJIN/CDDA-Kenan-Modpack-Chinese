@@ -1,0 +1,136 @@
+[
+ {
+  "key": "6298feb54a08ef0e84700fbc63828e5c",
+  "original": "A feat worthy of praise from the gods above has lead to you owning the world's first pet shoggoth. Congrats, dumbass.",
+  "translation": "A feat worthy of praise from the gods above has lead to you owning the world's first pet shoggoth. Congrats, dumbass.",
+  "context": "ID: crazy_eldritch_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_eldritch_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_eldritch_man",
+  "stage": 1
+ },
+ {
+  "key": "0d1c3320e05fce89a265325a58c352ca",
+  "original": "A gargantuan protoplasmic blob, constantly reshaping, forming new pseudopods seemingly at will.  All over its body are eyes that form and disappear.  It looks at you with malice.",
+  "translation": "那是一个体型无比巨大的，身上不断分裂出四处挥舞的触手，外形不定的巨型变形怪。遍布它全身的无数只眼睛，不断地在体表形成又消失。它正怨恨地凝视着你。",
+  "context": "ID: mon_shoggoth\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shoggoth"
+ },
+ {
+  "key": "887f7fce2bf1b51788d447a2c6f7382d",
+  "original": "A triffid followed you home.",
+  "translation": "A triffid followed you home.",
+  "context": "ID: sssfff\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→sssfff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sssfff",
+  "stage": 1
+ },
+ {
+  "key": "38581da6b947bcc1dac4aa4dc493e90d",
+  "original": "Adds new, crazier pet starts!  WARNING: Breaks intended balance.",
+  "translation": "Adds new, crazier pet starts!  WARNING: Breaks intended balance.",
+  "context": "ID: crazypets\n位于 /Kenan-Structured-Modpack/crazy_pets/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MOD_INFO→crazypets\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazypets",
+  "stage": 1
+ },
+ {
+  "key": "d49647923780e51d0dddf1144a1b06fd",
+  "original": "Beagle Mini-Tank UGV",
+  "translation": "“猎兔犬”型无人车",
+  "context": "ID: mon_tankbot\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tankbot"
+ },
+ {
+  "key": "24530c5e0782248ba11ca691b32b7200",
+  "original": "Crazy Mech Man",
+  "translation": "Crazy Mech Man",
+  "context": "ID: crazy_mech_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_mech_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_mech_man",
+  "stage": 1
+ },
+ {
+  "key": "510692fb9a3eb39992235736087c366d",
+  "original": "Crazy Pets!",
+  "translation": "Crazy Pets!",
+  "context": "ID: crazypets\n位于 /Kenan-Structured-Modpack/crazy_pets/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MOD_INFO→crazypets\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazypets",
+  "stage": 1
+ },
+ {
+  "key": "746384ea6d0a98958c892fd6bdcc3bc0",
+  "original": "Crazy Robot Lady",
+  "translation": "Crazy Robot Lady",
+  "context": "ID: crazy_mech_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_mech_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_mech_man",
+  "stage": 1
+ },
+ {
+  "key": "3650b5385a87c5d54a1bc037dec254f9",
+  "original": "Crazy Tank... Trial?",
+  "translation": "Crazy Tank... Trial?",
+  "context": "ID: crazy_tank_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_tank_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_tank_man",
+  "stage": 1
+ },
+ {
+  "key": "b127ffed5957561b4ccb58f91782b827",
+  "original": "Crazy Tankette!",
+  "translation": "Crazy Tankette!",
+  "context": "ID: crazy_tank_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_tank_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_tank_man",
+  "stage": 1
+ },
+ {
+  "key": "135255bd90dd47fe31f7689e3b5ec075",
+  "original": "Crazy Witch Bitch",
+  "translation": "Crazy Witch Bitch",
+  "context": "ID: crazy_eldritch_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_eldritch_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_eldritch_man",
+  "stage": 1
+ },
+ {
+  "key": "bd54e027f979e2d67d23ceeaa7295e27",
+  "original": "Crazy Wizard",
+  "translation": "Crazy Wizard",
+  "context": "ID: crazy_eldritch_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_eldritch_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_eldritch_man",
+  "stage": 1
+ },
+ {
+  "key": "4018f4d4e626b205ce04ee528a2e0b03",
+  "original": "Everyone is dead?  Well, it doesn't matter... D A K K A is on your side now! Starting at the price of a demon.",
+  "translation": "Everyone is dead?  Well, it doesn't matter... D A K K A is on your side now! Starting at the price of a demon.",
+  "context": "ID: crazy_tank_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_tank_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_tank_man",
+  "stage": 1
+ },
+ {
+  "key": "e7aea23b23fc31d4bf26532a685bd38e",
+  "original": "Everyone is dead?  Well, it doesn't matter... your M E C H A are all the friends you'll E V E R need!",
+  "translation": "Everyone is dead?  Well, it doesn't matter... your M E C H A are all the friends you'll E V E R need!",
+  "context": "ID: crazy_mech_man\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→crazy_mech_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crazy_mech_man",
+  "stage": 1
+ },
+ {
+  "key": "702413ee964f379314105a42368023dd",
+  "original": "Funny Florist Friend",
+  "translation": "Funny Florist Friend",
+  "context": "ID: sssfff\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→sssfff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sssfff",
+  "stage": 1
+ },
+ {
+  "key": "eae6b733d701eb225dca9a466a27eb10",
+  "original": "Super Strigolactone Synthesizer",
+  "translation": "Super Strigolactone Synthesizer",
+  "context": "ID: sssfff\n位于 /Kenan-Structured-Modpack/crazy_pets/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→profession→sssfff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sssfff",
+  "stage": 1
+ },
+ {
+  "key": "984da1f779744030b63eb2341dea42e6",
+  "original": "The Northrop ATSV, a massive, heavily-armed and armored robot walking on a pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade launcher, 5.56 anti-personnel gun, and the ability to electrify itself against attackers, it is an effective automated sentry, though production was limited due to a legal dispute.",
+  "translation": "一架诺斯罗普ATSV，一种体型巨大的重型全装甲机器人，使用一对反关节机械腿行走，配备40MM反车辆手榴弹发射器和5.56mm反步兵枪，并能够电击任何攻击者，是一种高效的全自动哨兵，由于法律纠纷所以产量有限。",
+  "context": "ID: mon_chickenbot\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chickenbot"
+ },
+ {
+  "key": "3dd873807f5135e2d81cddf532492314",
+  "original": "The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an anti-tank missile launcher, 40mm grenade launcher, and numerous anti-infantry weapons, it's designed for high-risk urban fighting.",
+  "translation": "诺斯洛普公司出品的“猎兔犬”型无人坦克车是一台冰箱大小的城镇战用无人车。装备了一台反坦克导弹发射器，40mm榴弹发射器以及各类反步兵武器，设计用于在高风险的城市作战行动中使用。",
+  "context": "ID: mon_tankbot\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_tankbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_tankbot"
+ },
+ {
+  "key": "3f0bfaaba8f674af51d103d41cb517b7",
+  "original": "chicken walker",
+  "translation": "双足机器人",
+  "context": "ID: mon_chickenbot\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_chickenbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chickenbot"
+ },
+ {
+  "key": "4028cd2aab3a7819461c94023c23e0b2",
+  "original": "shoggoth",
+  "translation": "修格斯",
+  "context": "ID: mon_shoggoth\n位于 /Kenan-Structured-Modpack/crazy_pets/monstermount.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#crazy_pets→MONSTER→mon_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shoggoth"
+ }
+]

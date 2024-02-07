@@ -1,0 +1,134 @@
+[
+ {
+  "key": "39476786dc4b9ba13ef9fc994ecc4400",
+  "original": "A larger pot than general household, you can cook many materials at the same time.",
+  "translation": "A larger pot than general household, you can cook many materials at the same time.",
+  "context": "ID: big_pot\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→big_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=big_pot",
+  "stage": 1
+ },
+ {
+  "key": "cff350a652d44be6f1c1d2a2e763e91b",
+  "original": "A pasta extruder that is larger than ordinary households, can make many pasta at once.",
+  "translation": "A pasta extruder that is larger than ordinary households, can make many pasta at once.",
+  "context": "ID: big_pastaextruder\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→big_pastaextruder\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=big_pastaextruder",
+  "stage": 1
+ },
+ {
+  "key": "a7270e0e10005e7e4a3f937512914f3e",
+  "original": "A set of glass bottle manufacturing molds",
+  "translation": "A set of glass bottle manufacturing molds",
+  "context": "ID: glass_bottle_manufacturing_mold_set\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→glass_bottle_manufacturing_mold_set\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass_bottle_manufacturing_mold_set",
+  "stage": 1
+ },
+ {
+  "key": "e5671f364b6bea115dd0b5321c92a53f",
+  "original": "A set of molds and working tools that can efficiently produce glass products used in glass workshops.",
+  "translation": "A set of molds and working tools that can efficiently produce glass products used in glass workshops.",
+  "context": "ID: glass_bottle_manufacturing_mold_set\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→glass_bottle_manufacturing_mold_set\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass_bottle_manufacturing_mold_set",
+  "stage": 1
+ },
+ {
+  "key": "e68173ccb909c7b43893ecc1b82133b7",
+  "original": "An outbreak occurred when pasta was enjoyed at a pasta restaurant.",
+  "translation": "An outbreak occurred when pasta was enjoyed at a pasta restaurant.",
+  "context": "ID: pasta\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→scenario→pasta\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pasta",
+  "stage": 1
+ },
+ {
+  "key": "3c06223a52c7f817ace00272915ff02b",
+  "original": "An outbreak occurred while observing the glass workshop.",
+  "translation": "An outbreak occurred while observing the glass workshop.",
+  "context": "ID: glass\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→scenario→glass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass",
+  "stage": 1
+ },
+ {
+  "key": "17a7cc793cdea6ee2fbfa41394e28098",
+  "original": "At that time, I was eating pasta",
+  "translation": "At that time, I was eating pasta",
+  "context": "ID: pasta\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→scenario→pasta\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pasta",
+  "stage": 1
+ },
+ {
+  "key": "b6929cf576616480016ca639d95db113",
+  "original": "Glass studio manual",
+  "translation": "Glass studio manual",
+  "context": "ID: glass_workshop_manual\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→BOOK→glass_workshop_manual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass_workshop_manual",
+  "stage": 1
+ },
+ {
+  "key": "88546180e3c74c41f59ee885202da50b",
+  "original": "Glass workshop",
+  "translation": "Glass workshop",
+  "context": "ID: MLI_glass_workshop\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_start_location.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→start_location→MLI_glass_workshop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MLI_glass_workshop",
+  "stage": 1
+ },
+ {
+  "key": "ca9021e7a3dbe7f676b0eb014385a1ed",
+  "original": "Large-scale pasta extruder",
+  "translation": "Large-scale pasta extruder",
+  "context": "ID: big_pastaextruder\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→big_pastaextruder\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=big_pastaextruder",
+  "stage": 1
+ },
+ {
+  "key": "6a8052b3c3a66aafa70f3ab202bed346",
+  "original": "Make a Lot of Items",
+  "translation": "Make a Lot of Items",
+  "context": "ID: Make_a_Lot_of_Items_Mod\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→MOD_INFO→Make_a_Lot_of_Items_Mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Make_a_Lot_of_Items_Mod",
+  "stage": 1
+ },
+ {
+  "key": "531fca1512202d3efe447bb7a423064a",
+  "original": "Pasta restaurant",
+  "translation": "Pasta restaurant",
+  "context": "ID: MLI_s_pasta_restaurant\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_start_location.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→start_location→MLI_s_pasta_restaurant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MLI_s_pasta_restaurant",
+  "stage": 1
+ },
+ {
+  "key": "cb1d257f318d114d64d1e7067dd62d6c",
+  "original": "Quickly add additional map position",
+  "translation": "Quickly add additional map position",
+  "context": "ID: mymap\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→mymap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mymap",
+  "stage": 1
+ },
+ {
+  "key": "eeaab4940ce3cbf096f51d221249dba9",
+  "original": "Search Map",
+  "translation": "Search Map",
+  "context": "ID: mymap\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→mymap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mymap",
+  "stage": 1
+ },
+ {
+  "key": "2450d075f50bee1504ab69f0cbc5b484",
+  "original": "Sitetron pot",
+  "translation": "Sitetron pot",
+  "context": "ID: big_pot\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→big_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=big_pot",
+  "stage": 1
+ },
+ {
+  "key": "2882c6804b691c10c8582d1a12cced1b",
+  "original": "Watching the glass workshop",
+  "translation": "Watching the glass workshop",
+  "context": "ID: glass\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→scenario→glass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass",
+  "stage": 1
+ },
+ {
+  "key": "73809b6a898b194c78fe87985eb3361d",
+  "original": "Work manual of the glass workshop, and a method of manufacturing an efficient glass product are described.",
+  "translation": "Work manual of the glass workshop, and a method of manufacturing an efficient glass product are described.",
+  "context": "ID: glass_workshop_manual\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→BOOK→glass_workshop_manual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=glass_workshop_manual",
+  "stage": 1
+ },
+ {
+  "key": "4afe6500249e455c7be859c48eb38202",
+  "original": "You add roads and tourist attractions to your map.",
+  "translation": "你在地图上标记了道路和旅游景点。",
+  "context": "ID: mymap\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/MLI_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→GENERIC→mymap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mymap"
+ },
+ {
+  "key": "bcb2e8abb0c76fea370b90e65134af9d",
+  "original": "adds a pasta restaurant and items for the pasta restaurant pots and such",
+  "translation": "adds a pasta restaurant and items for the pasta restaurant pots and such",
+  "context": "ID: Make_a_Lot_of_Items_Mod\n位于 /Kenan-Structured-Modpack/Make_a_Lot_of_Items_Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Make_a_Lot_of_Items_Mod→MOD_INFO→Make_a_Lot_of_Items_Mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Make_a_Lot_of_Items_Mod",
+  "stage": 1
+ }
+]

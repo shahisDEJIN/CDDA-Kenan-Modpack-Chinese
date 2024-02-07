@@ -1,0 +1,75 @@
+[
+ {
+  "key": "2d208329abc403adc44e3aba85cf5be6",
+  "original": "Mall",
+  "translation": "购物中心",
+  "context": "ID: mall_cop\n位于 /Kenan-Structured-Modpack/Randomized_Mall/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→scenario→mall_cop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_cop"
+ },
+ {
+  "key": "3755f6307edd5ff13b8e7ed3d4ebe97a",
+  "original": "Mall Cop",
+  "translation": "购物中心保安",
+  "context": "ID: mall_cop\n位于 /Kenan-Structured-Modpack/Randomized_Mall/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→scenario→mall_cop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_cop"
+ },
+ {
+  "key": "75c49be6c2258e30240847dba2928a14",
+  "original": "Randomized Mall",
+  "translation": "Randomized Mall",
+  "context": "ID: randomized_mall\n位于 /Kenan-Structured-Modpack/Randomized_Mall/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→MOD_INFO→randomized_mall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=randomized_mall",
+  "stage": 1
+ },
+ {
+  "key": "a200d2f0d7b108ee53083f2e3e35b24a",
+  "original": "Replaces the existing mall with one having a randomized layout.  Less realistic looking but more variety.",
+  "translation": "Replaces the existing mall with one having a randomized layout.  Less realistic looking but more variety.",
+  "context": "ID: randomized_mall\n位于 /Kenan-Structured-Modpack/Randomized_Mall/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→MOD_INFO→randomized_mall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=randomized_mall",
+  "stage": 1
+ },
+ {
+  "key": "65a9dbb8d8ce1099e74b1ff1028abcc6",
+  "original": "Shopping Mall",
+  "translation": "Shopping Mall",
+  "context": "ID: mall_cross\n位于 /Kenan-Structured-Modpack/Randomized_Mall/start_locations.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→start_location→mall_cross\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_cross",
+  "stage": 1
+ },
+ {
+  "key": "72967c111c811e6268fd6c81e39f25b8",
+  "original": "This is a brochure advertising a local shopping mall.  It includes a map with bus routes.  The buses aren't running but the roads should still be there.",
+  "translation": "This is a brochure advertising a local shopping mall.  It includes a map with bus routes.  The buses aren't running but the roads should still be there.",
+  "context": "ID: mallmap\n位于 /Kenan-Structured-Modpack/Randomized_Mall/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→GENERIC→mallmap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mallmap",
+  "stage": 1
+ },
+ {
+  "key": "91260fb30db1f79cd839457139d92876",
+  "original": "You add the mall to your map.",
+  "translation": "You add the mall to your map.",
+  "context": "ID: mallmap\n位于 /Kenan-Structured-Modpack/Randomized_Mall/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→GENERIC→mallmap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mallmap",
+  "stage": 1
+ },
+ {
+  "key": "a52d1d4a047ed373c4ea654612c5b48d",
+  "original": "You've survived for as long as you could inside of the mall you worked at as a security guard.  Find a way out and try your best to survive.",
+  "translation": "作为商场保安，你一直以为自己对付小偷小摸的贼就可以圆满一生了，面对着满满一个商场的恶性暴力袭击犯，保安？你能活这么久已经不错了。是时候用最大的努力逃出去了。",
+  "context": "ID: mall_cop\n位于 /Kenan-Structured-Modpack/Randomized_Mall/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→scenario→mall_cop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_cop"
+ },
+ {
+  "key": "de73807b41656e73eb3938c56872167d",
+  "original": "parking lot",
+  "translation": "停车场",
+  "context": "ID: mall_lot2\n位于 /Kenan-Structured-Modpack/Randomized_Mall/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→overmap_terrain→mall_lot2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_lot2"
+ },
+ {
+  "key": "ccc6dab53d71304a7fba63cbd06122f2",
+  "original": "shopping brochure",
+  "translation": "shopping brochure",
+  "context": "ID: mallmap\n位于 /Kenan-Structured-Modpack/Randomized_Mall/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→GENERIC→mallmap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mallmap",
+  "stage": 1
+ },
+ {
+  "key": "7fe9a71f5723ae095b08faf50232da77",
+  "original": "shopping mall",
+  "translation": "shopping mall",
+  "context": "ID: mall_center\n位于 /Kenan-Structured-Modpack/Randomized_Mall/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Randomized_Mall→overmap_terrain→mall_center\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mall_center",
+  "stage": 1
+ }
+]

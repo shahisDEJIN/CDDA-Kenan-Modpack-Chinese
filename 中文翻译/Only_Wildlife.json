@@ -1,0 +1,14 @@
+[
+ {
+  "key": "ff2a621554615d44fbf582f394f356b8",
+  "original": "No Monsters",
+  "translation": "移除怪物",
+  "context": "ID: Only_Wildlife\n位于 /Kenan-Structured-Modpack/Only_Wildlife/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Only_Wildlife→MOD_INFO→Only_Wildlife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Only_Wildlife"
+ },
+ {
+  "key": "591a824ee10541e8caaa44514444e205",
+  "original": "Removes all monsters from the game, save for those in the WILDLIFE category.",
+  "translation": "移除游戏中除野生动物之外的所有怪物。",
+  "context": "ID: Only_Wildlife\n位于 /Kenan-Structured-Modpack/Only_Wildlife/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Only_Wildlife→MOD_INFO→Only_Wildlife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Only_Wildlife"
+ }
+]

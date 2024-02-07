@@ -3,7 +3,6 @@
   "key": "85578c701dd76e50be32bad408e96d13",
   "original": "A Fruit Covered in a Slimy sour smelling shell.  It's probably best to unpeel this before consuming it, yuck.",
   "translation": "这个水果表面覆盖着一层粘稠的、有酸臭味的壳。吃之前最好先把它剥开，呕。",
-  "context": "ID: Lootbox_fruit\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_item.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→COMESTIBLE→Lootbox_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Lootbox_fruit",
   "stage": 5
  },
  {
@@ -85,7 +84,6 @@
   "key": "74499313906ea646f2aa980477db7f67",
   "original": "Frutification",
   "translation": "结果",
-  "context": "ID: OVIPAROUS_Plant\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→mutation→OVIPAROUS_Plant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=OVIPAROUS_Plant",
   "stage": 5
  },
  {
@@ -194,7 +192,6 @@
   "key": "f4de8fe2aded011a83c8363ea63e331f",
   "original": "Your Flower became familiar to those of an fruit plant, at certain times you just feel the urge to drop a ripe Fruit.  Activate to drop a fruit.",
   "translation": "你有与那些水果植物类似的花朵，有时你还会有想要结果的冲动。激活以结果。",
-  "context": "ID: OVIPAROUS_Plant\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→mutation→OVIPAROUS_Plant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=OVIPAROUS_Plant",
   "stage": 3
  },
  {
@@ -306,7 +303,6 @@
   "key": "4fd509f877cdd247703897d402083a5d",
   "original": "shelled fruit",
   "translation": "带壳水果",
-  "context": "ID: Lootbox_fruit\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_item.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→COMESTIBLE→Lootbox_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Lootbox_fruit",
   "stage": 5
  },
  {

@@ -1,0 +1,79 @@
+[
+ {
+  "key": "aa29fb484e885230240e865926d1536f",
+  "original": "Add items that can be converted to difficult to obtain metal material.",
+  "translation": "Add items that can be converted to difficult to obtain metal material.",
+  "context": "ID: metal_elemental\n位于 /Kenan-Structured-Modpack/metal_elemental/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→MOD_INFO→metal_elemental\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_elemental",
+  "stage": 1
+ },
+ {
+  "key": "02cb8f12234c85a4fe74aca190349277",
+  "original": "An environmentally friendly bismuth alloy bird shot that is lead free and pollution free. A small amount of tin is added to make it hard to break, but it may be used as a substitute for bismuth.",
+  "translation": "An environmentally friendly bismuth alloy bird shot that is lead free and pollution free. A small amount of tin is added to make it hard to break, but it may be used as a substitute for bismuth.",
+  "context": "ID: bismuth_shot\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→bismuth_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bismuth_shot",
+  "stage": 1
+ },
+ {
+  "key": "f077a6ff2fcb109da4dacfd2752bed38",
+  "original": "Commonly known as pennies, it is the smallest denomination currency of the United States. Only zinc in the copper plating can be melted and taken out by heating with a lighter.",
+  "translation": "Commonly known as pennies, it is the smallest denomination currency of the United States. Only zinc in the copper plating can be melted and taken out by heating with a lighter.",
+  "context": "ID: penny\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→GENERIC→penny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=penny",
+  "stage": 1
+ },
+ {
+  "key": "bf4d5fc7ec3010436efd6aa6865b41e0",
+  "original": "It is magnesium formed into a ribbon shape. It can be used for chemical experiments and field ignition aids, as well as for the production of some ammunition and explosives.",
+  "translation": "It is magnesium formed into a ribbon shape. It can be used for chemical experiments and field ignition aids, as well as for the production of some ammunition and explosives.",
+  "context": "ID: magnesium_ribbon\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→magnesium_ribbon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnesium_ribbon",
+  "stage": 1
+ },
+ {
+  "key": "b775494bad8930c340d7c686cf418d57",
+  "original": "Metal materials",
+  "translation": "Metal materials",
+  "context": "ID: metal_elemental\n位于 /Kenan-Structured-Modpack/metal_elemental/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→MOD_INFO→metal_elemental\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=metal_elemental",
+  "stage": 1
+ },
+ {
+  "key": "344dc2de69a002c738ebd93b56793713",
+  "original": "bismoth shots",
+  "translation": "bismoth shots",
+  "context": "ID: bismuth_shot\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→bismuth_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bismuth_shot",
+  "stage": 1
+ },
+ {
+  "key": "141c2b0cd80ba712634888535b88a7d9",
+  "original": "bismuth shot",
+  "translation": "bismuth shot",
+  "context": "ID: bismuth_shot\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→bismuth_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bismuth_shot",
+  "stage": 1
+ },
+ {
+  "key": "32e273c8ff26506c03f6118581a3c94f",
+  "original": "magnesium ribbon",
+  "translation": "magnesium ribbon",
+  "context": "ID: magnesium_ribbon\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→magnesium_ribbon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnesium_ribbon",
+  "stage": 1
+ },
+ {
+  "key": "2f137c90361cbfd8c14507f7d8cd1abd",
+  "original": "magnesium ribbons",
+  "translation": "magnesium ribbons",
+  "context": "ID: magnesium_ribbon\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→AMMO→magnesium_ribbon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magnesium_ribbon",
+  "stage": 1
+ },
+ {
+  "key": "e863b242721894f4be4cc191ef4fe1c1",
+  "original": "pennies",
+  "translation": "pennies",
+  "context": "ID: penny\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→GENERIC→penny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=penny",
+  "stage": 1
+ },
+ {
+  "key": "0af9964dc8540ea6f1eef1150bb3a717",
+  "original": "penny",
+  "translation": "penny",
+  "context": "ID: penny\n位于 /Kenan-Structured-Modpack/metal_elemental/material.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#metal_elemental→GENERIC→penny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=penny",
+  "stage": 1
+ }
+]
