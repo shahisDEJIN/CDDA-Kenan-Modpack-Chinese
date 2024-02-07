@@ -12090,6 +12090,7 @@
   "key": "84e8d9aba9db10daf4f9ac24d96c095a",
   "original": "apple orchard",
   "translation": "苹果园",
+  "context": "ID: orchard_tree_apple\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→orchard_tree_apple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=orchard_tree_apple",
   "stage": 5
  },
  {
@@ -12396,6 +12397,7 @@
   "key": "e07cd1723fbeb38e9e7485d54b593f64",
   "original": "bog",
   "translation": "沼泽",
+  "context": "ID: pond_swamp\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→pond_swamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pond_swamp",
   "stage": 5
  },
  {
@@ -12451,6 +12453,7 @@
   "key": "47059dd876006adb6f2849a6b06f561f",
   "original": "bowling alley",
   "translation": "保龄球馆",
+  "context": "ID: bowling_alley\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/locations/override/vbuilding.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→bowling_alley\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bowling_alley",
   "stage": 5
  },
  {
@@ -14547,6 +14550,7 @@
   "key": "eb0ea0bc6c91e1e8058ddddfa6192ce7",
   "original": "museum",
   "translation": "博物馆",
+  "context": "ID: museum\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/locations/override/vbuilding.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→museum\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=museum",
   "stage": 3
  },
  {
@@ -14629,12 +14633,14 @@
   "key": "48d62e0c3456baed36bbb5b01956198e",
   "original": "orchard processing",
   "translation": "果园加工厂",
+  "context": "ID: orchard_processing\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→orchard_processing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=orchard_processing",
   "stage": 3
  },
  {
   "key": "410e7e5db90685a826881f0c1c55b9b3",
   "original": "orchard stall",
   "translation": "果园摊位",
+  "context": "ID: orchard_stall\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→orchard_stall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=orchard_stall",
   "stage": 3
  },
  {
@@ -15875,6 +15881,7 @@
   "key": "7b7d02c0b36c165d168d9948ff944cdd",
   "original": "swamp shack",
   "translation": "沼泽小屋",
+  "context": "ID: hunter_shack\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→overmap_terrain→hunter_shack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hunter_shack",
   "stage": 5
  },
  {

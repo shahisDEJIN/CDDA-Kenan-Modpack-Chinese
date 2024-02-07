@@ -107,8 +107,9 @@
  {
   "key": "7805de1528bdff473b765f35b7a97cb3",
   "original": "\"I am programmed to not engage wandering monsters.\"",
-  "translation": "“I am programmed to not engage wandering monsters.”",
-  "context": "ID: MORE_LOCATIONS_HOLOGRAM_PROTECTION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mutation→MORE_LOCATIONS_HOLOGRAM_PROTECTION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MORE_LOCATIONS_HOLOGRAM_PROTECTION"
+  "translation": "\"I am programmed to not engage wandering monsters.\"",
+  "context": "ID: MORE_LOCATIONS_HOLOGRAM_PROTECTION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mutation→MORE_LOCATIONS_HOLOGRAM_PROTECTION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MORE_LOCATIONS_HOLOGRAM_PROTECTION",
+  "stage": 1
  },
  {
   "key": "7b0fe7b6636bb3167ac074d73b14600e",
@@ -142,7 +143,8 @@
   "key": "5fbddbf2360e069f05cb6d4903e06840",
   "original": "Can I talk to you about something else?",
   "translation": "Can I talk to you about something else？",
-  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_2\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_2"
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_2\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_2",
+  "stage": 1
  },
  {
   "key": "f728877419628aa42aab2f05a02dd6cb",
@@ -190,13 +192,15 @@
   "key": "f6f0d46a87a4ed7f85cec92046da207e",
   "original": "Good luck to you!",
   "translation": "Good luck to you！",
-  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE"
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_GOODBYE",
+  "stage": 1
  },
  {
   "key": "24f599953ba2cc5aef66360f6ba54c51",
   "original": "Good work!",
   "translation": "Good work！",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "92e147707eec5d8f5a915fcab39c5975",
@@ -209,7 +213,8 @@
   "key": "3afe17954c9f5261148f207c95c41d89",
   "original": "Have you went to this location that I have found for you to explore?",
   "translation": "Have you went to this location that I have found for you to explore？",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "5955c51cd75587bd007ccdc20b5b294b",
@@ -284,14 +289,16 @@
  {
   "key": "9ef698c3adc397752d5fc5f7196d6282",
   "original": "I'm a magic genie from a magic camera. No, I'm just joking. What kind of a question is this? You don't like to explore or don't know much about your own world? Have not you seen stuff in labs? Military structures? Top secret stuff? Aliens or whatever these creatures are? You think that your own people don't have tech which can produce holograms? I'm a hologram, software with some additional technologies, it is that simple",
-  "translation": "I'm a magic genie from a magic camera. No，I'm just joking. What kind of a question is this？ You don't like to explore or don't know much about your own world？ Have not you seen stuff in labs？ Military structures？ Top secret stuff？ Aliens or whatever these creatures are？ You think that your own people don't have tech which can produce holograms？ I'm a hologram，software with some additional technologies，it is that simple",
-  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_1\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_1"
+  "translation": "I'm a magic genie from a magic camera. No, I'm just joking. What kind of a question is this? You don't like to explore or don't know much about your own world? Have not you seen stuff in labs? Military structures? Top secret stuff? Aliens or whatever these creatures are? You think that your own people don't have tech which can produce holograms? I'm a hologram, software with some additional technologies, it is that simple",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_1\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_1",
+  "stage": 1
  },
  {
   "key": "6260f9ecf01911c5534ee1c96faadeeb",
   "original": "Initiate search mode. Please, wait for a couple of minutes or less. You've heard me clearly. Still, we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
   "translation": "Initiate search mode. Please，wait for a couple of minutes or less. You've heard me clearly. Still，we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
-  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION"
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM_MISSION",
+  "stage": 1
  },
  {
   "key": "5dbe5d344b0dc90107910315963a1b1c",
@@ -367,7 +374,8 @@
   "key": "43179cc6fdc8177f70c0fa9bf36ed2fe",
   "original": "Not interested in explorations of new locations? No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
   "translation": "Not interested in explorations of new locations？ No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "b7d587f4d770b91a1ab3ee1e3ea31bbb",
@@ -513,7 +521,8 @@
   "key": "04872bd87dd13412357143f22713944f",
   "original": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily! Yeah, my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So, do you want me to show you where this location is via my network system? I can grant you access to archived global network system which my creators have managed to restore. However, after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
   "translation": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily！ Yeah，my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So，do you want me to show you where this location is via my network system？ I can grant you access to archived global network system which my creators have managed to restore. However，after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
-  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
  },
  {
   "key": "00d06796e489999226fb5bb27fe1b3b2",
@@ -707,26 +716,30 @@
  {
   "key": "bf611a453b29615c2573febf4da42cf2",
   "original": "What do you want to do? Play archived games? Browse archived social media? Watch archived videos? Listen to archived music? Read archived files along with archived books? Something to play, read, listen, watch for fun, intelligence improving, spiritual improving, mental improving? Or for reproductive physical state improving?",
-  "translation": "What do you want to do？ Play archived games？ Browse archived social media？ Watch archived videos？ Listen to archived music？ Read archived files along with archived books？ Something to play，read，listen，watch for fun，intelligence improving，spiritual improving，mental improving？ Or for reproductive physical state improving？",
-  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_3\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_3"
+  "translation": "What do you want to do? Play archived games? Browse archived social media? Watch archived videos? Listen to archived music? Read archived files along with archived books? Something to play, read, listen, watch for fun, intelligence improving, spiritual improving, mental improving? Or for reproductive physical state improving?",
+  "context": "ID: TALK_MORE_LOCATIONS_HOLOGRAM_3\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_HOLOGRAM_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_HOLOGRAM_3",
+  "stage": 1
  },
  {
   "key": "fa5a43c2a4f82c90be11d23e3175ba2d",
   "original": "What's the point of lying to me? You think I'm gonna reward you? Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
   "translation": "What's the point of lying to me？ You think I'm gonna reward you？ Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "adbb63366f62496822a690123352faca",
   "original": "Who are your creators? What is the purpose of producing these projectors?",
   "translation": "Who are your creators？ What is the purpose of producing these projectors？",
-  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
  },
  {
   "key": "5c8524ade8e6e878bd4e60c9ee0e363d",
   "original": "Who or what are you?",
   "translation": "Who or what are you？",
-  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM"
+  "context": "ID: TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→talk_topic→TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MORE_LOCATIONS_TRI_TOWER_HOLOGRAM",
+  "stage": 1
  },
  {
   "key": "43aa5690e06f853620ca3f0265f35462",
@@ -746,7 +759,8 @@
   "key": "fcf8016e02a6e73738286c79a6611e2f",
   "original": "You are a boring, lazy person honestly. I guess that laziness applies to both of us",
   "translation": "You are a boring，lazy person honestly. I guess that laziness applies to both of us",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "c7eb00fb508f1eeb7a087ca043537323",
@@ -787,13 +801,15 @@
   "key": "1a6e607a3deed5c5d372a477f005b3b4",
   "original": "You want me to find this location for you to explore? Sure, you will just need to wait for a couple of minutes or less for me to find it via my network system",
   "translation": "You want me to find this location for you to explore？ Sure，you will just need to wait for a couple of minutes or less for me to find it via my network system",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "77f123741b8f5b9f5b0f33d1ffb25cc2",
   "original": "You want me to locate it now for you to explore? Sure, just tell me, you will just need to wait for a couple of minutes or less for me to find it via my network system",
   "translation": "You want me to locate it now for you to explore？ Sure，just tell me，you will just need to wait for a couple of minutes or less for me to find it via my network system",
-  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER"
+  "context": "ID: MISSION_MORE_LOCATIONS_TRI_TOWER\n位于 /Kenan-Structured-Modpack/More_Locations/NPC_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Locations→mission_definition→MISSION_MORE_LOCATIONS_TRI_TOWER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_MORE_LOCATIONS_TRI_TOWER",
+  "stage": 1
  },
  {
   "key": "2c8d6bf92c3a8a7f7c646fd999ad2d80",
