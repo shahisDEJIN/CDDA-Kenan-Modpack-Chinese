@@ -4171,7 +4171,7 @@
  {
   "key": "634efc0701950e9b2b97384327c8d5d2",
   "original": "Let's go!",
-  "translation": "走吧！",
+  "translation": "Let's go！",
   "context": "ID: TALK_VAMP_UNDERSEEKER_umehelp_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_us_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_UNDERSEEKER_umehelp_yes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_VAMP_UNDERSEEKER_umehelp_yes",
   "stage": 1
  },
