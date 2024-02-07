@@ -8,7 +8,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1redjp",
       "hair1brownjp",
@@ -22,8 +21,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_blond" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_blond" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -34,7 +33,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1brownjp",
@@ -48,8 +46,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_red" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_red" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -60,7 +58,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -74,8 +71,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_brown" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_brown" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -86,7 +83,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -100,8 +96,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_black" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_black" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -112,7 +108,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -126,8 +121,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_white" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_white" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -138,7 +133,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -152,8 +146,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "flags": [ "hair_gray" ],
-    "types": [ "hair_style" ]
+	"flags": [ "hair_gray" ],
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -164,7 +158,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -178,7 +171,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -189,7 +182,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -203,7 +195,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -214,7 +206,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -228,7 +219,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -239,7 +230,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -253,7 +243,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -264,7 +254,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -278,7 +267,7 @@
       "hair1greenjp",
       "hair1purplejp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -289,7 +278,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "cancels": [
       "hair1blondjp",
       "hair1redjp",
@@ -303,6 +291,6 @@
       "hair1greenjp",
       "hair1aquajp"
     ],
-    "types": [ "hair_style" ]
+	"types": [ "hair_style" ]
   }
 ]

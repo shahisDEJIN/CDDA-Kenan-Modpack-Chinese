@@ -20,12 +20,14 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 6 } ],
     "dodge": 5,
     "harvest": "exempt",
-    "armor": { "bash": 2, "cut": 12, "bullet": 8 },
+    "armor_bash": 2,
+    "armor_cut": 12,
+    "armor_bullet": 10,
     "vision_day": 50,
     "vision_night": 20,
-    "special_attacks": [ { "type": "bite", "cooldown": 7 }, { "id": "grab", "cooldown": 7 } ],
+    "special_attacks": [ { "type": "bite", "cooldown": 7 }, [ "GRAB", 7 ] ],
     "death_drops": "succumbvampire",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "POISON", "NO_BREATHE", "REVIVES", "CAN_OPEN_DOORS" ]
   },
   {
@@ -49,13 +51,15 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 8 } ],
     "dodge": 6,
     "harvest": "exempt",
-    "armor": { "bash": 1, "cut": 10, "bullet": 6 },
+    "armor_bash": 1,
+    "armor_cut": 10,
+    "armor_bullet": 8,
     "vision_day": 50,
     "vision_night": 20,
     "special_attacks": [ [ "BRANDISH", 22 ], { "type": "spell", "spell_data": { "id": "v_sink_bstrike" }, "cooldown": 28 } ],
     "looks_like": "mon_zombie_succumbvampire",
     "death_drops": "succumbvampire",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "POISON", "NO_BREATHE", "REVIVES", "NIGHT_INVISIBILITY", "CAN_OPEN_DOORS" ]
   },
   {
@@ -79,7 +83,9 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 4 } ],
     "dodge": 3,
     "harvest": "exempt",
-    "armor": { "bash": 4, "cut": 10, "bullet": 6 },
+    "armor_bash": 4,
+    "armor_cut": 10,
+    "armor_bullet": 8,
     "vision_day": 50,
     "vision_night": 20,
     "special_attacks": [
@@ -88,7 +94,7 @@
     ],
     "looks_like": "mon_zombie_succumbvampire",
     "death_drops": "succumbvampire",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "POISON", "NO_BREATHE", "REVIVES", "CAN_OPEN_DOORS" ]
   },
   {
@@ -112,7 +118,9 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 4 } ],
     "dodge": 3,
     "harvest": "exempt",
-    "armor": { "bash": 2, "cut": 12, "bullet": 8 },
+    "armor_bash": 2,
+    "armor_cut": 12,
+    "armor_bullet": 10,
     "vision_day": 50,
     "vision_night": 20,
     "special_attacks": [
@@ -121,7 +129,7 @@
     ],
     "looks_like": "mon_zombie_succumbvampire",
     "death_drops": "succumbvampire",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "POISON", "NO_BREATHE", "REVIVES", "CAN_OPEN_DOORS" ]
   },
   {
@@ -146,13 +154,15 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 2 } ],
     "dodge": 2,
     "harvest": "exempt",
-    "armor": { "bash": 12, "cut": 22, "bullet": 16 },
+    "armor_bash": 12,
+    "armor_cut": 22,
+    "armor_bullet": 17,
     "vision_day": 50,
     "vision_night": 20,
     "special_attacks": [ { "type": "spell", "spell_data": { "id": "v_hemo_transfusion" }, "cooldown": 24 } ],
     "looks_like": "mon_zombie_succumbvampire",
     "death_drops": "succumbvampire",
-    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "death_function": [ "DISAPPEAR" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "POISON", "NO_BREATHE", "REVIVES", "CAN_OPEN_DOORS" ]
   }
 ]

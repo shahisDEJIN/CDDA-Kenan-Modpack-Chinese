@@ -16,7 +16,7 @@
             { "not": { "npc_has_trait": "vaseekernorewardcollab" } }
           ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence", "count": 15 }, { "u_spend_cash": -3000 } ]
+        "effect": [ { "u_buy_item": "arcanetoken" }, { "u_sell_item": "essence", "count": 15 }, { "u_buy_item": "FMCNote", "count": 23 } ]
       },
       {
         "text": "Yes! Here's your 7 essences!",
@@ -24,7 +24,7 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence", "count": 15 } }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence", "count": 15 } ]
+        "effect": [ { "u_buy_item": "arcanetoken" }, { "u_sell_item": "essence", "count": 15 } ]
       },
       {
         "text": "Yes! Here's your 7 essences!",
@@ -32,13 +32,13 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence", "count": 15 } }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ]
         },
-        "effect": [ { "u_sell_item": "essence", "count": 15 }, { "u_spend_cash": -20500 } ]
+        "effect": [ { "u_sell_item": "essence", "count": 15 }, { "u_buy_item": "FMCNote", "count": 155 } ]
       },
       {
         "text": "Yes! Here's your 7 essences!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_essence",
         "condition": { "and": [ { "u_has_items": { "item": "essence", "count": 15 } }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "essence", "count": 15 }, { "u_spend_cash": -9000 } ]
+        "effect": [ { "u_sell_item": "essence", "count": 15 }, { "u_buy_item": "FMCNote", "count": 68 } ]
       },
       {
         "text": "I got no more...",
@@ -73,7 +73,11 @@
             { "not": { "npc_has_trait": "vaseekernorewardcollab" } }
           ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence_blood", "count": 8 }, { "u_spend_cash": -5500 } ]
+        "effect": [
+          { "u_buy_item": "arcanetoken" },
+          { "u_sell_item": "essence_blood", "count": 8 },
+          { "u_buy_item": "FMCNote", "count": 42 }
+        ]
       },
       {
         "text": "Yes! Here's your 5 blood essences!",
@@ -81,7 +85,7 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence_blood", "count": 8 } }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence_blood", "count": 8 } ]
+        "effect": [ { "u_buy_item": "arcanetoken" }, { "u_sell_item": "essence_blood", "count": 8 } ]
       },
       {
         "text": "Yes! Here's your 5 blood essences!",
@@ -89,13 +93,13 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence_blood", "count": 8 } }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ]
         },
-        "effect": [ { "u_sell_item": "essence_blood", "count": 8 }, { "u_spend_cash": -26500 } ]
+        "effect": [ { "u_sell_item": "essence_blood", "count": 8 }, { "u_buy_item": "FMCNote", "count": 200 } ]
       },
       {
         "text": "Yes! Here's your 5 blood essences!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_bloodessence",
         "condition": { "and": [ { "u_has_items": { "item": "essence_blood", "count": 8 } }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "essence_blood", "count": 8 }, { "u_spend_cash": -9000 } ]
+        "effect": [ { "u_sell_item": "essence_blood", "count": 8 }, { "u_buy_item": "FMCNote", "count": 68 } ]
       },
       {
         "text": "I got no more...",
@@ -130,7 +134,11 @@
             { "not": { "npc_has_trait": "vaseekernorewardcollab" } }
           ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence_dull", "count": 22 }, { "u_spend_cash": -7500 } ]
+        "effect": [
+          { "u_buy_item": "arcanetoken" },
+          { "u_sell_item": "essence_dull", "count": 22 },
+          { "u_buy_item": "FMCNote", "count": 57 }
+        ]
       },
       {
         "text": "Yes! Here's your 15 dull essences!",
@@ -138,7 +146,7 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence_dull", "count": 22 } }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ]
         },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "essence_dull", "count": 22 } ]
+        "effect": [ { "u_buy_item": "arcanetoken" }, { "u_sell_item": "essence_dull", "count": 22 } ]
       },
       {
         "text": "Yes! Here's your 15 dull essences!",
@@ -146,13 +154,13 @@
         "condition": {
           "and": [ { "u_has_items": { "item": "essence_dull", "count": 22 } }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ]
         },
-        "effect": [ { "u_sell_item": "essence_dull", "count": 22 }, { "u_spend_cash": -30500 } ]
+        "effect": [ { "u_sell_item": "essence_dull", "count": 22 }, { "u_buy_item": "FMCNote", "count": 230 } ]
       },
       {
         "text": "Yes! Here's your 15 dull essences!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_dullessence",
         "condition": { "and": [ { "u_has_items": { "item": "essence_dull", "count": 22 } }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "essence_dull", "count": 22 }, { "u_spend_cash": -10500 } ]
+        "effect": [ { "u_sell_item": "essence_dull", "count": 22 }, { "u_buy_item": "FMCNote", "count": 80 } ]
       },
       {
         "text": "I got no more...",
@@ -188,13 +196,13 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "essence_pure" },
-          { "u_spend_cash": -10500 }
+          { "u_buy_item": "FMCNote", "count": 80 }
         ]
       },
       {
@@ -202,11 +210,11 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_pureessence",
         "condition": { "and": [ { "u_has_item": "essence_pure" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "essence_pure" }
         ]
       },
@@ -214,13 +222,13 @@
         "text": "Yes! Here's your one crystallized essence!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_pureessence",
         "condition": { "and": [ { "u_has_item": "essence_pure" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "essence_pure" }, { "u_spend_cash": -51500 } ]
+        "effect": [ { "u_sell_item": "essence_pure" }, { "u_buy_item": "FMCNote", "count": 390 } ]
       },
       {
         "text": "Yes! Here's your one crystallized essence!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_pureessence",
         "condition": { "and": [ { "u_has_item": "essence_pure" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "essence_pure" }, { "u_spend_cash": -19000 } ]
+        "effect": [ { "u_sell_item": "essence_pure" }, { "u_buy_item": "FMCNote", "count": 145 } ]
       },
       {
         "text": "I got no more...",
@@ -256,12 +264,12 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "vortex_shard" },
-          { "u_spend_cash": -3500 }
+          { "u_buy_item": "FMCNote", "count": 27 }
         ]
       },
       {
@@ -269,10 +277,10 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_windfrag",
         "condition": { "and": [ { "u_has_item": "vortex_shard" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "vortex_shard" }
         ]
       },
@@ -280,13 +288,13 @@
         "text": "Yes! Here's your one wind fragment!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_windfrag",
         "condition": { "and": [ { "u_has_item": "vortex_shard" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "vortex_shard" }, { "u_spend_cash": -31500 } ]
+        "effect": [ { "u_sell_item": "vortex_shard" }, { "u_buy_item": "FMCNote", "count": 240 } ]
       },
       {
         "text": "Yes! Here's your one wind fragment!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_windfrag",
         "condition": { "and": [ { "u_has_item": "vortex_shard" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "vortex_shard" }, { "u_spend_cash": -11000 } ]
+        "effect": [ { "u_sell_item": "vortex_shard" }, { "u_buy_item": "FMCNote", "count": 83 } ]
       },
       {
         "text": "I got no more...",
@@ -322,11 +330,11 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "blob_gem" },
-          { "u_spend_cash": -4500 }
+          { "u_buy_item": "FMCNote", "count": 34 }
         ]
       },
       {
@@ -334,9 +342,9 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_blobgem",
         "condition": { "and": [ { "u_has_item": "blob_gem" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "blob_gem" }
         ]
       },
@@ -344,13 +352,13 @@
         "text": "Yes! Here's your one amorphous amber!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_blobgem",
         "condition": { "and": [ { "u_has_item": "blob_gem" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "blob_gem" }, { "u_spend_cash": -24500 } ]
+        "effect": [ { "u_sell_item": "blob_gem" }, { "u_buy_item": "FMCNote", "count": 186 } ]
       },
       {
         "text": "Yes! Here's your one amorphous amber!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_blobgem",
         "condition": { "and": [ { "u_has_item": "blob_gem" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "blob_gem" }, { "u_spend_cash": -9500 } ]
+        "effect": [ { "u_sell_item": "blob_gem" }, { "u_buy_item": "FMCNote", "count": 72 } ]
       },
       {
         "text": "I got no more...",
@@ -386,13 +394,13 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "monster_tear" },
-          { "u_spend_cash": -5000 }
+          { "u_buy_item": "FMCNote", "count": 38 }
         ]
       },
       {
@@ -400,11 +408,11 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_monstertear",
         "condition": { "and": [ { "u_has_item": "monster_tear" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "monster_tear" }
         ]
       },
@@ -412,13 +420,13 @@
         "text": "Yes! Here's your one crystallized tear!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_monstertear",
         "condition": { "and": [ { "u_has_item": "monster_tear" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "monster_tear" }, { "u_spend_cash": -40000 } ]
+        "effect": [ { "u_sell_item": "monster_tear" }, { "u_buy_item": "FMCNote", "count": 300 } ]
       },
       {
         "text": "Yes! Here's your one crystallized tear!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_monstertear",
         "condition": { "and": [ { "u_has_item": "monster_tear" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "monster_tear" }, { "u_spend_cash": -11000 } ]
+        "effect": [ { "u_sell_item": "monster_tear" }, { "u_buy_item": "FMCNote", "count": 83 } ]
       },
       {
         "text": "I got no more...",
@@ -454,14 +462,14 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "shadow_gem" },
-          { "u_spend_cash": -7000 }
+          { "u_buy_item": "FMCNote", "count": 55 }
         ]
       },
       {
@@ -469,12 +477,12 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_shadowgem",
         "condition": { "and": [ { "u_has_item": "shadow_gem" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "shadow_gem" }
         ]
       },
@@ -482,13 +490,13 @@
         "text": "Yes! Here's your one shadow gem!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_shadowgem",
         "condition": { "and": [ { "u_has_item": "shadow_gem" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "shadow_gem" }, { "u_spend_cash": -45500 } ]
+        "effect": [ { "u_sell_item": "shadow_gem" }, { "u_buy_item": "FMCNote", "count": 345 } ]
       },
       {
         "text": "Yes! Here's your one shadow gem!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_shadowgem",
         "condition": { "and": [ { "u_has_item": "shadow_gem" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "shadow_gem" }, { "u_spend_cash": -13500 } ]
+        "effect": [ { "u_sell_item": "shadow_gem" }, { "u_buy_item": "FMCNote", "count": 102 } ]
       },
       {
         "text": "I got no more...",
@@ -524,11 +532,11 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "bone_twisted" },
-          { "u_spend_cash": -2500 }
+          { "u_buy_item": "FMCNote", "count": 20 }
         ]
       },
       {
@@ -536,9 +544,9 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_bonetwisted",
         "condition": { "and": [ { "u_has_item": "bone_twisted" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "bone_twisted" }
         ]
       },
@@ -546,13 +554,13 @@
         "text": "Yes! Here's your one twisted bone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_bonetwisted",
         "condition": { "and": [ { "u_has_item": "bone_twisted" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "bone_twisted" }, { "u_spend_cash": -19500 } ]
+        "effect": [ { "u_sell_item": "bone_twisted" }, { "u_buy_item": "FMCNote", "count": 147 } ]
       },
       {
         "text": "Yes! Here's your one twisted bone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_bonetwisted",
         "condition": { "and": [ { "u_has_item": "bone_twisted" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "bone_twisted" }, { "u_spend_cash": -8500 } ]
+        "effect": [ { "u_sell_item": "bone_twisted" }, { "u_buy_item": "FMCNote", "count": 65 } ]
       },
       {
         "text": "I got no more...",
@@ -588,11 +596,11 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "gracken_knuckles" },
-          { "u_spend_cash": -2000 }
+          { "u_buy_item": "FMCNote", "count": 15 }
         ]
       },
       {
@@ -600,9 +608,9 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_grackenknuckles",
         "condition": { "and": [ { "u_has_item": "gracken_knuckles" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "gracken_knuckles" }
         ]
       },
@@ -610,13 +618,13 @@
         "text": "Yes! Here's your one cracked knucklebone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_grackenknuckles",
         "condition": { "and": [ { "u_has_item": "gracken_knuckles" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "gracken_knuckles" }, { "u_spend_cash": -17000 } ]
+        "effect": [ { "u_sell_item": "gracken_knuckles" }, { "u_buy_item": "FMCNote", "count": 128 } ]
       },
       {
         "text": "Yes! Here's your one cracked knucklebone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_grackenknuckles",
         "condition": { "and": [ { "u_has_item": "gracken_knuckles" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "gracken_knuckles" }, { "u_spend_cash": -7000 } ]
+        "effect": [ { "u_sell_item": "gracken_knuckles" }, { "u_buy_item": "FMCNote", "count": 55 } ]
       },
       {
         "text": "I got no more...",
@@ -652,11 +660,11 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "wyrmskin_piece" },
-          { "u_spend_cash": -2000 }
+          { "u_buy_item": "FMCNote", "count": 15 }
         ]
       },
       {
@@ -664,9 +672,9 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_wyrmskinpiece",
         "condition": { "and": [ { "u_has_item": "wyrmskin_piece" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "wyrmskin_piece" }
         ]
       },
@@ -674,13 +682,13 @@
         "text": "Yes! Here's your one wyrmskin fragment!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_wyrmskinpiece",
         "condition": { "and": [ { "u_has_item": "wyrmskin_piece" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "wyrmskin_piece" }, { "u_spend_cash": -17000 } ]
+        "effect": [ { "u_sell_item": "wyrmskin_piece" }, { "u_buy_item": "FMCNote", "count": 128 } ]
       },
       {
         "text": "Yes! Here's your one wyrmskin fragment!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_wyrmskinpiece",
         "condition": { "and": [ { "u_has_item": "wyrmskin_piece" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "wyrmskin_piece" }, { "u_spend_cash": -7000 } ]
+        "effect": [ { "u_sell_item": "wyrmskin_piece" }, { "u_buy_item": "FMCNote", "count": 55 } ]
       },
       {
         "text": "I got no more...",
@@ -716,29 +724,29 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "monster_fang" },
-          { "u_spend_cash": -2500 }
+          { "u_buy_item": "FMCNote", "count": 20 }
         ]
       },
       {
         "text": "Yes! Here's your one monstrous fang!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_monsterfang",
         "condition": { "and": [ { "u_has_item": "monster_fang" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
-        "effect": [ { "u_spawn_item": "arcanetoken" }, { "u_spawn_item": "arcanetoken" }, { "u_sell_item": "monster_fang" } ]
+        "effect": [ { "u_buy_item": "arcanetoken" }, { "u_buy_item": "arcanetoken" }, { "u_sell_item": "monster_fang" } ]
       },
       {
         "text": "Yes! Here's your one monstrous fang!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_monsterfang",
         "condition": { "and": [ { "u_has_item": "monster_fang" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "monster_fang" }, { "u_spend_cash": -12000 } ]
+        "effect": [ { "u_sell_item": "monster_fang" }, { "u_buy_item": "FMCNote", "count": 90 } ]
       },
       {
         "text": "Yes! Here's your one monstrous fang!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_monsterfang",
         "condition": { "and": [ { "u_has_item": "monster_fang" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "monster_fang" }, { "u_spend_cash": -3000 } ]
+        "effect": [ { "u_sell_item": "monster_fang" }, { "u_buy_item": "FMCNote", "count": 23 } ]
       },
       {
         "text": "I got no more...",
@@ -774,12 +782,12 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "iridescent_plate" },
-          { "u_spend_cash": -3500 }
+          { "u_buy_item": "FMCNote", "count": 27 }
         ]
       },
       {
@@ -787,10 +795,10 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_iridescentplate",
         "condition": { "and": [ { "u_has_item": "iridescent_plate" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "iridescent_plate" }
         ]
       },
@@ -798,13 +806,13 @@
         "text": "Yes! Here's your one iridescent plate!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_iridescentplate",
         "condition": { "and": [ { "u_has_item": "iridescent_plate" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "iridescent_plate" }, { "u_spend_cash": -36500 } ]
+        "effect": [ { "u_sell_item": "iridescent_plate" }, { "u_buy_item": "FMCNote", "count": 280 } ]
       },
       {
         "text": "Yes! Here's your one iridescent plate!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_iridescentplate",
         "condition": { "and": [ { "u_has_item": "iridescent_plate" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "iridescent_plate" }, { "u_spend_cash": -5000 } ]
+        "effect": [ { "u_sell_item": "iridescent_plate" }, { "u_buy_item": "FMCNote", "count": 38 } ]
       },
       {
         "text": "I got no more...",
@@ -840,23 +848,23 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "engraved_stone" },
-          { "u_spend_cash": -9000 }
+          { "u_buy_item": "FMCNote", "count": 68 }
         ]
       },
       {
@@ -864,21 +872,21 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_engravedstone",
         "condition": { "and": [ { "u_has_item": "engraved_stone" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "engraved_stone" }
         ]
       },
@@ -886,13 +894,13 @@
         "text": "Yes! Here's your one engraved stone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_engravedstone",
         "condition": { "and": [ { "u_has_item": "engraved_stone" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "engraved_stone" }, { "u_spend_cash": -78500 } ]
+        "effect": [ { "u_sell_item": "engraved_stone" }, { "u_buy_item": "FMCNote", "count": 590 } ]
       },
       {
         "text": "Yes! Here's your one engraved stone!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_engravedstone",
         "condition": { "and": [ { "u_has_item": "engraved_stone" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "engraved_stone" }, { "u_spend_cash": -12000 } ]
+        "effect": [ { "u_sell_item": "engraved_stone" }, { "u_buy_item": "FMCNote", "count": 90 } ]
       },
       {
         "text": "I got no more...",
@@ -928,28 +936,28 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "draconic_heart" },
-          { "u_spend_cash": -11500 }
+          { "u_buy_item": "FMCNote", "count": 90 }
         ]
       },
       {
@@ -957,26 +965,26 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_draconicheart",
         "condition": { "and": [ { "u_has_item": "draconic_heart" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "draconic_heart" }
         ]
       },
@@ -984,13 +992,13 @@
         "text": "Yes! Here's your one petrified heart!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_draconicheart",
         "condition": { "and": [ { "u_has_item": "draconic_heart" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "draconic_heart" }, { "u_spend_cash": -88500 } ]
+        "effect": [ { "u_sell_item": "draconic_heart" }, { "u_buy_item": "FMCNote", "count": 670 } ]
       },
       {
         "text": "Yes! Here's your one petrified heart!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_draconicheart",
         "condition": { "and": [ { "u_has_item": "draconic_heart" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "draconic_heart" }, { "u_spend_cash": -19000 } ]
+        "effect": [ { "u_sell_item": "draconic_heart" }, { "u_buy_item": "FMCNote", "count": 144 } ]
       },
       {
         "text": "I got no more...",
@@ -1026,33 +1034,33 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "sun_sword" },
-          { "u_spend_cash": -12500 }
+          { "u_buy_item": "FMCNote", "count": 95 }
         ]
       },
       {
@@ -1060,31 +1068,31 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_sun_sword",
         "condition": { "and": [ { "u_has_item": "sun_sword" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "sun_sword" }
         ]
       },
@@ -1092,13 +1100,13 @@
         "text": "Yes! Here's your one incorruptible sword!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_sun_sword",
         "condition": { "and": [ { "u_has_item": "sun_sword" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "sun_sword" }, { "u_spend_cash": -96000 } ]
+        "effect": [ { "u_sell_item": "sun_sword" }, { "u_buy_item": "FMCNote", "count": 720 } ]
       },
       {
         "text": "Yes! Here's your one incorruptible sword!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_sun_sword",
         "condition": { "and": [ { "u_has_item": "sun_sword" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "sun_sword" }, { "u_spend_cash": -22000 } ]
+        "effect": [ { "u_sell_item": "sun_sword" }, { "u_buy_item": "FMCNote", "count": 165 } ]
       },
       {
         "text": "I got no more...",
@@ -1134,30 +1142,30 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "hexenhammer" },
-          { "u_spend_cash": -11000 }
+          { "u_buy_item": "FMCNote", "count": 83 }
         ]
       },
       {
@@ -1165,28 +1173,28 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_hexenhammer",
         "condition": { "and": [ { "u_has_item": "hexenhammer" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "hexenhammer" }
         ]
       },
@@ -1194,13 +1202,13 @@
         "text": "Yes! Here's your one hammer of the hunter!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_hexenhammer",
         "condition": { "and": [ { "u_has_item": "hexenhammer" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "hexenhammer" }, { "u_spend_cash": -90500 } ]
+        "effect": [ { "u_sell_item": "hexenhammer" }, { "u_buy_item": "FMCNote", "count": 680 } ]
       },
       {
         "text": "Yes! Here's your one hammer of the hunter!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_hexenhammer",
         "condition": { "and": [ { "u_has_item": "hexenhammer" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "hexenhammer" }, { "u_spend_cash": -19500 } ]
+        "effect": [ { "u_sell_item": "hexenhammer" }, { "u_buy_item": "FMCNote", "count": 147 } ]
       },
       {
         "text": "I got no more...",
@@ -1236,18 +1244,18 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "spear_pestilence" },
-          { "u_spend_cash": -7000 }
+          { "u_buy_item": "FMCNote", "count": 55 }
         ]
       },
       {
@@ -1255,16 +1263,16 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_spear_pestilence",
         "condition": { "and": [ { "u_has_item": "spear_pestilence" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "spear_pestilence" }
         ]
       },
@@ -1272,13 +1280,13 @@
         "text": "Yes! Here's your one spear of pestilence!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_spear_pestilence",
         "condition": { "and": [ { "u_has_item": "spear_pestilence" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "spear_pestilence" }, { "u_spend_cash": -67500 } ]
+        "effect": [ { "u_sell_item": "spear_pestilence" }, { "u_buy_item": "FMCNote", "count": 510 } ]
       },
       {
         "text": "Yes! Here's your one spear of pestilence!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_spear_pestilence",
         "condition": { "and": [ { "u_has_item": "spear_pestilence" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "spear_pestilence" }, { "u_spend_cash": -15500 } ]
+        "effect": [ { "u_sell_item": "spear_pestilence" }, { "u_buy_item": "FMCNote", "count": 117 } ]
       },
       {
         "text": "I got no more...",
@@ -1314,23 +1322,23 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "staff_druidic" },
-          { "u_spend_cash": -8000 }
+          { "u_buy_item": "FMCNote", "count": 60 }
         ]
       },
       {
@@ -1338,21 +1346,21 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_staff_druidic",
         "condition": { "and": [ { "u_has_item": "staff_druidic" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "staff_druidic" }
         ]
       },
@@ -1360,13 +1368,13 @@
         "text": "Yes! Here's your one druidic staff!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_staff_druidic",
         "condition": { "and": [ { "u_has_item": "staff_druidic" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "staff_druidic" }, { "u_spend_cash": -72000 } ]
+        "effect": [ { "u_sell_item": "staff_druidic" }, { "u_buy_item": "FMCNote", "count": 540 } ]
       },
       {
         "text": "Yes! Here's your one druidic staff!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_staff_druidic",
         "condition": { "and": [ { "u_has_item": "staff_druidic" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "staff_druidic" }, { "u_spend_cash": -13000 } ]
+        "effect": [ { "u_sell_item": "staff_druidic" }, { "u_buy_item": "FMCNote", "count": 102 } ]
       },
       {
         "text": "I got no more...",
@@ -1402,28 +1410,28 @@
           ]
         },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "stormbringer" },
-          { "u_spend_cash": -7500 }
+          { "u_buy_item": "FMCNote", "count": 60 }
         ]
       },
       {
@@ -1431,26 +1439,26 @@
         "topic": "VAMP_ASEEKER_questinquire_ihave_stormbringer",
         "condition": { "and": [ { "u_has_item": "stormbringer" }, { "npc_has_trait": "vaseekerrewardingcollabitems" } ] },
         "effect": [
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
-          { "u_spawn_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
+          { "u_buy_item": "arcanetoken" },
           { "u_sell_item": "stormbringer" }
         ]
       },
@@ -1458,13 +1466,13 @@
         "text": "Yes! Here's your one cursed blade!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_stormbringer",
         "condition": { "and": [ { "u_has_item": "stormbringer" }, { "npc_has_trait": "vaseekerrewardingcollabmoney" } ] },
-        "effect": [ { "u_sell_item": "stormbringer" }, { "u_spend_cash": -82500 } ]
+        "effect": [ { "u_sell_item": "stormbringer" }, { "u_buy_item": "FMCNote", "count": 620 } ]
       },
       {
         "text": "Yes! Here's your one cursed blade!",
         "topic": "VAMP_ASEEKER_questinquire_ihave_stormbringer",
         "condition": { "and": [ { "u_has_item": "stormbringer" }, { "npc_has_trait": "vaseekernorewardcollab" } ] },
-        "effect": [ { "u_sell_item": "stormbringer" }, { "u_spend_cash": -11000 } ]
+        "effect": [ { "u_sell_item": "stormbringer" }, { "u_buy_item": "FMCNote", "count": 83 } ]
       },
       {
         "text": "I got no more...",

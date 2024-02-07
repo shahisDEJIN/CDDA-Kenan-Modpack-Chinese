@@ -12,19 +12,14 @@
     "valid_mods": [ "secro_flesh_reinforced_coat" ],
     "looks_like": "ragpouch",
     "color": "pink",
-    "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "25 L",
-        "max_contains_weight": "30 kg",
-        "max_item_length": "40 cm",
-        "moves": 300
-      }
-    ],
+    "covers": [ "torso" ],
+    "coverage": 30,
+    "encumbrance": 2,
+    "max_encumbrance": 25,
+    "storage": "25 L",
     "warmth": 6,
-    "flags": [ "BELTED", "OVERSIZE" ],
     "material_thickness": 1,
-    "armor": [ { "encumbrance": [ 2, 25 ], "coverage": 30, "covers": [ "torso" ] } ]
+    "flags": [ "BELTED", "OVERSIZE" ]
   },
   {
     "id": "secro_flesh_rucksack",
@@ -38,44 +33,14 @@
     "valid_mods": [ "secro_flesh_reinforced_coat" ],
     "looks_like": "backpack",
     "color": "light_red",
-    "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "40 L",
-        "max_contains_weight": "60 kg",
-        "max_item_length": "55 cm",
-        "magazine_well": "8 L",
-        "moves": 300
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "5 L",
-        "max_contains_weight": "10 kg",
-        "max_item_length": "35 cm",
-        "magazine_well": "1 L",
-        "moves": 200
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "3 L",
-        "max_contains_weight": "3 kg",
-        "max_item_length": "30 cm",
-        "magazine_well": "800 ml",
-        "moves": 120
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "3 L",
-        "max_contains_weight": "3 kg",
-        "max_item_length": "30 cm",
-        "magazine_well": "800 ml",
-        "moves": 120
-      }
-    ],
+    "covers": [ "torso" ],
+    "coverage": 40,
+    "encumbrance": 10,
+    "max_encumbrance": 50,
+    "storage": "51 L",
     "warmth": 8,
-    "flags": [ "BELTED", "WATER_FRIENDLY" ],
     "material_thickness": 1,
-    "armor": [ { "encumbrance": [ 10, 50 ], "coverage": 40, "covers": [ "torso" ] } ]
+    "flags": [ "BELTED", "WATER_FRIENDLY" ]
   },
   {
     "id": "secro_flesh_bigback",
@@ -89,43 +54,13 @@
     "valid_mods": [ "secro_flesh_reinforced_coat" ],
     "looks_like": "rucksack",
     "color": "red",
-    "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "70 L",
-        "max_contains_weight": "70 kg",
-        "max_item_length": "75 cm",
-        "magazine_well": "10 L",
-        "moves": 300
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "5 L",
-        "max_contains_weight": "10 kg",
-        "max_item_length": "40 cm",
-        "magazine_well": "1 L",
-        "moves": 200
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "3 L",
-        "max_contains_weight": "3 kg",
-        "max_item_length": "30 cm",
-        "magazine_well": "800 ml",
-        "moves": 120
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "3 L",
-        "max_contains_weight": "3 kg",
-        "max_item_length": "30 cm",
-        "magazine_well": "800 ml",
-        "moves": 120
-      }
-    ],
+    "covers": [ "torso" ],
+    "coverage": 50,
+    "encumbrance": 16,
+    "max_encumbrance": 65,
+    "storage": "81 L",
     "warmth": 10,
-    "flags": [ "BELTED", "WATERPROOF", "ONLY_ONE", "OVERSIZE" ],
     "material_thickness": 1,
-    "armor": [ { "encumbrance": [ 16, 65 ], "coverage": 50, "covers": [ "torso" ] } ]
+    "flags": [ "BELTED", "WATERPROOF", "ONLY_ONE", "OVERSIZE" ]
   }
 ]

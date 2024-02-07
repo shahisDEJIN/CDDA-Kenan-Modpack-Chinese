@@ -9,9 +9,7 @@
         "topic": "TALK_MISSION_SUCCESS"
       },
       {
-        "condition": {
-          "and": [ { "u_has_items": { "item": "smallleechteeth", "count": 15 } }, { "u_has_mission": "VAMP_UNDERCOMMANDO_quest2" } ]
-        },
+        "condition": { "and": [ { "u_has_items": { "item": "smallleechteeth", "count": 15 } }, { "u_has_mission": "VAMP_UNDERCOMMANDO_quest2" } ] },
         "effect": [ "mission_success", { "u_consume_item": "smallleechteeth", "count": 15 } ],
         "text": "Here's your small leech teeth.",
         "topic": "TALK_MISSION_SUCCESS"
@@ -175,7 +173,7 @@
     "id": "TALK_VAMP_UNDERCOMMANDO_testsdone",
     "responses": [
       {
-        "effect": [ { "u_spawn_item": "blood_cring" }, { "u_add_trait": "commandovampmark" } ],
+        "effect": [ { "u_buy_item": "blood_cring" }, { "u_add_trait": "commandovampmark" } ],
         "text": "Yes. I'll do as you say and thank you for this ring.",
         "topic": "TALK_DONE"
       }

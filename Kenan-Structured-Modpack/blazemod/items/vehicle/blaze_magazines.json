@@ -10,9 +10,9 @@
     "material": [ "steel" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [ "BB" ],
+    "ammo_type": "BB",
     "capacity": 250,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "BB": 250 } } ],
+    "reliability": 6,
     "reload_time": 15
   },
   {
@@ -26,9 +26,9 @@
     "material": [ "steel" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [ "bolt" ],
+    "ammo_type": "bolt",
     "capacity": 60,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "bolt": 60 } } ],
+    "reliability": 6,
     "reload_time": 150
   },
   {
@@ -42,9 +42,9 @@
     "material": [ "steel" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [ "h_projectile" ],
+    "ammo_type": "h_projectile",
     "capacity": 8,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "h_projectile": 8 } } ],
+    "reliability": 6,
     "reload_time": 150
   },
   {
@@ -58,9 +58,9 @@
     "material": [ "steel" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [ "pebble" ],
+    "ammo_type": "pebble",
     "capacity": 250,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "pebble": 250 } } ],
+    "reliability": 6,
     "reload_time": 15
   }
 ]

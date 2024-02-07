@@ -23,22 +23,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 3, "armor_penetration": 6 } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cult",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_cultist_stab",
@@ -64,22 +55,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 3, "armor_penetration": 6 } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cult",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolcultist_stab",
@@ -105,22 +87,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 3, "armor_penetration": 6 } ],
     "dodge": 3,
-    "armor": { "bash": 1, "cut": 1, "bullet": 1 },
+    "armor_bash": 1,
+    "armor_cut": 1,
+    "armor_bullet": 1,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cultistpatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_1",
@@ -146,7 +119,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 5, "armor_penetration": 7 } ],
     "dodge": 3,
-    "armor": { "bash": 5, "cut": 5, "bullet": 5 },
+    "armor_bash": 5,
+    "armor_cut": 5,
+    "armor_bullet": 5,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Tendril",
     "special_attacks": [
       {
@@ -169,19 +145,7 @@
         "monster_message": "<color_light_red>%1$s sweeps it's bladed tendril at %3$s!\nThe tendril writhes wildly!</color>"
       }
     ],
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_cultist_cut",
@@ -207,22 +171,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 4, "armor_penetration": 6 } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cult",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolcultist_cut",
@@ -248,22 +203,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 4, "armor_penetration": 6 } ],
     "dodge": 3,
-    "armor": { "bash": 1, "cut": 1, "bullet": 1 },
+    "armor_bash": 1,
+    "armor_cut": 1,
+    "armor_bullet": 1,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cultistpatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_2",
@@ -289,7 +235,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 4, "armor_penetration": 7 } ],
     "dodge": 3,
-    "armor": { "bash": 5, "cut": 5, "bullet": 5 },
+    "armor_bash": 5,
+    "armor_cut": 5,
+    "armor_bullet": 5,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Worm",
     "special_attacks": [
       {
@@ -320,19 +269,7 @@
         "miss_msg_npc": "The %s devours <npcname>, but they dodge!"
       }
     ],
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_cultist_crossbow",
@@ -357,7 +294,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -374,19 +314,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Cult",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolcultist_crossbow",
@@ -411,7 +339,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 1, "cut": 1, "bullet": 1 },
+    "armor_bash": 1,
+    "armor_cut": 1,
+    "armor_bullet": 1,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -428,19 +359,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Cultistpatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_3",
@@ -466,7 +385,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 4, "armor_penetration": 7 } ],
     "dodge": 3,
-    "armor": { "bash": 5, "cut": 5, "bullet": 5 },
+    "armor_bash": 5,
+    "armor_cut": 5,
+    "armor_bullet": 5,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       { "type": "bite", "cooldown": 9, "damage_max_instance": [ { "damage_type": "stab", "armor_penetration": 10 } ] },
       {
@@ -491,19 +413,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Spiky",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_cultist_patrolleader",
@@ -529,22 +439,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 4, "armor_penetration": 6 } ],
     "dodge": 4,
-    "armor": { "bash": 5, "cut": 5, "bullet": 5 },
+    "armor_bash": 5,
+    "armor_cut": 5,
+    "armor_bullet": 5,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Cultistpatrollead",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_tsmilitary1_rifle",
@@ -570,7 +471,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 3, "armor_penetration": 8 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -586,6 +489,7 @@
         "ranges": [ [ 2, 14, "DEFAULT" ] ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",
@@ -625,7 +529,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "stab", "amount": 3, "armor_penetration": 8 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -641,6 +547,7 @@
         "ranges": [ [ 2, 14, "DEFAULT" ] ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",
@@ -680,7 +587,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "bash", "amount": 3, "armor_penetration": 8 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -702,6 +611,7 @@
         "monster_message": "<color_light_red>%1$s throws an energy grenade at %3$s!</color>"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",
@@ -741,22 +651,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 6, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_stab",
@@ -782,22 +683,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 6, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_stab",
@@ -823,22 +715,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 6, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 2, "cut": 2, "bullet": 2 },
+    "armor_bash": 2,
+    "armor_cut": 2,
+    "armor_bullet": 2,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_cut",
@@ -867,22 +750,13 @@
       { "damage_type": "cut", "amount": 5, "armor_penetration": 6 }
     ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_cut",
@@ -911,22 +785,13 @@
       { "damage_type": "cut", "amount": 5, "armor_penetration": 6 }
     ],
     "dodge": 3,
-    "armor": { "bash": 2, "cut": 2, "bullet": 2 },
+    "armor_bash": 2,
+    "armor_cut": 2,
+    "armor_bullet": 2,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_shockrod",
@@ -952,22 +817,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "bash", "amount": 1 }, { "damage_type": "electric", "amount": 5, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_shockrod",
@@ -993,22 +849,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "bash", "amount": 1 }, { "damage_type": "electric", "amount": 5, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 2, "cut": 2, "bullet": 2 },
+    "armor_bash": 2,
+    "armor_cut": 2,
+    "armor_bullet": 2,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_crossbow",
@@ -1033,7 +880,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 7, "cut": 7, "bullet": 7 },
+    "armor_bash": 7,
+    "armor_cut": 7,
+    "armor_bullet": 7,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1050,19 +900,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Military",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_crossbow",
@@ -1087,7 +925,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 2, "cut": 2, "bullet": 2 },
+    "armor_bash": 2,
+    "armor_cut": 2,
+    "armor_bullet": 2,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1104,19 +945,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_patrolleader",
@@ -1142,22 +971,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 6, "armor_penetration": 12 } ],
     "dodge": 4,
-    "armor": { "bash": 5, "cut": 5, "bullet": 5 },
+    "armor_bash": 5,
+    "armor_cut": 5,
+    "armor_bullet": 5,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Militarypatrollead",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_evo_1",
@@ -1183,7 +1003,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 8, "armor_penetration": 14 } ],
     "dodge": 3,
-    "armor": { "bash": 9, "cut": 9, "bullet": 9 },
+    "armor_bash": 9,
+    "armor_cut": 9,
+    "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Tendrilevo",
     "special_attacks": [
       {
@@ -1206,19 +1029,7 @@
         "monster_message": "<color_light_red>%1$s sweeps it's bladed tendril at %3$s!\nThe tendril writhes wildly!</color>"
       }
     ],
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_evo_2",
@@ -1244,7 +1055,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 7, "armor_penetration": 14 } ],
     "dodge": 3,
-    "armor": { "bash": 9, "cut": 9, "bullet": 9 },
+    "armor_bash": 9,
+    "armor_cut": 9,
+    "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Wormevo",
     "special_attacks": [
       {
@@ -1275,19 +1089,7 @@
         "miss_msg_npc": "The %s devours <npcname>, but they dodge!"
       }
     ],
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_mutant_evo_3",
@@ -1313,7 +1115,10 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "stab", "amount": 7, "armor_penetration": 14 } ],
     "dodge": 3,
-    "armor": { "bash": 9, "cut": 9, "bullet": 9 },
+    "armor_bash": 9,
+    "armor_cut": 9,
+    "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Spikyevo",
     "special_attacks": [
       { "type": "bite", "cooldown": 9, "damage_max_instance": [ { "damage_type": "stab", "armor_penetration": 23 } ] },
@@ -1338,19 +1143,7 @@
         "monster_message": "<color_light_red>%1$s vomits a stream of acid at %3$s!</color>"
       }
     ],
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_behemoth",
@@ -1376,22 +1169,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 8, "armor_penetration": 14 } ],
     "dodge": 3,
-    "armor": { "bash": 9, "cut": 9, "bullet": 9 },
+    "armor_bash": 9,
+    "armor_cut": 9,
+    "armor_bullet": 9,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Milbehemoth",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_behemoth",
@@ -1417,22 +1201,13 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 1 }, { "damage_type": "bash", "amount": 8, "armor_penetration": 14 } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
     "special_attacks": [ [ "PARROT", 11 ] ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_military_behemoth_minigun",
@@ -1457,7 +1232,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 9, "cut": 9, "bullet": 9 },
+    "armor_bash": 9,
+    "armor_cut": 9,
+    "armor_bullet": 9,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1474,19 +1252,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Milbehemoth",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_patrolmilitary_behemoth_minigun",
@@ -1511,7 +1277,10 @@
     "melee_dice_sides": 2,
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "dodge": 3,
-    "armor": { "bash": 4, "cut": 4, "bullet": 4 },
+    "armor_bash": 4,
+    "armor_cut": 4,
+    "armor_bullet": 4,
+    "death_function": [ "NORMAL" ],
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1528,19 +1297,7 @@
       }
     ],
     "death_drops": "BL9_Drops_Militarypatrolgrunt",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "SMELLS",
-      "WARM",
-      "BASHES",
-      "GROUP_BASH",
-      "POISON",
-      "NO_BREATHE",
-      "GRABS",
-      "PATH_AVOID_DANGER_1",
-      "PUSH_MON"
-    ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "GRABS", "PATH_AVOID_DANGER_1", "PUSH_MON" ]
   },
   {
     "id": "mon_BL9_tsmilitary2_rifle",
@@ -1566,7 +1323,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "cut", "amount": 5, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 10, "cut": 10, "bullet": 10 },
+    "armor_bash": 10,
+    "armor_cut": 10,
+    "armor_bullet": 10,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1582,6 +1341,7 @@
         "ranges": [ [ 2, 14, "DEFAULT" ] ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",
@@ -1621,7 +1381,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "stab", "amount": 5, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 10, "cut": 10, "bullet": 10 },
+    "armor_bash": 10,
+    "armor_cut": 10,
+    "armor_bullet": 10,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1637,6 +1399,7 @@
         "ranges": [ [ 2, 14, "DEFAULT" ] ]
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",
@@ -1676,7 +1439,9 @@
     "attack_effs": [ { "id": "BL9_bleed_immun", "duration": 15, "bp": "torso" } ],
     "melee_damage": [ { "damage_type": "bash", "amount": 5, "armor_penetration": 12 } ],
     "dodge": 3,
-    "armor": { "bash": 10, "cut": 10, "bullet": 10 },
+    "armor_bash": 10,
+    "armor_cut": 10,
+    "armor_bullet": 10,
     "special_attacks": [
       [ "PARROT", 11 ],
       {
@@ -1698,6 +1463,7 @@
         "monster_message": "<color_light_red>%1$s throws an energy grenade at %3$s!</color>"
       }
     ],
+    "death_function": [ "NORMAL" ],
     "death_drops": "BL9_Drops_Military",
     "flags": [
       "SEES",

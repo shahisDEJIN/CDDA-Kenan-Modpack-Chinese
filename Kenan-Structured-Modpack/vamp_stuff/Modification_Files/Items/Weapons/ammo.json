@@ -19,7 +19,7 @@
     "damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 5 },
     "recoil": 100,
     "loudness": 5,
-    "effects": [ "NO_DROP" ]
+    "flags": [ "NO_DROP" ]
   },
   {
     "id": "bloodypressure",
@@ -41,7 +41,7 @@
     "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 25 },
     "recoil": 450,
     "loudness": 10,
-    "effects": [ "NO_DROP" ]
+    "flags": [ "NO_DROP" ]
   },
   {
     "id": "bloodyinfect",
@@ -63,7 +63,7 @@
     "damage": { "damage_type": "stab", "amount": 10, "armor_penetration": 10 },
     "recoil": 625,
     "loudness": 30,
-    "effects": [ "NO_DROP" ]
+    "flags": [ "NO_DROP" ]
   },
   {
     "id": "bloodshot_00",
@@ -81,7 +81,7 @@
     "ammo_type": "bloodshot",
     "casing": "shot_hull",
     "range": 4,
-    "damage": { "damage_type": "stab", "amount": 65 },
+    "damage": { "damage_type": "bullet", "amount": 65 },
     "recoil": 2750,
     "loudness": 180,
     "effects": [ "COOKOFF", "SHOT" ]
@@ -102,7 +102,7 @@
     "ammo_type": "bloodshot",
     "casing": "shot_hull",
     "range": 4,
-    "damage": { "damage_type": "stab", "amount": 57 },
+    "damage": { "damage_type": "bullet", "amount": 57 },
     "recoil": 2650,
     "loudness": 180,
     "effects": [ "COOKOFF", "SHOT", "RECYCLED" ]

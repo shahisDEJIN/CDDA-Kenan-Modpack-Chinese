@@ -1,5 +1,5 @@
 [
-  {
+    {
     "id": "armguard_firechitin",
     "copy-from": "armguard_chitin",
     "type": "ARMOR",
@@ -7,9 +7,9 @@
     "description": "A pair of arm guards crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "material_thickness": 4
+    "relative": { "material_thickness": 1 }
   },
-  {
+   {
     "id": "armor_firechitin",
     "copy-from": "armor_chitin",
     "type": "ARMOR",
@@ -17,9 +17,7 @@
     "description": "Leg and body armor crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "material_thickness": 5,
-    "environmental_protection": 2,
-    "relative": { "melee_damage": { "bash": 1 } }
+    "relative": { "bashing": 1, "material_thickness": 1, "environmental_protection": 2 }
   },
   {
     "id": "gauntlets_firechitin",
@@ -29,19 +27,17 @@
     "description": "Gauntlets crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "material_thickness": 5,
-    "relative": { "melee_damage": { "bash": 1 } }
+    "relative": { "bashing": 1, "material_thickness": 1 }
   },
-  {
+   {
     "id": "helmet_firechitin",
     "copy-from": "helmet_chitin",
     "type": "ARMOR",
     "name": { "str": "fire chitin helmet" },
-    "description": "A helmet crafted from the carefully cleaned and pruned exoskeletons of fire ants.  Covers the entire head. fire-resistant and very durable.",
+    "description": "A helmet crafted from the carefully cleaned and pruned exoskeletons of fire ants.  Covers the entire head; fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "material_thickness": 5,
-    "relative": { "melee_damage": { "bash": 1 } }
+    "relative": { "bashing": 1, "material_thickness": 1 }
   },
   {
     "id": "boots_firechitin",
@@ -51,10 +47,9 @@
     "description": "Boots crafted from carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "material_thickness": 5,
-    "relative": { "melee_damage": { "bash": 2 } }
+    "relative": { "bashing": 2, "material_thickness": 1 }
   },
-  {
+{
     "id": "stinger_fire",
     "type": "TOOL",
     "category": "weapons",
@@ -64,22 +59,22 @@
     "volume": "500 ml",
     "price": "40 USD",
     "to_hit": -3,
-    "melee_damage": { "bash": 2, "stab": 16 },
+    "bashing": 2,
+    "cutting": 16,
     "material": [ "flesh" ],
     "symbol": "/",
     "color": "yellow",
     "gunmod_data": {
       "location": "underbarrel",
-      "install_time": "15 m",
-      "mod_targets": [ "shotgun", "rifle" ],
+      "mod_target_category": [ [ "RIFLES" ], [ "MACHINE_GUNS" ], [ "GATLING_GUNS" ], [ "SHOTGUNS" ] ],
       "dispersion_modifier": 10,
-      "mode_modifier": [ [ "REACH", "knife_combat", 2, [ "MELEE", "REACH_ATTACK" ] ] ]
+      "mode_modifier": [ [ "REACH", "bayonet", 2, [ "MELEE", "REACH_ATTACK" ] ] ]
     },
     "techniques": [ "PRECISE", "WBLOCK_1" ],
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", 5 ] ],
-    "flags": [ "NONCONDUCTIVE", "SHEATH_KNIFE", "NO_CVD" ]
+    "flags": [ "STAB", "NONCONDUCTIVE", "SHEATH_KNIFE", "NO_CVD" ]
   },
-  {
+{
     "id": "stinger_knife_fire",
     "type": "TOOL",
     "category": "weapons",
@@ -89,22 +84,22 @@
     "volume": "750 ml",
     "price": "80 USD",
     "to_hit": 2,
-    "melee_damage": { "bash": 2, "stab": 20 },
+    "bashing": 2,
+    "cutting": 20,
     "material": [ "flesh", "firechitin" ],
     "symbol": "/",
     "color": "yellow",
     "gunmod_data": {
       "location": "underbarrel",
-      "install_time": "15 m",
-      "mod_targets": [ "shotgun", "rifle" ],
+      "mod_target_category": [ [ "RIFLES" ], [ "MACHINE_GUNS" ], [ "GATLING_GUNS" ], [ "SHOTGUNS" ] ],
       "dispersion_modifier": 10,
-      "mode_modifier": [ [ "REACH", "knife_combat", 2, [ "MELEE", "REACH_ATTACK" ] ] ]
+      "mode_modifier": [ [ "REACH", "bayonet", 2, [ "MELEE", "REACH_ATTACK" ] ] ]
     },
     "techniques": [ "PRECISE", "WBLOCK_1", "RAPID" ],
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", 15 ] ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_KNIFE", "NO_CVD" ]
+    "flags": [ "STAB", "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_KNIFE", "NO_CVD" ]
   },
-  {
+{
     "id": "stinger_fire_spear",
     "type": "TOOL",
     "category": "weapons",
@@ -114,7 +109,8 @@
     "volume": "1750 ml",
     "price": "60 USD",
     "to_hit": 2,
-    "melee_damage": { "bash": 4, "stab": 16 },
+    "bashing": 4,
+    "cutting": 16,
     "material": [ "flesh", "wood" ],
     "symbol": "/",
     "color": "yellow",
@@ -122,7 +118,7 @@
     "qualities": [ [ "CUT", 1 ], [ "COOK", 1 ] ],
     "flags": [ "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "NO_CVD", "FRAGILE_MELEE" ]
   },
-  {
+{
     "id": "bot_flamebot",
     "looks_like": "mon_flamebot",
     "type": "TOOL",
@@ -132,7 +128,7 @@
     "volume": "65000 ml",
     "price": "800 USD",
     "to_hit": -3,
-    "melee_damage": { "bash": 8 },
+    "bashing": 8,
     "material": [ "steel" ],
     "symbol": ";",
     "color": "light_red",
@@ -147,7 +143,7 @@
       "skills": [ "electronics", "computer" ]
     }
   },
-  {
+{
     "id": "bot_flametank",
     "looks_like": "mon_flametank",
     "type": "TOOL",
@@ -157,7 +153,7 @@
     "volume": "655000 ml",
     "price": "800 USD",
     "to_hit": -3,
-    "melee_damage": { "bash": 8 },
+    "bashing": 8,
     "material": [ "steel" ],
     "symbol": ";",
     "color": "light_red",
@@ -172,7 +168,7 @@
       "skills": [ "electronics", "computer" ]
     }
   },
-  {
+{
     "id": "bot_minebot",
     "looks_like": "mon_minebot",
     "type": "TOOL",
@@ -182,7 +178,7 @@
     "volume": "65000 ml",
     "price": "800 USD",
     "to_hit": -3,
-    "melee_damage": { "bash": 8 },
+    "bashing": 8,
     "material": [ "steel" ],
     "symbol": ";",
     "color": "light_red",
@@ -197,7 +193,7 @@
       "skills": [ "electronics", "computer" ]
     }
   },
-  {
+{
     "id": "bot_fireminebot",
     "looks_like": "mon_fireminebot",
     "type": "TOOL",
@@ -207,7 +203,7 @@
     "volume": "65000 ml",
     "price": "800 USD",
     "to_hit": -3,
-    "melee_damage": { "bash": 8 },
+    "bashing": 8,
     "material": [ "steel" ],
     "symbol": ";",
     "color": "light_red",
@@ -222,4 +218,4 @@
       "skills": [ "electronics", "computer" ]
     }
   }
-]
+ ]

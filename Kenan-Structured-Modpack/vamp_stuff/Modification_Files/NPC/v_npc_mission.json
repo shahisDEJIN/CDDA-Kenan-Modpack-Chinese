@@ -49,7 +49,7 @@
   {
     "id": "VAMP_UNDERCOMMANDO_quest3",
     "type": "mission_definition",
-    "name": { "str": "Take the blood sac from the giant \"Thing\"" },
+    "name": { "str": "Take blood sac from the giant \"Thing\"" },
     "description": "Get the <color_light_red>blood sac</color> by slaying the <color_magenta>giant \"Thing\"</color>, then deliver it to the commando.\n<color_red>Going unprepared is a death trap!</color>.",
     "goal": "MGOAL_NULL",
     "difficulty": 10,
@@ -531,7 +531,7 @@
     "difficulty": 3,
     "value": 30000,
     "destination": "wo3",
-    "start": { "assign_mission_target": { "om_terrain": "wo3", "om_special":"Wasteland Outskirts", "reveal_radius": 2, "search_range": 80 }, "effect": [ "follow" ] },
+    "start": { "assign_mission_target": { "om_terrain": "wo3", "om_special": "Wasteland Outskirts", "reveal_radius": 2, "search_range": 80 }, "effect": [ "follow" ] },
     "end": { "effect": [ "leave", { "npc_change_faction": "wastelander" } ] },
     "origins": [ "ORIGIN_SECONDARY" ],
     "has_generic_rewards": false,

@@ -1,7 +1,6 @@
 [
   {
     "result": "sword_sip",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -22,7 +21,6 @@
   },
   {
     "result": "sword_sipplus",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -35,7 +33,6 @@
   },
   {
     "result": "invy_bow",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
@@ -56,13 +53,12 @@
   },
   {
     "result": "sword_dive",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
     "skill_used": "fabrication",
     "difficulty": 8,
-    "time": "53 m",
+    "time": "53 m 20 s",
     "book_learn": [ [ "vamp_book3", 10 ] ],
     "qualities": [ { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "anvil", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
@@ -70,7 +66,6 @@
   },
   {
     "result": "sword_diveplus",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -83,7 +78,6 @@
   },
   {
     "result": "hammerius",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -97,7 +91,6 @@
   },
   {
     "result": "hammeriusplus",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -110,7 +103,6 @@
   },
   {
     "result": "punchie_bitie",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_OTHER",
@@ -124,7 +116,6 @@
   },
   {
     "result": "punchie_bitieplus",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_OTHER",
@@ -137,13 +128,12 @@
   },
   {
     "result": "falc_crimsword",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
     "skill_used": "fabrication",
     "difficulty": 8,
-    "time": "53 m",
+    "time": "53 m 20 s",
     "book_learn": [ [ "vamp_book6", 10 ] ],
     "qualities": [ { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "anvil", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
@@ -151,7 +141,6 @@
   },
   {
     "result": "falc_crimswordplus",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_CUTTING",
@@ -164,7 +153,6 @@
   },
   {
     "result": "bloodextractor",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
@@ -184,7 +172,6 @@
   },
   {
     "result": "blood_forge_infuse",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
@@ -206,7 +193,6 @@
   },
   {
     "result": "melted_bloodrune",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -220,7 +206,6 @@
   },
   {
     "result": "bloodpowder",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -234,7 +219,6 @@
   },
   {
     "result": "bloodcompressor",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
@@ -256,7 +240,6 @@
   },
   {
     "result": "bloodchem",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
@@ -277,7 +260,6 @@
   },
   {
     "result": "compactsheet",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -290,7 +272,6 @@
   },
   {
     "result": "stickyblood",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -303,7 +284,6 @@
   },
   {
     "result": "bloodrune",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",

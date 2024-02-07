@@ -204,7 +204,6 @@
         "broadsword_plus_two",
         "estoc_plus_one",
         "estoc_plus_two",
-        "flamesword",
         "gram",
         "jian_plus_one",
         "jian_plus_two",
@@ -338,7 +337,6 @@
         "zweihander_plus_two",
         "nec_jogiri",
         "bio_lightsaber_fake",
-        "kawaii_death_scythe",
         "kawaii_rita_and_rosa",
         "kawaii_rita_and_rosa_off",
         "plutonium_sword_vo",
@@ -367,7 +365,7 @@
     "id": "style_mma_panzer",
     "name": { "str": "Panzer Kunst" },
     "copy-from": "style_mma_panzer",
-    "extend": { "weapons": [ "bio_sword_weapon", "unbio_bladed_weapon", "unbio_sword_weapon", "unbio_claws_weapon" ] }
+    "extend": { "weapons": [ "bio_blade_weapon", "fake_razor", "bio_claws_weapon" ] }
   },
   {
     "type": "martial_art",
@@ -432,7 +430,6 @@
         "cbma_mono_knife",
         "cbma_mono_sword",
         "dkz_rangermachete_salvaged",
-        "flamesword",
         "i_staff_plus_one",
         "i_staff_plus_two",
         "khopesh_plus_one",
@@ -618,7 +615,6 @@
         "zweihander_plus_two",
         "nec_jogiri",
         "nec_scissors",
-        "kawaii_death_scythe",
         "kawaii_shelia_off",
         "kawaii_rita_and_rosa_off",
         "jet_hammer_off",

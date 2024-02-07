@@ -8,7 +8,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -20,7 +19,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -32,7 +30,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -44,7 +41,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -56,7 +52,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -68,7 +63,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -80,7 +74,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -92,7 +85,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -104,7 +96,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -116,7 +107,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -128,7 +118,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -140,7 +129,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -152,7 +140,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -164,7 +151,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "eye_color" ]
   },
   {
@@ -176,7 +162,6 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -184,11 +169,10 @@
     "id": "SKIN_LIGHT_JP",
     "name": { "str": "Cute lightale skin" },
     "points": 0,
-    "description": "Your natural skin color is (or was) rather lightale.",
+    "description": "Your natural skin color is (or was) rather pale.",
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -196,11 +180,10 @@
     "id": "SKIN_MEDIUM_JP",
     "name": { "str": "Cute medium skin" },
     "points": 0,
-    "description": "Your natural skin color is (or was) rather medium.",
+    "description": "Your natural skin color is (or was) rather pale.",
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -208,11 +191,10 @@
     "id": "SKIN_TAN_JP",
     "name": { "str": "Cute tan skin" },
     "points": 0,
-    "description": "Your natural skin color is (or was) rather tan.",
+    "description": "Your natural skin color is (or was) rather pale.",
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -220,11 +202,10 @@
     "id": "SKIN_DARK_JP",
     "name": { "str": "Cute dark skin" },
     "points": 0,
-    "description": "Your natural skin color is (or was) rather dark.",
+    "description": "Your natural skin color is (or was) rather pale.",
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   },
   {
@@ -232,11 +213,10 @@
     "id": "SKIN_PINK_JP",
     "name": { "str": "Cute pink skin" },
     "points": 0,
-    "description": "Your natural skin color is (or was) rather pink.",
+    "description": "Your natural skin color is (or was) rather pale.",
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "vanity": true,
     "types": [ "skin_tone" ]
   }
 ]

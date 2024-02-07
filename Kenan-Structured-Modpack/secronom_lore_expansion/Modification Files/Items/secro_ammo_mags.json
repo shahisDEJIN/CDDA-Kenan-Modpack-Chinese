@@ -2,28 +2,29 @@
   {
     "type": "AMMO",
     "id": "secro_flesh",
-    "category": "fuel",
+    "category": "spare_parts",
     "price": "1 USD",
-    "price_postapoc": "1 USD",
+    "price_postapoc": "3 USD",
     "name": { "str": "flesh", "str_pl": "flesh" },
     "symbol": "=",
     "color": "red",
     "description": "A throbbing, seemingly alive slab of meat. Not edible for you to eat, but it is a necessary catalyst for flesh weaving and as a \"fuel\" for bio-organics.",
-    "material": [ "secro_flesh_fuel" ],
+    "material": [ "flesh" ],
     "phase": "solid",
     "//": "Base item is chunk of meat. Its volume/weight are divided by 25 as shown here: 500ml / 25 = 20ml, 592g / 25 = 24g",
     "volume": "20 ml",
     "weight": "24 g",
     "ammo_type": "secro_flesh",
     "count": 25,
-    "stack_size": 25
+    "stack_size": 25,
+    "fuel": { "energy": 25 }
   },
   {
     "type": "AMMO",
     "id": "secro_flesh_large",
     "category": "fuel",
-    "price": "1 USD",
-    "price_postapoc": "5 USD",
+    "price": "5 USD",
+    "price_postapoc": "50 USD",
     "name": { "str": "chunk of flesh", "str_pl": "chunk of flesh" },
     "symbol": "=",
     "color": "red",
@@ -34,7 +35,8 @@
     "weight": "15 g",
     "ammo_type": "secro_flesh_large",
     "count": 1,
-    "stack_size": 25
+    "stack_size": 25,
+    "fuel": { "energy": 35 }
   },
   {
     "type": "AMMO",
@@ -71,7 +73,6 @@
     "color": "light_red",
     "ammo_type": [ "secro_flesh" ],
     "capacity": 10,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "secro_flesh": 10 } } ],
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ]
   },
   {
@@ -89,7 +90,6 @@
     "color": "light_red",
     "ammo_type": [ "secro_flesh" ],
     "capacity": 100,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "secro_flesh": 100 } } ],
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ]
   },
   {
@@ -107,7 +107,6 @@
     "color": "light_red",
     "ammo_type": [ "secro_flesh" ],
     "capacity": 1000,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "secro_flesh": 1000 } } ],
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ]
   },
   {
@@ -123,24 +122,9 @@
     "material": [ "iron", "plastic" ],
     "symbol": "=",
     "color": "cyan",
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE_WELL",
-        "holster": true,
-        "rigid": true,
-        "max_contains_volume": "20 L",
-        "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "light_battery_cell",
-          "light_plus_battery_cell",
-          "light_minus_battery_cell",
-          "light_atomic_battery_cell",
-          "light_minus_atomic_battery_cell",
-          "light_minus_disposable_cell",
-          "light_disposable_cell"
-        ]
-      }
-    ],
+    "ammo": [ "battery" ],
+    "initial_charges": 1000,
+    "max_charges": 2000,
     "looks_like": "battery",
     "flags": [ "USE_UPS", "NO_SALVAGE", "NO_UNLOAD" ]
   },
@@ -160,8 +144,7 @@
     "ammo_type": [ "battery" ],
     "capacity": 1000,
     "looks_like": "battery",
-    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "RECHARGE" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 1000 } } ]
+    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "RECHARGE" ]
   },
   {
     "id": "secro_fleshmech_battery",
@@ -178,7 +161,6 @@
     "count": 40000,
     "capacity": 40000,
     "looks_like": "battery",
-    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "MECH_BAT" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 40000 } } ]
+    "flags": [ "NO_SALVAGE", "NO_UNLOAD", "MECH_BAT" ]
   }
 ]

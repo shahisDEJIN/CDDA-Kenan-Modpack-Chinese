@@ -1,0 +1,29 @@
+[
+  {
+    "id": "folding_stock_wood",
+    "type": "GUNMOD",
+    "name": { "str": "folding wooden stock" },
+    "description": "A folding wooden stock which reduces volume but needs unfolding before use.  Increases the time needed to wield the weapon. Used with old paratrooper rifles",
+    "weight": "200 g",
+    "volume": "500 ml",
+    "integral_volume": "0 ml",
+    "integral_weight": "0 g",
+    "price": "420 USD",
+    "price_postapoc": "2 USD",
+    "material": [ "wood", "steel" ],
+    "symbol": ":",
+    "color": "dark_gray",
+    "location": "stock",
+    "mod_target_category": [
+      [ "SUBMACHINE_GUNS" ],
+      [ "RIFLES" ],
+      [ "MACHINE_GUNS" ],
+      [ "GATLING_GUNS" ],
+      [ "SHOTGUNS" ],
+      [ "GRENADE_LAUNCHERS" ],
+      [ "ROCKET_LAUNCHERS" ]
+    ],
+    "min_skills": [ [ "weapon", 3 ] ],
+    "flags": [ "NEEDS_UNFOLD", "COLLAPSIBLE_STOCK" ]
+  }
+]

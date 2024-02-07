@@ -24,7 +24,7 @@
     "vision_night": 30,
     "harvest": "exempt",
     "emit_fields": [ "emit_v_desolate" ],
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [
       "SEES",
       "HEARS",
@@ -62,8 +62,8 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 2,
-    "armor": { "bash": 20 },
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "armor_bash": 20,
+    "death_function": [ "MELT" ],
     "regenerates": 5,
     "flags": [
       "SEES",
@@ -101,7 +101,10 @@
     "melee_dice": 0,
     "melee_dice_sides": 0,
     "dodge": 8,
-    "armor": { "cut": 999, "stab": 999, "bash": 999 },
+    "armor_cut": 999,
+    "armor_bullet": 999,
+    "armor_stab": 999,
+    "armor_bash": 999,
     "vision_day": 18,
     "vision_night": 18,
     "luminance": 5,
@@ -115,7 +118,7 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   },
   {
@@ -139,7 +142,10 @@
     "melee_dice": 0,
     "melee_dice_sides": 0,
     "dodge": 5,
-    "armor": { "cut": 999, "stab": 999, "bash": 999 },
+    "armor_cut": 999,
+    "armor_bullet": 999,
+    "armor_stab": 999,
+    "armor_bash": 999,
     "vision_day": 30,
     "vision_night": 30,
     "luminance": 20,
@@ -153,7 +159,7 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   },
   {
@@ -176,7 +182,10 @@
     "melee_dice": 0,
     "melee_dice_sides": 0,
     "dodge": 2,
-    "armor": { "cut": 999, "stab": 999, "bash": 999 },
+    "armor_cut": 999,
+    "armor_bullet": 999,
+    "armor_stab": 999,
+    "armor_bash": 999,
     "vision_day": 10,
     "vision_night": 10,
     "luminance": 2,
@@ -190,7 +199,7 @@
       }
     ],
     "harvest": "exempt",
-    "death_function": { "corpse_type": "NO_CORPSE", "message": "The %s melts away." },
+    "death_function": [ "MELT" ],
     "flags": [ "SEES", "HEARS", "GOODHEARING", "SMELLS", "HARDTOSHOOT", "WEBWALK", "FLIES", "NO_BREATHE", "NOGIB" ]
   }
 ]

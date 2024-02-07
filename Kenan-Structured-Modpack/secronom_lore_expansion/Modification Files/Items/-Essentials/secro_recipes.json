@@ -2,13 +2,12 @@
   {
     "//": "We're basically combining meat with slime.",
     "result": "secro_flesh",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_OTHER",
-    "skill_used": "chemistry",
+    "skill_used": "cooking",
     "difficulty": 1,
-    "skills_required": [ "chemistry", 1 ],
+    "skills_required": [ "cooking", 1 ],
     "time": "15 s",
     "book_learn": [ [ "secro_recipe_flesh", 6 ], [ "secro_recipe_flesh_field", 1 ] ],
     "components": [
@@ -17,7 +16,6 @@
         [ "mutant_meat", 1 ],
         [ "human_flesh", 1 ],
         [ "mutant_human_flesh", 1 ],
-        [ "demihuman_flesh", 1 ],
         [ "meat_tainted", 4 ]
       ]
     ],
@@ -25,13 +23,12 @@
   },
   {
     "result": "secro_flesh_large",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_OTHER",
-    "skill_used": "chemistry",
+    "skill_used": "cooking",
     "difficulty": 1,
-    "skills_required": [ "chemistry", 1 ],
+    "skills_required": [ "cooking", 1 ],
     "time": "1 m",
     "book_learn": [ [ "secro_recipe_flesh", 6 ], [ "secro_recipe_flesh_field", 1 ] ],
     "components": [ [ [ "secro_flesh", 5 ] ] ],

@@ -1,0 +1,399 @@
+[
+
+  {
+    "type": "mutation_category",
+    "id": "KITSUNE",
+    "name": "kitsune",
+    "threshold_mut": "THRESH_KITSUNE",
+    "mutagen_message": "You feel an urge to mark your territory.  But then it passes.",
+    "iv_message": "As the mutagen hits you, your ears twitch and you stifle a yipe.",
+    "memorial_message": "Got outfoxed."
+  },
+
+
+
+  {
+    "type": "mutation",
+    "id": "THRESH_KITSUNE",
+    "name": { "str": "Trickster" },
+    "points": 1,
+    "description": "The world may be over, but you've still got mischief to make!",
+    "valid": false,
+    "purifiable": false,
+    "threshold": true
+  },
+  
+  
+  
+    {
+    "type": "mutation",
+    "id": "PRETTY",
+    "copy-from": "PRETTY",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  {
+    "type": "mutation",
+    "id": "FOXY",
+    "name": { "str": "Foxy" },
+    "points": 2,
+    "visibility": 4,
+    "ugliness": -8,
+	"category": [ "KITSUNE" ],
+	"threshreq": [ "THRESH_KITSUNE" ],
+    "description": "You perfectly balance out sex appeal and cuteness. People will generally react to you better.",
+    "cancels": [ "UGLY", "DEFORMED", "DEFORMED2", "DEFORMED3" ],
+    "prereqs": [ "PRETTY" ]
+  },
+  
+    {
+    "type": "mutation",
+    "id": "QUICK",
+    "copy-from": "QUICK",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  
+    {
+    "type": "mutation",
+    "id": "FLEET",
+    "copy-from": "FLEET",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "LIGHTSTEP",
+    "copy-from": "LIGHTSTEP",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "FLIMSY",
+    "copy-from": "FLIMSY",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  
+    {
+    "type": "mutation",
+    "id": "SMELLY",
+    "copy-from": "SMELLY",
+    "extend": { "category": [ "KITSUNE" ], "changes_to": [ "SMELLY_FOXMUSK" ] }
+  },
+  
+  
+    {
+    "type": "mutation",
+    "id": "SMELLY_FOXMUSK",
+    "name": { "str": "Fox Musk" },
+    "points": -4,
+    "description": "You have an exceptionally strong odor that makex you incredibly easy to track.",
+    "starting_trait": false,
+    "types": [ "SCENT" ],
+    "scent_intensity": 3200,
+		"threshreq": [ "THRESH_KITSUNE" ],
+    "category": [ "KITSUNE" ]
+  },
+  
+  
+    {
+    "type": "mutation",
+    "id": "NIGHTVISION",
+    "copy-from": "NIGHTVISION",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "NIGHTVISION2",
+    "copy-from": "NIGHTVISION2",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  {
+    "type": "mutation",
+    "id": "NIGHTVISION3",
+    "copy-from": "NIGHTVISION3",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "MEATARIAN",
+    "copy-from": "MEATARIAN",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  
+    {
+    "type": "mutation",
+    "id": "SPIRITUAL",
+    "copy-from": "SPIRITUAL",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "PYROMANIA",
+    "copy-from": "PYROMANIA",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "GOODCARDIO",
+    "copy-from": "GOODCARDIO",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "GOODCARDIO2",
+    "copy-from": "GOODCARDIO2",
+    "extend": { "category": [ "KITSUNE" ], "threshreq": [ "THRESH_KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "PER_UP",
+    "copy-from": "PER_UP",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  {
+    "type": "mutation",
+    "id": "PER_UP_2",
+    "copy-from": "PER_UP_2",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+
+
+  {
+    "type": "mutation",
+    "id": "INT_UP",
+    "copy-from": "INT_UP",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  {
+    "type": "mutation",
+    "id": "KITSUNE_SMARTS",
+    "name": { "str": "Prankster" },
+    "points": 8,
+    "description": "You can out-fox anyone on the block!  +8 Intelligence",
+    "prereqs": [ "INT_UP" ],
+    "changes_to": [ "INT_UP_3" ],
+    "threshreq": [ "THRESH_KITSUNE" ],
+    "category": [ "KITSUNE" ],
+    "passive_mods": { "int_mod": 8 }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "DEX_UP",
+    "copy-from": "DEX_UP",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  {
+    "type": "mutation",
+    "id": "DEX_UP_2",
+    "copy-from": "DEX_UP_2",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "KITSUNE_WEAK",
+    "name": { "str": "Minor atrophy" },
+    "points": 1,
+    "description": "Your muscles are a little weaker from lack of use. But who needs strength, right?  Strength - 2",
+	"threshreq": [ "THRESH_KITSUNE" ],
+	"category": [ "KITSUNE" ],
+    "passive_mods": { "str_mod": -2 }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "TAIL_FLUFFY",
+    "copy-from": "TAIL_FLUFFY",
+    "extend": { "category": [ "KITSUNE" ], "changes_to": [ "TAIL_TWIN" ] }
+  },
+  
+      {
+    "type": "mutation",
+    "id": "TAIL_TWIN",
+    "name": { "str": "Twin Tails" },
+    "points": 1,
+    "visibility": 7,
+    "description": "Your fluffy tail has split into two! You can dodge even better, and you feel something special about the world around you.",
+    "types": [ "TAIL" ],
+    "prereqs": [ "TAIL_FLUFFY" ],
+		    "changes_to": [ "TAIL_TRI" ],
+    "category": [ "KITSUNE" ],
+    "restricts_gear": [ "leg_l", "leg_r" ],
+    "allow_soft_gear": true,
+    "social_modifiers": {  "persuade": 10 },
+    "dodge_modifier": 8,
+    "mana_modifier": 1000
+  },
+  
+  {
+    "type": "mutation",
+    "id": "TAIL_TRI",
+    "name": { "str": "Three Tails" },
+    "points": 1,
+    "visibility": 7,
+    "description": "Your fluffy tail has split further into three!  Magical potential is further increased, but dodge hasnt increased any further.",
+    "types": [ "TAIL" ],
+    "prereqs": [ "TAIL_TWIN" ],
+	"changes_to": [ "TAIL_QUAD" ],
+    "category": [ "KITSUNE" ],
+    "restricts_gear": [ "leg_l", "leg_r" ],
+    "allow_soft_gear": true,
+    "social_modifiers": {  "persuade": 10 },
+    "dodge_modifier": 8,
+    "mana_modifier": 1000,
+    "mana_regen_multiplier": 1.1
+  },
+  
+  
+  {
+    "type": "mutation",
+    "id": "TAIL_QUAD",
+    "name": { "str": "Four Tails" },
+    "points": 1,
+    "visibility": 7,
+    "description": "Your tails have split once more into four! Youre approaching enlightenment, you know it!",
+    "types": [ "TAIL" ],
+    "prereqs": [ "TAIL_TRI" ],
+    "changes_to": [ "TAIL_PENT" ],
+    "category": [ "KITSUNE" ],
+    "restricts_gear": [ "leg_l", "leg_r" ],
+    "threshreq": [ "THRESH_KITSUNE" ],
+    "allow_soft_gear": true,
+    "social_modifiers": {  "persuade": 10 },
+    "dodge_modifier": 4,
+    "mana_modifier": 1000,
+    "mana_regen_multiplier": 1.1,
+    "mana_multiplier": 1.25
+  },
+  
+    {
+    "type": "mutation",
+    "id": "TAIL_PENT",
+    "name": { "str": "Five Tails" },
+    "points": 1,
+    "visibility": 7,
+    "description": "Your tails have split once more into five! Your old dodge modifier is gone, but your magic is further powering up",
+    "types": [ "TAIL" ],
+    "prereqs": [ "TAIL_QUAD" ],
+		"changes_to": [ "TAIL_SEX" ],
+    "category": [ "KITSUNE" ],
+    "restricts_gear": [ "leg_l", "leg_r" ],
+    "threshreq": [ "THRESH_KITSUNE" ],
+    "allow_soft_gear": true,
+    "social_modifiers": {  "persuade": 10 },
+    "mana_modifier": 1500,
+    "mana_regen_multiplier": 1.3,
+    "mana_multiplier": 1.5
+  },
+
+    {
+    "type": "mutation",
+    "id": "TAIL_SEX",
+    "name": { "str": "Six Tails" },
+    "points": 1,
+    "visibility": 7,
+    "description": "You have six silky, fluffy tails on your behind. Their ability as a focus for magic has further increased. Getting any further tails is bound to be a challenge, though.",
+    "types": [ "TAIL" ],
+    "prereqs": [ "TAIL_PENT" ],
+    "category": [ "KITSUNE" ],
+    "restricts_gear": [ "leg_l", "leg_r" ],
+    "threshreq": [ "THRESH_KITSUNE" ],
+    "allow_soft_gear": true,
+    "social_modifiers": {  "persuade": 10 },
+    "mana_modifier": 2000,
+    "mana_regen_multiplier": 1.5,
+    "mana_multiplier": 1.5
+  },
+
+  {
+    "type": "mutation",
+    "id": "PAWS",
+    "copy-from": "PAWS",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+  {
+    "type": "mutation",
+    "id": "SNOUT",
+    "copy-from": "SNOUT",
+    "extend": { "category": [ "KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "VULPINE_EARS",
+    "name": { "str": "Fluffy Ears" },
+    "points": 1,
+    "visibility": 4,
+    "ugliness": -2,
+    "description": "You have adorable little fox ears atop your head. You can hear better, and people will react to your looks more favorably. Maybe you'll even get headpats!",
+    "types": [ "EARS" ],
+    "category": [ "KITSUNE" ],
+    "hearing_modifier": 1.75
+  },
+
+  {
+    "type": "mutation",
+    "id": "PRED2",
+    "copy-from": "PRED2",
+    "extend": { "category": [ "KITSUNE" ], "threshreq": [ "THRESH_KITSUNE" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "WAKEFUL2",
+    "copy-from": "WAKEFUL2",
+    "extend": { "category": [ "KITSUNE" ], "threshreq": [ "THRESH_KITSUNE" ] }
+  },
+  
+  {
+    "type": "mutation",
+    "id": "FOXSLEEP",
+    "name": { "str": "Kitsune energy" },
+    "points": 5,
+    "description": "You require very little sleep. After all, if you sleep, you might miss something funny!",
+    "valid": false,
+    "purifiable": false,
+    "types": [ "SLEEP" ],
+    "prereqs": [ "WAKEFUL2" ],
+    "threshreq": [ "THRESH_KITSUNE" ],
+    "category": [ "KITSUNE" ],
+    "fatigue_modifier": -0.5,
+    "fatigue_regen_modifier": 0.5
+  },
+
+
+  {
+    "type": "mutation",
+    "id": "FUR",
+    "copy-from": "FUR",
+    "extend": { "category": [ "KITSUNE" ], "changes_to": [ "FUR_FOX" ] }
+  },
+  
+    {
+    "type": "mutation",
+    "id": "FUR_FOX",
+    "name": { "str": "Furry" },
+    "points": 2,
+    "visibility": 10,
+    "bodytemp_modifiers": [ 1000, 1750 ],
+    "bodytemp_sleep": 750,
+    "description": "You're covered in incredibly soft red fur. You're warmer, and mildly protected from attacks, even when nude.",
+    "types": [ "SKIN" ],
+    "prereqs": [ "FUR" ],
+    "category": [ "KITSUNE" ],
+    "armor": [ { "parts": "ALL", "bash": 1 } ]
+  }
+]

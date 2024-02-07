@@ -1,7 +1,7 @@
 [
   {
     "id": "v_hemo_whip",
-    "type": "ARMOR",
+    "type": "GENERIC",
     "symbol": "/",
     "color": "light_red",
     "name": { "str": "leech's whip" },
@@ -10,20 +10,29 @@
     "volume": "1500 ml",
     "material": [ "flesh" ],
     "techniques": [ "PRECISE", "RAPID", "WBLOCK_2" ],
-    "flags": [ "REACH_ATTACK", "REACH3", "WHIP", "TRADER_AVOID", "UNBREAKABLE_MELEE", "MAGIC_FOCUS" ],
-    "armor": [ { "encumbrance": 5, "coverage": 100, "covers": [ "hand_r" ] } ],
+    "flags": [ "REACH_ATTACK", "REACH3", "WHIP", "TRADER_AVOID", "UNARMED_WEAPON", "UNBREAKABLE_MELEE", "MAGIC_FOCUS" ],
     "relic_data": {
       "passive_effects": [
         {
-          "has": "WORN",
+          "has": "WIELD",
           "condition": "ALWAYS",
           "hit_you_effect": [ { "id": "v_hemo_whip_spell_ss_maybe" } ],
           "hit_me_effect": [ { "id": "v_hemo_whip_spell_d_maybe" } ],
-          "values": [ { "value": "STRENGTH", "add": 1 }, { "value": "SPEED", "add": 5 }, { "value": "MAX_HP", "add": 10 } ]
+          "values": [
+            { "value": "STRENGTH", "add": 1 },
+            { "value": "SPEED", "add": 5 },
+            { "value": "ARMOR_BASH", "add": -10 },
+            { "value": "ARMOR_CUT", "add": -10 },
+            { "value": "ARMOR_STAB", "add": -10 },
+            { "value": "ARMOR_BULLET", "add": -10 },
+            { "value": "ARMOR_HEAT", "add": -10 },
+            { "value": "ARMOR_COLD", "add": -10 },
+            { "value": "ARMOR_ACID", "add": -10 }
+          ]
         }
       ]
     },
-    "melee_damage": { "cut": 22 },
+    "cutting": 22,
     "category": "weapons"
   },
   {
@@ -35,6 +44,7 @@
     "volume": "3 ml",
     "price": "0 cent",
     "material": [ "flesh" ],
+    "coverage": 100,
     "symbol": "0",
     "color": "red",
     "relic_data": {
@@ -43,12 +53,17 @@
           "has": "WORN",
           "condition": "ALWAYS",
           "hit_me_effect": [ { "id": "v_hemo_crimsoncoat_coat_pr_maybe" } ],
-          "values": [ { "value": "ARMOR_BASH", "add": -70 }, { "value": "ARMOR_CUT", "add": -70 }, { "value": "ARMOR_STAB", "add": -70 } ]
+          "values": [
+            { "value": "ARMOR_BASH", "add": -70 },
+            { "value": "ARMOR_CUT", "add": -70 },
+            { "value": "ARMOR_STAB", "add": -70 },
+            { "value": "ARMOR_BULLET", "add": -70 }
+          ]
         }
       ]
     },
-    "flags": [ "PERSONAL", "OVERSIZE", "BLOCK_WHILE_WORN", "SEMITANGIBLE", "NO_DROP" ],
-    "armor": [ { "coverage": 100, "covers": [ "head", "torso", "arm_r", "arm_l", "leg_r", "leg_l" ], "material": [ "flesh" ] } ]
+    "covers": [ "head", "torso", "arm_r", "arm_l", "leg_r", "leg_l" ],
+    "flags": [ "PERSONAL", "OVERSIZE", "BLOCK_WHILE_WORN", "SEMITANGIBLE", "NO_DROP" ]
   },
   {
     "id": "v_hemo_form_orus",
@@ -67,7 +82,16 @@
           "has": "HELD",
           "condition": "ALWAYS",
           "hit_me_effect": [ { "id": "v_hemo_crimsoncoat_coat_pr_maybe" } ],
-          "values": [ { "value": "MAX_HP", "add": 50 }, { "value": "SPEED", "add": -15 } ],
+          "values": [
+            { "value": "ARMOR_BASH", "multiply": -0.5 },
+            { "value": "ARMOR_CUT", "multiply": -0.5 },
+            { "value": "ARMOR_STAB", "multiply": -0.5 },
+            { "value": "ARMOR_BULLET", "multiply": -0.5 },
+            { "value": "ARMOR_HEAT", "multiply": -0.5 },
+            { "value": "ARMOR_COLD", "multiply": -0.5 },
+            { "value": "ARMOR_ACID", "multiply": -0.5 },
+            { "value": "SPEED", "add": -15 }
+          ],
           "intermittent_activation": { "effects": [ { "frequency": "30 seconds", "spell_effects": [ { "id": "v_hemo_orusform_bloodling" } ] } ] }
         }
       ]
@@ -84,6 +108,7 @@
     "volume": "3 ml",
     "price": "0 cent",
     "material": [ "ethereal" ],
+    "coverage": 0,
     "symbol": "0",
     "color": "red",
     "relic_data": {
@@ -96,12 +121,12 @@
             { "value": "ITEM_DAMAGE_CUT", "add": 6 },
             { "value": "ITEM_DAMAGE_STAB", "add": 7 },
             { "value": "ITEM_DAMAGE_BASH", "add": 8 },
-            { "value": "ATTACK_SPEED", "add": 15 }
+            { "value": "ATTACK_COST", "add": -15 }
           ]
         }
       ]
     },
-    "flags": [ "AURA", "ONLY_ONE", "SEMITANGIBLE", "NO_DROP" ],
-    "armor": [ { "coverage": 0, "covers": [ "arm_r", "arm_l" ], "material": [ "ethereal" ] } ]
+    "covers": [ "arm_r", "arm_l" ],
+    "flags": [ "AURA", "ONLY_ONE", "SEMITANGIBLE", "NO_DROP" ]
   }
 ]
