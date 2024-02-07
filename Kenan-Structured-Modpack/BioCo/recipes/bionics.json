@@ -77,7 +77,7 @@
   },
   {
     "type": "recipe",
-    "result": "bio_infolink",
+    "result": "bio_watch",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_CBMS",
     "skill_used": "electronics",

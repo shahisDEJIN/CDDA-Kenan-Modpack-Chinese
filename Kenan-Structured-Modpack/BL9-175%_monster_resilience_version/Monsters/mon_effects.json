@@ -59,6 +59,7 @@
       "brainworms",
       "tapeworm",
       "bleed",
+      "hypovolemia",
       "blind",
       "poison",
       "stung",
@@ -100,8 +101,8 @@
   {
     "type": "effect_type",
     "id": "BL9_bleed_immun",
-    "removes_effects": [ "bleed" ],
-    "blocks_effects": [ "bleed" ],
+    "removes_effects": [ "bleed", "hypovolemia" ],
+    "blocks_effects": [ "bleed", "hypovolemia" ],
     "name": [ "Bleeding Immunity" ],
     "max_intensity": 1,
     "max_duration": 17400

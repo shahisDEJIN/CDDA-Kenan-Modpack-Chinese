@@ -202,7 +202,8 @@
 		"main_parts_only": true,
 		"max_duration": "5 minutes",
 		"removes_effects": [
-			"bleed"
+			"bleed",
+			"hypovolemia"
 		],
 		"base_mods": {
 		  "str_mod": [ 1 ],

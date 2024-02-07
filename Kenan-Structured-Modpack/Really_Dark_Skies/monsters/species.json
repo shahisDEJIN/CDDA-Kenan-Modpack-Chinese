@@ -5,7 +5,7 @@
     "name": { "str": "ALIEN" },
     "description": "an alien",
     "footsteps": "metallic footfalls",
-    "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "PLAYER_WEAK" ]
+    "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT" ]
   },
   {
     "type": "SPECIES",
@@ -13,7 +13,7 @@
     "name": { "str": "ALIEN ROBOT" },
     "description": "an alien robot",
     "footsteps": "booming stomps",
-    "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "PLAYER_WEAK" ]
+    "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT" ]
   },
   {
     "type": "SPECIES",
@@ -33,5 +33,3 @@
     "fear_triggers": [ "FIRE" ]
   }
 ]
-
-
