@@ -4401,6 +4401,13 @@
   "stage": 1
  },
  {
+  "key": "7100229d503242799df608815e1fed4f",
+  "original": "You've heard of the Sierra Madre Casino. We all have，the legend，the curses. Do you have what it takes to crack it open？",
+  "translation": "You've heard of the Sierra Madre Casino. We all have，the legend，the curses. Do you have what it takes to crack it open？",
+  "context": "ID: sierra_map\n位于 /Kenan-Structured-Modpack/CDDA_Sierra_Madre_mod_bright_nights_version/items/misc.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA_Sierra_Madre_mod_bright_nights_version→GENERIC→sierra_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sierra_map",
+  "stage": 1
+ },
+ {
   "key": "2c377378cb929a1867a9eeddeb476ccf",
   "original": "You've heard the legends of the Sierra Madre... We all have... And so you went to seek its richies... truth is, there's nothing specific awaiting you at the vault. Though it doesn't change the fact that the entire Sierra Madre is a treasure in itself and I plan on utilizing it.",
   "translation": "You've heard the legends of the Sierra Madre... We all have... And so you went to seek its richies... truth is, there's nothing specific awaiting you at the vault. Though it doesn't change the fact that the entire Sierra Madre is a treasure in itself and I plan on utilizing it.",

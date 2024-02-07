@@ -59,7 +59,6 @@
   "key": "99871aa27a6ff345698eb36afb3c2f70",
   "original": " Secure Your Masterpiece: Visit our Authorized Dealers today to secure your masterpiece from RivTech™ Rifles. Precision Redefined. Artistry Unleashed.",
   "translation": " Secure Your Masterpiece: Visit our Authorized Dealers today to secure your masterpiece from RivTech™ Rifles. Precision Redefined. Artistry Unleashed.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/flier.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
@@ -113,6 +112,13 @@
   "original": "<color_light_blue>Really Dark Skies</color>",
   "translation": "<color_light_blue>Really Dark Skies</color>",
   "context": "ID: realdarkskies\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MOD_INFO→realdarkskies\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=realdarkskies",
+  "stage": 1
+ },
+ {
+  "key": "2fd4f7fd8f43c7669aebe742425ba884",
+  "original": "<color_light_blue>There's another kind of zombie around.</color>",
+  "translation": "<color_light_blue>There's another kind of zombie around.</color>",
+  "context": "ID: achievement_kill_stray\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→achievement→achievement_kill_stray\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_kill_stray",
   "stage": 1
  },
  {
@@ -182,7 +188,7 @@
   "key": "1a2325f613c962a7be5a2fcf011c7534",
   "original": "<color_pink>%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air!</color>",
   "translation": "<color_pink>%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air！</color>",
-  "context": "ID: dkz_xenoid_templar\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MONSTER→dkz_xenoid_templar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_templar",
+  "context": "ID: dkz_xenoid_knight\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MONSTER→dkz_xenoid_knight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_knight",
   "stage": 1
  },
  {
@@ -204,6 +210,20 @@
   "original": "<color_pink>The %1$s gesticulates at %3$s and a pulse of fear-inducing psionic energy ripples through the air!</color>",
   "translation": "<color_pink>The %1$s gesticulates at %3$s and a pulse of fear-inducing psionic energy ripples through the air！</color>",
   "context": "ID: dkz_xenoid_paladin\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MONSTER→dkz_xenoid_paladin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_paladin",
+  "stage": 1
+ },
+ {
+  "key": "8e428ac451c6095b8987205702c6c814",
+  "original": "<color_red>By the toll of a billion deaths man has bought his birthright of the Earth, and it is his against all comers.</color>",
+  "translation": "<color_red>By the toll of a billion deaths man has bought his birthright of the Earth, and it is his against all comers.</color>",
+  "context": "ID: achievement_kill_alienrobot\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→achievement→achievement_kill_alienrobot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_kill_alienrobot",
+  "stage": 1
+ },
+ {
+  "key": "709dc544a360dee6648fdbe87ef66a92",
+  "original": "<color_red>If it bleeds we can kill it.</color>",
+  "translation": "<color_red>If it bleeds we can kill it.</color>",
+  "context": "ID: achievement_kill_alien\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→achievement→achievement_kill_alien\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_kill_alien",
   "stage": 1
  },
  {
@@ -252,14 +272,12 @@
   "key": "789197836cf87aaba09e91ad468d878d",
   "original": "A 250 round drum magazine for use with RivTech™ 5x50 flechette firearms.",
   "translation": "A 250 round drum magazine for use with RivTech™ 5x50 flechette firearms.",
-  "context": "ID: 5x50_250_mag\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→5x50_250_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=5x50_250_mag",
   "stage": 1
  },
  {
   "key": "dedd20765aeeeafe971d4749c26558e1",
   "original": "A 500 round drum magazine for use with RivTech™ 5x50 flechette firearms.",
   "translation": "A 500 round drum magazine for use with RivTech™ 5x50 flechette firearms.",
-  "context": "ID: 5x50_500_mag\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→5x50_500_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=5x50_500_mag",
   "stage": 1
  },
  {
@@ -273,6 +291,13 @@
   "original": "A bone 'gathered' by a Xenoid alien, if it wasn't from an alien you might mistake it for something terrestrial.",
   "translation": "A bone 'gathered' by a Xenoid alien, if it wasn't from an alien you might mistake it for something terrestrial.",
   "context": "ID: bone_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid",
+  "stage": 1
+ },
+ {
+  "key": "b6af23951f04a25f02c6c7b06d58c0c6",
+  "original": "A bone 'gathered' by a Xenoid, if it wasn't from an alien you might mistake it for something terrestrial.",
+  "translation": "A bone 'gathered' by a Xenoid, if it wasn't from an alien you might mistake it for something terrestrial.",
+  "context": "ID: bone_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid",
   "stage": 1
  },
  {
@@ -293,6 +318,13 @@
   "original": "A broken drone.  Much less threatening now that it isn't shining its light everywhere.  Could be gutted for parts.  Specialized alien tools would be best for disassembly, but you could make do with more human instruments instead.",
   "translation": "一个损坏的无人机。它不再四处照射它的探照灯，无法再构成威胁。可以拆解得到部件。特制的外星工具最适合用来拆解它，但用手头人类工具也勉强能行。",
   "context": "ID: broken_dkz_glowdrone\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/electronics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GENERIC→broken_dkz_glowdrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_dkz_glowdrone"
+ },
+ {
+  "key": "0d30c5646c5d54b7deccb9b36467699e",
+  "original": "A carefully folded poisonous raw skin harvested from an unnatural creature. ",
+  "translation": "A carefully folded poisonous raw skin harvested from an unnatural creature. ",
+  "context": "ID: raw_alien_leather\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→raw_alien_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_alien_leather",
+  "stage": 1
  },
  {
   "key": "b60e1352f8a5ff50ece4964aa59dee76",
@@ -555,7 +587,7 @@
   "key": "7cbf9e3f9446dc34b3c0af2e0585fe63",
   "original": "A large chunk of some kind of white wax, found inside the triffid heart.  It looks suspiciously like bee's wax, but smells heavenly.",
   "translation": "A large chunk of some kind of white wax, found inside the triffid heart.  It looks suspiciously like bee's wax, but smells heavenly.",
-  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
+  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
   "stage": 1
  },
  {
@@ -630,7 +662,6 @@
   "key": "00cd21a1e0583ae2558dfb9162143388",
   "original": "A mutagen as black as the void between the stars.  You could drink it… if you really want to?",
   "translation": "A mutagen as black as the void between the stars.  You could drink it… if you really want to?",
-  "context": "ID: iv_mutagen_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/mutations/xeno-mutations.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→iv_mutagen_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iv_mutagen_xenoid",
   "stage": 1
  },
  {
@@ -651,21 +682,18 @@
   "key": "d63a0e68e6a0b879138bd3e72ea6bfd6",
   "original": "A pair of combat boots with four wheels, which are cabable of either inline-skate style or roller-skate style.  Currently the wheels are hidden.",
   "translation": "A pair of combat boots with four wheels, which are cabable of either inline-skate style or roller-skate style.  Currently the wheels are hidden.",
-  "context": "ID: roller_boots_off\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_off",
   "stage": 1
  },
  {
   "key": "3246e144613222729ddefb7ce960110a",
   "original": "A pair of combat boots with wheels, currently the wheels are out in inline-skater style.",
   "translation": "A pair of combat boots with wheels, currently the wheels are out in inline-skater style.",
-  "context": "ID: roller_boots_inline\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_inline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_inline",
   "stage": 1
  },
  {
   "key": "d300c71d435ae987776405a9ecd23e69",
   "original": "A pair of combat boots with wheels, currently the wheels are out in roller-skater style.",
   "translation": "A pair of combat boots with wheels, currently the wheels are out in roller-skater style.",
-  "context": "ID: roller_boots_quad\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_quad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_quad",
   "stage": 1
  },
  {
@@ -789,8 +817,7 @@
  {
   "key": "269e88d9676ff514cc472ea4573892c8",
   "original": "A spine like the antenna of a moth juts from the ground, swaying gently in the air.  Every so often, a cascade of energy arcs along it and discharges into the ceiling.",
-  "translation": "一根像飞蛾触须一样的带毛尖刺从地面伸出来，在空中轻轻摇摆。每隔一段时间，它就会向天花板发射出一连串的能量弧。",
-  "context": "ID: f_alien_zapper7\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/furniture_and_terrain/mi-go_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→furniture→f_alien_zapper7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_alien_zapper7"
+  "translation": "一根像飞蛾触须一样的带毛尖刺从地面伸出来，在空中轻轻摇摆。每隔一段时间，它就会向天花板发射出一连串的能量弧。"
  },
  {
   "key": "a1f7764e6258b4e1633445845ed6f469",
@@ -824,7 +851,6 @@
   "key": "9e4a917b21995c1c080bec6aef84d031",
   "original": "A super-concentrated mutagen as black as the void between the stars.  You need a syringe to inject it… if you really want to?",
   "translation": "A super-concentrated mutagen as black as the void between the stars.  You need a syringe to inject it… if you really want to?",
-  "context": "ID: iv_mutagen_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/mutations/xeno-mutations.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→iv_mutagen_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iv_mutagen_xenoid",
   "stage": 1
  },
  {
@@ -844,7 +870,6 @@
   "key": "aebebdf9c2523a0e1cda1703df4a68d5",
   "original": "A suppressor reduces the amount of noise and muzzle flash generated by the report of a firearm.  This RK6S34 Mustela is a rather advanced version integral to the RivTech™ Combat System.",
   "translation": "A suppressor reduces the amount of noise and muzzle flash generated by the report of a firearm.  This RK6S34 Mustela is a rather advanced version integral to the RivTech™ Combat System.",
-  "context": "ID: riv_suppressor\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_suppressor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_suppressor",
   "stage": 1
  },
  {
@@ -907,6 +932,13 @@
   "original": "A towering, seven meter tall, metallic creature standing atop three long legs connected to a central chassis.  It would be stunningly beautiful with its glowing golden inlays and celestial design, were it not for the gas that pours from its tentacle-mounted guns that despoils the landscape and makes your skin prickle just looking at its toxic, likely radioactive, glory.  Its hums hauntingly as it moves and booming footsteps often heralded trouble to come since the arrival of the xenoids, now is no different.",
   "translation": "A towering, seven meter tall, metallic creature standing atop three long legs connected to a central chassis.  It would be stunningly beautiful with its glowing golden inlays and celestial design, were it not for the gas that pours from its tentacle-mounted guns that despoils the landscape and makes your skin prickle just looking at its toxic, likely radioactive, glory.  Its hums hauntingly as it moves and booming footsteps often heralded trouble to come since the arrival of the xenoids, now is no different.",
   "context": "ID: mon_dkz_emissary_plague\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MONSTER→mon_dkz_emissary_plague\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_plague",
+  "stage": 1
+ },
+ {
+  "key": "deb6c59e50b5b920205d26bb0411f23a",
+  "original": "A very small bone 'generously donated' by a very generous Xenoid.  It is a small oval, thin like a guitar pick, and with a small hole near one end.",
+  "translation": "A very small bone 'generously donated' by a very generous Xenoid.  It is a small oval, thin like a guitar pick, and with a small hole near one end.",
+  "context": "ID: bone_xenoid_small\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid_small",
   "stage": 1
  },
  {
@@ -1118,21 +1150,18 @@
   "key": "4cc4bc72b742394373f12a96776d101b",
   "original": "An extremely small RivTech™ gun is a two-shot breech-loading pistol, however in order to fit that much power into such a small gun very little of the gun can be modified or altered",
   "translation": "An extremely small RivTech™ gun is a two-shot breech-loading pistol, however in order to fit that much power into such a small gun very little of the gun can be modified or altered",
-  "context": "ID: rm97_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm97_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm97_pistol",
   "stage": 1
  },
  {
   "key": "d86cf9367c4bba7cd625ac69a9e96cb8",
   "original": "An extremely small RivTech™ gun which has a tiny three-shot revolver, however in order to fit that much power into such a small gun very little of the gun can be modified or altered.",
   "translation": "An extremely small RivTech™ gun which has a tiny three-shot revolver, however in order to fit that much power into such a small gun very little of the gun can be modified or altered.",
-  "context": "ID: rm98_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm98_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm98_pistol",
   "stage": 1
  },
  {
   "key": "46896c5c930fb5203eeef951bdd6e5e2",
   "original": "An integral component of the RivTech™ Combat System, the RS1219 Accipiter digital scope provides auto-adjusting focal length, a user-selectable reticle, and an offset reflex sight for close objectives.",
   "translation": "An integral component of the RivTech™ Combat System, the RS1219 Accipiter digital scope provides auto-adjusting focal length, a user-selectable reticle, and an offset reflex sight for close objectives.",
-  "context": "ID: acog_scope\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→acog_scope\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acog_scope",
   "stage": 1
  },
  {
@@ -1146,14 +1175,12 @@
   "key": "50904e3e67b7e7c8fe7fedd2abf8109c",
   "original": "An optional RivTech™ RT7M02 stock acessessory which folds up grealtly saving weight, and still allowing improved recoil handling",
   "translation": "An optional RivTech™ RT7M02 stock acessessory which folds up grealtly saving weight, and still allowing improved recoil handling",
-  "context": "ID: riv_folding_stock\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_folding_stock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_folding_stock",
   "stage": 1
  },
  {
   "key": "8a082d863637b8f34efae10b564d07bb",
   "original": "An optional RivTech™ RT9M01 stock acessessory which allows greater adjustments to the stock, greatly improving handling and recoil.",
   "translation": "An optional RivTech™ RT9M01 stock acessessory which allows greater adjustments to the stock, greatly improving handling and recoil.",
-  "context": "ID: riv_adjusted_stock\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_adjusted_stock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_adjusted_stock",
   "stage": 1
  },
  {
@@ -1229,7 +1256,7 @@
   "key": "6b8ae82195f53a58f1a7a144875b7317",
   "original": "Are you lost, marshal?",
   "translation": "Are you lost，marshal？",
-  "context": "ID: TALK_MAQUIS_RIOT_COP_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RIOT_COP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RIOT_COP_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RIOT_COP_ROOT",
+  "context": "ID: TALK_MAQUIS_SCIENTIST_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SCIENTIST_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_ROOT",
   "stage": 1
  },
  {
@@ -1248,13 +1275,13 @@
   "key": "e350bbc3d0ba2cde48ca3e240ec1a10e",
   "original": "As a second-generation augmented firefighter, you have been cybernetically enhanced to operate in the most dire of emergency situations.  The end of the world definitely counts as a dire situation.",
   "translation": "作为第二代强化消防员，你被生化加强以应对最为极端的紧急情况。世界末日当然也算是最为极端的紧急情况。",
-  "context": "ID: bionic_maquis_medic\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_medic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_medic"
+  "context": "ID: bionic_maquis_medic\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_medic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_medic"
  },
  {
   "key": "3a1cd2817e92e3fea2b2aa0eeceaf2c3",
   "original": "Barter Tower",
   "translation": "Barter Tower",
-  "context": "ID: racing_tower_z0_2_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z0_2_2",
+  "context": "ID: racing_tower_z0_2_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z0_2_2",
   "stage": 1
  },
  {
@@ -1303,42 +1330,42 @@
   "key": "9b8b9dac464d1d4fc24f5a6336f38c89",
   "original": "Bionic Maquis Commander",
   "translation": "Bionic Maquis Commander",
-  "context": "ID: bionic_maquis_combat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_combat",
+  "context": "ID: bionic_maquis_combat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_combat",
   "stage": 1
  },
  {
   "key": "89e285f5903a26a95af2f5840931f619",
   "original": "Bionic Maquis Cyber-smith",
   "translation": "Bionic Maquis Cyber-smith",
-  "context": "ID: bionic_maquis_technican\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_technican\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_technican",
+  "context": "ID: bionic_maquis_technican\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_technican\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_technican",
   "stage": 1
  },
  {
   "key": "2b8b5c237a80898b29e6e886bb68d3a6",
   "original": "Bionic Maquis Medic",
   "translation": "Bionic Maquis Medic",
-  "context": "ID: bionic_maquis_medic\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_medic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_medic",
+  "context": "ID: bionic_maquis_medic\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_medic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_medic",
   "stage": 1
  },
  {
   "key": "2b82271c7216113a6a25957127536971",
   "original": "Bionic Maquis Mega Soldier",
   "translation": "Bionic Maquis Mega Soldier",
-  "context": "ID: bionic_maquis_mega_man\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_mega_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_mega_man",
+  "context": "ID: bionic_maquis_mega_man\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_mega_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_mega_man",
   "stage": 1
  },
  {
   "key": "39ef4ccf8f1a60062a6c0cc3f7881902",
   "original": "Bionic Maquis Soldier",
   "translation": "Bionic Maquis Soldier",
-  "context": "ID: bionic_maquis_soldier\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_soldier",
+  "context": "ID: bionic_maquis_soldier\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_soldier",
   "stage": 1
  },
  {
   "key": "4054e7d0c360263521c0efc35387a994",
   "original": "Bionic Xenobiologist",
   "translation": "Bionic Xenobiologist",
-  "context": "ID: bionic_maquis_scientist\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_scientist",
+  "context": "ID: bionic_maquis_scientist\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_scientist",
   "stage": 1
  },
  {
@@ -1358,7 +1385,7 @@
   "key": "d74f34f108279a045b458accd17b8729",
   "original": "Buzz off, fed.",
   "translation": "Buzz off，fed.",
-  "context": "ID: TALK_MAQUIS_MOTH_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MOTH_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MOTH_MUTANT_ROOT",
+  "context": "ID: TALK_MAQUIS_RODENT_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RODENT_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RODENT_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RODENT_MUTANT_ROOT",
   "stage": 1
  },
  {
@@ -1386,14 +1413,12 @@
   "key": "8c2ab817453e3760f39bf4ce1bb2b9ce",
   "original": "Can you tell me anything else about Mi-Gos?",
   "translation": "Can you tell me anything else about Mi-Gos？",
-  "context": "ID: TALK_Millyficent_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1",
   "stage": 1
  },
  {
   "key": "8f0dc763700bbed4b5e3f0f4804d859c",
   "original": "Can you tell me anything else about Xenoids?",
   "translation": "Can you tell me anything else about Xenoids？",
-  "context": "ID: TALK_Millyficent_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1",
   "stage": 1
  },
  {
@@ -1427,7 +1452,13 @@
   "key": "28ee7c07c660fc12120b8da85f7305c1",
   "original": "Chad Erikson is the closest thing to a leader the resistance has, and he's usually upstairs.",
   "translation": "Chad Erikson is the closest thing to a leader the resistance has, and he's usually upstairs.",
-  "context": "ID: TALK_MAQUIS_GUARD_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_GUARD.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_GUARD_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_GUARD_RENDEZVOUS_TO_BASE",
+  "stage": 1
+ },
+ {
+  "key": "d4d4444079c3a7d4a4a3dd09ab7dc50b",
+  "original": "Chad Erikson is the closest thing to a leader the resistance has.",
+  "translation": "Chad Erikson is the closest thing to a leader the resistance has.",
+  "context": "ID: TALK_MAQUIS_RIOT_COP_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RIOT_COP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RIOT_COP_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RIOT_COP_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -1474,21 +1505,19 @@
   "key": "5bbdca21d088b564063ce284952088a4",
   "original": "Come back when you get a chance.",
   "translation": "Come back when you get a chance.",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
   "key": "ae3251e1f54fb6d89b33144feb0d5236",
   "original": "Considered beyond overkill by all, the RivTech™ M101 is quite simply a breech-loading single-shot 'Dueling Pistol' that uses a 20x66mm 'shotgun' round.",
   "translation": "Considered beyond overkill by all, the RivTech™ M101 is quite simply a breech-loading single-shot 'Dueling Pistol' that uses a 20x66mm 'shotgun' round.",
-  "context": "ID: rm101_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm101_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm101_pistol",
   "stage": 1
  },
  {
   "key": "08dd99609ff3fce74f97433768a2504f",
   "original": "Considered beyond overkill by all, the RivTech™ M101 is quite simply a breech-loading single-shot 'Dueling Pistol' that uses a 20x66mm 'shotgun' round.  This model includes a beautiful wooden stock.",
   "translation": "Considered beyond overkill by all, the RivTech™ M101 is quite simply a breech-loading single-shot 'Dueling Pistol' that uses a 20x66mm 'shotgun' round.  This model includes a beautiful wooden stock.",
-  "context": "ID: rm101plus_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm101plus_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm101plus_pistol",
   "stage": 1
  },
  {
@@ -1521,28 +1550,40 @@
   "key": "756ad594eb0cbb41e2cb99c5d05b2e76",
   "original": "Dear Editor,\n\nThe news of RivTech™ putting the G11 into production has stirred excitement among firearm aficionados like myself. The G11's reputation for innovation and its legendary design have long captivated enthusiasts. This move not only pays homage to the firearm's iconic legacy but also promises a thrilling experience for those eager to explore its cutting-edge features. Kudos to RivTech™ for taking this bold step, and I look forward to the day when the G11 becomes a reality in the hands of enthusiasts everywhere.",
   "translation": "Dear Editor,\n\nThe news of RivTech™ putting the G11 into production has stirred excitement among firearm aficionados like myself. The G11's reputation for innovation and its legendary design have long captivated enthusiasts. This move not only pays homage to the firearm's iconic legacy but also promises a thrilling experience for those eager to explore its cutting-edge features. Kudos to RivTech™ for taking this bold step, and I look forward to the day when the G11 becomes a reality in the hands of enthusiasts everywhere.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/newspapers.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
+  "stage": 1
+ },
+ {
+  "key": "ef973fe0850547055d24cf035f618d5c",
+  "original": "Debris from space",
+  "translation": "Debris from space",
+  "context": "ID: mx_xenoid_dropsite_forest_five\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/map_extras.json\n类型为 map_extra\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→map_extra→mx_xenoid_dropsite_forest_five\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_xenoid_dropsite_forest_five",
+  "stage": 1
+ },
+ {
+  "key": "fbe43072d66b108cb3208b08be6746fb",
+  "original": "Debris from space.",
+  "translation": "Debris from space.",
+  "context": "ID: mx_xenoid_dropsite_forest_five\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/map_extras.json\n类型为 map_extra\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→map_extra→mx_xenoid_dropsite_forest_five\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mx_xenoid_dropsite_forest_five",
   "stage": 1
  },
  {
   "key": "c634ac2666dd3a720718bde321496383",
   "original": "Decked out with the latest cybernetic augmentions, armed with the dealiest of firearms the still remain, and with nerves of steel, your only purpose is to save the world from the aliens.",
   "translation": "Decked out with the latest cybernetic augmentions, armed with the dealiest of firearms the still remain, and with nerves of steel, your only purpose is to save the world from the aliens.",
-  "context": "ID: bionic_maquis_combat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_combat",
+  "context": "ID: bionic_maquis_combat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_combat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_combat",
   "stage": 1
  },
  {
   "key": "d6406917d8d357dfca0b63a3607f95b7",
   "original": "Dew the Do.",
   "translation": "Dew the Do.",
-  "context": "ID: DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1",
   "stage": 1
  },
  {
   "key": "3a78f6e6ce3cd05567e07d5b4b569d1a",
   "original": "Did you find him yet?",
   "translation": "Did you find him yet？",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -1690,7 +1731,6 @@
   "key": "b52be16a017975629556c5f48c7029d3",
   "original": "Empower Your Precision: Choose RivTech™ Rifles to empower your precision on the range or in the field. Our rifles aren't just instruments; they're a symphony of accuracy and artistry.",
   "translation": "Empower Your Precision: Choose RivTech™ Rifles to empower your precision on the range or in the field. Our rifles aren't just instruments; they're a symphony of accuracy and artistry.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/flier.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
@@ -1897,7 +1937,7 @@
   "key": "e1cf915adeefd29ca082c6640eaf1a11",
   "original": "For better or for worse, bionic augmentation has turned you into a walking power tool.  Upgraded with a standard industrial-grade manual labor surgery and training package, you are augmented with bionic muscles and an integrated toolset, both powered by standard batteries.",
   "translation": "不管咋样，生化改造已经把你变成一个人形电动工具。更通过加装标准工业级别的手工劳动套装进行了升级，让你拥有了生化肌肉和瑞士军手，当然这些都需要电池。",
-  "context": "ID: bionic_maquis_technican\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_technican\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_technican"
+  "context": "ID: bionic_maquis_technican\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_technican\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_technican"
  },
  {
   "key": "802c52b259f4e0996aa477d865b1edcd",
@@ -1911,6 +1951,13 @@
   "original": "Freshly butchered fat from an alien.  It smells awful.",
   "translation": "Freshly butchered fat from an alien.  It smells awful.",
   "context": "ID: alien_fat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_fat",
+  "stage": 1
+ },
+ {
+  "key": "883f9bc4d1c8d2226eef41f1340b92b0",
+  "original": "Freshly butchered fat from an alien.  You could eat it raw, but why?.",
+  "translation": "Freshly butchered fat from an alien.  You could eat it raw, but why?.",
+  "context": "ID: alien_fat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_fat",
   "stage": 1
  },
  {
@@ -2039,6 +2086,13 @@
   "context": "ID: DKZ_MAQUIS_KILL_25_STRAYZ\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→DKZ_MAQUIS_KILL_25_STRAYZ\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_KILL_25_STRAYZ"
  },
  {
+  "key": "a59b566e8c94b159088617d2db9c1849",
+  "original": "Got to have my favorite cola.",
+  "translation": "Got to have my favorite cola.",
+  "context": "ID: DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1",
+  "stage": 1
+ },
+ {
   "key": "6fcf03ce864df0add4e18be428814bce",
   "original": "Great advice.  Thanks.",
   "translation": "Great advice.  Thanks.",
@@ -2070,14 +2124,12 @@
   "key": "21b56bbef336c72455be62049d27000b",
   "original": "H&K and RivTech™ to Expand Factories, Re-Introduce G11 Caseless Technology\n\nIn a groundbreaking move, German arms manufacturers Heckler & Koch (H&K) and American startup RivTech™ are set to expand their factories to meet the rising demand for cutting-edge weaponry. RivTech™'s announcement includes licensing the never-before-developed G11, even hinting at possible civilian models in the future.\n\nThis partnership is expected to redefine the industry, bringing innovative firearm technology to the market and solidifying the collaboration between these two giants. As the expansion plans unfold, industry experts anticipate a new era in arms manufacturing, showcasing the potential of this strategic alliance.",
   "translation": "H&K and RivTech™ to Expand Factories, Re-Introduce G11 Caseless Technology\n\nIn a groundbreaking move, German arms manufacturers Heckler & Koch (H&K) and American startup RivTech™ are set to expand their factories to meet the rising demand for cutting-edge weaponry. RivTech™'s announcement includes licensing the never-before-developed G11, even hinting at possible civilian models in the future.\n\nThis partnership is expected to redefine the industry, bringing innovative firearm technology to the market and solidifying the collaboration between these two giants. As the expansion plans unfold, industry experts anticipate a new era in arms manufacturing, showcasing the potential of this strategic alliance.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/newspapers.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
   "key": "4c282687fa5a69c6e3025f529a2f089a",
   "original": "H&K and RivTech™'s Factory Expansion Sparks Concerns Over Military Industrial Complex Growth\n\nAs Heckler & Koch (H&K) and RivTech™ unveil plans to expand their factories, progressives raise crucial questions about the unchecked growth of the military industrial complex. The licensing of the G11 caseless, prompts concerns over the prioritization of defense over essential social programs.\n\nCritics argue that the focus should be on education, healthcare, and infrastructure, rather than fueling an ever-expanding arms race. While increased job opportunities are acknowledged, questions remain about the long-term impact of militarization on society.",
   "translation": "H&K and RivTech™'s Factory Expansion Sparks Concerns Over Military Industrial Complex Growth\n\nAs Heckler & Koch (H&K) and RivTech™ unveil plans to expand their factories, progressives raise crucial questions about the unchecked growth of the military industrial complex. The licensing of the G11 caseless, prompts concerns over the prioritization of defense over essential social programs.\n\nCritics argue that the focus should be on education, healthcare, and infrastructure, rather than fueling an ever-expanding arms race. While increased job opportunities are acknowledged, questions remain about the long-term impact of militarization on society.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/newspapers.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
@@ -2201,7 +2253,7 @@
   "key": "fa826f41fd643dc892f7f084a36244c8",
   "original": "Here to trade, I hope?",
   "translation": "我想，你是来交易的吧？",
-  "context": "ID: TALK_MAQUIS_MERCHANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MERCHANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MERCHANT_ROOT"
+  "context": "ID: TALK_MAQUIS_MECHANIC_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MECHANIC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MECHANIC_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MECHANIC_ROOT"
  },
  {
   "key": "eb79244016b26ba13fd9740d32af91db",
@@ -2519,7 +2571,7 @@
   "key": "e8f99565fe0c21c805a0dbc47ec8001a",
   "original": "I have a general idea of where my uncle Chad Erikson is at, I give you a general idea which direction and how far away it is, but other than that I can only guess.",
   "translation": "I have a general idea of where my uncle Chad Erikson is at，I give you a general idea which direction and how far away it is，but other than that I can only guess.",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -2650,14 +2702,14 @@
   "key": "529d2fc63a50473a8ed587dc23542ed2",
   "original": "I just saw Mr. Erikson go into one of the roooms around here, sorry I can't help you any more than that.",
   "translation": "I just saw Mr. Erikson go into one of the roooms around here，sorry I can't help you any more than that.",
-  "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER",
   "stage": 1
  },
  {
   "key": "23765d076a59b5746eb686702de26023",
   "original": "I just saw him on the top floors, not sure where exactly.",
   "translation": "I just saw him on the top floors，not sure where exactly.",
-  "context": "ID: TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_SCIENTIST_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SCIENTIST_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -2671,7 +2723,7 @@
   "key": "bb43be42c7bacf6b82423dc9e73f9d7c",
   "original": "I keep the peace down here between other scavengers, but everyone is very civil to each other since there are monsters outside.",
   "translation": "I keep the peace down here between other scavengers，but everyone is very civil to each other since there are monsters outside.",
-  "context": "ID: TALK_MAQUIS_MOTH_MUTANT_DOING\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MOTH_MUTANT_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MOTH_MUTANT_DOING",
+  "context": "ID: TALK_MAQUIS_RODENT_MUTANT_DOING\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RODENT_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RODENT_MUTANT_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RODENT_MUTANT_DOING",
   "stage": 1
  },
  {
@@ -2713,7 +2765,7 @@
   "key": "9533a46ff7c6147de4538cb34d59660a",
   "original": "I know what you mean.",
   "translation": "I know what you mean.",
-  "context": "ID: TALK_Millyficent_1_MIGO\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1_MIGO",
+  "context": "ID: TALK_EVAC_GUARD2_STRAYS\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_free_merchant_guard2.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_EVAC_GUARD2_STRAYS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_EVAC_GUARD2_STRAYS",
   "stage": 1
  },
  {
@@ -2811,7 +2863,7 @@
   "key": "7b2c29795fcc16686ca520b416ece743",
   "original": "I need help getting in touch with a family member…",
   "translation": "I need help getting in touch with a family member…",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -3062,7 +3114,7 @@
   "key": "9e714dc7c638a6d88a9036f53e63365a",
   "original": "I was trying to find him myself.  I'm sure he's up in his office upstairs.",
   "translation": "I was trying to find him myself.  I'm sure he's up in his office upstairs.",
-  "context": "ID: TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_SCIENTIST_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SCIENTIST_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -3150,7 +3202,7 @@
   "key": "964ea859ab96afe06135ecc4dbf463de",
   "original": "I'll find him.",
   "translation": "I'll find him.",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -3241,7 +3293,6 @@
   "key": "d660c5cc5400feb302e4226d08a67641",
   "original": "I'm not sure if I'm the right person for the job.",
   "translation": "I'm not sure if I'm the right person for the job.",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -3255,7 +3306,7 @@
   "key": "93e295df70e2682a0286685c766b8613",
   "original": "I'm not sure where Mr. Erikson is at right now.",
   "translation": "I'm not sure where Mr. Erikson is at right now.",
-  "context": "ID: TALK_MAQUIS_MERCHANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MERCHANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MERCHANT_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_GUNSLINGER_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_GUNSLINGER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_GUNSLINGER_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_GUNSLINGER_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -3269,7 +3320,6 @@
   "key": "a4b079f7e1def0436507fc880e873a9a",
   "original": "I'm only interested in it for the money.",
   "translation": "I'm only interested in it for the money.",
-  "context": "ID: TALK_MAQUIS_MERCHANT_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MERCHANT_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MERCHANT_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -3297,7 +3347,7 @@
   "key": "3159ba356a908119ab6136a148ae7d9e",
   "original": "I'm sure that Mr. Erikson is on this floor.",
   "translation": "I'm sure that Mr. Erikson is on this floor.",
-  "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -3441,7 +3491,6 @@
   "key": "cad4025766cc63345106f50cee15cf11",
   "original": "Investment Horizon Brightens as RivTech™ Expands Operations\n\nArmaments startup RivTech™'s recent announcement of a substantial factory expansion, coupled with the licensing of the ground-breaking G11 caseless firearms technology from the venerable Heckler & Koch, has set the stage for enticing investment opportunities.\n\nThe G11's innovative design has never before been put into mass production and the possibility of civilian models present a unique market proposition, drawing attention from financial analysts and speculators alike.\n\nRivTech™'s strategic moves position it as a key player in the evolving landscape of advanced weaponry, offering investors a chance to capitalize on the intersection of cutting-edge technology and military demand.",
   "translation": "Investment Horizon Brightens as RivTech™ Expands Operations\n\nArmaments startup RivTech™'s recent announcement of a substantial factory expansion, coupled with the licensing of the ground-breaking G11 caseless firearms technology from the venerable Heckler & Koch, has set the stage for enticing investment opportunities.\n\nThe G11's innovative design has never before been put into mass production and the possibility of civilian models present a unique market proposition, drawing attention from financial analysts and speculators alike.\n\nRivTech™'s strategic moves position it as a key player in the evolving landscape of advanced weaponry, offering investors a chance to capitalize on the intersection of cutting-edge technology and military demand.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/newspapers.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
@@ -3489,7 +3538,7 @@
   "key": "a2ec7fc5c9f0ac3a5d64ba344c114e7a",
   "original": "It was a lost cause anyways…",
   "translation": "反正是注定要失败的……",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER"
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED"
  },
  {
   "key": "673ba53fa239fceedbcc18124dc1b62b",
@@ -3530,7 +3579,6 @@
   "key": "9d19ce5b87710f185e92acade26ff737",
   "original": "Its nice to see another fellow wearing a badge, I hope you earned it.",
   "translation": "Its nice to see another fellow wearing a badge, I hope you earned it.",
-  "context": "ID: TALK_MAQUIS_GUARD_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_GUARD.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_GUARD_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_GUARD_ROOT",
   "stage": 1
  },
  {
@@ -3557,7 +3605,7 @@
   "key": "b8a871d67cc340037692df799883bc08",
   "original": "Just follow your map.",
   "translation": "照着地图走就行。",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER"
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED"
  },
  {
   "key": "6a9993499f23ab8e8f44b64fefc2b4ea",
@@ -3677,7 +3725,7 @@
   "key": "d762f379e14ecac6ee48de6718fdca53",
   "original": "Locate Chad Erikson",
   "translation": "Locate Chad Erikson",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -3691,6 +3739,12 @@
   "key": "c3d5ac6841ae808e6a4f3981b288dd5f",
   "original": "Looking for hackPRO",
   "translation": "Looking for hackPRO",
+  "stage": 1
+ },
+ {
+  "key": "b671465fd771100e759d2c027e517b6d",
+  "original": "Looking for hackPRO exploit scripts",
+  "translation": "Looking for hackPRO exploit scripts",
   "context": "ID: DKZ_MAQUIS_ENGINEER_MISSION_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→DKZ_MAQUIS_ENGINEER_MISSION_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ENGINEER_MISSION_2",
   "stage": 1
  },
@@ -3723,6 +3777,13 @@
   "stage": 1
  },
  {
+  "key": "79bca872d9490a269ad2469e6867b1ed",
+  "original": "Meat that's obviously from an alien creature.  You could eat it, but it will poison you.",
+  "translation": "Meat that's obviously from an alien creature.  You could eat it, but it will poison you.",
+  "context": "ID: alien_meat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_meat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_meat",
+  "stage": 1
+ },
+ {
   "key": "7211cac6615aa868f636269a93099f24",
   "original": "Melissa 'Misty' Forrest",
   "translation": "Melissa 'Misty' Forrest",
@@ -3747,7 +3808,7 @@
   "key": "a5a36fccbc14ce2b38a19e015fbf37ac",
   "original": "Mr. Erikson is not on the farm, he's probably back at Barter Tower directing local resistance operations against the Xenoids.",
   "translation": "Mr. Erikson is not on the farm，he's probably back at Barter Tower directing local resistance operations against the Xenoids.",
-  "context": "ID: TALK_MAQUIS_MELISSA_FORREST_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MELISSA_FORREST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MELISSA_FORREST_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MELISSA_FORREST_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_MELISSA_FORREST_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MELISSA_FORREST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MELISSA_FORREST_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MELISSA_FORREST_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -3761,7 +3822,6 @@
   "key": "c3e7d4f999d0b6017598a4d6090b0008",
   "original": "Mr. Erikson is the closest thing to a leader the resistance has, and he's usually upstairs.",
   "translation": "Mr. Erikson is the closest thing to a leader the resistance has, and he's usually upstairs.",
-  "context": "ID: TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RIOT_COP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -4053,7 +4113,7 @@
   "key": "4d61344beb4ecc2396c22897f9cf01be",
   "original": "Ok, I have to go now.",
   "translation": "Ok，I have to go now.",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -4067,7 +4127,7 @@
   "key": "5a283f98e6a69e692fd8aad86e543fa5",
   "original": "Ok, Thanks.",
   "translation": "Ok，Thanks.",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE",
+  "context": "ID: TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_BIG_BROTHER",
   "stage": 1
  },
  {
@@ -4123,21 +4183,18 @@
   "key": "281b78ac46945513be2f9d611404eaba",
   "original": "Originally produced for military use, the RivTech™ RM51 assault rifle was designed for durability and ease of use under less than ideal circumstances, with its considerable bulk minimized by a compact and ergonomic layout.  Accepts box magazines.",
   "translation": "Originally produced for military use, the RivTech™ RM51 assault rifle was designed for durability and ease of use under less than ideal circumstances, with its considerable bulk minimized by a compact and ergonomic layout.  Accepts box magazines.",
-  "context": "ID: rm51_assault_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm51_assault_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm51_assault_rifle",
   "stage": 1
  },
  {
   "key": "eb4f891170c23273e07b409f55e817f4",
   "original": "Originally produced for military use, the RivTech™ RM88 battle rifle was designed for durability and extreme firepower under less than ideal circumstances, with a heavy ported barrel for maximum controllability.  Accepts box and RMGD250 drum magazines.",
   "translation": "Originally produced for military use, the RivTech™ RM88 battle rifle was designed for durability and extreme firepower under less than ideal circumstances, with a heavy ported barrel for maximum controllability.  Accepts box and RMGD250 drum magazines.",
-  "context": "ID: rm88_battle_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm88_battle_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm88_battle_rifle",
   "stage": 1
  },
  {
   "key": "c20f618f14d57d176c875530448b2acc",
   "original": "PE0X0 \"Xenoid\": Proposal",
   "translation": "PE0X0 \"Xenoid\": Proposal",
-  "context": "ID: recipe_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/mutations/xeno-mutations.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→BOOK→recipe_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_xenoid",
   "stage": 1
  },
  {
@@ -4178,7 +4235,7 @@
   "key": "96a0682d07e3f03f2d8c22df6dc832fa",
   "original": "Prior to the apocalypse you were employed by a major international corporation as a representative and technical advisor, utilizing the incredible power of your cybernetically augmented mind.",
   "translation": "在末日之前，你被一家知名大型国际企业雇佣为代表和技术顾问，通过你生化加强后的思维进行工作。",
-  "context": "ID: bionic_maquis_scientist\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_scientist"
+  "context": "ID: bionic_maquis_scientist\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_scientist"
  },
  {
   "key": "3e6bfadb8bd4eaf42c5719df0f405ec6",
@@ -4237,120 +4294,103 @@
   "key": "6991d030f39a0693a1830473b63239f0",
   "original": "REDACTED",
   "translation": "REDACTED",
-  "context": "ID: racing_tower_z-3_1_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z-3_1_1",
+  "context": "ID: racing_tower_z-3_1_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z-3_1_1",
   "stage": 1
  },
  {
   "key": "e54df0cba9306b48dc5cd3b5d9520105",
   "original": "RK6S34 suppressor",
-  "translation": "RK6S34 消音器",
-  "context": "ID: riv_suppressor\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_suppressor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_suppressor"
+  "translation": "RK6S34 消音器"
  },
  {
   "key": "312da63fc5fd37c12b030cca47cebbeb",
   "original": "RM101 'Dueling' pistol",
   "translation": "RM101 'Dueling' pistol",
-  "context": "ID: rm101_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm101_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm101_pistol",
   "stage": 1
  },
  {
   "key": "599233b60fbe8ddd9a4a546cc179fb38",
   "original": "RM101+ `Deluxe Dueling` pistol",
   "translation": "RM101+ `Deluxe Dueling` pistol",
-  "context": "ID: rm101plus_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm101plus_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm101plus_pistol",
   "stage": 1
  },
  {
   "key": "13dc8c7af2ddf930be76da405ef4af92",
   "original": "RM2000 submachine gun",
-  "translation": "RM2000 冲锋枪",
-  "context": "ID: rm2000_smg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm2000_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm2000_smg"
+  "translation": "RM2000 冲锋枪"
  },
  {
   "key": "126faadc157eb309bd4581318bc19250",
   "original": "RM298 HMG",
-  "translation": "RM298 重机枪",
-  "context": "ID: rm298\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm298\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm298"
+  "translation": "RM298 重机枪"
  },
  {
   "key": "8006ab8f03bde388d352932338322f9b",
   "original": "RM432 MDW",
   "translation": "RM432 MDW",
-  "context": "ID: needle_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_rifle",
   "stage": 1
  },
  {
   "key": "608845e8e6ed6530d7e5d9e6a4779efc",
   "original": "RM51 assault rifle",
-  "translation": "RM51 突击步枪",
-  "context": "ID: rm51_assault_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm51_assault_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm51_assault_rifle"
+  "translation": "RM51 突击步枪"
  },
  {
   "key": "4188097994672db3b1681630fcce27f9",
   "original": "RM614 LMG",
-  "translation": "RM614 轻机枪",
-  "context": "ID: rm614_lmg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm614_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm614_lmg"
+  "translation": "RM614 轻机枪"
  },
  {
   "key": "43d46ad81011cd605cc57bc15c5cfe05",
   "original": "RM648 LMG",
   "translation": "RM648 LMG",
-  "context": "ID: needle_lmg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_lmg",
   "stage": 1
  },
  {
   "key": "1d792c5e21cc024847c03008c8eca739",
   "original": "RM864 HMG",
   "translation": "RM864 HMG",
-  "context": "ID: needle_hmg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_hmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_hmg",
   "stage": 1
  },
  {
   "key": "edb664d9e095106b2c321944b2688e7c",
   "original": "RM88 battle rifle",
-  "translation": "RM88 战斗步枪",
-  "context": "ID: rm88_battle_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm88_battle_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm88_battle_rifle"
+  "translation": "RM88 战斗步枪"
  },
  {
   "key": "5905d4f41f954e681bbb292a25f29221",
   "original": "RM9000",
   "translation": "RM9000",
-  "context": "ID: u_needlegun\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→u_needlegun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=u_needlegun",
   "stage": 1
  },
  {
   "key": "9ff901605d871e20f3a9bb4596309cf6",
   "original": "RM97 'Derringer' pistol",
   "translation": "RM97 'Derringer' pistol",
-  "context": "ID: rm97_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm97_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm97_pistol",
   "stage": 1
  },
  {
   "key": "9bd5fa55ea82be316d7018fca1a4b833",
   "original": "RM98 compact revolver",
   "translation": "RM98 compact revolver",
-  "context": "ID: rm98_pistol\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm98_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm98_pistol",
   "stage": 1
  },
  {
   "key": "8277bd94db081e6455ddad56424a17b9",
   "original": "RMFB250 5x50mm drum magazine",
   "translation": "RMFB250 5x50mm drum magazine",
-  "context": "ID: 5x50_250_mag\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→5x50_250_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=5x50_250_mag",
   "stage": 1
  },
  {
   "key": "fc05d4047586182d4b3fc4d42f900498",
   "original": "RMFB500 5x50mm drum magazine",
   "translation": "RMFB500 5x50mm drum magazine",
-  "context": "ID: 5x50_500_mag\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→5x50_500_mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=5x50_500_mag",
   "stage": 1
  },
  {
   "key": "602f11438723a11dd53afeadc7ddc1e9",
   "original": "RMGS3 8x40mm speedloader",
   "translation": "RMGS3 8x40mm speedloader",
-  "context": "ID: 8x40_speedloader3\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→8x40_speedloader3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=8x40_speedloader3",
   "stage": 1
  },
  {
@@ -4395,21 +4435,18 @@
  {
   "key": "ba293272c9beea52eba4ee86e2146402",
   "original": "RS1219 scope",
-  "translation": "RS1219 瞄准镜",
-  "context": "ID: acog_scope\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→acog_scope\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=acog_scope"
+  "translation": "RS1219 瞄准镜"
  },
  {
   "key": "3553055695a808b66fdfccc9e830fabe",
   "original": "RT7M02",
   "translation": "RT7M02",
-  "context": "ID: riv_folding_stock\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_folding_stock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_folding_stock",
   "stage": 1
  },
  {
   "key": "1ceff794f31059c8ddca680bb06501e9",
   "original": "RT9M01",
   "translation": "RT9M01",
-  "context": "ID: riv_adjusted_stock\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→riv_adjusted_stock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=riv_adjusted_stock",
   "stage": 1
  },
  {
@@ -4423,7 +4460,7 @@
   "key": "40da2890c47dcd8f20202f9bcd6f4099",
   "original": "Randy Erikson finally got news from his uncle, go to his last reported location and check it out.",
   "translation": "Randy Erikson finally got news from his uncle，go to his last reported location and check it out.",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -4514,14 +4551,13 @@
   "key": "820c0f493d2f5be98a10528b56c0f914",
   "original": "RivTech™ , the epitome of excellence, seamlessly blend precision engineering with the artistry of craftsmanship to redefine your shooting experience.",
   "translation": "RivTech™ , the epitome of excellence, seamlessly blend precision engineering with the artistry of craftsmanship to redefine your shooting experience.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/snippets/flier.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→snippet→[0]\n",
   "stage": 1
  },
  {
   "key": "eaf76728096d3596d4a8bdfb71beee08",
   "original": "Rule #1: No Killing, the penalty is death.",
   "translation": "Rule #1： No Killing，the penalty is death.",
-  "context": "ID: TALK_MAQUIS_MOTH_MUTANT_DOING\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MOTH_MUTANT_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MOTH_MUTANT_DOING",
+  "context": "ID: TALK_MAQUIS_SPIDER_MUTANT_DOING\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SPIDER_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SPIDER_MUTANT_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SPIDER_MUTANT_DOING",
   "stage": 1
  },
  {
@@ -4548,7 +4584,7 @@
   "key": "be266dedb6a4fbcec6a69464d399117a",
   "original": "See you later.",
   "translation": "后会有期！",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_ROOT"
+  "context": "ID: TALK_QUISLING_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_QUISLING.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_QUISLING_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_QUISLING_ROOT"
  },
  {
   "key": "87b9295181a85ec72c730adce94f5408",
@@ -4663,7 +4699,7 @@
   "key": "d863a51c9b73085757388b65e9d7eaa8",
   "original": "Something seems not right with how you described my brother…",
   "translation": "Something seems not right with how you described my brother…",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -4985,7 +5021,6 @@
   "key": "84568d7a79ecef402119bc3ad20efe4d",
   "original": "That sounds way above my paygrade.  Try upstairs.",
   "translation": "That sounds way above my paygrade.  Try upstairs.",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -5272,7 +5307,6 @@
   "key": "4d1c48be5a9e1a190433c73d997a2ca6",
   "original": "The RM9000 is a small underslung 'gun' that fires 5x50 flechette, which can be mounted under the barrel of many rifles.  It has an 10-round integrated magazine.",
   "translation": "The RM9000 is a small underslung 'gun' that fires 5x50 flechette, which can be mounted under the barrel of many rifles.  It has an 10-round integrated magazine.",
-  "context": "ID: u_needlegun\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUNMOD→u_needlegun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=u_needlegun",
   "stage": 1
  },
  {
@@ -5370,7 +5404,6 @@
   "key": "b9c7ebb56abb6303495e20fe936f1d4f",
   "original": "The higher-ups have an ongoing poker game on the seventh floor.  They usually push some boxes in front of the door so the room looks unocuppied.",
   "translation": "The higher-ups have an ongoing poker game on the seventh floor.  They usually push some boxes in front of the door so the room looks unocuppied.",
-  "context": "ID: TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RIOT_COP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RIOT_COP_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -5646,7 +5679,7 @@
   "key": "ad8843755d896a883fed559c60218bf5",
   "original": "They may have been almost human as we are, once… before, whatever was… done to them, now they are something… else…",
   "translation": "They may have been almost human as we are，once… before，whatever was… done to them，now they are something… else…",
-  "context": "ID: dkz_mhuman2_chipped\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/harvest.json\n类型为 harvest\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→harvest→dkz_mhuman2_chipped\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_mhuman2_chipped",
+  "context": "ID: dkz_mhuman2_chipped\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 harvest\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→harvest→dkz_mhuman2_chipped\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_mhuman2_chipped",
   "stage": 1
  },
  {
@@ -5679,7 +5712,6 @@
   "key": "9e0594acf26bbbbd37626e978bb843b1",
   "original": "This assault rifle fires 5x50mm armor-piercing flechette cartridges.  RivTech™ attempted to have this weapon classified as a special purpose individual weapon, however the real reason is that they wanted to make sure the military grants kept coming.",
   "translation": "This assault rifle fires 5x50mm armor-piercing flechette cartridges.  RivTech™ attempted to have this weapon classified as a special purpose individual weapon, however the real reason is that they wanted to make sure the military grants kept coming.",
-  "context": "ID: needle_rifle\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_rifle",
   "stage": 1
  },
  {
@@ -5693,7 +5725,6 @@
   "key": "63d41319328bd75e3f9dbcdd3f867679",
   "original": "This clothing has been modified with materials collected Xenoids.",
   "translation": "This clothing has been modified with materials collected Xenoids.",
-  "context": "ID: xeno-modified\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/flags.json\n类型为 json_flag\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→json_flag→xeno-modified\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xeno-modified",
   "stage": 1
  },
  {
@@ -5742,7 +5773,6 @@
   "key": "bb88a4f45663d3867e3565912e79bb47",
   "original": "This is a haphazardly drawn map.  It has alien hieroglyphs scrawled along side of seemingly random locations.",
   "translation": "This is a haphazardly drawn map.  It has alien hieroglyphs scrawled along side of seemingly random locations.",
-  "context": "ID: migo_map\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GENERIC→migo_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=migo_map",
   "stage": 1
  },
  {
@@ -5784,14 +5814,12 @@
   "key": "b6638682bd9d7c0cb2732ac53448f1ec",
   "original": "This sheaf of papers is a highly speculative proposal for focusing \"PE0X0\".  Scribbled notes throughout seem to think that it might work, but that there's no time.",
   "translation": "This sheaf of papers is a highly speculative proposal for focusing \"PE0X0\".  Scribbled notes throughout seem to think that it might work, but that there's no time.",
-  "context": "ID: recipe_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/mutations/xeno-mutations.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→BOOK→recipe_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_xenoid",
   "stage": 1
  },
  {
   "key": "42bda81762903d15a5a67b9f804fd23d",
   "original": "This speedloader, made by RivTech™ for use with RM98 revolver, can hold 3 rounds of 8x40mm caseless rounds and quickly reload a compatible revolver.",
   "translation": "This speedloader, made by RivTech™ for use with RM98 revolver, can hold 3 rounds of 8x40mm caseless rounds and quickly reload a compatible revolver.",
-  "context": "ID: 8x40_speedloader3\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→MAGAZINE→8x40_speedloader3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=8x40_speedloader3",
   "stage": 1
  },
  {
@@ -5882,14 +5910,12 @@
   "key": "f805f565844e989e1ae58b245ae063ee",
   "original": "Try downstairs.",
   "translation": "Try downstairs.",
-  "context": "ID: TALK_MAQUIS_SLIME_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_SLIME_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_SLIME_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SLIME_MUTANT_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
   "key": "5ab13f7d3401c174afe1e70ee319db06",
   "original": "Try upstairs.",
   "translation": "Try upstairs.",
-  "context": "ID: TALK_MAQUIS_GUNSLINGER_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_GUNSLINGER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_GUNSLINGER_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_GUNSLINGER_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -5915,7 +5941,7 @@
   "key": "b5e4be94fa5a7c74c691230c906fe51b",
   "original": "Under Town",
   "translation": "Under Town",
-  "context": "ID: racing_tower_z-2_1_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z-2_1_1",
+  "context": "ID: racing_tower_z-2_1_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_tower_z-2_1_1",
   "stage": 1
  },
  {
@@ -5929,28 +5955,25 @@
   "key": "8a92926c5149c5b6ba966ecaeafe1bb2",
   "original": "Unidentified organs of from an alien, vaguely resembling entrails.  It smells awful.",
   "translation": "Unidentified organs of from an alien, vaguely resembling entrails.  It smells awful.",
-  "context": "ID: alien_offal\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_offal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_offal",
+  "context": "ID: alien_offal\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_offal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_offal",
   "stage": 1
  },
  {
   "key": "ef3c0fe45decc36661a6a9dae5abf0c3",
   "original": "Utilizing a powerful and unusual caliber, the RivTech™ RM2000 submachine gun was designed for durability and ease of carrying under less than ideal circumstances, includes an integrated scope and suppressor.  Accepts stick magazines.",
   "translation": "Utilizing a powerful and unusual caliber, the RivTech™ RM2000 submachine gun was designed for durability and ease of carrying under less than ideal circumstances, includes an integrated scope and suppressor.  Accepts stick magazines.",
-  "context": "ID: rm2000_smg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→rm2000_smg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rm2000_smg",
   "stage": 1
  },
  {
   "key": "3686e55512cbff55e7fda10e9404e84e",
   "original": "Utilizing a powerful and unusual caliber, the RivTech™ RM298 heavy machine gun was designed for durability and extreme volume of sustained fire under the worst possible circumstances.  Accepts RMXB500 box and RMGD250 drum magazines.",
   "translation": "Utilizing a powerful and unusual caliber，the RivTech™ RM298 heavy machine gun was designed for durability and extreme volume of sustained fire under the worst possible circumstances.  Accepts RMXB500 box and RMGD250 drum magazines.",
-  "context": "ID: needle_hmg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_hmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_hmg",
   "stage": 1
  },
  {
   "key": "2536fd4bc630c97d5d864cf52583e735",
   "original": "Utilizing a powerful and unusual caliber, the RivTech™ RM614 light machine gun was designed for durability and extreme volume of sustained fire under the worst possible circumstances.  Accepts RMXB500 box and RMGD250 drum magazines.",
   "translation": "Utilizing a powerful and unusual caliber，the RivTech™ RM614 light machine gun was designed for durability and extreme volume of sustained fire under the worst possible circumstances.  Accepts RMXB500 box and RMGD250 drum magazines.",
-  "context": "ID: needle_lmg\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/rivtech_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GUN→needle_lmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=needle_lmg",
   "stage": 1
  },
  {
@@ -5963,189 +5986,158 @@
  {
   "key": "b5987a97a368f93dde3c38a8a997fc1b",
   "original": "Vault - Armory",
-  "translation": "避难所（军械库）",
-  "context": "ID: vault_upper_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_2"
+  "translation": "避难所（军械库）"
  },
  {
   "key": "255073194a00afc782a8e60e72f5902d",
   "original": "Vault - Barracks",
-  "translation": "避难所（兵营）",
-  "context": "ID: vault_upper_12\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_12"
+  "translation": "避难所（兵营）"
  },
  {
   "key": "1d9de71949efbd3b231a0631890f7f0a",
   "original": "Vault - Cafeteria",
-  "translation": "避难所（餐厅）",
-  "context": "ID: vault_upper_53\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_53\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_53"
+  "translation": "避难所（餐厅）"
  },
  {
   "key": "7eb3033df5a3f56e42f20cff9221d235",
   "original": "Vault - Communications",
-  "translation": "避难所（通讯站）",
-  "context": "ID: vault_upper_23\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_23\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_23"
+  "translation": "避难所（通讯站）"
  },
  {
   "key": "5a55a0d48dc606fd551d1bb38326ed33",
   "original": "Vault - Conference Room",
-  "translation": "避难所（会议室）",
-  "context": "ID: vault_lower_61\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_61\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_61"
+  "translation": "避难所（会议室）"
  },
  {
   "key": "b9cea38fb36c5bf6a961316c1e21ba30",
   "original": "Vault - Control",
-  "translation": "避难所（控制中心）",
-  "context": "ID: vault_upper_44\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_44\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_44"
+  "translation": "避难所（控制中心）"
  },
  {
   "key": "e449becc1e87325eafb64a2c05d24ade",
   "original": "Vault - Courthouse",
-  "translation": "避难所（法院）",
-  "context": "ID: vault_upper_25\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_25\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_25"
+  "translation": "避难所（法院）"
  },
  {
   "key": "c1ad04c46864fd3976eb1c9a76dc65be",
   "original": "Vault - Entrance",
-  "translation": "避难所（入口）",
-  "context": "ID: vault_upper_29\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_29\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_29"
+  "translation": "避难所（入口）"
  },
  {
   "key": "83166a6318b0fa8e6208b6ef9a882797",
   "original": "Vault - Gym",
-  "translation": "避难所（体育馆）",
-  "context": "ID: vault_lower_80\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_80\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_80"
+  "translation": "避难所（体育馆）"
  },
  {
   "key": "cd6d5082105ac84be1fbc0270d6aa91b",
   "original": "Vault - Hospital",
-  "translation": "避难所（医院）",
-  "context": "ID: vault_lower_7\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_7"
+  "translation": "避难所（医院）"
  },
  {
   "key": "92f26067e2dddbc490feec1784ba9c96",
   "original": "Vault - Housing",
-  "translation": "避难所（房屋）",
-  "context": "ID: vault_lower_68\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_68\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_68"
+  "translation": "避难所（房屋）"
  },
  {
   "key": "a971cbebc189de2bf1bde0e2c549ef50",
   "original": "Vault - Jail",
-  "translation": "避难所（监狱）",
-  "context": "ID: vault_upper_9\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_9\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_9"
+  "translation": "避难所（监狱）"
  },
  {
   "key": "07d5a11b10d087f4586d407b097a5b5b",
   "original": "Vault - Kitchen",
-  "translation": "避难所（厨房）",
-  "context": "ID: vault_lower_52\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_52\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_52"
+  "translation": "避难所（厨房）"
  },
  {
   "key": "4da4f7a1f3c9cba9ff914db8804b3a0b",
   "original": "Vault - Labs",
-  "translation": "避难所（实验室）",
-  "context": "ID: vault_upper_81\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_81\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_81"
+  "translation": "避难所（实验室）"
  },
  {
   "key": "58ded5eba2e9417c1b4606e288271535",
   "original": "Vault - Library",
-  "translation": "避难所（图书馆）",
-  "context": "ID: vault_lower_75\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_75\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_75"
+  "translation": "避难所（图书馆）"
  },
  {
   "key": "ed96eefec18eca0e29465e1b5403eee9",
   "original": "Vault - Light Industry",
-  "translation": "避难所（轻工业）",
-  "context": "ID: vault_lower_78\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_78\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_78"
+  "translation": "避难所（轻工业）"
  },
  {
   "key": "ee57b47018c215285dfd0210e9214961",
   "original": "Vault - Living Bays",
-  "translation": "避难所（起居室）",
-  "context": "ID: vault_lower_65\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_65\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_65"
+  "translation": "避难所（起居室）"
  },
  {
   "key": "d4267966b9284225962fcb425abc0f06",
   "original": "Vault - Maint. Bay",
-  "translation": "避难所（维修站）",
-  "context": "ID: vault_lower_39\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_39\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_39"
+  "translation": "避难所（维修站）"
  },
  {
   "key": "035a8c16037dc20f045cf15c10a4efa6",
   "original": "Vault - Motor Pool",
-  "translation": "避难所（车站）",
-  "context": "ID: vault_upper_48\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_48\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_48"
+  "translation": "避难所（车站）"
  },
  {
   "key": "8a94879c8025764ab04a43a1dc2632fd",
   "original": "Vault - Offices",
-  "translation": "避难所（办公区）",
-  "context": "ID: vault_upper_14\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_14\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_14"
+  "translation": "避难所（办公区）"
  },
  {
   "key": "8c2d2dc40b0cb78b4161d1689c79c2d7",
   "original": "Vault - Passage",
-  "translation": "避难所（通道）",
-  "context": "ID: vault_lower_81\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_81\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_81"
+  "translation": "避难所（通道）"
  },
  {
   "key": "252d32a228a1fde7c1ed34173e4a719f",
   "original": "Vault - Police Station",
-  "translation": "避难所（警察局）",
-  "context": "ID: vault_upper_27\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_27\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_27"
+  "translation": "避难所（警察局）"
  },
  {
   "key": "a451e4b0f26ed90d7c7616bf09ea955c",
   "original": "Vault - Quartermasters",
-  "translation": "避难所（军需处）",
-  "context": "ID: vault_lower_41\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_41\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_41"
+  "translation": "避难所（军需处）"
  },
  {
   "key": "ca6b23f6941ce1aa2bbf8bb7ea3cc4aa",
   "original": "Vault - Robotics Bay",
-  "translation": "避难所（机器人工作站）",
-  "context": "ID: vault_lower_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_2"
+  "translation": "避难所（机器人工作站）"
  },
  {
   "key": "25da7d1cb9bda0b59517561067d9815a",
   "original": "Vault - School",
-  "translation": "避难所（学校）",
-  "context": "ID: vault_upper_79\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_79\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_79"
+  "translation": "避难所（学校）"
  },
  {
   "key": "8abe4d3cd9ac7ac95bf8339a6f3b31cf",
   "original": "Vault - Slum Housing",
-  "translation": "避难所（贫民窟）",
-  "context": "ID: vault_lower_63\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_63\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_63"
+  "translation": "避难所（贫民窟）"
  },
  {
   "key": "664a8d24b23a56609eb663565491fdd5",
   "original": "Vault - Subway Access",
   "translation": "Vault - Subway Access",
-  "context": "ID: vault_upper_55\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_55\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_55",
   "stage": 1
  },
  {
   "key": "a65eec7ba555b029bd2e824b00806ff2",
   "original": "Vault - Suites",
-  "translation": "避难所（公寓）",
-  "context": "ID: vault_lower_17\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_17\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_17"
+  "translation": "避难所（公寓）"
  },
  {
   "key": "b14b28db1e083eece3e5f2a071b2542e",
   "original": "Vault - Transition Bay",
-  "translation": "避难所（交通站）",
-  "context": "ID: vault_lower_36\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_36\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_36"
+  "translation": "避难所（交通站）"
  },
  {
   "key": "d06fe52978c0342fedb3f5e685057ccc",
   "original": "Vault - Utilities",
-  "translation": "避难所（水电站）",
-  "context": "ID: vault_upper_21\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_21\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_21"
+  "translation": "避难所（水电站）"
  },
  {
   "key": "5e514f637233679495455d51a4fad1e9",
   "original": "Vault - Visitor Center",
-  "translation": "避难所（招待处）",
-  "context": "ID: vault_upper_40\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_upper_40\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_upper_40"
+  "translation": "避难所（招待处）"
  },
  {
   "key": "581f9c8466f3064d6102d2cf7e4a7f3a",
@@ -6186,7 +6178,7 @@
   "key": "c4f087824f3557c75f7c2d871a39bc1a",
   "original": "We don't bother anyone up here and expect the same from others.",
   "translation": "We don't bother anyone up here and expect the same from others.",
-  "context": "ID: TALK_MAQUIS_MOTH_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MOTH_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MOTH_MUTANT_ROOT",
+  "context": "ID: TALK_MAQUIS_RODENT_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RODENT_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RODENT_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RODENT_MUTANT_ROOT",
   "stage": 1
  },
  {
@@ -6296,7 +6288,6 @@
   "key": "0819837b341bd1c13d3d67702e6cbbd7",
   "original": "Well you are pretty far away from the tall tower Mr. Erikson calls home.",
   "translation": "Well you are pretty far away from the tall tower Mr. Erikson calls home.",
-  "context": "ID: TALK_MAQUIS_FELIX_FOX_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_FELIX_FOX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_FELIX_FOX_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_FELIX_FOX_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -6362,7 +6353,7 @@
   "key": "02cd34d4fd5c5b451d3fe6d1d317907d",
   "original": "What brings you up here, scavenger.",
   "translation": "What brings you up here，scavenger.",
-  "context": "ID: TALK_MAQUIS_MOTH_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_MOTH_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_MOTH_MUTANT_ROOT",
+  "context": "ID: TALK_MAQUIS_RODENT_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RODENT_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RODENT_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RODENT_MUTANT_ROOT",
   "stage": 1
  },
  {
@@ -6390,14 +6381,12 @@
   "key": "4c66d1b6c118703883b354534920a7f6",
   "original": "What can you tell me about Mi-Gos?",
   "translation": "What can you tell me about Mi-Gos？",
-  "context": "ID: TALK_Millyficent_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1",
   "stage": 1
  },
  {
   "key": "d15a4574c4b27cdaa3ed75888a67b5a8",
   "original": "What can you tell me about Xenoids?",
   "translation": "What can you tell me about Xenoids？",
-  "context": "ID: TALK_Millyficent_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1",
   "stage": 1
  },
  {
@@ -6460,7 +6449,6 @@
   "key": "c13eae49420296661b7ced9e82908f58",
   "original": "What do you want to know about them?",
   "translation": "What do you want to know about them？",
-  "context": "ID: TALK_Millyficent_1_MIGO\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_Millyficent_Whately.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_Millyficent_1_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Millyficent_1_MIGO",
   "stage": 1
  },
  {
@@ -6631,7 +6619,6 @@
   "key": "dcd84b49cb5ed67d8315f66d9c9f6a01",
   "original": "Why are you asking me?",
   "translation": "Why are you asking me？",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_RENDEZVOUS_TO_BASE",
   "stage": 1
  },
  {
@@ -6645,7 +6632,7 @@
   "key": "1eb7fe4f4452283de5dd326d2d7b8e5c",
   "original": "With a dozen prototype cybernetic augmentions and one arm totally replaced with the Fusion Blaster, you are a force to reckon with.",
   "translation": "With a dozen prototype cybernetic augmentions and one arm totally replaced with the Fusion Blaster, you are a force to reckon with.",
-  "context": "ID: bionic_maquis_mega_man\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_mega_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_mega_man",
+  "context": "ID: bionic_maquis_mega_man\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_mega_man\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_mega_man",
   "stage": 1
  },
  {
@@ -6666,7 +6653,7 @@
   "key": "0a5233dcbaa4a5b0144a860fca0b4f23",
   "original": "With this we'll be able to convince others to join up and fight against the invasion",
   "translation": "With this we'll be able to convince others to join up and fight against the invasion",
-  "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER",
+  "context": "ID: MISSION_GO_MEET_THE_BIG_FED\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→mission_definition→MISSION_GO_MEET_THE_BIG_FED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_GO_MEET_THE_BIG_FED",
   "stage": 1
  },
  {
@@ -6826,8 +6813,7 @@
  {
   "key": "2b7208f73c09035f81068beaead7bd69",
   "original": "You add the locations to your map.",
-  "translation": "你在地图上标记了一些地点。",
-  "context": "ID: migo_map\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GENERIC→migo_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=migo_map"
+  "translation": "你在地图上标记了一些地点。"
  },
  {
   "key": "bbcb2797facee57723c0a1890f9d15e3",
@@ -6846,7 +6832,7 @@
   "key": "e7f26a461dc724904365c1296f145d6b",
   "original": "You are the result of one of the military's latest and final research programs, a prototype cyborg soldier.  You're still alive thanks to your augmentations, even after all your comrades fell to the undead.",
   "translation": "你是军方的最新也是最后的生化战士研究方案的结果。幸亏你的强力改造，你所有的战友都倒在了亡灵脚下，而你还活着。至于目前你所知道的全部就是，当你错过了紧急撤离，你的长官把你抛弃了在这个地狱里。",
-  "context": "ID: bionic_maquis_soldier\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/character_gen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_soldier"
+  "context": "ID: bionic_maquis_soldier\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→profession→bionic_maquis_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bionic_maquis_soldier"
  },
  {
   "key": "79ba9d90b8ae44762c8ee022a2373261",
@@ -6969,21 +6955,18 @@
  {
   "key": "3c6e62634756200f0998f8c40883187a",
   "original": "You pop the wheels back in.",
-  "translation": "你把轮子放回去了。",
-  "context": "ID: roller_boots_inline\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_inline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_inline"
+  "translation": "你把轮子放回去了。"
  },
  {
   "key": "f7b10c223d2806c0ee9f29eb6ca17128",
   "original": "You pop the wheels into inline-skating style.",
   "translation": "You pop the wheels into inline-skating style.",
-  "context": "ID: roller_boots_quad\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_quad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_quad",
   "stage": 1
  },
  {
   "key": "2cadb89e794127ff85b9535a0f95cb43",
   "original": "You pop the wheels into roller-skating style.",
   "translation": "You pop the wheels into roller-skating style.",
-  "context": "ID: roller_boots_off\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_off",
   "stage": 1
  },
  {
@@ -7178,7 +7161,6 @@
   "key": "ff512015790f1611b296f7131b056ae9",
   "original": "[MISSION] I have important information for resistance leadership.",
   "translation": "[MISSION] I have important information for resistance leadership.",
-  "context": "ID: TALK_MAQUIS_TROG_MUTANT_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_TROG_MUTANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_TROG_MUTANT_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_TROG_MUTANT_ROOT",
   "stage": 1
  },
  {
@@ -7192,7 +7174,6 @@
   "key": "456a336de094afb040bd6413a19a655e",
   "original": "[MISSION] I need to see a Mr. Chad.",
   "translation": "[MISSION] I need to see a Mr. Chad.",
-  "context": "ID: TALK_MAQUIS_RIOT_COP_ROOT\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/NPC/NPC_Talk/TALK_MAQUIS_RIOT_COP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→talk_topic→TALK_MAQUIS_RIOT_COP_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_RIOT_COP_ROOT",
   "stage": 1
  },
  {
@@ -7366,7 +7347,13 @@
   "key": "72e76467d09fdb600f15041dae880c2a",
   "original": "abandoned storefront",
   "translation": "废弃店铺",
-  "context": "ID: dkz_abstorefront\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/dkz_abstorefront.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_abstorefront"
+  "context": "ID: dkz_abstorefront\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[23]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_abstorefront"
+ },
+ {
+  "key": "5a33371d776f5dd190e7be1289125991",
+  "original": "abandoned storefront roof",
+  "translation": "废弃店铺（屋顶）",
+  "context": "ID: dkz_abstorefront_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[24]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_abstorefront_roof"
  },
  {
   "key": "30920c700cfe4d8b5b48cef163361fab",
@@ -7387,6 +7374,13 @@
   "original": "alien fungal cyst",
   "translation": "alien fungal cyst",
   "context": "ID: fungal_cyst\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GENERIC→fungal_cyst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fungal_cyst",
+  "stage": 1
+ },
+ {
+  "key": "1d1316ee015731c156d0ce68dc30cc0f",
+  "original": "alien skin",
+  "translation": "alien skin",
+  "context": "ID: raw_alien_leather\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→raw_alien_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_alien_leather",
   "stage": 1
  },
  {
@@ -7455,7 +7449,7 @@
   "key": "84e8d9aba9db10daf4f9ac24d96c095a",
   "original": "apple orchard",
   "translation": "苹果园",
-  "context": "ID: sky_marshal_farm_orchard\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_orchard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_orchard"
+  "context": "ID: sky_marshal_farm_orchard\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_orchard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_orchard"
  },
  {
   "key": "2dfb9b9259634bfe4f9f93ced317f7ba",
@@ -7467,7 +7461,7 @@
   "key": "48719d321e4b4a9c2ca8c6a1f8b9cba8",
   "original": "basement",
   "translation": "地下室",
-  "context": "ID: sky_marshal_farm_radio_tower_basement\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_radio_tower_basement"
+  "context": "ID: sky_marshal_farm_radio_tower_basement\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_radio_tower_basement"
  },
  {
   "key": "2e38f2cf811f4d5202dffc6127615874",
@@ -7582,38 +7576,49 @@
   "key": "388eb4860c606ec0bc6650d753ce516d",
   "original": "carriage house",
   "translation": "马车房",
-  "context": "ID: sky_marshal_farm_4\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_4"
+  "context": "ID: sky_marshal_farm_4\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_4"
  },
  {
   "key": "73f96a60f7b045635a385662852318fc",
   "original": "carriage house roof",
   "translation": "马车房（屋顶）",
-  "context": "ID: sky_marshal_farm_4_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_4_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_4_roof"
+  "context": "ID: sky_marshal_farm_4_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_4_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_4_roof"
  },
  {
   "key": "ed57d10fea52719068f7b2792ccd5ecd",
   "original": "catacomb",
   "translation": "catacomb",
-  "context": "ID: catacomb_tree_plot_bunker\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[8]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=catacomb_tree_plot_bunker",
+  "context": "ID: catacomb_tree_plot_bunker\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[8]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=catacomb_tree_plot_bunker",
   "stage": 1
  },
  {
   "key": "420041ed55a01779d7c409d007070961",
   "original": "cavern",
-  "translation": "大地洞",
-  "context": "ID: vault_sewer_37\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_sewer_37\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_sewer_37"
+  "translation": "大地洞"
  },
  {
   "key": "6afcba65c9937bfd204e36e2c351ea0b",
   "original": "chicken coop",
   "translation": "鸡舍",
-  "context": "ID: sky_marshal_farm_10\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_10"
+  "context": "ID: sky_marshal_farm_10\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_10"
  },
  {
   "key": "3e62fa5d34d2af69324e60c7c9a4f7d6",
   "original": "chicken coop roof",
   "translation": "鸡舍（屋顶）",
-  "context": "ID: sky_marshal_farm_10_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_10_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_10_roof"
+  "context": "ID: sky_marshal_farm_10_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_10_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_10_roof"
+ },
+ {
+  "key": "eed29db1685ed0d7051953c384342ebb",
+  "original": "chunk of alien fat",
+  "translation": "异形脂肪块",
+  "context": "ID: alien_fat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_fat"
+ },
+ {
+  "key": "7e778103c243b05618797a318542f276",
+  "original": "chunk of alien meat",
+  "translation": "异形肉块",
+  "context": "ID: alien_meat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_meat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_meat"
  },
  {
   "key": "3e95bcaebd9f380485e7d6574ab9e97b",
@@ -7627,6 +7632,20 @@
   "original": "chunk of xenoid meat",
   "translation": "chunk of xenoid meat",
   "context": "ID: alien_meat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_meat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_meat",
+  "stage": 1
+ },
+ {
+  "key": "d6e53038c076b7c03b939b91af410837",
+  "original": "chunks of alien fat",
+  "translation": "chunks of alien fat",
+  "context": "ID: alien_fat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_fat",
+  "stage": 1
+ },
+ {
+  "key": "6ef40a19686facd95ee0af50bb69eaa6",
+  "original": "chunks of alien meat",
+  "translation": "chunks of alien meat",
+  "context": "ID: alien_meat\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_meat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_meat",
   "stage": 1
  },
  {
@@ -7667,7 +7686,6 @@
   "key": "054bfb0b21f77be11fc1902bd5b329b2",
   "original": "copies of PE0X0 \"Xenoid\": Proposal",
   "translation": "copies of PE0X0 \"Xenoid\": Proposal",
-  "context": "ID: recipe_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/mutations/xeno-mutations.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→BOOK→recipe_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_xenoid",
   "stage": 1
  },
  {
@@ -7741,25 +7759,25 @@
   "key": "4ca68951e65fe4f338c465cddaf59ac8",
   "original": "farm field",
   "translation": "农田",
-  "context": "ID: sky_marshal_farm_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_2"
+  "context": "ID: sky_marshal_farm_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_2"
  },
  {
   "key": "d0a45bb66ad624e9c2d938080c7853e0",
   "original": "farm house",
   "translation": "农舍",
-  "context": "ID: sky_marshal_farm_13\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[9]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13"
+  "context": "ID: sky_marshal_farm_13\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[9]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13"
  },
  {
   "key": "70284d3fbb1e531ea760a5dad27b878b",
   "original": "farm house 2nd floor",
   "translation": "农舍（二楼）",
-  "context": "ID: sky_marshal_farm_13_2ndfloor\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13_2ndfloor"
+  "context": "ID: sky_marshal_farm_13_2ndfloor\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13_2ndfloor"
  },
  {
   "key": "4507d77af0731ae0727db8aca002b852",
   "original": "farm house roof",
   "translation": "农舍（屋顶）",
-  "context": "ID: sky_marshal_farm_13_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[11]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13_roof"
+  "context": "ID: sky_marshal_farm_13_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[11]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_13_roof"
  },
  {
   "key": "d38a5e02ec799e0364370ab9c8c321c7",
@@ -7804,20 +7822,17 @@
  {
   "key": "3824795e4e1fbf0f72f1cf99ee90d861",
   "original": "garage",
-  "translation": "车库",
-  "context": "ID: dkz_garage_gas_2\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/dkz_garage_gas.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_garage_gas_2"
+  "translation": "车库"
  },
  {
   "key": "189b519c0597b9919dddc2af58f246b6",
   "original": "garage - gas station",
-  "translation": "车库（加油站）",
-  "context": "ID: dkz_garage_gas_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/dkz_garage_gas.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→dkz_garage_gas_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_garage_gas_1"
+  "translation": "车库（加油站）"
  },
  {
   "key": "f2347ba93591c2666ab4e5427b4089cd",
   "original": "garage roof",
-  "translation": "车库（屋顶）",
-  "context": "ID: dkz_garage_gas_roof_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/dkz_garage_gas.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[4]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_garage_gas_roof_1"
+  "translation": "车库（屋顶）"
  },
  {
   "key": "3f1bcc91f2d1ec0dd7cc5eae2f6b2562",
@@ -7842,13 +7857,13 @@
   "key": "c50e7c8920e3124c03b5f17dc0cbe3a9",
   "original": "green house",
   "translation": "温室",
-  "context": "ID: sky_marshal_farm_9\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_9\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_9"
+  "context": "ID: sky_marshal_farm_9\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_9\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_9"
  },
  {
   "key": "25eb77d2b202a6d5670993a4524cc7b7",
   "original": "green house roof",
   "translation": "温室（房顶）",
-  "context": "ID: sky_marshal_farm_9_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_9_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_9_roof"
+  "context": "ID: sky_marshal_farm_9_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_9_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_9_roof"
  },
  {
   "key": "d304800eaa0e3a1d6af99e9ebbe2ae6d",
@@ -7860,19 +7875,19 @@
   "key": "98ffb0d7bae99fda75f1dec75a7516ed",
   "original": "horse stable",
   "translation": "马厩",
-  "context": "ID: sky_marshal_farm_7\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7"
+  "context": "ID: sky_marshal_farm_7\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7"
  },
  {
   "key": "bbad11efab4aa0e75009feb056c68015",
   "original": "horse stable hayloft",
   "translation": "马厩（厩楼）",
-  "context": "ID: sky_marshal_farm_7_hayloft\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7_hayloft\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7_hayloft"
+  "context": "ID: sky_marshal_farm_7_hayloft\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7_hayloft\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7_hayloft"
  },
  {
   "key": "3e2f767934077a2de17e53da78edaf3b",
   "original": "horse stable roof",
   "translation": "马厩（屋顶）",
-  "context": "ID: sky_marshal_farm_7_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7_roof"
+  "context": "ID: sky_marshal_farm_7_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_7_roof\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_7_roof"
  },
  {
   "key": "dd39bbb4ea73ad71d7a552ef53944e47",
@@ -7923,14 +7938,13 @@
   "key": "895d613fe01a122c37f122b3a5e134c7",
   "original": "log hut roof",
   "translation": "log hut roof",
-  "context": "ID: sky_marshal_farm_inner_tree_plot_bunker_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot_bunker_roof",
+  "context": "ID: sky_marshal_farm_inner_tree_plot_bunker_roof\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot_bunker_roof",
   "stage": 1
  },
  {
   "key": "b1f14dd5b87a525251dbab6aa42de61f",
   "original": "map of monsters",
   "translation": "map of monsters",
-  "context": "ID: migo_map\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→GENERIC→migo_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=migo_map",
   "stage": 1
  },
  {
@@ -7950,7 +7964,6 @@
   "key": "c689a89a808ca5b4666391dcb257e18b",
   "original": "mi-go outpost",
   "translation": "mi-go outpost",
-  "context": "ID: mi-go_outpost2-3\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_outpost/mi-go_outpost.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→mi-go_outpost2-3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mi-go_outpost2-3",
   "stage": 1
  },
  {
@@ -7976,21 +7989,18 @@
   "key": "0ffdd08200dfba5b95bdbcc953a8d37f",
   "original": "pair of heely boots (inline)",
   "translation": "pair of heely boots (inline)",
-  "context": "ID: roller_boots_inline\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_inline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_inline",
   "stage": 1
  },
  {
   "key": "d3ec0e55d4edc592de403ced0ff9e4e1",
   "original": "pair of heely boots (off)",
   "translation": "pair of heely boots (off)",
-  "context": "ID: roller_boots_off\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_off",
   "stage": 1
  },
  {
   "key": "f5cf666380d85e875fe4533e1aaa8c20",
   "original": "pair of heely boots (quad)",
   "translation": "pair of heely boots (quad)",
-  "context": "ID: roller_boots_quad\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_quad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_quad",
   "stage": 1
  },
  {
@@ -8031,21 +8041,18 @@
   "key": "eb1b676b5f0032a371710b1fd6cd3c26",
   "original": "pairs of heely boots (inline)",
   "translation": "pairs of heely boots (inline)",
-  "context": "ID: roller_boots_inline\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_inline\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_inline",
   "stage": 1
  },
  {
   "key": "a698f4ee600932f13304134ea3f0f274",
   "original": "pairs of heely boots (off)",
   "translation": "pairs of heely boots (off)",
-  "context": "ID: roller_boots_off\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_off",
   "stage": 1
  },
  {
   "key": "5fb055dbc0e700610e43c7e9df33f9c6",
   "original": "pairs of heely boots (quad)",
   "translation": "pairs of heely boots (quad)",
-  "context": "ID: roller_boots_quad\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/items/miscellaneous.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→ARMOR→roller_boots_quad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roller_boots_quad",
   "stage": 1
  },
  {
@@ -8073,7 +8080,7 @@
   "key": "de73807b41656e73eb3938c56872167d",
   "original": "parking lot",
   "translation": "停车场",
-  "context": "ID: racing_arcology_parking_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_arcology_parking_1"
+  "context": "ID: racing_arcology_parking_1\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/barter_tower_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=racing_arcology_parking_1"
  },
  {
   "key": "ca2f552366ef5ff342218a27fd91b5b2",
@@ -8153,7 +8160,14 @@
   "key": "33256dbe9df2ff46ac4a62d52da8109b",
   "original": "radio tower",
   "translation": "无线发射塔",
-  "context": "ID: sky_marshal_farm_radio_tower\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_radio_tower"
+  "context": "ID: sky_marshal_farm_radio_tower\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_radio_tower"
+ },
+ {
+  "key": "9cc8fb35243d1633c1d6c755cbdf4487",
+  "original": "raw alien entrails",
+  "translation": "raw alien entrails",
+  "context": "ID: alien_offal\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→alien_offal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alien_offal",
+  "stage": 1
  },
  {
   "key": "6e3cb0b54d3c58eb96b5b52e3c0061b7",
@@ -8227,13 +8241,13 @@
   "key": "cc578c8c2eb8dfbee9b34fdae977a960",
   "original": "rural building",
   "translation": "乡村建筑",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[1]\n"
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[1]\n"
  },
  {
   "key": "5242ef4ad8b0ec261951fd62c60479f6",
   "original": "rural road",
   "translation": "乡村公路",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[0]\n"
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[0]\n"
  },
  {
   "key": "a05f13fb4d8fcdc79480af6329436bfc",
@@ -8349,8 +8363,7 @@
  {
   "key": "a8891c8e979543bd38bd205c5eee4ee4",
   "original": "sewer",
-  "translation": "下水道",
-  "context": "ID: vault_sewer_79\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_sewer_79\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_sewer_79"
+  "translation": "下水道"
  },
  {
   "key": "c90ba18aa942ab0a6841cb68edaf2291",
@@ -8361,8 +8374,7 @@
  {
   "key": "6d639d3125a148f932a27dd33f922849",
   "original": "sewer?",
-  "translation": "下水道？",
-  "context": "ID: vault_sewer_29\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_sewer_29\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_sewer_29"
+  "translation": "下水道？"
  },
  {
   "key": "965ca662c7141613e1b845c526baa86c",
@@ -8411,7 +8423,7 @@
   "key": "4dcabd5310afdc38651861c4a40f7acb",
   "original": "small xenoid bone",
   "translation": "small xenoid bone",
-  "context": "ID: bone_xenoid_small\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid_small",
+  "context": "ID: bone_xenoid_small\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid_small",
   "stage": 1
  },
  {
@@ -8444,8 +8456,7 @@
  {
   "key": "6366156407c41f2cef3bb89453550e64",
   "original": "solid rock",
-  "translation": "坚岩",
-  "context": "ID: vault_lower_73\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/mi-go_incursion/terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→vault_lower_73\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vault_lower_73"
+  "translation": "坚岩"
  },
  {
   "key": "99601b591bfd1ba00a4379f733a5a31e",
@@ -8670,35 +8681,34 @@
   "key": "57cd9361db19ff040ca4a6ba209f5666",
   "original": "tree plot",
   "translation": "tree plot",
-  "context": "ID: sky_marshal_farm_inner_tree_plot\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot",
+  "context": "ID: sky_marshal_farm_inner_tree_plot\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot",
   "stage": 1
  },
  {
   "key": "6bb24b80b802ead826b55b7c8ff8e644",
   "original": "tree plot with log hut",
   "translation": "tree plot with log hut",
-  "context": "ID: sky_marshal_farm_inner_tree_plot_bunker\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_farm/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_inner_tree_plot_bunker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot_bunker",
+  "context": "ID: sky_marshal_farm_inner_tree_plot_bunker\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/overmap/sky_marshal_overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→overmap_terrain→sky_marshal_farm_inner_tree_plot_bunker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_marshal_farm_inner_tree_plot_bunker",
   "stage": 1
  },
  {
   "key": "54984525325bb9f11948cc6a94a3f792",
   "original": "triffid wax",
   "translation": "triffid wax",
-  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
+  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
   "stage": 1
  },
  {
   "key": "3b0809a35bec3fe5be7d61519c066e8e",
   "original": "triffid waxes",
   "translation": "triffid waxes",
-  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
+  "context": "ID: triffid_wax\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→triffid_wax\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_wax",
   "stage": 1
  },
  {
   "key": "febb1da483bd82fbd28dbaa862467783",
   "original": "twitching frond",
-  "translation": "摇摆蕨叶",
-  "context": "ID: f_alien_zapper7\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/furniture_and_terrain/mi-go_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→furniture→f_alien_zapper7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_alien_zapper7"
+  "translation": "摇摆蕨叶"
  },
  {
   "key": "7ff39b6ba858b8bc3cf3976f3b972937",
@@ -8793,7 +8803,7 @@
   "key": "f17d81ba5049d0c393ef5a2665bf44a5",
   "original": "xenoid bone",
   "translation": "xenoid bone",
-  "context": "ID: bone_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvesting/organs.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid",
+  "context": "ID: bone_xenoid\n位于 /Kenan-Structured-Modpack/Really_Dark_Skies/harvest.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Really_Dark_Skies→COMESTIBLE→bone_xenoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bone_xenoid",
   "stage": 1
  },
  {
