@@ -4421,7 +4421,7 @@
   "key": "50a72448d9889a251b6263b2cf912d83",
   "original": "Expands upon the Touhou Professions mod.  Coregame balance not guaranteed.",
   "translation": "东方职业模组的扩展。不保证平衡性。（需要在“场景”里选择东方职业（扩展））",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→[0]\n",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Touhou_expansion",
   "stage": 3
  },
  {
@@ -5789,7 +5789,7 @@
   "key": "7688da6a753bff8f37438c1d96d7176a",
   "original": "Outdoors starting locations.",
   "translation": "Outdoors starting locations.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→[0]\n",
+  "context": "ID: thex_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→thex_everything\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thex_everything",
   "stage": 1
  },
  {
@@ -7707,14 +7707,14 @@
   "key": "702df6c4cd1aeb9cc2dc59807f6c3acb",
   "original": "Touhou Expansion",
   "translation": "东方职业模组扩展包",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→[0]\n",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Touhou_expansion",
   "stage": 3
  },
  {
   "key": "48b5a7c070d41fcebe6949c03f8bb814",
   "original": "Touhou mod (Expansion)",
   "translation": "东方职业(扩展)",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→[0]\n",
+  "context": "ID: thex_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→thex_everything\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thex_everything",
   "stage": 3
  },
  {
@@ -8308,7 +8308,7 @@
   "key": "f8d177e846e8c1e3d676074a75830482",
   "original": "You were walking to some location in Gensokyo, and ended up in the Outside World.  Not only that, but thousands of ri away! This incident seems to be on another whole level.",
   "translation": "你本来走在幻想乡内的去某个地方的路上，结果来到了外界的世界。不仅如此，你还离原来的地方有数千里之遥！这次异变程度似乎是另一种层次的等级了。",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→[0]\n",
+  "context": "ID: thex_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→scenario→thex_everything\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thex_everything",
   "stage": 1
  },
  {
