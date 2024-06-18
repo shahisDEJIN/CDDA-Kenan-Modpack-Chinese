@@ -917,8 +917,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             if(Object.getPrototypeOf(item?.no) === Object.prototype){
               now = item.no
             }
-            while (Object.getPrototypeOf(item?.yes) === Object.prototype || Object.getPrototypeOf(item?.no) === Object.prototype){
-              if(Object.getPrototypeOf(item?.yes) === Object.prototype){
+            while (Object.getPrototypeOf(now?.yes) === Object.prototype || Object.getPrototypeOf(now?.no) === Object.prototype){
+              if(Object.getPrototypeOf(now?.yes) === Object.prototype){
                 if(typeof now?.no === 'string') {
                   now.no = await translateFunction(now.no);
                 }
@@ -927,7 +927,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
                 }
                 now = now.yes
               }
-              if(Object.getPrototypeOf(item?.no) === Object.prototype){
+              if(Object.getPrototypeOf(now?.no) === Object.prototype){
                 if(typeof now?.yes === 'string') {
                   now.yes = await translateFunction(now.yes);
                 }
