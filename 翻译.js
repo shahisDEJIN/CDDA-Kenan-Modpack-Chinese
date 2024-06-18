@@ -905,8 +905,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       // }
       if (Array.isArray(line?.concatenate)){
         await Promise.all(line.concatenate.map(async (item) => {
-          translateFunctionB(item.yes);
-          translateFunctionB(item.no)
+          translateFunctionB(item?.yes);
+          translateFunctionB(item?.no)
           let now;
           if(typeof item?.yes === 'object' || typeof item?.no === 'object'){
             if(typeof item?.yes === 'object'){
@@ -917,16 +917,16 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             }
             while (now?.yes === 'object' || typeof now?.no === 'object'){
               if(typeof now?.yes === 'object'){
-                translateFunctionB(now.no)
+                translateFunctionB(now?.no)
                 now = now.yes
               }
               if(typeof now?.no === 'object'){
-                translateFunctionB(now.yes)
+                translateFunctionB(now?.yes)
                 now = now.no
               }
             }
-            translateFunctionB(now.yes)
-            translateFunctionB(now.no)
+            translateFunctionB(now?.yes)
+            translateFunctionB(now?.no)
           }
         }))
       }
