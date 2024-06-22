@@ -127,8 +127,8 @@ async function qwenTextGenerate(promptValue) {
     return generatedText;
   } catch (error) {
     const errorData = await response.json();
-    console.error(`文本生成请求失败: 错误代码：${errorData.code}，错误信息：${errorData.message},错误ID: ${errorData.request_id}`, error);
-    throw error;
+    console.error('文本生成请求失败: ', error);
+    throw new Error(`错误代码：${errorData.code}，错误信息：${errorData.message},错误ID: ${errorData.request_id}`);
   }
 }
 
