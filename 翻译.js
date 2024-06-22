@@ -1155,7 +1155,14 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       item.dialogue.failure = await translateFunction(item.dialogue.failure);
     }
   };
-  translators.npc_class = noop;
+  translators.npc_class = async (item) => {
+    if(item?.name){
+      item.name = await translateFunction(item.name);
+    }
+    if(item?.job_description){
+      item.description = await translateFunction(item.description)
+    }
+  }
   translators.npc = npc;
   translators.trait_group = noop;
   translators.mapgen = noop;
