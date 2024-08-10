@@ -45,6 +45,7 @@
     "name": "lumbermill",
     "sym": "L",
     "color": "i_green",
+    "see_cost": "high",
     "flags": [ "SOURCE_CONSTRUCTION", "SOURCE_FABRICATION" ],
     "spawns": { "group": "GROUP_lumbermill", "population": [ 1, 1 ], "chance": 10 }
   }
