@@ -1919,7 +1919,7 @@
   "key": "c72399cb04a25cbb1999c2f85f0d2f82",
   "original": "<color_light_red>%1$s throws a strange energy grenade which explodes violently upon reaching %3$s!</color>",
   "translation": "<color_light_red>%1$s throws a strange energy grenade which explodes violently upon reaching %3$s！</color>",
-  "context": "ID: mon_BL9_tsmilitary2_energy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_energy\n",
+  "context": "ID: mon_BL9_tsmilitary2_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_patrolleader\n",
   "stage": 1
  },
  {
@@ -5431,9 +5431,9 @@
   "stage": 3
  },
  {
-  "key": "81da594d69ab8de8f62ba7292c331c07",
-  "original": "A zealot in long red robes wearing a strange skull mask infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely solemn gaze, disturbingly pale skin and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  their motive is to kill those that didn't accept the blessing of their \"dios\", this one is armed with a sword and it seems to know how to use it well.",
-  "translation": "A zealot in long red robes wearing a strange skull mask infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely solemn gaze, disturbingly pale skin and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  their motive is to kill those that didn't accept the blessing of their \"dios\", this one is armed with a sword and it seems to know how to use it well.",
+  "key": "94174a09935d5f3ee0bbe2c475007cc3",
+  "original": "A zealot in long red robes wearing a strange skull mask infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely solemn gaze, disturbingly pale skin and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  their motive is to kill those that didn't accept the blessing of their \"dios\", this one is armed with a sword and it seems to know how to use it well.",
+  "translation": "A zealot in long red robes wearing a strange skull mask infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely solemn gaze, disturbingly pale skin and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  their motive is to kill those that didn't accept the blessing of their \"dios\", this one is armed with a sword and it seems to know how to use it well.",
   "context": "ID: mon_BL9_cultist_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_cultist_patrolleader\n",
   "stage": 1
  },
@@ -6063,9 +6063,9 @@
   "stage": 3
  },
  {
-  "key": "c3a199f11a3c9e1569c9ca987180659d",
-  "original": "An armored mercenary with a calculating look wearing a sleek combat armor infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, seemingly faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a bayonet and it obviously knows how to use it well",
-  "translation": "An armored mercenary with a calculating look wearing a sleek combat armor infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, seemingly faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a bayonet and it obviously knows how to use it well",
+  "key": "63b7cb33931d54386fae0db35de9fa8c",
+  "original": "An armored mercenary with a calculating look wearing a sleek combat armor infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, seemingly faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a shock-rod and it obviously knows how to use it well",
+  "translation": "An armored mercenary with a calculating look wearing a sleek combat armor infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, seemingly faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a shock-rod and it obviously knows how to use it well",
   "context": "ID: mon_BL9_military_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_military_patrolleader\n",
   "stage": 1
  },
@@ -6169,6 +6169,13 @@
   "original": "An armored professional soldier infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with an energy machine gun, pack of strange energy grenades and it obviously knows how to use them well.",
   "translation": "An armored professional soldier infused with the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with an energy machine gun, pack of strange energy grenades and it obviously knows how to use them well.",
   "context": "ID: mon_BL9_tsmilitary2_energy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_energy\n",
+  "stage": 1
+ },
+ {
+  "key": "d8df5ae79d3a922637d3a7c8c035d067",
+  "original": "An armored professional soldier with a very calculating look wearing a sleek hi-tech combat suit infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with an energy machine gun, pack of strange energy grenades and it obviously knows how to use them well.",
+  "translation": "An armored professional soldier with a very calculating look wearing a sleek hi-tech combat suit infused with the BL9 who carries a lot of coins. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the presence of artificially modified BL9 to make them more violent, obedient,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with an energy machine gun, pack of strange energy grenades and it obviously knows how to use them well.",
+  "context": "ID: mon_BL9_tsmilitary2_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_patrolleader\n",
   "stage": 1
  },
  {
@@ -6586,6 +6593,13 @@
   "original": "Armed 'True Superiors' BL9-Soldier - Energy Weapons",
   "translation": "武装的“真正优越者”BL9-士兵——能量武器",
   "context": "ID: mon_BL9_tsmilitary2_energy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_energy\n",
+  "stage": 1
+ },
+ {
+  "key": "54a3d2989b6dfa99c9edaa7c816a2f2c",
+  "original": "Armed 'True Superiors' BL9-Soldier - Patrol Leader",
+  "translation": "Armed 'True Superiors' BL9-Soldier - Patrol Leader",
+  "context": "ID: mon_BL9_tsmilitary2_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_patrolleader\n",
   "stage": 1
  },
  {
@@ -7997,21 +8011,32 @@
   "key": "d2ceaa18116432f6a4b4bc01e37f22ff",
   "original": "BL9 Hidden Hostile Alien Structures Map",
   "translation": "BL9 Hidden Hostile Alien Structures Map",
-  "context": "ID: BL9_locationsmapalien\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapalien\n",
   "stage": 1
  },
  {
   "key": "df29f029de7798839bd54f5ac2e2baf1",
   "original": "BL9 Hidden Hostile Human Tyrant Structures Map",
   "translation": "BL9 Hidden Hostile Human Tyrant Structures Map",
-  "context": "ID: BL9_locationsmapbig\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapbig\n",
+  "stage": 1
+ },
+ {
+  "key": "0301ddb720164595302e541852d75e82",
+  "original": "BL9 Hidden Safety Bases Map",
+  "translation": "BL9 Hidden Safety Bases Map",
+  "context": "ID: BL9_locationsmap\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap\n",
   "stage": 1
  },
  {
   "key": "296e9a1a00d92c7121f8e06aba295493",
   "original": "BL9 Hidden Structures Map",
   "translation": "BL9 隐藏结构地图",
-  "context": "ID: BL9_locationsmap\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap\n",
+  "stage": 1
+ },
+ {
+  "key": "7801347a6e2ac40f8aec38871ee44abe",
+  "original": "BL9 Hidden Structures Of Hostile Tyrants Along With Aliens Map",
+  "translation": "BL9 Hidden Structures Of Hostile Tyrants Along With Aliens Map",
+  "context": "ID: BL9_locationsmap_tyrantsaliensstructures\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap_tyrantsaliensstructures\n",
   "stage": 1
  },
  {
@@ -17722,129 +17747,1242 @@
   "stage": 1
  },
  {
+  "key": "e9b1a4b89c24209e87b0fca516dbfd7f",
+  "original": "The %1$s bites <npcname> with it's mouth tentacles!",
+  "translation": "The %1$s bites <npcname> with it's mouth tentacles!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "9753a6eff67feac3231ab8e4fc7b2be9",
+  "original": "The %1$s bites <npcname>!",
+  "translation": "The %1$s bites <npcname>!",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "7b6fdd345a92f192e0d34ef7a6f7f9de",
+  "original": "The %1$s bites you with it's mouth tentacles!",
+  "translation": "The %1$s bites you with it's mouth tentacles!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "1601ab3288c675429cb3b1dfe179a6aa",
+  "original": "The %1$s bites you!",
+  "translation": "The %1$s bites you!",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "03d509090604b2364d476aee9d413c90",
+  "original": "The %1$s crunches at <npcname>!",
+  "translation": "The %1$s crunches at <npcname>!",
+  "context": "ID: twisted_one_crunch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_crunch\n",
+  "stage": 1
+ },
+ {
+  "key": "ec0c30664d50b311d11d86d8c6afa670",
+  "original": "The %1$s crunches at you!",
+  "translation": "The %1$s crunches at you!",
+  "context": "ID: twisted_one_crunch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_crunch\n",
+  "stage": 1
+ },
+ {
   "key": "8b1a29e06cf284e9f7c11f2ae5a5b9d9",
   "original": "The %1$s crushes <npcname>!",
   "translation": "%1$s碾压<npcname>！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
   "stage": 1
  },
  {
   "key": "e283b3737e35c95e57abd4ed255096be",
   "original": "The %1$s crushes you!",
   "translation": "%1$s碾压你！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
+  "stage": 1
+ },
+ {
+  "key": "462b3cd77b0732840aba108d5784975a",
+  "original": "The %1$s devours <npcname>!",
+  "translation": "The %1$s devours <npcname>！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "e424a6f7e8a76146110c70ae3cb8fdf1",
+  "original": "The %1$s devours you!",
+  "translation": "The %1$s devours you！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "dc51a8728c6bfd4817483203abc0c9e8",
+  "original": "The %1$s ferociously claws <npcname>!",
+  "translation": "The %1$s ferociously claws <npcname>！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
+  "stage": 1
+ },
+ {
+  "key": "33023a425cce4861badf901b03fabbd2",
+  "original": "The %1$s ferociously claws you!",
+  "translation": "The %1$s ferociously claws you！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
+  "stage": 1
+ },
+ {
+  "key": "88923fe092c4fcadd59fb80869f095d9",
+  "original": "The %1$s gnaws <npcname>!",
+  "translation": "The %1$s gnaws <npcname>！",
+  "context": "ID: iron_maiden_gnaw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_gnaw\n",
+  "stage": 1
+ },
+ {
+  "key": "f365ad69883be6b18a2fe8b6dfaf31c4",
+  "original": "The %1$s gnaws at you!",
+  "translation": "The %1$s gnaws at you！",
+  "context": "ID: iron_maiden_gnaw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_gnaw\n",
+  "stage": 1
+ },
+ {
+  "key": "a054f9cf08ec6459f012f84d71f19f5b",
+  "original": "The %1$s impales <npcname>!",
+  "translation": "The %1$s impales <npcname>!",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "0f95ec925bb5c912f661f88beb7fe1db",
+  "original": "The %1$s impales you with it's spiky protrusions!",
+  "translation": "The %1$s impales you with it's spiky protrusions!",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "feab9d8c5e29cd7407109bdbd7860d2c",
+  "original": "The %1$s pierces <npcname> with it's spiked legs!",
+  "translation": "The %1$s pierces <npcname> with it's spiked legs！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "a83a4a24eae76062bf60723a4ef604c5",
+  "original": "The %1$s pierces <npcname>!",
+  "translation": "The %1$s pierces <npcname>!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
+  "stage": 1
+ },
+ {
+  "key": "5903500bc42d1247cc3b78505a08131b",
+  "original": "The %1$s pierces you with it's spiked legs!",
+  "translation": "The %1$s pierces you with it's spiked legs！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "d3a967023897c1b1424ec9b553ca391e",
+  "original": "The %1$s pinches <npcname> with it's pincer!",
+  "translation": "The %1$s pinches <npcname> with it's pincer！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "d00074d39a7862be8b2a983890f64259",
+  "original": "The %1$s pinches you with it's pincer!",
+  "translation": "The %1$s pinches you with it's pincer！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "eb10ca34786429249733d944bf239ba0",
+  "original": "The %1$s quickslashed you!",
+  "translation": "The %1$s quickslashed you!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "470a796916f236756e94b5a163d267e8",
+  "original": "The %1$s quickslashes <npcname>!",
+  "translation": "The %1$s quickslashes <npcname>!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "fa6f7e925f09b205db1f032b4d6b2f76",
+  "original": "The %1$s scratches <npcname>!",
+  "translation": "The %1$s scratches <npcname>!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "4aa37660f931daa8df6efd9e273fc449",
+  "original": "The %1$s scratches you!",
+  "translation": "The %1$s scratches you!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "cef82062f116f30567050540e4abe03e",
+  "original": "The %1$s slams <npcname> with it's tentacles!",
+  "translation": "The %1$s slams <npcname> with it's tentacles！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "484cf1473a411a818b0acd962325458e",
+  "original": "The %1$s slams <npcname>!",
+  "translation": "The %1$s slams <npcname>！",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "729cfe106c0d878f2f9859655e1e53a6",
+  "original": "The %1$s slams you with it's tentacle!",
+  "translation": "The %1$s slams you with it's tentacle!",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "e6f7073790d7b1ba77b603285dd7e191",
+  "original": "The %1$s slams you with it's tentacles!",
+  "translation": "The %1$s slams you with it's tentacles！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "a8ba5f1ff86a07ac6ebac0355e832f8e",
+  "original": "The %1$s slams you!",
+  "translation": "The %1$s slams you！",
+  "context": "ID: iron_maiden_slam\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_slam\n",
+  "stage": 1
+ },
+ {
+  "key": "1b241278026c61f295308de94c956b99",
+  "original": "The %1$s slashes <npcname>!",
+  "translation": "The %1$s slashes <npcname>！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "8bf6af8c63779735eb10892640479c05",
+  "original": "The %1$s slashes with it's tail at you!",
+  "translation": "The %1$s slashes with it's tail at you!",
+  "context": "ID: assassin_tail_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→assassin_tail_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "5b118a5fe851e824bd12cf4254cdebec",
+  "original": "The %1$s slashes with it's tentacle at you!",
+  "translation": "The %1$s slashes with it's tentacle at you!",
+  "context": "ID: twisted_one_tentacle_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_tentacle_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "49aded3d99aa1c00c9aac4dd39f61666",
+  "original": "The %1$s slashes you!",
+  "translation": "The %1$s slashes you！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "80ff87b3e2ceb82edb7a2969fad4c796",
+  "original": "The %1$s slices <npcname>!",
+  "translation": "The %1$s slices <npcname>！",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "991bb04921b5818713ef54c864eb15bf",
+  "original": "The %1$s slices you with it's pincer!",
+  "translation": "The %1$s slices you with it's pincer!",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "188f2a8d1fa083eeb66c2ca13d52e877",
+  "original": "The %1$s slices you!",
+  "translation": "The %1$s slices you！",
+  "context": "ID: repto_evo_slice\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slice\n",
+  "stage": 1
+ },
+ {
+  "key": "22824f39a1d4c17d57644b51bfeb33af",
+  "original": "The %1$s stretches out it's worm-like body swinging at <npcname> with it wildly!",
+  "translation": "The %1$s stretches out it's worm-like body swinging at <npcname> with it wildly！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
+  "stage": 1
+ },
+ {
+  "key": "918074c8a4513f03643dfc480846792b",
+  "original": "The %1$s stretches out it's worm-like body swinging at you with it wildly!",
+  "translation": "The %1$s stretches out it's worm-like body swinging at you with it wildly！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
+  "stage": 1
+ },
+ {
+  "key": "d9469aa4c1dc8e46cecebaa89a9441c6",
+  "original": "The %1$s stretches out it's worm-like body trying to swing at <npcname> with it wildly, but fails to damage their armor!",
+  "translation": "The %1$s stretches out it's worm-like body trying to swing at <npcname> with it wildly，but fails to damage their armor！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
+  "stage": 1
+ },
+ {
+  "key": "56a3f06b6a9022f948b873c4509d930b",
+  "original": "The %1$s stretches out it's worm-like body trying to swing at you with it wildly, but fails to damage your armor!",
+  "translation": "The %1$s stretches out it's worm-like body trying to swing at you with it wildly，but fails to damage your armor！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
   "stage": 1
  },
  {
   "key": "b0acf0880032beb770568b14a2947f6f",
   "original": "The %1$s swings at <npcname>'s torso!",
   "translation": "%1$s在<npcname>的躯干摆动！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
   "stage": 1
  },
  {
   "key": "b4482188aa13e9e414f5dfffd5e46be4",
   "original": "The %1$s swings at your torso!",
   "translation": "%1$s在你的躯干摆动！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
+  "stage": 1
+ },
+ {
+  "key": "8ce102e0300a2a427989843e2cc2e67f",
+  "original": "The %1$s swings it's claws at <npcname>!",
+  "translation": "The %1$s swings it's claws at <npcname>!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
+  "stage": 1
+ },
+ {
+  "key": "8f786d68651f5cfd8aa38307e7be7fe0",
+  "original": "The %1$s swings it's claws at you!",
+  "translation": "The %1$s swings it's claws at you!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
+  "stage": 1
+ },
+ {
+  "key": "4356d6817e06acb10b194598ec9ce359",
+  "original": "The %1$s swings it's spiked tentacle tongue at <npcname>!",
+  "translation": "The %1$s swings it's spiked tentacle tongue at <npcname>！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "1061243eda7effa5ca43d1f2117db708",
+  "original": "The %1$s swings it's spiked tentacle tongue at you!",
+  "translation": "The %1$s swings it's spiked tentacle tongue at you！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "f29858e9b8a8dd1f9454dfb12ee0afe3",
+  "original": "The %1$s swings it's spiked tentacles at <npcname>!",
+  "translation": "The %1$s swings it's spiked tentacles at <npcname>！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "99cade4b982177aca53c966ebe560046",
+  "original": "The %1$s swings it's spiked tentacles at you!",
+  "translation": "The %1$s swings it's spiked tentacles at you！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "3f47b4e18714ecdd237801f70f9dccae",
+  "original": "The %1$s swings it's spiked tongue at <npcname>!",
+  "translation": "The %1$s swings it's spiked tongue at <npcname>！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "0817ca9bcc55e6c51ec993ba80b3b6e9",
+  "original": "The %1$s swings it's spiked tongue at you!",
+  "translation": "The %1$s swings it's spiked tongue at you！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "dde824e13ee7a62634dde0f6595b1dca",
+  "original": "The %1$s swings it's whip-like tentacles at <npcname>!",
+  "translation": "The %1$s swings it's whip-like tentacles at <npcname>！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "6d748812e2f9007365f6435528c53f68",
+  "original": "The %1$s swings it's whip-like tentacles at you!",
+  "translation": "The %1$s swings it's whip-like tentacles at you！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "d643ea0fa47a86d01e19cdb4f56c51b1",
+  "original": "The %1$s swings wildly at <npcname> with it's tentacles!",
+  "translation": "The %1$s swings wildly at <npcname> with it's tentacles！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "950793c507fd3df49b75fcdbe6580075",
+  "original": "The %1$s swings wildly at you with it's tentacles!",
+  "translation": "The %1$s swings wildly at you with it's tentacles！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "d13a65e5c6bf337ea43031d29f7e8734",
+  "original": "The %1$s thrusts it's leg at you!",
+  "translation": "The %1$s thrusts it's leg at you!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
+  "stage": 1
+ },
+ {
+  "key": "b8091692dbe47c2ed5b984c116878b8a",
+  "original": "The %1$s thrusts it's tail at <npcname>!",
+  "translation": "The %1$s thrusts it's tail at <npcname>!",
+  "context": "ID: assassin_tail_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→assassin_tail_thrust\n",
+  "stage": 1
+ },
+ {
+  "key": "7b488b60602a75934a22bf67458c47f2",
+  "original": "The %1$s thrusts it's tail at you!",
+  "translation": "The %1$s thrusts it's tail at you!",
+  "context": "ID: assassin_tail_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→assassin_tail_thrust\n",
+  "stage": 1
+ },
+ {
+  "key": "9c5c18f998c30f436cbe442c67c85d9b",
+  "original": "The %1$s thrusts it's tentacle at <npcname>!",
+  "translation": "The %1$s thrusts it's tentacle at <npcname>!",
+  "context": "ID: twisted_one_tentacle_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_tentacle_thrust\n",
+  "stage": 1
+ },
+ {
+  "key": "0af4612d76effeff24a55a8f6617319e",
+  "original": "The %1$s thrusts it's tentacle at you!",
+  "translation": "The %1$s thrusts it's tentacle at you!",
+  "context": "ID: twisted_one_tentacle_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_tentacle_thrust\n",
   "stage": 1
  },
  {
   "key": "e2af5f89ba3281a5121e09ab88f55e03",
   "original": "The %1$s thrusts with it's chainsaw at <npcname>!",
   "translation": "%1$s用电锯在<npcname>处猛刺！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
   "stage": 1
  },
  {
   "key": "4f47e210e429d55e63b4807817868952",
   "original": "The %1$s thrusts with it's chainsaw at you!",
   "translation": "%1$s用它的电锯猛刺你！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
+  "stage": 1
+ },
+ {
+  "key": "64004a4c962cdd933fcbae108a2f1112",
+  "original": "The %1$s tries to bite <npcname> with it's mouth tentacles, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to bite <npcname> with it's mouth tentacles, but fails to penetrate their armor!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "8775abb8c43948a856e19b843763ee83",
+  "original": "The %1$s tries to bite <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to bite <npcname>，but fails to penetrate their armor！",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "3a7c7bd1ade91ea4e14a576b2c8690fc",
+  "original": "The %1$s tries to bite you with it's mouth tentacles, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to bite you with it's mouth tentacles, but fails to penetrate your armor!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "62f9d591133dc3ffe2e54e5d03112cd5",
+  "original": "The %1$s tries to bite you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to bite you，but fails to penetrate your armor！",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "0193526d587c1db4e3aa406bac8b6dee",
+  "original": "The %1$s tries to claw <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to claw <npcname>，but fails to penetrate their armor！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
+  "stage": 1
+ },
+ {
+  "key": "029c6a8f119509a1b074302c0fa11206",
+  "original": "The %1$s tries to claw you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to claw you，but fails to penetrate your armor！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
   "stage": 1
  },
  {
   "key": "7b13449284c20f1d28efe19cad50c190",
   "original": "The %1$s tries to crush <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s试图碾压<npcname>，但未能穿透他们的装甲！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
   "stage": 1
  },
  {
   "key": "5487dde2ffdff1fb0f67cd7d8f7d5d37",
   "original": "The %1$s tries to crush you, but fails to penetrate your armor!",
   "translation": "%1$s试图碾压你，但未能穿透你的装甲！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
+  "stage": 1
+ },
+ {
+  "key": "c17b5645041c3c8349a7f9207b7c1012",
+  "original": "The %1$s tries to devour <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to devour <npcname>，but fails to penetrate their armor！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "85161145be1cc430a86ecaf89ca6541a",
+  "original": "The %1$s tries to devour you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to devour you，but fails to penetrate your armor！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "2bb2a7536bb250911c46e82cd23209c3",
+  "original": "The %1$s tries to impale <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to impale <npcname>，but fails to penetrate their armor！",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "3b1cf1d68060a7b196a409f219ccfaf8",
+  "original": "The %1$s tries to impale you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to impale you，but fails to penetrate your armor！",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "ceab23c377354d3670c8e5d1e126ca6b",
+  "original": "The %1$s tries to pierce <npcname> with it's spiked legs, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to pierce <npcname> with it's spiked legs，but fails to penetrate their armor！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "28dfd0b0be331fbabfcef327cb44cb23",
+  "original": "The %1$s tries to pierce <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to pierce <npcname>, but fails to penetrate their armor!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
+  "stage": 1
+ },
+ {
+  "key": "a80d0ec17720c9d920b21c1ff1fcb80c",
+  "original": "The %1$s tries to pierce you with it's spiked legs, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to pierce you with it's spiked legs，but fails to penetrate your armor！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "bac4efd391a3d0ce395a4a93a8851ce7",
+  "original": "The %1$s tries to pierce you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to pierce you, but fails to penetrate your armor!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
+  "stage": 1
+ },
+ {
+  "key": "5e3fa17d6b194bbb11f8613abf838665",
+  "original": "The %1$s tries to pinch <npcname> with it's pincer, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to pinch <npcname> with it's pincer，but fails to penetrate their armor！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "091d1b00ee8cd35fc205d0c3070fbfed",
+  "original": "The %1$s tries to pinch you with it's pincer, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to pinch you with it's pincer，but fails to penetrate your armor！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "452537000ecb0c67b739d8c4b22acb9c",
+  "original": "The %1$s tries to quickslash <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to quickslash <npcname>, but fails to penetrate their armor!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "0f7d0df90db4debb19353e00a8391641",
+  "original": "The %1$s tries to quickslash you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to quickslash you, but fails to penetrate your armor!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "87e8bb8280a875a1707f8c789a683abb",
+  "original": "The %1$s tries to scratch <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to scratch <npcname>, but fails to penetrate their armor!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "3c867b738a2d511a9360e33aac1a04bc",
+  "original": "The %1$s tries to scratch you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to scratch you, but fails to penetrate your armor!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "590714297837109c53831f07b1754332",
+  "original": "The %1$s tries to slam <npcname> with it's tentacles, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to slam <npcname> with it's tentacles，but fails to penetrate their armor！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "52795ca6d59fee1b7f90496fbe9b07e3",
+  "original": "The %1$s tries to slam <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to slam <npcname>，but fails to penetrate their armor！",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "ae1c8276849fd9930729491985b7a021",
+  "original": "The %1$s tries to slam you with it's tentacles, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to slam you with it's tentacles，but fails to penetrate your armor！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "712cd0e61096f60282ac892cd804c65f",
+  "original": "The %1$s tries to slam you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to slam you，but fails to penetrate your armor！",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "2776e768bdaac023844d0f3d6967102f",
+  "original": "The %1$s tries to slash <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to slash <npcname>，but fails to penetrate their armor！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "464c059a9134bac5e1c4ef8ac0850589",
+  "original": "The %1$s tries to slash you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to slash you，but fails to penetrate your armor！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "12a8d7ca23752006642aca4e4e3ed2ec",
+  "original": "The %1$s tries to slice <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to slice <npcname>，but fails to penetrate their armor！",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "9507d52079269def6833e811686b3567",
+  "original": "The %1$s tries to slice you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to slice you，but fails to penetrate your armor！",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "1222f32d24688680471e4df36aee4d0f",
+  "original": "The %1$s tries to swing at <npcname> with it's tentacles, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swing at <npcname> with it's tentacles，but fails to penetrate their armor！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
   "stage": 1
  },
  {
   "key": "54b5ac395b9032b6e971e81f16848e93",
   "original": "The %1$s tries to swing at <npcname>'s torso, but fails to penetrate their armor!",
   "translation": "%1$s试图在<npcname>的躯干摆动，但未能穿透他们的装甲！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
+  "stage": 1
+ },
+ {
+  "key": "ed764cebda5c157991af34c3db129a36",
+  "original": "The %1$s tries to swing at you with it's tentacles, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing at you with it's tentacles，but fails to penetrate your armor！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
   "stage": 1
  },
  {
   "key": "3e2557a320026d8845840dd893170f22",
   "original": "The %1$s tries to swing at your torso, but fails to penetrate your armor!",
   "translation": "%1$s试图挥向你的躯干，但未能穿透你的盔甲！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
+  "stage": 1
+ },
+ {
+  "key": "8441be9585ce5265404e25d8fe0c09e4",
+  "original": "The %1$s tries to swing it's claws at you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing it's claws at you, but fails to penetrate your armor!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
+  "stage": 1
+ },
+ {
+  "key": "c3c92bb9a2d21f35798f5428d75b52a0",
+  "original": "The %1$s tries to swing it's spiked tentacle tongue at <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swing it's spiked tentacle tongue at <npcname>，but fails to penetrate their armor！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "3829e697470106991a0baf1705a17b3d",
+  "original": "The %1$s tries to swing it's spiked tentacle tongue at you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing it's spiked tentacle tongue at you，but fails to penetrate your armor！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "89b33b350266afdf354db247dc11f824",
+  "original": "The %1$s tries to swing it's spiked tentacles at <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swing it's spiked tentacles at <npcname>，but fails to penetrate their armor！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "8ba352243d679f724cd88dbdd5f276b1",
+  "original": "The %1$s tries to swing it's spiked tentacles at you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing it's spiked tentacles at you，but fails to penetrate your armor！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "4541b8e7c0dc51e1f71637ef6928d4c3",
+  "original": "The %1$s tries to swing it's spiked tongue at <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swing it's spiked tongue at <npcname>，but fails to penetrate their armor！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "1d8f5ce5bd2b68fec6b5746b7aeca034",
+  "original": "The %1$s tries to swing it's spiked tongue at you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing it's spiked tongue at you，but fails to penetrate your armor！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "d1ae70820cb508f8b21f7740a208b8d3",
+  "original": "The %1$s tries to swing it's whip-like tentacles at <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swing it's whip-like tentacles at <npcname>，but fails to penetrate their armor！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "28918f73b4bd9fc61431bfb8feb514a9",
+  "original": "The %1$s tries to swing it's whip-like tentacles at you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to swing it's whip-like tentacles at you，but fails to penetrate your armor！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "7dde09fe92231418065a948248f32039",
+  "original": "The %1$s tries to swings it's claws at <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to swings it's claws at <npcname>, but fails to penetrate their armor!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
   "stage": 1
  },
  {
   "key": "1310a8bd0e60f046fa08bb2f725ace7f",
   "original": "The %1$s tries to thrust with it's chainsaw at <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s试图用它的链锯在<npcname>处推进，但未能穿透他们的装甲！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
   "stage": 1
  },
  {
   "key": "b3f659304b61da6d53bcfe098950bcde",
   "original": "The %1$s tries to thrust with it's chainsaw at you, but fails to penetrate your armor!",
   "translation": "%1$s试图用它的链锯向你刺去，但是没有穿透你的装甲！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
+  "stage": 1
+ },
+ {
+  "key": "b4448e6a9756ca8855f65d0d7c441f07",
+  "original": "The %1$s tries to viciously bite you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to viciously bite you, but fails to penetrate your armor!",
+  "context": "ID: twisted_one_crunch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_crunch\n",
+  "stage": 1
+ },
+ {
+  "key": "f80bd003883fb799dc281820e40889a7",
+  "original": "The %1$s tries to whip <npcname>, but fails to penetrate their armor!",
+  "translation": "The %1$s tries to whip <npcname>, but fails to penetrate their armor!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "4120253ff00dbfac9dbebc61d3bd4ccd",
+  "original": "The %1$s tries to whip you, but fails to penetrate your armor!",
+  "translation": "The %1$s tries to whip you, but fails to penetrate your armor!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "d46e557cdcf09bfcdd0386b2858f259d",
+  "original": "The %1$s whips at <npcname>!",
+  "translation": "The %1$s whips at <npcname>!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "67478c020d1ffd0401c1622947681413",
+  "original": "The %1$s whips you with it's tentacle!",
+  "translation": "The %1$s whips you with it's tentacle!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "25872fb9cb5bb8c00ed2cf35a7136918",
+  "original": "The %1$s's worms latch on to <npcname> with their sharp teeth!",
+  "translation": "The %1$s's worms latch on to <npcname> with their sharp teeth!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
+  "stage": 1
+ },
+ {
+  "key": "41bc36b12df81b22ec17ee6661955232",
+  "original": "The %1$s's worms latch on to you with their sharp teeth!",
+  "translation": "The %1$s's worms latch on to you with their sharp teeth!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
+  "stage": 1
+ },
+ {
+  "key": "89f6e9ff2ff600e75ea482b841e51bf4",
+  "original": "The %1$s's worms try to latch on to <npcname> with their sharp teeth, but fails to penetrate their armor!",
+  "translation": "The %1$s's worms try to latch on to <npcname> with their sharp teeth, but fails to penetrate their armor!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
+  "stage": 1
+ },
+ {
+  "key": "9f800bb5533b4ea2ed502efe10dbdb48",
+  "original": "The %1$s's worms try to latch on to you with their sharp teeth, but fail to penetrate your armor!",
+  "translation": "The %1$s's worms try to latch on to you with their sharp teeth, but fail to penetrate your armor!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
+  "stage": 1
+ },
+ {
+  "key": "1d6ef721ac95587474c881578ccba3a7",
+  "original": "The %s attempts to pinch <npcname> with it's pincer, but they dodge!",
+  "translation": "The %s attempts to pinch <npcname> with it's pincer，but they dodge！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "ef18ca9ed6a92a7efd7537dc8583d252",
+  "original": "The %s attempts to pinch you with it's pincer, but you dodge!",
+  "translation": "The %s attempts to pinch you with it's pincer，but you dodge！",
+  "context": "ID: weapon_of_evolution5_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "4eb8830a7904d9d0eaec26a51fcc5e11",
+  "original": "The %s bites <npcname>, but they dodge!",
+  "translation": "The %s bites <npcname>, but they dodge!",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "b721e8cb65e93833ba251e8c86e56374",
+  "original": "The %s bites you, but you dodge!",
+  "translation": "The %s bites you, but you dodge!",
+  "context": "ID: vile_one_bite\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_bite\n",
+  "stage": 1
+ },
+ {
+  "key": "1066aeeec8578ea2858f419289109202",
+  "original": "The %s crunches <npcname>, but they dodge!",
+  "translation": "The %s crunches <npcname>, but they dodge!",
+  "context": "ID: twisted_one_crunch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_crunch\n",
+  "stage": 1
+ },
+ {
+  "key": "ec726755383ca2f3face19d5f1ec7b35",
+  "original": "The %s crunches at you, but you step aside!",
+  "translation": "The %s crunches at you, but you step aside!",
+  "context": "ID: twisted_one_crunch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_crunch\n",
+  "stage": 1
+ },
+ {
+  "key": "d1fae753b7915f150aa52f5c2806b272",
+  "original": "The %s devours <npcname>, but they dodge!",
+  "translation": "The %s devours <npcname>，but they dodge！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "45356861603630d65e4e1867e39e8817",
+  "original": "The %s devours you, but you step aside!",
+  "translation": "The %s devours you，but you step aside！",
+  "context": "ID: mutant_2_evo_devour\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_devour\n",
+  "stage": 1
+ },
+ {
+  "key": "58704b835155d464a994c7f308d4aae7",
+  "original": "The %s impales <npcname>, but they dodge!",
+  "translation": "The %s impales <npcname>, but they dodge!",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "74b4657c744dcffb75202afee4f544e5",
+  "original": "The %s impales you, but you dodge!",
+  "translation": "The %s impales you, but you dodge!",
+  "context": "ID: iron_maiden_impale\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_impale\n",
+  "stage": 1
+ },
+ {
+  "key": "9cd965b4866373163fdb8f78126e905b",
+  "original": "The %s lunges with it mouth tentacles at you, but you dodge!",
+  "translation": "The %s lunges with it mouth tentacles at you, but you dodge!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "f774ae4a842604b0d2b474e8332679ec",
+  "original": "The %s lunges with it's mouth tentacles at <npcname>, but they dodge!",
+  "translation": "The %s lunges with it's mouth tentacles at <npcname>, but they dodge!",
+  "context": "ID: tavrav_5_mouth\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→tavrav_5_mouth\n",
+  "stage": 1
+ },
+ {
+  "key": "59d26a0c5abc0b588a70f3650b25f1fc",
+  "original": "The %s pierces <npcname>, but they dodge!",
+  "translation": "The %s pierces <npcname>, but they dodge!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
+  "stage": 1
+ },
+ {
+  "key": "1441faa681550673d5f482d629183011",
+  "original": "The %s quickslashes <npcname>, but they dodge!",
+  "translation": "The %s quickslashes <npcname>, but they dodge!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "232afd08c02f939dcc32b2aa3e7d8f45",
+  "original": "The %s quickslashes you, but you dodge!",
+  "translation": "The %s quickslashes you, but you dodge!",
+  "context": "ID: scrawler_evo_quickslash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_quickslash\n",
+  "stage": 1
+ },
+ {
+  "key": "7edc8fe3b74d4bb2d1803e08780c5e93",
+  "original": "The %s scratches <npcname>, but they dodge!",
+  "translation": "The %s scratches <npcname>, but they dodge!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "dd0ebd4d5d7b4a10069a732aae46d285",
+  "original": "The %s scratches you, but you dodge!",
+  "translation": "The %s scratches you, but you dodge!",
+  "context": "ID: scrawler_evo_scratch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→scrawler_evo_scratch\n",
+  "stage": 1
+ },
+ {
+  "key": "d2c95567545694f06e23920c3b7d7eea",
+  "original": "The %s slams <npcname>, but they dodge!",
+  "translation": "The %s slams <npcname>，but they dodge！",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "d398ed3355cb45150c48536db3b79e09",
+  "original": "The %s slams you, but you dodge!",
+  "translation": "The %s slams you，but you dodge！",
+  "context": "ID: chimera_tentacle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_tentacle\n",
+  "stage": 1
+ },
+ {
+  "key": "3ad37b9470a6ed09790f7234b249afc0",
+  "original": "The %s slashes <npcname>, but they dodge!",
+  "translation": "The %s slashes <npcname>，but they dodge！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "92a5a69b87cb20c6053b368b2980b6c8",
+  "original": "The %s slashes you, but you dodge!",
+  "translation": "The %s slashes you，but you dodge！",
+  "context": "ID: repto_evo_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→repto_evo_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "10410fdb3e0d8d2c1396ac98b17f4d28",
+  "original": "The %s slices <npcname>, but they dodge!",
+  "translation": "The %s slices <npcname>，but they dodge！",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "9334219a1fd55fc70572d2c07b90dc2a",
+  "original": "The %s slices you, but you dodge!",
+  "translation": "The %s slices you，but you dodge！",
+  "context": "ID: chimera_mutated_pincer\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chimera_mutated_pincer\n",
+  "stage": 1
+ },
+ {
+  "key": "7d8c9a9738cf979b7dfd18644f46adaf",
+  "original": "The %s stretches out it's worm-like body trying to swing at <npcname> with it wildly, but they dodge!",
+  "translation": "The %s stretches out it's worm-like body trying to swing at <npcname> with it wildly，but they dodge！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
+  "stage": 1
+ },
+ {
+  "key": "76cc5c8a921cc433db7dc9837f10eb4a",
+  "original": "The %s stretches out it's worm-like body trying to swing at you with it wildly, but you dodge!",
+  "translation": "The %s stretches out it's worm-like body trying to swing at you with it wildly，but you dodge！",
+  "context": "ID: mutant_2_evo_stretch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→mutant_2_evo_stretch\n",
   "stage": 1
  },
  {
   "key": "7ac5834eb208a5a6aaff55bd6267bdde",
   "original": "The %s swings at <npcname>, but they dodge!",
   "translation": "%s摆<npcname>，却躲闪！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
   "stage": 1
  },
  {
   "key": "9ef990d5f51e72aa579cea2c5f49b809",
   "original": "The %s swings at you, but you step aside!",
   "translation": "%s向你挥来，你却闪开了！",
-  "context": "ID: chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_swing\n",
+  "context": "ID: gonzalez_chainsaw_swing\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_swing\n",
+  "stage": 1
+ },
+ {
+  "key": "d0fef70fff204634c22cba73ea0a0c95",
+  "original": "The %s swings it's claws at <npcname>, but they dodge!",
+  "translation": "The %s swings it's claws at <npcname>, but they dodge!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
+  "stage": 1
+ },
+ {
+  "key": "741e517c75a6bdfd18c27db76396965f",
+  "original": "The %s swings it's claws at you, but you dodge!",
+  "translation": "The %s swings it's claws at you, but you dodge!",
+  "context": "ID: blind_clawer_claws\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→blind_clawer_claws\n",
+  "stage": 1
+ },
+ {
+  "key": "3e5b90c8089820bc0b26b593943a0d39",
+  "original": "The %s swings it's knifelike claw at <npcname>, but they dodge!",
+  "translation": "The %s swings it's knifelike claw at <npcname>，but they dodge！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
+  "stage": 1
+ },
+ {
+  "key": "0401717089af976a317bc6e0a1df3dd3",
+  "original": "The %s swings it's knifelike claw at you, but you dodge!",
+  "translation": "The %s swings it's knifelike claw at you，but you dodge！",
+  "context": "ID: weapon_of_evolution5_claw\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_claw\n",
+  "stage": 1
+ },
+ {
+  "key": "fdaa28b4cd61b84669d65e94be698055",
+  "original": "The %s swings it's limb at <npcname>, but they dodge!",
+  "translation": "The %s swings it's limb at <npcname>，but they dodge！",
+  "context": "ID: iron_maiden_slam\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_slam\n",
+  "stage": 1
+ },
+ {
+  "key": "e38eac0b4a9814cb2d7719d2281d9d1c",
+  "original": "The %s swings it's limb at you, but you dodge!",
+  "translation": "The %s swings it's limb at you，but you dodge！",
+  "context": "ID: iron_maiden_slam\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→iron_maiden_slam\n",
+  "stage": 1
+ },
+ {
+  "key": "8f64de699181974ec08e8a42d50cec0b",
+  "original": "The %s swings it's spiked leg at <npcname>, but they dodge!",
+  "translation": "The %s swings it's spiked leg at <npcname>，but they dodge！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "334488ec4f5b89ef90b24939adb72555",
+  "original": "The %s swings it's spiked leg at you, but you dodge!",
+  "translation": "The %s swings it's spiked leg at you，but you dodge！",
+  "context": "ID: weapon_of_evolution5_legs\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_legs\n",
+  "stage": 1
+ },
+ {
+  "key": "6d839f2534f6b0d875c9351aaccddbf2",
+  "original": "The %s swings it's spiked tentacle tongue at <npcname>, but they dodge!",
+  "translation": "The %s swings it's spiked tentacle tongue at <npcname>，but they dodge！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "9432594bd72f1f27872fdebf8ab41519",
+  "original": "The %s swings it's spiked tentacle tongue at you, but you dodge!",
+  "translation": "The %s swings it's spiked tentacle tongue at you，but you dodge！",
+  "context": "ID: ulniv_6_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ulniv_6_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "8db47494d0196cadfb687b509435c7a9",
+  "original": "The %s swings it's spiked tentacles at <npcname>, but they dodge!",
+  "translation": "The %s swings it's spiked tentacles at <npcname>，but they dodge！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "02c8e36f2f17793d67e96f78439cc10f",
+  "original": "The %s swings it's spiked tentacles at you, but you dodge!",
+  "translation": "The %s swings it's spiked tentacles at you，but you dodge！",
+  "context": "ID: inhrav_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→inhrav_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "3c24d85d768cdb96a254895e7bb4adfb",
+  "original": "The %s swings it's spiked tongue at <npcname>, but they dodge!",
+  "translation": "The %s swings it's spiked tongue at <npcname>，but they dodge！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "b0bbed73b69be0f646cedf6b10f0f02c",
+  "original": "The %s swings it's spiked tongue at you, but you dodge!",
+  "translation": "The %s swings it's spiked tongue at you，but you dodge！",
+  "context": "ID: weapon_of_evolution5_tongue\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tongue\n",
+  "stage": 1
+ },
+ {
+  "key": "8c5f51500b18637b504ac2d2eeaf0771",
+  "original": "The %s swings it's tail at <npcname>, but they dodge!",
+  "translation": "The %s swings it's tail at <npcname>, but they dodge!",
+  "context": "ID: assassin_tail_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→assassin_tail_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "7b646a11da0c677989df57438b483c0f",
+  "original": "The %s swings it's tail at you, but you dodge!",
+  "translation": "The %s swings it's tail at you, but you dodge!",
+  "context": "ID: assassin_tail_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→assassin_tail_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "66cb45dbb3fcf2721ba977b695ca0820",
+  "original": "The %s swings it's tentacle at <npcname>, but they dodge!",
+  "translation": "The %s swings it's tentacle at <npcname>, but they dodge!",
+  "context": "ID: twisted_one_tentacle_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_tentacle_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "c7c99ea6fd5ad72420b429a5968eb39b",
+  "original": "The %s swings it's tentacle at you, but you dodge!",
+  "translation": "The %s swings it's tentacle at you, but you dodge!",
+  "context": "ID: twisted_one_tentacle_slash\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_tentacle_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "2aba13df0c98cc4a1a58dc1bfbf59afe",
+  "original": "The %s swings it's tentacles at <npcname>, but they dodge!",
+  "translation": "The %s swings it's tentacles at <npcname>，but they dodge！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "b57bf0f26ec9e904f49552c08abf87ba",
+  "original": "The %s swings it's tentacles at you, but you dodge!",
+  "translation": "The %s swings it's tentacles at you，but you dodge！",
+  "context": "ID: ezron_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "77d0cfd783d5a4fb7203b45a6763616c",
+  "original": "The %s swings it's whip-like tentacles at <npcname>, but they dodge!",
+  "translation": "The %s swings it's whip-like tentacles at <npcname>，but they dodge！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "5beed30f3d9f5e5c38a3f8e0f559dd20",
+  "original": "The %s swings it's whip-like tentacles at you, but you dodge!",
+  "translation": "The %s swings it's whip-like tentacles at you，but you dodge！",
+  "context": "ID: yengn_6_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→yengn_6_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "f8c67e36a045412a5ffb19e5743a2351",
+  "original": "The %s thrusts it's leg at you, but you dodge!",
+  "translation": "The %s thrusts it's leg at you, but you dodge!",
+  "context": "ID: vile_one_leg\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→vile_one_leg\n",
   "stage": 1
  },
  {
   "key": "db1588e63051eb69e92c78a9c7d8fd8c",
   "original": "The %s thrusts with it's chainsaw at <npcname>, but they dodge!",
   "translation": "%s用它的电锯在<npcname>处猛刺，但它们躲开了！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
   "stage": 1
  },
  {
   "key": "41efc8b5103fa9cdc0f3ee662f043f6f",
   "original": "The %s thrusts with it's chainsaw at you, but you step aside!",
   "translation": "%s用它的电锯猛刺你，但你让开！",
-  "context": "ID: chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→chainsaw_thrust\n",
+  "context": "ID: gonzalez_chainsaw_thrust\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→gonzalez_chainsaw_thrust\n",
   "stage": 1
  },
  {
   "key": "8d99927f091d36ce1557cafeb9e944f1",
   "original": "The %s tries to crush <npcname>, but they dodge!",
   "translation": "%s试图碾压<npcname>，但他们躲闪！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
   "stage": 1
  },
  {
   "key": "d2dd33af5cf9ba18983c1a9558f8dc5a",
   "original": "The %s tries to crush you, but you step aside!",
   "translation": "%s想碾压你，你却闪开了！",
-  "context": "ID: crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→crushing_blow\n",
+  "context": "ID: giant_crushing_blow\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→giant_crushing_blow\n",
+  "stage": 1
+ },
+ {
+  "key": "c5b411baf6c34606b4b904382a7656fa",
+  "original": "The %s tries to slam <npcname> with it's tentacles, but they dodge!",
+  "translation": "The %s tries to slam <npcname> with it's tentacles，but they dodge！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "1d38ea778b1fd3e586f23fcdbcc77837",
+  "original": "The %s tries to slam you with it's tentacles, but you dodge!",
+  "translation": "The %s tries to slam you with it's tentacles，but you dodge！",
+  "context": "ID: weapon_of_evolution5_tentacles\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→weapon_of_evolution5_tentacles\n",
+  "stage": 1
+ },
+ {
+  "key": "8c660c0117b795d2c96404c8c408da37",
+  "original": "The %s whips a tentacle at you, but you dodge!",
+  "translation": "The %s whips a tentacle at you, but you dodge!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "cf2f928d67087fc7255378325e311aa1",
+  "original": "The %s whips at <npcname>, but they dodge!",
+  "translation": "The %s whips at <npcname>, but they dodge!",
+  "context": "ID: twisted_one_whip\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→twisted_one_whip\n",
+  "stage": 1
+ },
+ {
+  "key": "d9b9db83b09c9d97b6c1852ea788d654",
+  "original": "The %s's worms attempt to latch on to <npcname> with their sharp teeth, but they dodge!",
+  "translation": "The %s's worms attempt to latch on to <npcname> with their sharp teeth, but they dodge!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
+  "stage": 1
+ },
+ {
+  "key": "87b61d0b9f9a1252b6f107e73ed8816c",
+  "original": "The %s's worms attempt to latch on to you with their sharp teeth, but you dodge!",
+  "translation": "The %s's worms attempt to latch on to you with their sharp teeth, but you dodge!",
+  "context": "ID: ezron_4_latching\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→monster_attack→ezron_4_latching\n",
   "stage": 1
  },
  {
@@ -17999,7 +19137,7 @@
   "key": "4c8d4582093571b9a582842f5274c4b4",
   "original": "The ganados fires it's energy machine gun!",
   "translation": "Ganados 端起它的能量机枪开火！",
-  "context": "ID: mon_BL9_tsmilitary2_energy\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_energy\n",
+  "context": "ID: mon_BL9_tsmilitary2_patrolleader\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/Infantry.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_tsmilitary2_patrolleader\n",
   "stage": 1
  },
  {
@@ -18380,14 +19518,19 @@
   "key": "2c44044448c3c57e4b1f12839b16ffae",
   "original": "This map contains locations of heavily fortified BL9 human tyrant structures. Castlelan Castle along with Militarized Island which are large. Beginner to Intermediate difficulty. Bosses drop rare gear that even Strange Merchant does not sell. Contains a lot of currencies along with materials to craft BL9 ammo",
   "translation": "This map contains locations of heavily fortified BL9 human tyrant structures. Castlelan Castle along with Militarized Island which are large. Beginner to Intermediate difficulty. Bosses drop rare gear that even Strange Merchant does not sell. Contains a lot of currencies along with materials to craft BL9 ammo",
-  "context": "ID: BL9_locationsmapbig\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapbig\n",
   "stage": 1
  },
  {
   "key": "9592b2275483246e2712ab8a1c60bfe5",
   "original": "This map contains locations of heavily fortified various alien structures. Infested Facility along with Guard Towers with Biomes underneath them along with Mobile 'Alliance' Base which contain lots of hostile aliens that are armed. Intermediate to Expert difficulty. Contains a lot of rare gear that even Strange Merchant does not sell along with materials to craft BL9 ammo",
   "translation": "This map contains locations of heavily fortified various alien structures. Infested Facility along with Guard Towers with Biomes underneath them along with Mobile 'Alliance' Base which contain lots of hostile aliens that are armed. Intermediate to Expert difficulty. Contains a lot of rare gear that even Strange Merchant does not sell along with materials to craft BL9 ammo",
-  "context": "ID: BL9_locationsmapalien\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapalien\n",
+  "stage": 1
+ },
+ {
+  "key": "7a6f603a51d90b27aff1cc43ff7a7fb8",
+  "original": "This map contains locations of hostile forces that hunt for BL9 to weaponize it for their conquests. If you are not sure about your gear, here is advised order of locations based on their difficulty. Castlelan Castle, Infested Facility, Militarized Island, Guard Towers with Hive Caves, Underground Ruins, Acidic Caves, Sunken Caves, Molten Caves, Mobile Alliance Base in this order, which is advised only if you are not sure about your gear hopefully. These structures contain a lot of rare gear that even Strange Merchant does not sell along with materials to craft BL9 ammo",
+  "translation": "This map contains locations of hostile forces that hunt for BL9 to weaponize it for their conquests. If you are not sure about your gear, here is advised order of locations based on their difficulty. Castlelan Castle, Infested Facility, Militarized Island, Guard Towers with Hive Caves, Underground Ruins, Acidic Caves, Sunken Caves, Molten Caves, Mobile Alliance Base in this order, which is advised only if you are not sure about your gear hopefully. These structures contain a lot of rare gear that even Strange Merchant does not sell along with materials to craft BL9 ammo",
+  "context": "ID: BL9_locationsmap_tyrantsaliensstructures\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap_tyrantsaliensstructures\n",
   "stage": 1
  },
  {
@@ -19516,14 +20659,19 @@
   "key": "6d40841f2ccb8a22c3da00a637fb3cf4",
   "original": "You carefully examine the map and spot the entrances of Castlelan Castle along with Militarized Island hopefully",
   "translation": "You carefully examine the map and spot the entrances of Castlelan Castle along with Militarized Island hopefully",
-  "context": "ID: BL9_locationsmapbig\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapbig\n",
+  "stage": 1
+ },
+ {
+  "key": "37269c5cdf9e69c288cb5c098d0586d0",
+  "original": "You carefully examine the map and spot the entrances of structures of various hostile forces hopefully",
+  "translation": "You carefully examine the map and spot the entrances of structures of various hostile forces hopefully",
+  "context": "ID: BL9_locationsmap_tyrantsaliensstructures\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap_tyrantsaliensstructures\n",
   "stage": 1
  },
  {
   "key": "f8009fb4ee16fcda22e7c9adfac07fe2",
   "original": "You carefully examine the map and spot the entrances of various alien structures hopefully",
   "translation": "You carefully examine the map and spot the entrances of various alien structures hopefully",
-  "context": "ID: BL9_locationsmapalien\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmapalien\n",
   "stage": 1
  },
  {

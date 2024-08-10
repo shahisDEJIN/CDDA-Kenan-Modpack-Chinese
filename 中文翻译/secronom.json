@@ -10904,14 +10904,14 @@
  {
   "key": "59d26a0c5abc0b588a70f3650b25f1fc",
   "original": "The %s pierces <npcname>, but they dodge!",
-  "translation": "%s号穿透了<npcname>号，但他们躲避开了！",
+  "translation": "The %s pierces <npcname>，but they dodge！",
   "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n",
   "stage": 0
  },
  {
   "key": "3ad37b9470a6ed09790f7234b249afc0",
   "original": "The %s slashes <npcname>, but they dodge!",
-  "translation": "%s号奋力挥砍了<npcname>次，但他们灵巧地避开了！",
+  "translation": "The %s slashes <npcname>，but they dodge！",
   "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n",
   "stage": 0
  },
