@@ -114,7 +114,6 @@
   "key": "38aebc71809b1435072f76627481a88b",
   "original": "40mm launcher turret",
   "translation": "40mm 榴弹发射器炮塔",
-  "context": "ID: mounted_launcher_simple\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_launcher_simple\n",
   "stage": 3
  },
  {
@@ -1304,7 +1303,6 @@
   "key": "dbb77886ec61c79d09638672fe4a5ae9",
   "original": "H&K G36 turret",
   "translation": "H&K G36 步枪炮塔",
-  "context": "ID: mounted_hk_g36\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_hk_g36\n",
   "stage": 5
  },
  {
@@ -1714,6 +1712,13 @@
   "translation": "SKS 步枪炮塔",
   "context": "ID: mounted_sks\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_sks\n",
   "stage": 5
+ },
+ {
+  "key": "2779ec31e45d7e6f9ac77d3df8c96a1e",
+  "original": "SL8 civilian rifle",
+  "translation": "SL8 civilian rifle",
+  "context": "ID: mounted_sl8\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_sl8\n",
+  "stage": 1
  },
  {
   "key": "07b198df0ff8efac839f4c7d2b400897",
