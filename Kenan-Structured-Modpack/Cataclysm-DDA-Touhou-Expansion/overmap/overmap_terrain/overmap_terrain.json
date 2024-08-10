@@ -36,6 +36,7 @@
       "fort_4c"
     ],
     "copy-from": "generic_bastion_fort",
+    "see_cost": "high",
     "flags": [ "REQUIRES_PREDECESSOR" ],
     "spawns": { "group": "GROUP_fort", "population": [ 1, 1 ], "chance": 10 }
   },
