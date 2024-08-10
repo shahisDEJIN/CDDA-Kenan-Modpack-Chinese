@@ -279,9 +279,9 @@
     "anger_triggers": [ "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
     "bleed_rate": 0,
     "special_attacks": [
-      { "type": "spell", "spell_data": { "id": "fear_paralyze" }, "monster_message": "", "cooldown": 32 },
-      { "type": "spell", "spell_data": { "id": "stare" }, "monster_message": "", "cooldown": 28 },
-      { "spell_data": { "id": "paralyze_100" }, "type": "spell", "cooldown": 34 }
+      { "id": "mon_kunekune_fear_paralyze", "type": "spell", "spell_data": { "id": "fear_paralyze" }, "monster_message": "", "cooldown": 32 },
+      { "id": "mon_kunekune_stare", "type": "spell", "spell_data": { "id": "stare" }, "monster_message": "", "cooldown": 28 },
+      { "id": "mon_kunekune_paralyze_100", "spell_data": { "id": "paralyze_100" }, "type": "spell", "cooldown": 34 }
     ],
     "death_function": { "message": "The %s dissipates into air.", "corpse_type": "NO_CORPSE" },
     "flags": [ "HEARS", "IMMOBILE", "KEENNOSE", "SEES" ]
@@ -369,8 +369,8 @@
     "special_attacks": [ 
       [ "EAT_CARRION", 50 ], 
       [ "EAT_CROP", 50 ], 
-      { "spell_data": { "id": "olgoi_poison" }, "type": "spell", "cooldown": 7 },
-      { "spell_data": { "id": "olgoi_shock" }, "type": "spell", "cooldown": 11 }
+      { "id": "mon_olgoi_poison", "spell_data": { "id": "olgoi_poison" }, "type": "spell", "cooldown": 7 },
+      { "id": "mon_olgoi_shock", "spell_data": { "id": "olgoi_shock" }, "type": "spell", "cooldown": 11 }
     ],
     "death_function": { "message": "The %s squirms, twitches, and finally dies.", "corpse_type": "NORMAL" },
     "flags": [ "ACIDPROOF", "ATTACK_LOWER", "DIGS", "ELECTRIC", "HEARS", "NOHEAD", "SLUDGEPROOF", "VENOM" ],

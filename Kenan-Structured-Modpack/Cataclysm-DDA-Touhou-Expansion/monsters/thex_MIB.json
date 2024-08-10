@@ -251,9 +251,9 @@
     "fear_triggers": [ "FRIEND_DIED" ],
     "armor": { "bash": 1, "cut": 2, "stab": 0, "bullet": 0, "acid": 12, "cold": 12, "electric": 12, "heat": 12 },
     "special_attacks": [
-      { "type": "spell", "spell_data": { "id": "fear_paralyze" }, "monster_message": "", "cooldown": 24 },
-      { "type": "spell", "spell_data": { "id": "stare" }, "monster_message": "", "cooldown": 20 },
-      { "spell_data": { "id": "paralyze_200" }, "type": "spell", "cooldown": 20 }
+      { "id": "mon_mib_alien_fear_paralyze", "type": "spell", "spell_data": { "id": "fear_paralyze" }, "monster_message": "", "cooldown": 24 },
+      { "id": "mon_mib_alien_stare", "type": "spell", "spell_data": { "id": "stare" }, "monster_message": "", "cooldown": 20 },
+      { "id": "mon_mib_alien_paralyze_200", "spell_data": { "id": "paralyze_200" }, "type": "spell", "cooldown": 20 }
     ],
     "flags": [ "CAN_OPEN_DOORS", "HEARS", "PATH_AVOID_DANGER", "SEES" ],
     "//": "Alien component to the MIB urban legend"

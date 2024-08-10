@@ -181,8 +181,8 @@
     "special_attacks": [
       [ "EAT_CARRION", 50 ], 
       [ "EAT_FOOD", 50 ],
-      { "spell_data": { "id": "scream_6d4" }, "type": "spell", "cooldown": 31 },
-      { "spell_data": { "id": "skinwalker_transform" }, "type": "spell", "cooldown": 7 }
+      { "id": "mon_skinwalker_witch_scream_6d4", "spell_data": { "id": "scream_6d4" }, "type": "spell", "cooldown": 31 },
+      { "id": "mon_skinwalker_witch_skinwalker_transform", "spell_data": { "id": "skinwalker_transform" }, "type": "spell", "cooldown": 7 }
     ],
     "death_drops": "skinwalker_witch_drops",
     "flags": [
