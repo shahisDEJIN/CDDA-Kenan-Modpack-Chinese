@@ -41,6 +41,13 @@
   "stage": 3
  },
  {
+  "key": "9d924a2caa21bcaa1f9fa7b1cfe766d9",
+  "original": "A comfy wool quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "translation": "A comfy wool quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "context": "ID: cloak_makeshift_quilt\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt\n",
+  "stage": 1
+ },
+ {
   "key": "8da9e70278100671e19b705332583916",
   "original": "A copper-tipped throwing spear.",
   "translation": "一根铜尖标枪。",
@@ -128,6 +135,13 @@
   "translation": "一种源自一战的防毒面具，类似于在织物层缝上了两个镜片和滤袋的头罩，能直接套在头盔上。透气性很好，但也导致效果不如现代防毒面具，配套过滤器需要准备一下才能使用。",
   "context": "ID: mask_gas_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→mask_gas_makeshift\n",
   "stage": 5
+ },
+ {
+  "key": "c8d2412b24f4a2e60d47413a5459321d",
+  "original": "A huge patchwork quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "translation": "A huge patchwork quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "context": "ID: cloak_makeshift_quilt_patchwork\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt_patchwork\n",
+  "stage": 1
  },
  {
   "key": "6b8ca381a659c0c5f9d985a46e21c407",
@@ -417,8 +431,21 @@
   "key": "047c9f495467a3a428599ba72affc113",
   "original": "A traditional Roman drink made of cheap, often sour wine watered down, and usually made more palatable with herbs and honey.",
   "translation": "历史悠久的罗马酒，罗马军团行军时常常携带着，由廉价且味酸的葡萄酒兑水冲淡而成。通常会混合着香草和蜂蜜来增添风味。",
-  "context": "ID: posca\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca\n",
   "stage": 5
+ },
+ {
+  "key": "c76310aeeabb825bf05a70797c12cddb",
+  "original": "A traditional Roman drink made of water mixed with a bit of sour wine, then spiced up with herbs and honey.  Good for unwinding after a long march.",
+  "translation": "A traditional Roman drink made of water mixed with a bit of sour wine, then spiced up with herbs and honey.  Good for unwinding after a long march.",
+  "context": "ID: posca_hard\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca_hard\n",
+  "stage": 1
+ },
+ {
+  "key": "f461667e0ea4faf005101cf80da7489c",
+  "original": "A traditional Roman drink made of water mixed with a bit of vinegar, then spiced up with herbs and honey.  A good way to quench one's thirst on a long march.",
+  "translation": "A traditional Roman drink made of water mixed with a bit of vinegar, then spiced up with herbs and honey.  A good way to quench one's thirst on a long march.",
+  "context": "ID: posca\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca\n",
+  "stage": 1
  },
  {
   "key": "356b50520cf1ade499e27f6d2bf74591",
@@ -1447,6 +1474,13 @@
   "stage": 3
  },
  {
+  "key": "27e7661dcd90b086ff874f16b7483ddd",
+  "original": "hard posca",
+  "translation": "hard posca",
+  "context": "ID: posca_hard\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca_hard\n",
+  "stage": 1
+ },
+ {
   "key": "1f38c4aed55ce280a826d79756912f75",
   "original": "heavy snare kit",
   "translation": "大型捕猎陷阱",
@@ -1674,11 +1708,25 @@
   "stage": 5
  },
  {
+  "key": "bb5e204c41ab416b1a79538d175cfb4c",
+  "original": "makeshift patchwork quilt cloak",
+  "translation": "makeshift patchwork quilt cloak",
+  "context": "ID: cloak_makeshift_quilt_patchwork\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt_patchwork\n",
+  "stage": 1
+ },
+ {
   "key": "a0c234e60c439e3b7e27355b1eb7fbf3",
   "original": "makeshift poultice",
   "translation": "简易膏药",
   "context": "ID: makeshift_poultice\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→makeshift_poultice\n",
   "stage": 5
+ },
+ {
+  "key": "d4d78b2da39bf0cf098d2d820bcbf3eb",
+  "original": "makeshift quilt cloak",
+  "translation": "makeshift quilt cloak",
+  "context": "ID: cloak_makeshift_quilt\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt\n",
+  "stage": 1
  },
  {
   "key": "1e75598e7b7c86ff8e769df59820dbb1",

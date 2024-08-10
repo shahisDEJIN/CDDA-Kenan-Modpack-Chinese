@@ -21,6 +21,13 @@
   "stage": 1
  },
  {
+  "key": "f7c9a22abe1c66716788b21ed548d222",
+  "original": " The last we know is that he found interesting papers that could be useful to us. Your task is to get our fixer out of there or at least take the papers and bring them to me.",
+  "translation": " The last we know is that he found interesting papers that could be useful to us. Your task is to get our fixer out of there or at least take the papers and bring them to me.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "94d26527b65caa438f9abb9513f0857b",
   "original": " This doctrine describes how to protect yourself and your client using zweihander sword.",
   "translation": " 本教义介绍了如何使用双手巨剑保护自己和客户。",
@@ -32,6 +39,13 @@
   "original": " You step aside and prepare for powerfull strike \n\n Armour penetration increached by 30% of strength.",
   "translation": " 你退到一旁，准备发动强力一击 \n\n 护甲穿透力增加 30%。",
   "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
+  "key": "bbd9e6eb194a27d33a80d5555608176d",
+  "original": " fine lab coats",
+  "translation": " fine lab coats",
+  "context": "ID: pm_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_labcoat\n",
   "stage": 1
  },
  {
@@ -325,7 +339,7 @@
   "key": "336d5ebc5436534e61d16e63ddfca327",
   "original": "-",
   "translation": "-",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
+  "context": "ID: TEST_FIND\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND\n",
   "stage": 3
  },
  {
@@ -341,6 +355,27 @@
   "translation": "…",
   "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
   "stage": 3
+ },
+ {
+  "key": "b0f27280bb2240b4286e2a099b6c7ea1",
+  "original": "1 000 000 Ahn",
+  "translation": "1 000 000 Ahn",
+  "context": "ID: pm_money_100\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_100\n",
+  "stage": 1
+ },
+ {
+  "key": "d6aa346bd7fd3ea432165b4fba6c0480",
+  "original": "1 000 Ahn",
+  "translation": "1 000 Ahn",
+  "context": "ID: pm_money_1\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_1\n",
+  "stage": 1
+ },
+ {
+  "key": "1a13e57343f089732cf9de04788ccbf8",
+  "original": "10 000 Ahn",
+  "translation": "10 000 Ahn",
+  "context": "ID: pm_money_10\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_10\n",
+  "stage": 1
  },
  {
   "key": "36cc3bbab7def5f958b9ad827822813d",
@@ -402,7 +437,7 @@
   "key": "5206f3f81728f342c5a3949401fe780d",
   "original": "<color_green>Peccatulum Luxuriae</color>",
   "translation": "<color_green>色欲罪种</color>",
-  "context": "ID: mon_luxuriae\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Distortions.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_luxuriae\n",
+  "context": "ID: mon_luxuriae_zwei_mission\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Distortions.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_luxuriae_zwei_mission\n",
   "stage": 1
  },
  {
@@ -664,6 +699,27 @@
   "stage": 1
  },
  {
+  "key": "4dc8a7c2326503f68ed49d231e156085",
+  "original": "A credit bill of 1 000 000, usual currency in City. You can trade it at some merchants for goods.",
+  "translation": "A credit bill of 1 000 000, usual currency in City. You can trade it at some merchants for goods.",
+  "context": "ID: pm_money_100\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_100\n",
+  "stage": 1
+ },
+ {
+  "key": "3eb1110e5d606a0dd154e09b3b2719ba",
+  "original": "A credit bill of 1 000, usual currency in City. You can trade it at some merchants for goods.",
+  "translation": "A credit bill of 1 000, usual currency in City. You can trade it at some merchants for goods.",
+  "context": "ID: pm_money_1\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_1\n",
+  "stage": 1
+ },
+ {
+  "key": "51df1fae646f218f9d619a24439357e9",
+  "original": "A credit bill of 10 000, usual currency in City. You can trade it at some merchants for goods.",
+  "translation": "A credit bill of 10 000, usual currency in City. You can trade it at some merchants for goods.",
+  "context": "ID: pm_money_10\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money_10\n",
+  "stage": 1
+ },
+ {
   "key": "f8908273f8c010378d8616e4d7fae65b",
   "original": "A credit bill of 100 000, usual currency in City. You can trade it at some merchants for goods.",
   "translation": "一张 100 000 的信用钞票，这是都市的通用货币。您可以用它在一些商人那里换取商品。",
@@ -720,10 +776,31 @@
   "stage": 1
  },
  {
+  "key": "97a0c1f6f4925c42de3cf448097c89f6",
+  "original": "A guide to Cataclysm",
+  "translation": "A guide to Cataclysm",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "d18b90444a5fa78fd14719fb3c76a06e",
   "original": "A huge two-handed sword.  It's blade made of some sort of black steel.\n\nFinely made, and looks realy sturdy. You see a Zwei asssociation emblem on it.",
   "translation": "一把巨大的双手剑。 剑身由某种黑色金属制成。\n\n做工精细，看起来非常坚固。你可以看到上面有一个 Zwei 协会的徽章。",
   "context": "ID: zw_is_zweihander\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→zw_is_zweihander\n",
+  "stage": 1
+ },
+ {
+  "key": "25cf5f1b83da96e296b2582d40a8fec6",
+  "original": "A leather scabbard, big enough for *any* sword.  Designed to be strapped to the back, it's very difficult to draw from without considerable practice.  Activate to sheath/draw a sword.",
+  "translation": "A leather scabbard, big enough for *any* sword.  Designed to be strapped to the back, it's very difficult to draw from without considerable practice.  Activate to sheath/draw a sword.",
+  "context": "ID: zw_bscabbard_iz\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard_iz\n",
+  "stage": 1
+ },
+ {
+  "key": "12d5ec47c94c0759beb79d0596642236",
+  "original": "A leather scabbard, big enough for almost any sword.  Designed to be strapped to the back, it's very difficult to draw from without considerable practice.  Activate to sheath/draw a sword.",
+  "translation": "A leather scabbard, big enough for almost any sword.  Designed to be strapped to the back, it's very difficult to draw from without considerable practice.  Activate to sheath/draw a sword.",
+  "context": "ID: zw_bscabbard\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard\n",
   "stage": 1
  },
  {
@@ -751,7 +828,6 @@
   "key": "d5eed66ff5e1a4e3cf7bb2ffac96d24a",
   "original": "A pair of black trouses. Looks professional! Unusualy sturdy",
   "translation": "一条黑色长裤。看起来很专业！异常的结实",
-  "context": "ID: kr_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_trouses\n",
   "stage": 1
  },
  {
@@ -759,6 +835,13 @@
   "original": "A pair of brown trouses. Looks professional!",
   "translation": "一条棕色长裤。看起来很专业！",
   "context": "ID: lc_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_trouses\n",
+  "stage": 1
+ },
+ {
+  "key": "567a192648cbd9478ad6032b6bad8147",
+  "original": "A pair of kurokumo black trouses. Looks professional! Unusualy sturdy",
+  "translation": "A pair of kurokumo black trouses. Looks professional! Unusualy sturdy",
+  "context": "ID: kr_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_trouses\n",
   "stage": 1
  },
  {
@@ -1031,7 +1114,7 @@
   "key": "5bb3b2eed78048c344e63f17b98bfd96",
   "original": "Aye and fine!  One for the paper-claim an' so.  An I'm ken, these'n's could be a right thorn.  For ol' Rubik's sake, let's hope they be'n't for to drive us out o' your otherlands.",
   "translation": "是的，很好！一纸诉状。 我知道，这些人可能是个刺头。 看在老鲁比克的份上，但愿他们不会把我们赶出你们的领地。",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
+  "context": "ID: TEST_FIND\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND\n",
   "stage": 1
  },
  {
@@ -1410,6 +1493,13 @@
   "stage": 1
  },
  {
+  "key": "13fa6e894b814e4bf6dc7cf8686e9003",
+  "original": "Don't worry, you didn't let me down. I expected something like that.",
+  "translation": "Don't worry, you didn't let me down. I expected something like that.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "c379eab896739ca7f6315e90cbb3c6ea",
   "original": "Dude, are you okay, does it feel like you took a hard drag on a cigarette?",
   "translation": "老兄，你没事吧，是不是感觉像狠狠吸了一口叶子？",
@@ -1648,6 +1738,20 @@
   "stage": 1
  },
  {
+  "key": "a51b99ba88038c6fed70f283c8f680b6",
+  "original": "Find Zombie Survival Guide",
+  "translation": "Find Zombie Survival Guide",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
+  "key": "da154daa02411f8769fcaa29358053de",
+  "original": "Find lost Zwei fixer and bring him back",
+  "translation": "Find lost Zwei fixer and bring him back",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "00912073af64a3a343db8c7357735f6d",
   "original": "Find that location",
   "translation": "查找该位置",
@@ -1658,7 +1762,7 @@
   "key": "c09b4fd4c71727a562cbf2b347482dbc",
   "original": "Fine an' fine.  Come back to this'n if you like to try again.",
   "translation": "好的好的。你的准备好了的可以再试一次的。",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
+  "context": "ID: TEST_FIND\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND\n",
   "stage": 1
  },
  {
@@ -1702,6 +1806,13 @@
   "translation": "火焰球（二阶）（爆炸）",
   "context": "ID: death_fire_sphere_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_fire_sphere_2\n",
   "stage": 3
+ },
+ {
+  "key": "6a7ee4fd8ae6cdf37630fcc0df83ff7e",
+  "original": "First time fighting them? I'd recommend some decent gear, since you're unlikely to get by with a kitchen knife or stick. Unless you're skilled enough... anything can happen.",
+  "translation": "First time fighting them? I'd recommend some decent gear, since you're unlikely to get by with a kitchen knife or stick. Unless you're skilled enough... anything can happen.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
  },
  {
   "key": "d2fcad52d7e8bf6a87f87b6327c0107e",
@@ -1774,10 +1885,24 @@
   "stage": 1
  },
  {
+  "key": "324b00e392ecba80c9770c0d9a8ac9dd",
+  "original": "Good.",
+  "translation": "Good.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "3bba584f123591db899457acd6615662",
   "original": "Great and delicious Wellcheers! It quenches thirst wonderfully, is full of vitamins and is good for health! It never gets tired of drinking, and refreshes like a pleasant sea breeze. you can even hear the sound of waves when you drink this soda. There's definitely nothing to worry about.",
   "translation": "美味可口的韦尔奇乐汽水！它解渴效果极佳，富含维生素，有益健康！它百喝不厌，沁人心脾，就像一阵宜人的海风。绝对没有需要担心的地方。",
   "context": "ID: grape_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→COMESTIBLE→grape_wellcheers\n",
+  "stage": 1
+ },
+ {
+  "key": "1f14d4d5f573a6444a780ca25f3fd167",
+  "original": "Great, here are the coordinates. You can head out now.",
+  "translation": "Great, here are the coordinates. You can head out now.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
   "stage": 1
  },
  {
@@ -1983,9 +2108,9 @@
   "stage": 1
  },
  {
-  "key": "9a0d4405eb4ba0612f3d8e5c28d78273",
-  "original": "Hello, my name is %s. I'm here to do some work.",
-  "translation": "Hello, my name is %s. I'm here to do some work.",
+  "key": "e175c8fddd8fb84f2f466a57e4893adb",
+  "original": "Hello. I'm here to do some work.",
+  "translation": "Hello. I'm here to do some work.",
   "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
@@ -2035,7 +2160,7 @@
   "key": "58ea7f2f99af8dbe3ee450bb9b894133",
   "original": "Hm.  The escoltin' our way be less.  This'n'll yark at the Scythy mayhaps.",
   "translation": "嗯，往我们这边跑的人比较少 ，也许这家伙会去找Scythy。",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
+  "context": "ID: TEST_FIND\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND\n",
   "stage": 1
  },
  {
@@ -2064,6 +2189,13 @@
   "original": "How did it happen that you lost your daughter?",
   "translation": "你是怎么失去女儿的？",
   "context": "ID: HISTORY_LIM_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→HISTORY_LIM_RC\n",
+  "stage": 1
+ },
+ {
+  "key": "66af4ed8ca15c5e7df62827871d922e7",
+  "original": "How's the threat extermination going?",
+  "translation": "How's the threat extermination going?",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
   "stage": 1
  },
  {
@@ -2109,6 +2241,13 @@
   "stage": 1
  },
  {
+  "key": "0a262309e7258e35615ede9c6ce59ecd",
+  "original": "I don't know what you might encounter there, but I don't think it's anything serious. Came, took, left. Like going to the store.",
+  "translation": "I don't know what you might encounter there, but I don't think it's anything serious. Came, took, left. Like going to the store.",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "41ebc76962f6ac140d17fc75cddecded",
   "original": "I don't really want to get involved with drugs...",
   "translation": "我真的不想和毒品扯上关系……",
@@ -2121,6 +2260,13 @@
   "translation": "在我看来是这样",
   "context": "ID: TALK_LIM_RC1\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_LIM_RC1\n",
   "stage": 3
+ },
+ {
+  "key": "f76185cff5bb42b42dddc6df97b16d65",
+  "original": "I heard that local bookstores sometimes sell a book about surviving a zombie apocalypse. It sounds ridiculous, because if people had information about this event so easily accessible, how did it come to this? But I think it's worth checking. I'll tell you which store I saw such a book in, all you have to do is bring it, or give them your copy if you have one.",
+  "translation": "I heard that local bookstores sometimes sell a book about surviving a zombie apocalypse. It sounds ridiculous, because if people had information about this event so easily accessible, how did it come to this? But I think it's worth checking. I'll tell you which store I saw such a book in, all you have to do is bring it, or give them your copy if you have one.",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
  },
  {
   "key": "2860dccef01694db7af0d237cf6a6ab1",
@@ -2148,6 +2294,13 @@
   "original": "I want to buy myself something, do you have anything to offer?",
   "translation": "我想给自己买点东西，你们有什么可以提供的吗？",
   "context": "ID: TALK_DUGLAS_RC_2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Duglas.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_DUGLAS_RC_2\n",
+  "stage": 1
+ },
+ {
+  "key": "1a23410b5c02927e34ef260137237485",
+  "original": "I was briefed on what was going on there. I am impressed with your skills. I think you have earned this award, and now you have access to our equipment and training.",
+  "translation": "I was briefed on what was going on there. I am impressed with your skills. I think you have earned this award, and now you have access to our equipment and training.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
   "stage": 1
  },
  {
@@ -2197,6 +2350,20 @@
   "original": "I'm member of Rusted Chains Syndicate",
   "translation": "I'm member of Rusted Chains Syndicate",
   "context": "ID: NC_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_RC\n",
+  "stage": 1
+ },
+ {
+  "key": "8ae0a0bed88ada04119fcd6a8af4435f",
+  "original": "I've heard from some people about a potentially useful book. Can you find it?",
+  "translation": "I've heard from some people about a potentially useful book. Can you find it?",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
+  "key": "283c62de14846bc6a307c05e646d0bfd",
+  "original": "If our man failed there, then apparently its really dangerous there. Gather a team or prepare the necessary equipment, anything can happen",
+  "translation": "If our man failed there, then apparently its really dangerous there. Gather a team or prepare the necessary equipment, anything can happen",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
   "stage": 1
  },
  {
@@ -2273,7 +2440,6 @@
   "key": "d63fdb7af0696c8265ada5a0c436b8b1",
   "original": "Investigate the Mysterious Bunker",
   "translation": "调查神秘地堡",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
   "stage": 1
  },
  {
@@ -2303,6 +2469,13 @@
   "translation": "ISAO",
   "context": "ID: isao_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isao_npc\n",
   "stage": 0
+ },
+ {
+  "key": "55b3c5c93eefe5d448a98d2e141084dd",
+  "original": "It seems we have found those who may know what is happening in this world, we sent one of our people there but he still hasn't returned.",
+  "translation": "It seems we have found those who may know what is happening in this world, we sent one of our people there but he still hasn't returned.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
  },
  {
   "key": "15d4ef7084103b7ef628282cfca162d8",
@@ -2364,6 +2537,13 @@
   "original": "Keep out",
   "translation": "保持不动",
   "context": "ID: SEIZURE_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→SEIZURE_LIM\n",
+  "stage": 1
+ },
+ {
+  "key": "af07545fb13d7e33fede22d7a1b46d9c",
+  "original": "Kill two peccatula",
+  "translation": "Kill two peccatula",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
   "stage": 1
  },
  {
@@ -2469,6 +2649,27 @@
   "original": "L corp documents",
   "translation": "L公司文件",
   "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "stage": 1
+ },
+ {
+  "key": "1cc0aaabeb41373ad5185a6167794607",
+  "original": "L. brown trouses",
+  "translation": "L. brown trouses",
+  "context": "ID: lc_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_trouses\n",
+  "stage": 1
+ },
+ {
+  "key": "126fc2b7a08eb5f50c95d5bf848facb3",
+  "original": "L. lab coat",
+  "translation": "L. lab coat",
+  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n",
+  "stage": 1
+ },
+ {
+  "key": "a7dd17e5543d0cb56708f40b29790a6a",
+  "original": "L. lab coats",
+  "translation": "L. lab coats",
+  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n",
   "stage": 1
  },
  {
@@ -2778,10 +2979,24 @@
   "stage": 1
  },
  {
+  "key": "68a24c770577b64810f90eed06870cdc",
+  "original": "Lost operative",
+  "translation": "Lost operative",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "5a397ddbe482febc50853e36a372dc48",
   "original": "Lux",
   "translation": "卢克斯",
   "context": "ID: zwei_office1_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_office1_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "000771050df3b70108e7d1a1e45fe10c",
+  "original": "Make a note of the location.",
+  "translation": "Make a note of the location.",
+  "context": "ID: COMP_FIND_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→COMP_FIND_ZWEI\n",
   "stage": 1
  },
  {
@@ -3012,7 +3227,7 @@
   "key": "4fedd98824b00fd6c7400d81c4be1dde",
   "original": "Peccatulum Luxuriae is a large pale flesh-coloured four-legged creature with vein-like patterns across its body. It has a long, flat tail like a salamander. Large bumps form along its spine that increase in size as they get closer to the head, which is heavily wrinkled, partitioned down the middle, and shaped like a shield. One bloodshot orange eyeball pops out from the right side of its face.",
   "translation": "色欲罪种是一个大型的淡肉色四足生物，身体上有脉状花纹。它有一条像蝾螈一样扁平的长尾巴。它的脊柱上长着大疙瘩，越靠近头部疙瘩越大，头部皱纹密布，中间有分隔，形状像盾牌。它的右脸上突起一颗布满血丝的橙色眼球。",
-  "context": "ID: mon_luxuriae\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Distortions.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_luxuriae\n",
+  "context": "ID: mon_luxuriae_zwei_mission\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Distortions.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_luxuriae_zwei_mission\n",
   "stage": 1
  },
  {
@@ -3051,6 +3266,13 @@
   "stage": 1
  },
  {
+  "key": "279a624162736e532404eedfc702d4a0",
+  "original": "Population control",
+  "translation": "Population control",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "40ec41fac641e363e4654d28ea1eb4ae",
   "original": "Powerful diagonal attack",
   "translation": "强力的斜向攻击",
@@ -3069,6 +3291,13 @@
   "original": "Powerful upward attack",
   "translation": "强大的向上攻击",
   "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
+  "stage": 1
+ },
+ {
+  "key": "5ac17d41092e037956f89100f4a15913",
+  "original": "Press any key.",
+  "translation": "Press any key.",
+  "context": "ID: COMP_FIND_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→COMP_FIND_ZWEI\n",
   "stage": 1
  },
  {
@@ -3125,6 +3354,13 @@
   "original": "Purple electricity",
   "translation": "紫色伤害",
   "context": "ID: purple_elec\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→purple_elec\n",
+  "stage": 1
+ },
+ {
+  "key": "d988d1c644839e44e443d82394765ad0",
+  "original": "Reach source of misterious broadcast",
+  "translation": "Reach source of misterious broadcast",
+  "context": "ID: MISSION_REACH_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_REACH_ZWEI\n",
   "stage": 1
  },
  {
@@ -3251,6 +3487,20 @@
   "original": "Several secret documents containing all kinds of information, graphs, and charts, kept together in a manila folder. You dont know why but you cannot percieve information drawn here, everything so blury and boring.",
   "translation": "几份包含各种信息、图表的秘密文件被放在一个牛皮纸文件夹里。不知道为什么，你无法感知这里所绘制的信息，一切都显得那么模糊和乏味。",
   "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "stage": 1
+ },
+ {
+  "key": "e0afd66b210ff2762a99bc428f6566ac",
+  "original": "Sheath sword",
+  "translation": "Sheath sword",
+  "context": "ID: zw_bscabbard_iz\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard_iz\n",
+  "stage": 1
+ },
+ {
+  "key": "c7a4e803b1d17ea01a1578d6ff5180b3",
+  "original": "Should I tell you how to get to the library? Do you need an invitation or something?",
+  "translation": "Should I tell you how to get to the library? Do you need an invitation or something?",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
   "stage": 1
  },
  {
@@ -3435,6 +3685,13 @@
   "stage": 1
  },
  {
+  "key": "c886eb4583eaa77c549f877ba3b36e4b",
+  "original": "Still not on the case? Every minute may count.",
+  "translation": "Still not on the case? Every minute may count.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "87b96d2fd8bb78e9f0efe5ae3124c1d7",
   "original": "Strange sctructure",
   "translation": "奇异结构",
@@ -3575,6 +3832,13 @@
   "stage": 0
  },
  {
+  "key": "920ea0232ec5992bbadd3aa1f0507833",
+  "original": "Thank you. But the book seems useless in this situation. Well, here you go, it's a reward for your efforts.",
+  "translation": "Thank you. But the book seems useless in this situation. Well, here you go, it's a reward for your efforts.",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "341e2905d8979351e23a5ca917acfc88",
   "original": "Thanks for the information, bye",
   "translation": "谢谢你提供的信息，再见",
@@ -3708,6 +3972,13 @@
   "stage": 1
  },
  {
+  "key": "1976eb1baa23adeeb7dd11d46358b124",
+  "original": "The computer awaits input…",
+  "translation": "The computer awaits input…",
+  "context": "ID: COMP_REFUGEE_CENTER_MAIN\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→COMP_REFUGEE_CENTER_MAIN\n",
+  "stage": 1
+ },
+ {
   "key": "0d67101c03f52c0d19f84065036d074d",
   "original": "The feather of a Punishing Bird. It's small but quite sharp enough to cut yourself. Holding it in your hands, you feel the weight of your sins",
   "translation": "惩戒鸟的羽毛。它很小，但锋利得足以割伤你自己。将它握在手中，你会感到自己罪孽的沉重。",
@@ -3740,6 +4011,13 @@
   "original": "The red feather of a Punishing Bird. It's small but realy sharp enough to cut yourself. Holding it in your hands, you feel the weight of other people's sins",
   "translation": "惩戒鸟的红色羽毛。它很小，但锋利得足以割伤你自己。握在手中，你能感受到他人罪恶的重量。",
   "context": "ID: punishing_red_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_red_feather\n",
+  "stage": 1
+ },
+ {
+  "key": "9cff3ba0406f44143ae83c4121dcf256",
+  "original": "The right decision, the reward this time will be appropriate.",
+  "translation": "The right decision, the reward this time will be appropriate.",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
   "stage": 1
  },
  {
@@ -3847,6 +4125,13 @@
   "stage": 1
  },
  {
+  "key": "7ecb2baef74b3e76141232637daae451",
+  "original": "Too bad. I think such knowledge would be useful to us, and the reward would allow you to increase your chances of survival.",
+  "translation": "Too bad. I think such knowledge would be useful to us, and the reward would allow you to increase your chances of survival.",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "731f642e4801283057582c2d19e5ace0",
   "original": "Tough leather boots. Quite refined and well made.",
   "translation": "坚固的皮靴。相当精致且做工精良。",
@@ -3893,6 +4178,13 @@
   "original": "Try me",
   "translation": "来试试看？",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "ff5846ff0d386bf7651aad7882792772",
+  "original": "Ugh... get out and get the job done.",
+  "translation": "Ugh... get out and get the job done.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
   "stage": 1
  },
  {
@@ -4057,6 +4349,27 @@
   "stage": 1
  },
  {
+  "key": "ece289cdd56c3a6c82995b86e4d17489",
+  "original": "We are re;dy to provide protection servic(,! *approximate coordinates appear on the screen*",
+  "translation": "We are re;dy to provide protection servic(,! *approximate coordinates appear on the screen*",
+  "context": "ID: COMP_FIND_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→COMP_FIND_ZWEI\n",
+  "stage": 1
+ },
+ {
+  "key": "1e2243ffea2ee78843b218782c32bcc0",
+  "original": "We need you to eliminate the threat.",
+  "translation": "We need you to eliminate the threat.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
+  "key": "899a2d8b05f1e125ec178b076746d3cc",
+  "original": "We've spotted a few peccatula, we need you to deal with them as they are threatening to disrupt our patrol routes. This is your first mission here, so don't expect payment in cash. Your reward is my trust.",
+  "translation": "We've spotted a few peccatula, we need you to deal with them as they are threatening to disrupt our patrol routes. This is your first mission here, so don't expect payment in cash. Your reward is my trust.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "771eba6801363826ed607c07f3f29caf",
   "original": "Well made lab coat. \n\n<color_yellow>No matter how white it is, stains of many sins are felt on it.\nBut, well, you don't care.</color>",
   "translation": "做工精良的实验室大衣。\n\n<color_yellow>不管它有多白，上面都会沾上许多罪恶的污渍。\n不过还好，你并不在乎。</color>",
@@ -4071,6 +4384,13 @@
   "stage": 1
  },
  {
+  "key": "8105e7f594b79b0f8d096c43da965ebb",
+  "original": "Well, I guess those peccatula are our problem now...",
+  "translation": "Well, I guess those peccatula are our problem now...",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "1a9b1ed0e520d520e4cfe7a7b57c6d13",
   "original": "Well, I'll try",
   "translation": "好吧，我试试看",
@@ -4082,6 +4402,20 @@
   "original": "Well, if I find out anything, I’ll definitely tell you.",
   "translation": "好吧，如果我发现了什么，我一定会告诉你的。",
   "context": "ID: QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→QUEST_LIM_DAUGHTER\n",
+  "stage": 1
+ },
+ {
+  "key": "066a0145cdac4166d8a0af2c5f13bc2d",
+  "original": "Well, we'll have to assign our people to this now.",
+  "translation": "Well, we'll have to assign our people to this now.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
+  "stage": 1
+ },
+ {
+  "key": "fc3c37ff7abf6927347e14332f08432b",
+  "original": "Well... maybe you're not really suited for this job.",
+  "translation": "Well... maybe you're not really suited for this job.",
+  "context": "ID: MISSION_FIND_DOCUMENTS_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_DOCUMENTS_ZW\n",
   "stage": 1
  },
  {
@@ -4137,7 +4471,7 @@
   "key": "a65761051781e8237d20f93c7f07c15f",
   "original": "What've ye scolted, then, o'the clunker?",
   "translation": "那么，你们找到了什么？",
-  "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
+  "context": "ID: TEST_FIND\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND\n",
   "stage": 1
  },
  {
@@ -4327,6 +4661,13 @@
   "stage": 1
  },
  {
+  "key": "8db1a2830b6e9977fa5c7b4d891c513c",
+  "original": "You even cant bring a book from the bookstore",
+  "translation": "You even cant bring a book from the bookstore",
+  "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
   "key": "c3fa862265f072bed4dba58ebfd13cb6",
   "original": "You execute powerful upward slash through %s",
   "translation": "你对%s进行了强力的上挑斩击",
@@ -4373,6 +4714,13 @@
   "original": "You few scars at your hands and face",
   "translation": "你的手上和脸上有一些伤疤",
   "context": "ID: skin_scar_hands_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_hands_face\n",
+  "stage": 1
+ },
+ {
+  "key": "1528a73884e4ac09a9d49c5bae94b5ab",
+  "original": "You got rid of all those peccatula? Well done.",
+  "translation": "You got rid of all those peccatula? Well done.",
+  "context": "ID: MISSION_KILL_PECCA_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_KILL_PECCA_ZW\n",
   "stage": 1
  },
  {
@@ -4499,6 +4847,13 @@
   "original": "You see that human no more",
   "translation": "你看不见那个人了",
   "context": "ID: p_gaze\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→p_gaze\n",
+  "stage": 1
+ },
+ {
+  "key": "e079c018077a2fa0c76edd340d3511b3",
+  "original": "You sheath your %s",
+  "translation": "You sheath your %s",
+  "context": "ID: zw_bscabbard_iz\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard_iz\n",
   "stage": 1
  },
  {
@@ -4803,6 +5158,13 @@
   "stage": 1
  },
  {
+  "key": "47c47fdf8be5dd909029ab8aa9ff596b",
+  "original": "Zw&i ma!2gge",
+  "translation": "Zw&i ma!2gge",
+  "context": "ID: COMP_REFUGEE_CENTER_MAIN\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→COMP_REFUGEE_CENTER_MAIN\n",
+  "stage": 1
+ },
+ {
   "key": "6139e7d0f6163e23d264b39ee0351416",
   "original": "Zwei",
   "translation": "Zwei",
@@ -4828,6 +5190,20 @@
   "original": "Zwei asssociation longsword",
   "translation": "Zwei 协会长剑",
   "context": "ID: zw_longsword\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→zw_longsword\n",
+  "stage": 1
+ },
+ {
+  "key": "36ae3a1cdc5a3cf675b38433b97a5364",
+  "original": "Zwei back scabbard",
+  "translation": "Zwei back scabbard",
+  "context": "ID: zw_bscabbard\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard\n",
+  "stage": 1
+ },
+ {
+  "key": "bfca87653a255cc968eb74297095809c",
+  "original": "Zwei big back scabbard",
+  "translation": "Zwei big back scabbard",
+  "context": "ID: zw_bscabbard_iz\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_bscabbard_iz\n",
   "stage": 1
  },
  {
@@ -4964,6 +5340,13 @@
   "stage": 1
  },
  {
+  "key": "bcd05ec6c68a94ec2e8c3a953db842f6",
+  "original": "a peccatula",
+  "translation": "a peccatula",
+  "context": "ID: PECCATULA\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/TotalySpecies.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPECIES→PECCATULA\n",
+  "stage": 1
+ },
+ {
   "key": "426afb0b22722153d95a4d7e89a1e9c5",
   "original": "accelerating",
   "translation": "加速中",
@@ -5072,7 +5455,7 @@
   "key": "1895a7eab99e2b63a5b9a376d71f0523",
   "original": "black trouses",
   "translation": "黑色长裤",
-  "context": "ID: kr_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_trouses\n",
+  "context": "ID: pm_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_trouses\n",
   "stage": 1
  },
  {
@@ -5149,7 +5532,7 @@
   "key": "37d9ea51429c4c4f57c7a8d22252d19f",
   "original": "brown trouses",
   "translation": "棕色长裤",
-  "context": "ID: lc_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_trouses\n",
+  "context": "ID: pm_trouses_brown\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_trouses_brown\n",
   "stage": 1
  },
  {
@@ -5328,6 +5711,13 @@
   "stage": 1
  },
  {
+  "key": "0a7fd63b659c958dd5249b4b02c9ab58",
+  "original": "fine lab coat",
+  "translation": "fine lab coat",
+  "context": "ID: pm_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_labcoat\n",
+  "stage": 1
+ },
+ {
   "key": "f4679357ea9881ec23c8460f8a232513",
   "original": "fire feathers",
   "translation": "火羽",
@@ -5426,6 +5816,13 @@
   "stage": 1
  },
  {
+  "key": "d2071a4b7b432f1b69ca29c858199cec",
+  "original": "kurokumo black trouses",
+  "translation": "kurokumo black trouses",
+  "context": "ID: kr_trouses\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_trouses\n",
+  "stage": 1
+ },
+ {
   "key": "c7ad5a116b0ff3c158baaf5fd3122a6d",
   "original": "kurokumo eyepatch",
   "translation": "黑云会眼罩",
@@ -5443,14 +5840,12 @@
   "key": "dfd82dfb36e9eb1511c0b00ec8860401",
   "original": "lab coat",
   "translation": "实验室外套",
-  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n",
   "stage": 1
  },
  {
   "key": "6a8737e541cb60459f7feb18c519f4b5",
   "original": "lab coats",
   "translation": "实验室大衣",
-  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n",
   "stage": 1
  },
  {
