@@ -3295,21 +3295,18 @@
   "key": "3e444629d5dc9007958015a8e74b6f44",
   "original": "A wheat-free bird cheeseburger with more vegetables and condiments.  A beef-free alternative for a great meal.",
   "translation": "这个无麸质禽肉奶酪汉堡里又塞进了美味的蔬菜和调料。一顿美味大餐的非牛肉替代品。",
-  "context": "ID: deluxe_cheeseburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→deluxe_cheeseburger_bird_wheat_free\n",
   "stage": 1
  },
  {
   "key": "07474d08716e156f5a1defdc811ed99a",
   "original": "A wheat-free sandwich of minced bird meat and cheese with condiments.  A simple beef-free alternative before the Cataclysm.",
   "translation": "一种由碎禽肉和奶酪与调料做成的无麸质三明治。在大灾变前，这是一种简单的非牛肉替代品。",
-  "context": "ID: cheeseburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→cheeseburger_bird_wheat_free\n",
   "stage": 1
  },
  {
   "key": "9cde13f80fc6438d701b59c35711de92",
   "original": "A wheat-free sandwich of minced bird meat with condiments.",
   "translation": "一份配有调料的无麸质碎禽肉三明治。",
-  "context": "ID: hamburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→hamburger_bird_wheat_free\n",
   "stage": 1
  },
  {
@@ -9780,7 +9777,6 @@
   "key": "f3b0976d6cad7202b10bdaaccec9803a",
   "original": "deluxe wheat-free cheeseburger",
   "translation": "无麸质特级奶酪汉堡",
-  "context": "ID: deluxe_cheeseburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→deluxe_cheeseburger_bird_wheat_free\n",
   "stage": 1
  },
  {
@@ -12152,14 +12148,12 @@
   "key": "926aa03ed2e416bf97c16a1db2747e6c",
   "original": "wheat-free bird cheeseburger",
   "translation": "无麸质禽肉奶酪汉堡",
-  "context": "ID: cheeseburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→cheeseburger_bird_wheat_free\n",
   "stage": 1
  },
  {
   "key": "7430aa7d8cdc3ff3464eb65c61c9e3c9",
   "original": "wheat-free bird hamburger",
   "translation": "无麸质禽肉汉堡",
-  "context": "ID: hamburger_bird_wheat_free\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→hamburger_bird_wheat_free\n",
   "stage": 1
  },
  {
