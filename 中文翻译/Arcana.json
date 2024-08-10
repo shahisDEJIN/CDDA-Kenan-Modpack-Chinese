@@ -8467,7 +8467,6 @@
   "key": "1699e6a87b8a05c91befb1b59219b5d0",
   "original": "Conjure Miasma Nukage",
   "translation": "Conjure Miasma Nukage",
-  "context": "ID: arcana_aftermath_conjure_miasma_nuke\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_conjure_miasma_nuke\n",
   "stage": 3
  },
  {
@@ -15193,10 +15192,16 @@
   "stage": 3
  },
  {
+  "key": "571c4f14e21a4a9e593d0adc1f2f7fd5",
+  "original": "Immunity to poisons, parasites, and fungus of all kinds; steadily reduces accumulated radiation.",
+  "translation": "Immunity to poisons, parasites, and fungus of all kinds; steadily reduces accumulated radiation.",
+  "context": "ID: dragonblood_clarity\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→dragonblood_clarity\n",
+  "stage": 1
+ },
+ {
   "key": "e8dc2dd5d3d12d9ec5acf52d5c0747a0",
   "original": "Immunity to poisons, radiation, and fungus.",
   "translation": "免疫毒药、辐射和真菌。",
-  "context": "ID: dragonblood_clarity\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→dragonblood_clarity\n",
   "stage": 3
  },
  {
@@ -21941,10 +21946,16 @@
   "stage": 3
  },
  {
+  "key": "250cce4a412063979b128785164bce71",
+  "original": "Protection against toxic gas and venom, steadily reduces accumulated radiation.",
+  "translation": "Protection against toxic gas and venom, steadily reduces accumulated radiation.",
+  "context": "ID: poison_ward\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→poison_ward\n",
+  "stage": 1
+ },
+ {
   "key": "5d1ca1af42b57735a62d88efc0e40824",
   "original": "Protection against toxic gas and venom, suppresses the effect of radiation sickness while reducing accumulated radiation steadily.",
   "translation": "抵御有毒气体和毒液的影响，抑制辐射病，同时稳定地减少辐射量。",
-  "context": "ID: poison_ward\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→poison_ward\n",
   "stage": 3
  },
  {
@@ -28493,7 +28504,6 @@
   "key": "1bcd28666168fe389a83d62a103d0b72",
   "original": "This adds a small chance of spawning radioactive gas as well.",
   "translation": "This adds a small chance of spawning radioactive gas as well.",
-  "context": "ID: arcana_aftermath_conjure_miasma_nuke\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_conjure_miasma_nuke\n",
   "stage": 3
  },
  {
