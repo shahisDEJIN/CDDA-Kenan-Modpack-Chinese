@@ -9,9 +9,9 @@
  {
   "key": "8ee9f1ab49f19f2442ff27c86e34e515",
   "original": "A baseball bat wrapped with a steel chain.  A perfect skull cracker.",
-  "translation": "一把用铁链缠裹的棒球棍，一个完美的碎颅工具。",
+  "translation": "一根用铁链缠裹的棒球棍，完美的碎颅工具。",
   "context": "ID: chainbat\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→GENERIC→chainbat\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "40f071e9a679ae367ee830f989d282f8",
@@ -214,7 +214,7 @@
  {
   "key": "7e58f449a4e0ab35a42e23d54d1b5fd0",
   "original": "Your reproductive and digestive organs became those of an fish, at certain times you just feel the urge to lay an roe.  Activate to lay an roe.",
-  "translation": "你的生殖和消化器官变成了和鱼类一样，有时你还会有想要产卵的冲动。激活以产卵。",
+  "translation": "你的生殖和消化器官变得和鱼类一样，有时你还会有想要产卵的冲动。激活以产卵。",
   "context": "ID: OVIPAROUS_Fish\n位于 /Kenan-Structured-Modpack/pixels_fuckery/pix_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#pixels_fuckery→mutation→OVIPAROUS_Fish\n",
   "stage": 3
  },

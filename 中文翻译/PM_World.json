@@ -5407,7 +5407,7 @@
   "original": "black katana",
   "translation": "黑色武士刀",
   "context": "ID: kr_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_katana\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1377517dcf6d88f0851473956c26fd24",
@@ -5580,9 +5580,9 @@
  {
   "key": "e23734af2ae583cbec34c85ea4c6eb07",
   "original": "cloud katana",
-  "translation": "云太刀",
+  "translation": "云纹武士刀",
   "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d9ad0a2f8b966ef1b84f3163f0e0d113",
@@ -5851,16 +5851,16 @@
  {
   "key": "28394e6d6f96af38e4df1840ddcf90ba",
   "original": "lab security baton",
-  "translation": "实验室安保棍",
+  "translation": "实验室镇暴棍",
   "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1f91238b3e2d5218c803644f3c9bbe35",
   "original": "lab security batons",
-  "translation": "实验室安保棍",
+  "translation": "实验室镇暴棍",
   "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1575ea59e5872f816414e0e288e36ace",
@@ -6174,7 +6174,7 @@
   "original": "sturdy shoulder pads",
   "translation": "结实的肩垫",
   "context": "ID: zw_spads\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_spads\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2ececfb9ddee5d0d6a2803dd23642ec0",
