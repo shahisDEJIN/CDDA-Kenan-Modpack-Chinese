@@ -9,9 +9,9 @@
  {
   "key": "420b724f54afb6fbe2a5adf44400fae2",
   "original": "\"Grounding\" a portion of the stored charge keeps the energy flowing.",
-  "translation": "将储存的电荷的一部分“接地”可以保持能量的流动。",
+  "translation": "将储存的电量的一部分“接地”可以保持电流的流动。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "23a7754ceaf1b9c5dc28257980522294",
@@ -58,7 +58,7 @@
  {
   "key": "cd3f3e0b14372a510fbe4e394d0ea636",
   "original": "%s prepares to fight once more.",
-  "translation": "%s 再次准备战斗。",
+  "translation": "%s 准备好再干一架了。",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
   "stage": 3
  },
@@ -142,9 +142,9 @@
  {
   "key": "6328686161640b3c6a970743b6763b88",
   "original": "<npcname> bursts fire and pushes %s back!",
-  "translation": "<npcname>连射爆发，将%s逼退！",
+  "translation": "<npcname>爆发出火焰并将%s逼退！",
   "context": "ID: tec_mokou_fire_burst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_fire_burst\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "30039aab6e1106cd36eb073e533d15b7",
@@ -155,9 +155,9 @@
  {
   "key": "c262c0659d3a78140cc78c84f52cbde9",
   "original": "<npcname> claws fire at %s",
-  "translation": "<npcname>号利爪感染者向%s号目标喷射火焰。",
+  "translation": "<npcname>以一招火焰爪向%s猛抓过去。",
   "context": "ID: tec_mokou_talons\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_talons\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3dd3c8ae46cec53b7182b350126e9115",
@@ -203,9 +203,9 @@
  {
   "key": "a88ee382731c843251e018cc2b3133b1",
   "original": "<npcname> extend their wraps to hit %s, sending them flying!",
-  "translation": "<npcname>号生物伸展触手击中了%s号，将其击飞！",
+  "translation": "<npcname>延伸其绷带击中%s，并将其击飞！",
   "context": "ID: tec_kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palmfly\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d05a5514d6ef0c58c061b923d50fd507",
@@ -250,9 +250,9 @@
  {
   "key": "12fdd3e9a4a6d115925482f41d01d3ff",
   "original": "<npcname> knees and immediately kicks %s back",
-  "translation": "<npcname>号膝盖猛地一顶，随即反踢向%s号。",
+  "translation": "<npcname>使出一记膝撞，随后立即反踢向%s。",
   "context": "ID: tec_mokou_kick2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_kick2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1fd5a1acf7784eafc044ba3a8e65842e",
@@ -264,23 +264,23 @@
  {
   "key": "9053e9d2ff11a864fc1f1dafa569313b",
   "original": "<npcname> palm strikes %s with their left hand!",
-  "translation": "<npcname>次掌击，其中%s次是用左手发出的！",
+  "translation": "<npcname>用左手手掌猛击%s！",
   "context": "ID: tec_kasen_palm_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "df29442340eed894fca6030a6c65a58a",
   "original": "<npcname> palm strikes %s with their right hand!",
-  "translation": "<npcname>次掌击，用他们的右手重重地击出%s次！",
+  "translation": "<npcname>用右手手掌重击%s！",
   "context": "ID: tec_kasen_palm_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7bf4dbed3692005b82279d8320d04831",
   "original": "<npcname> perform a low slash at %s",
-  "translation": "<npcname>   对准 %s 位置执行一次低砍劈击",
+  "translation": "<npcname>  刀刃斜向下猛斩 %s",
   "context": "ID: tec_youmu_knee_slasher\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_knee_slasher\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "86e199c8bcc2678d605938d61d938c13",
@@ -299,37 +299,37 @@
  {
   "key": "1f5ca3585a54f6edc120f32c0849a8ab",
   "original": "<npcname> punches %s with their left hand!",
-  "translation": "<npcname>用他们的左手重重地击打了%s！",
+  "translation": "<npcname>用左拳猛击了%s！",
   "context": "ID: tec_kasen_punch_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c6bf71deae4578d8284ce5cd3fb81a05",
   "original": "<npcname> punches %s with their right hand!",
-  "translation": "<npcname>用右手猛击了%s！",
+  "translation": "<npcname>用右拳猛击了%s！",
   "context": "ID: tec_kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b501d73f8abf60b5e274048679981c6d",
   "original": "<npcname> punches downwards at %s",
-  "translation": "<npcname>号向下猛击至%s号。",
+  "translation": "<npcname>挥拳重砸%s。",
   "context": "ID: tec_mokou_punch_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_punch_down\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1226a991a9de729c0f7fbb353b123789",
   "original": "<npcname> quickly chops at %s!",
-  "translation": "<npcname>迅速地朝%s猛砍而去！",
+  "translation": "<npcname>迅捷地向%s劈砍！",
   "context": "ID: tec_kasen_chop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_chop\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "be0892a201cd4975e38ac38f90557e74",
   "original": "<npcname> quickly counter swings at %s",
-  "translation": "<npcname>迅速反击挥击于%s",
+  "translation": "<npcname>迅速反击，命中了%s",
   "context": "ID: tec_iku_slap_reverse\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap_reverse\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "db62e6345e5f70ddee30e39ef5efa3d7",
@@ -348,9 +348,9 @@
  {
   "key": "29e70c9aedc4039e4ad440c16dc39e0e",
   "original": "<npcname> shapes their wraps as a drill and kicks %s with it!",
-  "translation": "<npcname>将他的包裹塑形为钻头，并用它踢向%s！",
+  "translation": "<npcname>将其绷带重塑为钻头的形状，并用它击向%s！",
   "context": "ID: tec_kasen_drillkick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_drillkick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0e6f8e03e658a59f3e86612007218c37",
@@ -404,9 +404,9 @@
  {
   "key": "eebbc3b28d576e07a43b41c24bf83978",
   "original": "<npcname> strikes %s with the hilt of their weapon",
-  "translation": "<npcname>用武器的柄击打%s",
+  "translation": "<npcname>用武器的握柄击打%s",
   "context": "ID: tec_youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_hilt_nudge\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e51133dc76b64b8a28c64a22d6ebee0",
@@ -448,7 +448,7 @@
   "original": "<npcname> swings quickly at %s",
   "translation": "<npcname> 快速攻向 %s",
   "context": "ID: tec_iku_slap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3cb7d8d30fb9ff4d4a7483b362547e86",
@@ -476,7 +476,7 @@
   "original": "<npcname> tackles %s!",
   "translation": "<npcname> 撞击 %s！",
   "context": "ID: tec_mokou_tackle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_tackle\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a4f76a11a54fa5cf4fe70ff4ec116575",
@@ -502,16 +502,16 @@
  {
   "key": "486e35528d2243eaa842a452058522e8",
   "original": "<npcname> turns around and attacks %s while moving backwards!",
-  "translation": "<npcname>在后退中转身攻击 %s！",
+  "translation": "<npcname>在后退的同时转身攻击 %s！",
   "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bb8e64d94b1f5a230a669a8824de0411",
   "original": "<npcname> unwraps their bandages and swipes towards %s!",
-  "translation": "<npcname> 解开绷带，猛然向 %s 扫去！",
+  "translation": "<npcname> 解开绷带，猛地扫向 %s ！",
   "context": "ID: tec_kasen_swipe\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_swipe\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cf7c4b6ff96acd9aab140e532af21a95",
@@ -727,10 +727,16 @@
   "stage": 1
  },
  {
+  "key": "424805cf921da1d6755e4aed12cc8c7d",
+  "original": "A dark taoist technique that allows the user to charm humans (*), working better the worse state the target is.  \n \n(*) Should work for beings that are close enough too, right?",
+  "translation": "A dark taoist technique that allows the user to charm humans (*), working better the worse state the target is.  \n \n(*) Should work for beings that are close enough too, right?",
+  "context": "ID: seiga_charm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_charm\n",
+  "stage": 1
+ },
+ {
   "key": "cd596db155f5136e83f22b6671aba855",
   "original": "A dark taoist technique that allows the user to charm humans (*), working better the worse state the target is.  \n(*) Should work for beings that are close enough too, right?",
   "translation": "一个黑暗道术，允许使用者控制人类*，目标的状态越差，效果越好。\n(*)应该也适用于离我们足够近的生物，对吧？",
-  "context": "ID: seiga_charm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_charm\n",
   "stage": 3
  },
  {
@@ -850,7 +856,7 @@
   "original": "A knife, frozen in time and space.  It can be used as platform.",
   "translation": "一把在时空中凝固的刀。可当作平台使用。",
   "context": "ID: t_frozen_knife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_frozen_knife\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43a398fdf1b244242d040eb2facbee0f",
@@ -965,9 +971,9 @@
  {
   "key": "cc4a14d52d3867ff5b675997524cee43",
   "original": "A nearby vengeful spirit takes control!",
-  "translation": "附近的复仇怨灵开始操控！",
+  "translation": "附近的怨灵掌握了控制权！",
   "context": "ID: kaenbyou_vspossess_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_vspossess_kill\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2e32a8cb700058569ea1f366ed09e20a",
@@ -1047,7 +1053,7 @@
  {
   "key": "6878fd12bba09b104b09a43ed82bb158",
   "original": "A piece of clothing you use to cover your missing arm.",
-  "translation": "一件用来遮盖你失去的手臂的衣物。",
+  "translation": "一件用来遮盖你断臂的衣物。",
   "context": "ID: kasen_bandages\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_bandages\n",
   "stage": 1
  },
@@ -1218,7 +1224,7 @@
  {
   "key": "58e974f17080c7f8e9a4770b8ae62aab",
   "original": "A sheet of Lunarian leather.  Where do they get their hides?.",
-  "translation": "一块月兔皮革.那些兔子从哪弄来这些皮的?",
+  "translation": "一块月兔皮革——那些兔子从哪弄来这些皮的?",
   "context": "ID: lunarian_leather\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/resources/touhou_tailoring.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→AMMO→lunarian_leather\n",
   "stage": 3
  },
@@ -1292,9 +1298,9 @@
  {
   "key": "ee1380d9df8bd0b73e5e5d6596a9893c",
   "original": "A small lace you use as accessory.  You can store soul shards in it.",
-  "translation": "一件用作装饰的小花边，你可以用它来存放灵魂碎片。",
+  "translation": "一件用作装饰的小花边，你可以将灵魂碎片储于其中。",
   "context": "ID: kaenbyou_leg_lace\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kaenbyou_leg_lace\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e91059834b195acb8d0821450b99590a",
@@ -1313,9 +1319,9 @@
  {
   "key": "d7720103297fa137ee80d39c1aa3152b",
   "original": "A somewhat dark red pair of baggy pants with straps, covered with fire protection talismans.  The pants themselves date back from the Nara period in Japan.",
-  "translation": "一条略呈深红色的宽松长裤，配有背带，布满了防火符咒。这条裤子的历史可以追溯到日本的奈良时代。",
+  "translation": "一件宽松的深红色背带裤，贴满了防火符咒。其款式可以追溯到日本的奈良年代。",
   "context": "ID: mokou_hakama\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→mokou_hakama\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cbaf717833febebc8019c3411a5686a7",
@@ -1333,9 +1339,9 @@
  {
   "key": "2673aada61f83af08cb86334544f3116",
   "original": "A soul engine.  It uses crystallized souls as fuel when assembled.",
-  "translation": "灵魂引擎。组装完成后，它以结晶化的灵魂作为燃料运行。",
+  "translation": "灵魂引擎。使用灵魂碎片作为燃料。",
   "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "28a8c74dd6f8faaa57cdeacdd0272bb8",
@@ -1394,16 +1400,16 @@
  {
   "key": "2f9ede97563743042f4f6a7f986a133f",
   "original": "A standard mattress on a sturdy wooden frame, ocuppied by a body.  This serves as return point in case you're fatally wounded.  It will also fool any shinigami into looking for you somewhere else.",
-  "translation": "一副标准床垫安放在坚实的木制床架上，其上躺着一具身躯。这成了你若遭致命伤害后的回归点。同时，它还能迷惑死神，让它们到别处寻觅你的踪迹。",
+  "translation": "一个标准床垫，被安放在坚固的木制框架，其上躺着一具身躯。这成了你若遭致命伤害后的回归点。同时，它还能迷惑死神，让它们到别处寻觅你的踪迹。",
   "context": "ID: f_bed_shikaisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_bed_shikaisen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "dc0141e5e645ae3bc3799f559deec469",
   "original": "A steel shackle, attached to your left arm.",
-  "translation": "一根钢铁制成的枷锁，束缚在你的左臂上。",
+  "translation": "一根钢制的镣铐，束缚在你的左臂上。",
   "context": "ID: kasen_shackle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_shackle\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ccb74a26c23a972d74f94c8f3cd77cb9",
@@ -1457,9 +1463,9 @@
  {
   "key": "cc8f56536582fcfbf29bbcdba2b1dd9c",
   "original": "A very large, very oversized backpack worn as part of the kappa uniform.  It has special compartments for tools and a water reservoir for field work.  Its design is such that it greatly reduces encumbrance while full.",
-  "translation": "一个非常庞大、超大号的背包，作为河童制服的一部分穿戴。它设有专门的工具隔层和野外工作用水袋。其设计使得即使装满物品也能极大地减轻负重感。",
+  "translation": "一个超大号、超巨型的背包，作为河童制服的一部分穿戴。它设有专门的工具隔层和野外工作用水袋。其设计使其即使装满物品，也能极大地减轻累赘。",
   "context": "ID: nitori_backpack\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→nitori_backpack\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "49cb95e98cf85cefc61f2764613ac0fd",
@@ -1483,9 +1489,9 @@
  {
   "key": "f7f8fd15d2ea91aff44f71dddde288ef",
   "original": "A white button-down shirt with long sleeves.  This is worn by trainees of the Lunar Defense Corps.",
-  "translation": "一件长袖白色衬衫。这是月球防御军团学员的着装。",
+  "translation": "一件长袖白色衬衫。作为月球防御部队的新兵服。",
   "context": "ID: ldc_dress_shirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_dress_shirt\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6b208a372e87bcca5cafe711372e4593",
@@ -1497,9 +1503,9 @@
  {
   "key": "93633e1490d03cc17bdc430ae5b62efa",
   "original": "A white button-up shirt with short, puffy sleeves.  There's black laces at the sleeves and another crossing it in the middle.",
-  "translation": "一件白色短袖衬衫，袖子呈蓬松状。袖口有黑色蕾丝装饰，中间还有一条黑色蕾丝交叉点缀。",
+  "translation": "一件白色短袖衬衫，袖子蓬松。袖口有黑色花边装饰，中间还有一条黑色十字花边点缀。",
   "context": "ID: tengu_shirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_tengu_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→tengu_shirt\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "76fbbf07ed67f4846f7542b825a02ba1",
@@ -1525,9 +1531,9 @@
  {
   "key": "3ed3fd49082e885a799cbc0a11c14349",
   "original": "A white shirt with medium-length sleeves that open like a petals of a flower.",
-  "translation": "一件中袖白衬衫，袖口如花朵花瓣般绽放。",
+  "translation": "一件中袖白衬衫，袖口如绽放的花瓣一般。",
   "context": "ID: kasen_shirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_shirt\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7b85543c6537079d32dc6e11daa9b8b8",
@@ -1579,9 +1585,9 @@
  {
   "key": "9aa1700f7e34c883b16b4743ac9e9971",
   "original": "Activate some of your qi reserves to enhance your melee attacks.  Deactivates if you wield any item.  Reduces mana regen while active.",
-  "translation": "激活你的部分气力储备，以增强近战攻击。持有任何物品时将自动取消激活状态。在启用期间，减少魔法值回复速度。",
+  "translation": "使用你储备的部分气，以增强近战攻击。手持任何物品时将自动取消状态。使用期间，魔力的回复速度会减缓。",
   "context": "ID: meiling_tigerrelease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_tigerrelease\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8e52dc239ccaecaab9852284950a8f68",
@@ -1641,9 +1647,9 @@
  {
   "key": "afee0e413968ba5a03fbe3ed5e80e945",
   "original": "Allows using \"Repulse the intruder\" and \"Stay out\" after blocking attacks.",
-  "translation": "允许在阻挡攻击后使用“击退入侵者”和“远离我”。",
+  "translation": "允许在阻挡攻击后使用“螺旋前挤”和“弹抖肩靠”。",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "58e0168c85957e555cad4e2eaf5395a5",
@@ -1655,16 +1661,16 @@
  {
   "key": "65795644900d14310a24ac0f1a9d3dbc",
   "original": "Allows using Ionic whip and Shock step after grounding.",
-  "translation": "允许在接地后使用离子鞭和电击步。",
+  "translation": "允许在接地后使用电离鞭和掀雷步。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4d840508d160528e13f9f9eb0819a82b",
   "original": "Allows using Qi burst after pausing.",
   "translation": "允许在停止后使用气爆。",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8db5fe0c7f35c1d4075483ea3d8f1f13",
@@ -1738,9 +1744,9 @@
  {
   "key": "e08fa81a57f5f4713ec5fa8847cd4bf9",
   "original": "An amalgamation of two vengeful spirits into a single body.  Quite clumsy, it stutters after every action, as if both selves are not in complete agreement.",
-  "translation": "两个复仇幽灵合二为一的融合体。颇为笨拙，每次行动后都会踉跄，仿佛两个自我尚未完全达成一致。",
+  "translation": "两只怨灵合二为一的融合体。颇为笨拙，每次行动后都会踉跄，仿佛两个自我尚未完全达成一致。",
   "context": "ID: mon_vengeful_chasm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_vengeful_chasm\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "446c06952189f4d6150e2e60a5c8a4b6",
@@ -1766,9 +1772,9 @@
  {
   "key": "a7dc76ae5c94ac9a5b8d478dd9ef2ebf",
   "original": "An open gap in space.",
-  "translation": "太空中的一个开口裂缝。",
+  "translation": "太空中的一道隙间。",
   "context": "ID: t_wall_hole\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_wall_hole\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d0923a724450bfc2b0363ac8998ad0a4",
@@ -1985,9 +1991,9 @@
  {
   "key": "e66469af717b82d8b220b55e2e88d2ec",
   "original": "Befriend beast",
-  "translation": "驯服野兽",
+  "translation": "引导动物的能力",
   "context": "ID: kasen_charm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_charm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9c822df42513413c5ab9b10961403a84",
@@ -2034,14 +2040,14 @@
   "original": "Blaze kick (knockback)",
   "translation": "火焰脚（击退）",
   "context": "ID: mokou_blazekick3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_blazekick3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a848500abf64a3085d0380d7b88a02a2",
   "original": "Blaze kick (stun)",
   "translation": "火焰脚（眩晕）",
   "context": "ID: mokou_blazekick2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_blazekick2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36557509407f64c0643415cb5955abd1",
@@ -2080,9 +2086,9 @@
  {
   "key": "ec627aaea719793819862418b570bdec",
   "original": "Blood Death (vfx)",
-  "translation": "血之死亡（特效）",
+  "translation": "血之终焉",
   "context": "ID: death_blood4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood4\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1bced53276b2bf6352e9147855447803",
@@ -2171,9 +2177,9 @@
  {
   "key": "83a42eb56c4021a1c0470c1ede82f348",
   "original": "Bonus dmg component for tec_mokou_tackle ",
-  "translation": "\" tec_mokou_tackle 技能的额外伤害组件\"",
+  "translation": "Bonus dmg component for tec_mokou_tackle",
   "context": "ID: mokou_tackle_bonus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_tackle_bonus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "124be2c55e9c44186ce3ffccee34c55e",
@@ -2192,9 +2198,9 @@
  {
   "key": "7bc408fb8a10199896e581e16d3f8167",
   "original": "Bonus dmg for soul-type attacks, without the vfx",
-  "translation": "对灵魂类型攻击的额外伤害，不附带视觉特效",
+  "translation": "Bonus dmg for soul-type attacks, without the vfx",
   "context": "ID: souldmg_spell2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_damage_types.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→souldmg_spell2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0652dc9fb2cd7241af6f8fa9d9478919",
@@ -2262,9 +2268,9 @@
  {
   "key": "3f0fe21865f771d1f5d68b0a53a0ea06",
   "original": "Butchering wildly ruins the content of useful organs.",
-  "translation": "胡乱屠宰会破坏有用器官的完整性。",
+  "translation": "野蛮的屠宰会破坏有用器官的完整性。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/snippets/touhou_harvest_drop_msgs.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→snippet→[1]\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6285fb78f1b4fbbbebbe1fd6c70870da",
@@ -2283,9 +2289,9 @@
  {
   "key": "7fcb0fd1b5dfbb67d2d05849e51a8450",
   "original": "By taking a second to enter a guarding stance, you prepare yourself to redirect the qi of the next enemy attack through their own defenses.",
-  "translation": "通过花上一秒进入防御姿态，你做好了准备，以便通过敌人自身的防御来引导下一波攻击的气流。",
+  "translation": "通过花费一秒进入防御姿态，你做好了准备，打算引对方之气并反攻其身。",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "defb99e69a9f1f6e06f15006b1f166ae",
@@ -2366,9 +2372,9 @@
  {
   "key": "ddf7bb888d72494b7d96a51ceec7dd1b",
   "original": "Canalize your spirit, empowering your weapon to deal heavy damage over a distance.  \nRequires a sword.",
-  "translation": "引导你的灵力，强化武器，使其在远处造成重创。需求：一把剑。",
+  "translation": "引导你的灵力，强化武器，在远处对敌人造成重创。\n需求：一把剑。",
   "context": "ID: youmu_slashnether\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slashnether\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d87a5a36133968d404a7654827cfaa19",
@@ -2477,6 +2483,13 @@
   "translation": "天人斗术（龙宫）",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
   "stage": 3
+ },
+ {
+  "key": "cbeaadb9f46759a763deb14a68cd0275",
+  "original": "Celestial constitution",
+  "translation": "Celestial constitution",
+  "context": "ID: CELESTIAL_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→CELESTIAL_CONSTITUTION\n",
+  "stage": 1
  },
  {
   "key": "68fcf4e8225fb2188afa223efd845609",
@@ -2639,9 +2652,9 @@
  {
   "key": "c56585852959411366348c457b40b768",
   "original": "Corpse explosion",
-  "translation": "尸体爆炸",
+  "translation": "尸爆",
   "context": "ID: kaenbyou_corpseexplosion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4eb0ca54d435d1909538a6c118f28240",
@@ -2674,7 +2687,7 @@
  {
   "key": "f19ad8494f1398824bf687a4f03425fe",
   "original": "Counter block",
-  "translation": "格挡反击",
+  "translation": "白鹤亮翅",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
   "stage": 3
  },
@@ -2831,9 +2844,9 @@
  {
   "key": "d794294e530d55fa93725742e7dc4656",
   "original": "Curse of corpses (curse)",
-  "translation": "尸体的诅咒（尸咒）",
+  "translation": "尸体的诅咒",
   "context": "ID: seiga_corpsecurse_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_effect\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5bb70ef82c04c1db5a1a8d28140df9ba",
@@ -3250,16 +3263,16 @@
  {
   "key": "49230b6de0f72e6d7477da3ea2af19ba",
   "original": "Dark energies engulf your victim, quickly healing their wounds!",
-  "translation": "黑暗能量包裹着你的目标，迅速地治愈了他们的伤痕！",
+  "translation": "黑暗能量包裹着你的目标，迅速地治愈了其伤口！",
   "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7b20079f07e21558dcb65c69b147ab5b",
   "original": "Dark energies engulf your victims, quickly healing their wounds!",
-  "translation": "暗黑能量包裹着你的受害者，迅速地治愈他们的伤痕！",
+  "translation": "黑暗能量包裹着你的受害者，迅速地将其伤口治愈！",
   "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4edd10253ee09cb066af34febbf1907d",
@@ -3333,9 +3346,9 @@
  {
   "key": "e4efc1611d24d171d47c2a603de96fbf",
   "original": "Dash to a position with great force.  You can dash through targets, slashing them in the process.",
-  "translation": "奋力冲向一个位置。你可以通过目标进行猛冲，并在过程中对其造成斩击伤害。",
+  "translation": "奋力冲向一个位置。你可以通过目标进行冲刺，并在过程中对其进行斩击。",
   "context": "ID: dash_youmu2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "81a129759cfed93b669d497c2ba51bbc",
@@ -3414,9 +3427,9 @@
  {
   "key": "9eb649de5827ed8561937ac8f5333587",
   "original": "Despite being suspicious of the errand your Mistress' gave you outside the Barrier, you went to carry it out.  The Cataclysm struck in the middle of that, interrumpting you.  How annoying.",
-  "translation": "尽管对主人指派你在屏障之外执行的任务心存疑虑，你还是决定依令行事。然而，大灾变在任务途中不期而至，迫使你中断行动。真是烦人至极。",
+  "translation": "尽管你对大小姐让你到大结界外去办事心存疑虑，但你还是决定依令行事。然而，大灾变的突然爆发打断了你的行程。真是让人不愉快。",
   "context": "ID: sakuya_izayoi\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→sakuya_izayoi\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "30f07ba01415355119dc03793f149eed",
@@ -3463,9 +3476,9 @@
  {
   "key": "12a3e874c9aa1dbe98c728d370664ec1",
   "original": "Direct your attacks towards maximizing the effectiveness of your attacks.  Muscle memory with swords that can cut anything reduces the efficacy of blunt and piercing damage.",
-  "translation": "将你的攻击集中在提升攻击力的效果上。使用能斩断一切的剑所锻炼出的肌肉记忆，会降低钝击和穿刺伤害的效率。",
+  "translation": "将你的集中攻势在最大化攻击效果上。使用能斩断一切的剑所锻炼出的肌肉记忆，会降低钝击和刺击伤害的效果。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "606b5a2b54b529d45d88d4775905dfcd",
@@ -3682,9 +3695,9 @@
  {
   "key": "ab05f73c00d8f500dab89706c8c1cb76",
   "original": "Double palm discharge",
-  "translation": "双手掌心同时释放",
+  "translation": "掌心雷",
   "context": "ID: tec_iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "28d203305a4287aec6ef6c12032a1f33",
@@ -3695,9 +3708,9 @@
  {
   "key": "bf662f6b8f1bd616f1f8455d31703ca5",
   "original": "Double palm discharge (tec)",
-  "translation": "双手掌心爆裂（技术）",
+  "translation": "Double palm discharge (tec)",
   "context": "ID: iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_palm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6036e95d7f7a7f53e2a38534061b9fc7",
@@ -3709,23 +3722,23 @@
  {
   "key": "ca4356feb6a4605d4752b763ba8e2336",
   "original": "Double wheel (summon)",
-  "translation": "双轮召唤",
+  "translation": "二重的苦轮",
   "context": "ID: youmu_doublewheel2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_doublewheel2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "34f9224b7d3a48a1d008dd5b92e3aa35",
   "original": "Downward chop",
-  "translation": "向下砍劈",
+  "translation": "下劈掌",
   "context": "ID: tec_kasen_chop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_chop\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1b7789d1a93add45fbcd19991aa6e370",
   "original": "Downward punch",
-  "translation": "下勾拳",
+  "translation": "坠击拳",
   "context": "ID: tec_mokou_punch_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_punch_down\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0266211235baa89bfdbdb98fc0fa72b0",
@@ -3737,9 +3750,9 @@
  {
   "key": "204e6b5c22cad4a79646be2996391d79",
   "original": "Downward slash",
-  "translation": "向下劈砍",
+  "translation": "下劈斩",
   "context": "ID: tec_youmu_downward_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_downward_slash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fd9369b0325b40f29b90eb7749615dfc",
@@ -3764,9 +3777,9 @@
  {
   "key": "e94b14655454d16f8bd6ea719328dacb",
   "original": "Draft blast (stun)",
-  "translation": "冲击爆炸（眩晕）",
+  "translation": "草稿暴风（眩晕）",
   "context": "ID: aya_draftblast2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_draftblast2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0a4b19b64cbd8d11cfbffac1a5ae4e58",
@@ -3833,9 +3846,9 @@
  {
   "key": "fe658bf71a95d8a3285d26bf37e3f4de",
   "original": "EOC check for kaenbyou_infernoburst double dmg",
-  "translation": "EOC 检查姬海棠火爆爆发双倍伤害",
+  "translation": "EOC check for kaenbyou_infernoburst double dmg",
   "context": "ID: kaenbyou_infernoburst2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_infernoburst2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d1fa177ee6f7e2097abf6bcf497ad8a6",
@@ -3846,9 +3859,9 @@
  {
   "key": "1623297a70055ca32aeda835c31e02c1",
   "original": "Earth stomp",
-  "translation": "地震践踏",
+  "translation": "一击震乾坤",
   "context": "ID: tec_tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_stomp\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e80c7c27c03ee33bacc93d934746064b",
@@ -3859,16 +3872,16 @@
  {
   "key": "9bbee5f043d22f2e8f54582472529cb6",
   "original": "Earth stomp (tec)",
-  "translation": "地震重踏（技能）",
+  "translation": "一击震乾坤",
   "context": "ID: tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_stomp\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "71545b69eb78d7a45bfac7d8b68e4072",
   "original": "Earthen crescent",
-  "translation": "土制新月",
+  "translation": "地之新月",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "62ddc87f0c8874264d04b757f8679729",
@@ -3887,7 +3900,7 @@
  {
   "key": "8dcbc62910ec968b5237904f4c9464be",
   "original": "Eating food wasn't a problem until this point.  It's possible for you to eat food coming from Earth and other impure places, but you will obtain less nutrition from it.",
-  "translation": "在此之前，进食还不是一个问题。吃来自地球和其他不纯之地的食物还是可能的，但获得的营养会更少。",
+  "translation": "在此之前，进食还不是一个问题。吃来自地球和其他污秽之地的食物还是可能的，但获得的营养会更少。",
   "context": "ID: LUNARDIET\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→LUNARDIET\n",
   "stage": 3
  },
@@ -3922,9 +3935,9 @@
  {
   "key": "f915e2070b1129c7a284b36c450172aa",
   "original": "Elekiter Dragon Palace (lightning)",
-  "translation": "电击龙宫殿（闪电）",
+  "translation": "电气的龙宫（闪电）",
   "context": "ID: iku_elekiter2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_elekiter2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b1f8bea0dcbb2faa867af15d3b44e7cf",
@@ -3950,9 +3963,9 @@
  {
   "key": "eb227c3ba96e41948e86eb173c0e8663",
   "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  Cast again to toggle OFF.",
-  "translation": "运用你的秘技，令大厦时刻保持清洁，从而增强你的势头与恢复速度。请注意，若你感到疲惫、敌人靠近，或是遭受伤害，你的专注将会被打断。再次施展此技能即可关闭效果。",
+  "translation": "使用你让红魔馆始终保持干净的秘技，提高你的动力和恢复速度。如果你感到疲劳、敌人靠近或是受到伤害，你的专注就会被打破。再次施放以关闭。",
   "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cb2ac7770875c63ca07f6a5aed265dc8",
@@ -3990,9 +4003,9 @@
  {
   "key": "f758a6e69e75418953517ac647040d65",
   "original": "Enter a meditative state, burning calories over time to increase your spiritual energy regeneration.  Getting hit while in this state deactivates the effect.",
-  "translation": "进入冥想状态，随着时间消耗卡路里以加速精神能量回复。在该状态下受到攻击会取消此效果。",
+  "translation": "进入冥想状态，随着时间消耗卡路里以加速灵力回复。在该状态下受到攻击会中止此效果。",
   "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_calorieburn\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "57421394389388d239aef8b7e77b28a5",
@@ -4039,9 +4052,9 @@
  {
   "key": "a3baa7e1908ff7fe8937919bd103123a",
   "original": "Every hit counts",
-  "translation": "每次击中都至关重要",
+  "translation": "不可须臾离",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "009c6350c00c72bd70bfc5496fa4eb10",
@@ -4094,9 +4107,9 @@
  {
   "key": "6b8578bcdbdd34bfb713abfd5dcbabb3",
   "original": "Extra dmg component of kasen_rainboworb ",
-  "translation": "额外伤害组件：kasen_rainboworb",
+  "translation": "Extra dmg component of kasen_rainboworb",
   "context": "ID: kasen_rainboworb3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d3a1760d61950a5eac95c95a2586a9f4",
@@ -4156,9 +4169,9 @@
  {
   "key": "c6e84642e0f15346517c893e3d60d565",
   "original": "Fancy and comfortable leather shoes.  These are worn by trainees of the Lunar Defense Corps.",
-  "translation": "精致舒适的皮鞋。这些是由月球防御军团的学员所穿着的。",
+  "translation": "精致舒适的皮鞋。月球防卫队的新兵服。",
   "context": "ID: ldc_dress_shoes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_dress_shoes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cd431888497482e45f137f6e738aac69",
@@ -4186,7 +4199,7 @@
   "original": "Feeling bored doing basically noting in Heaven, you came down to visit the Shrine and your friends.  Something happened in the meantime though.  At first you were amused, then became slightly worried, then very, very curious.  The Outside world looks… different now.",
   "translation": "你在天界里无事可干，感到了厌烦，于是你来到地上去拜访神社和友人。但与此同时，一些事情发生了。一开始你感觉很有趣，然后有些担心，之后感到非常好奇。外面的世界现在看起来…变得不一样了。",
   "context": "ID: tenshi_hinanawi\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→tenshi_hinanawi\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "136b45966020202c91722042a181bdf1",
@@ -4372,7 +4385,7 @@
   "original": "Fission dive (dmg)",
   "translation": "裂变猛冲（伤害）",
   "context": "ID: dash_utsuho3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_utsuho3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c277bc331bdc1e28690ea52b41801f0f",
@@ -4417,6 +4430,20 @@
   "stage": 3
  },
  {
+  "key": "199bf514e91b436d6e1da2453de6ba27",
+  "original": "Fly downwards.",
+  "translation": "Fly downwards.",
+  "context": "ID: fly_downwards\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fly_downwards\n",
+  "stage": 1
+ },
+ {
+  "key": "b3acddcfdc1e9864fc96b2f8fddfa2be",
+  "original": "Fly upwards.",
+  "translation": "Fly upwards.",
+  "context": "ID: fly_upwards\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fly_upwards\n",
+  "stage": 1
+ },
+ {
   "key": "e24ee2487879116dcab772c0ac4fe341",
   "original": "Focus",
   "translation": "专注",
@@ -4440,9 +4467,9 @@
  {
   "key": "b257599d4887221a4897bd2f963b0ba2",
   "original": "Focus your ability to superpose your self around the surrounding space, allowing you to ignore incoming attacks.  Lasts for three hits.  Casting while active refreshes the effect.  Cannot be used alongside Wavelength manipulation.",
-  "translation": "集中你的能力，使自己在周围空间中叠加，从而让你能够忽视即将到来的攻击。此效果持续至遭受三次打击。在效果激活期间施放可重置其持续时间。无法与波长操纵同时使用。",
+  "translation": "集中你的能力，使自己身形在周围空间中叠加，从而让你能够忽视即将到来的攻击。此效果能承受三次打击。在效果激活期间施放可重置其持续时间。无法与波长操纵同时使用。",
   "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_barrierwave\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "eac0d82b34d071fdb4341cfe53851f75",
@@ -4460,9 +4487,9 @@
  {
   "key": "b18b4ca1057a85da9723b8aedd57be6e",
   "original": "Focus your qi on yourself or a friendly target, restoring HP over time.",
-  "translation": "将你的气集中于自己或友方目标，随时间恢复生命值。",
+  "translation": "聚气为你或友好目标恢复血量。",
   "context": "ID: meiling_qiheal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_qiheal\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fec47f4da2c8538aeb32bcbd37f6075f",
@@ -4473,7 +4500,7 @@
  {
   "key": "a607fc865032a5d9ca271af7d2f548e1",
   "original": "Force \"children\" to \"grow up\" rapidly, by making use of nearby dead spirits as catalyst.  They will serve you as best as they can, you being her mother figure and all that.",
-  "translation": "利用附近死去的灵魂作为催化剂，强迫“孩子”迅速“长大”。他们会尽其所能为你服务，你是她母亲的形象。",
+  "translation": "利用附近死者的灵魂进行催化，强制“孩子”迅速“长大”。他们会尽其所能为你服务，你是她母亲的形象。",
   "context": "ID: seiga_raisechild\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_raisechild\n",
   "stage": 1
  },
@@ -4501,9 +4528,9 @@
  {
   "key": "155bd6a2d9443a5612aac3ba77107ab1",
   "original": "Forces Youmu's phantom halves (lol) to run the EOC, which teleports them to her",
-  "translation": "迫使幽弥的幻影分身（笑）执行EOC，从而将她们传送到她身边。",
+  "translation": "强制妖梦的半灵分身（笑）使用EOC，从而将其传送到她身边。",
   "context": "ID: youmu_phantom_tp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_phantom_tp\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "54226e0877d365ad47c74d68cf4cbf72",
@@ -4787,7 +4814,7 @@
   "original": "Great Wall",
   "translation": "万里长城",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4881cfe6d3446cb3689bd44d93f2061b",
@@ -4799,9 +4826,9 @@
  {
   "key": "8b9e1171c0b9070fc1c598025755f949",
   "original": "Grounded",
-  "translation": "接地气",
+  "translation": "接地",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c7feef8bba8d215d55faffa6b440d227",
@@ -4847,9 +4874,9 @@
  {
   "key": "68ec7cbe3f37275ba560e2f759c19677",
   "original": "Gun-wave blast (stun)",
-  "translation": "枪波冲击（震撼）",
+  "translation": "枪-波爆发",
   "context": "ID: udonge_gunwaveBLAST4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST4\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5d177a6758c1b132df4a23d1bebcdda1",
@@ -4857,6 +4884,13 @@
   "translation": "月兔",
   "context": "ID: GYOKUTO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_SPECIES\n",
   "stage": 3
+ },
+ {
+  "key": "fcd0b10383d0705c0af5b10691a47d0f",
+  "original": "Gyokuto constitution",
+  "translation": "Gyokuto constitution",
+  "context": "ID: GYOKUTO_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_CONSTITUTION\n",
+  "stage": 1
  },
  {
   "key": "2ad6aa23fb4a7fd4e7ffc86de7bf27c1",
@@ -4867,9 +4901,9 @@
  {
   "key": "5486f69528f98c8cb6b80942bf4612af",
   "original": "Gyokuto ears: firm",
-  "translation": "月兔立耳",
+  "translation": "月兔耳朵：立耳",
   "context": "ID: ear_gyokuto_firm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_ears.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→ear_gyokuto_firm\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f0b6e924eb4153cb0083b0702b7f8ab3",
@@ -4881,9 +4915,9 @@
  {
   "key": "48a8b53e813f78481d2ccbedf26fe672",
   "original": "Gyokuto ears: rumpled",
-  "translation": "月兔折耳",
+  "translation": "月兔耳朵：折耳",
   "context": "ID: ear_gyokuto_rumpled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_ears.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→ear_gyokuto_rumpled\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "214c18e5a89c5e3a93dfa80185d7ebf7",
@@ -5037,7 +5071,7 @@
   "original": "Half-body (summon)",
   "translation": "奇妙半身",
   "context": "ID: youmu_halfbody2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_halfbody2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "006c032b8c5f26e7c93d5ee94fa5cfcc",
@@ -5105,9 +5139,9 @@
  {
   "key": "08d7a58f00d85eebe5cf5eac15038378",
   "original": "Heal component for remilia_vampiricaura ",
-  "translation": "治疗组件，适用于蕾米莉亚·吸血鬼光环",
+  "translation": "Heal component for remilia_vampiricaura",
   "context": "ID: vampiric_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_drain\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "63d00e083309ee9ca82952e4ff2cf12a",
@@ -5173,9 +5207,9 @@
  {
   "key": "ba19306e09db77cbb5af48a680a0ee9d",
   "original": "Heartbreaker (dmg)",
-  "translation": "心碎者（伤害）",
+  "translation": "碎心（伤害）",
   "context": "ID: dash_remi2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_remi2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ac88f01c1c578927ce0ded748d362b11",
@@ -5187,9 +5221,9 @@
  {
   "key": "f32c6ff38c0e0059266a48bc33e8670a",
   "original": "Heaven crescent",
-  "translation": "天堂新月",
+  "translation": "天界的新月",
   "context": "ID: tec_tenko_heaven_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_heaven_crescent\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "db97e72c9f0cdb6e230490971694fc11",
@@ -5210,7 +5244,7 @@
   "original": "Hell raven wings (flight)",
   "translation": "地狱鸦翼（飞翔）",
   "context": "ID: WINGS_HELLRAVEN_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN_spread\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "04798632d44c040eca38ef652e8adb71",
@@ -5296,6 +5330,13 @@
   "stage": 3
  },
  {
+  "key": "beaa9a72c4ac50bcf26a1013f9bbaa9d",
+  "original": "Hermit constitution",
+  "translation": "Hermit constitution",
+  "context": "ID: HERMIT_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HERMIT_CONSTITUTION\n",
+  "stage": 1
+ },
+ {
   "key": "c825fa7801d2434eed34c7f4ab47c373",
   "original": "Hermit walk (speed)",
   "translation": "仙人走 (速度)",
@@ -5312,9 +5353,9 @@
  {
   "key": "f35b2d1d7bac297e3a27850769494bc9",
   "original": "High slash",
-  "translation": "上斩",
+  "translation": "天女返",
   "context": "ID: tec_youmu_high_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_high_slash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4f57ccf4aca9a33b7ac7d4134d4bc0e8",
@@ -5375,6 +5416,13 @@
   "original": "Hourai's high",
   "translation": "蓬莱之崇",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
+  "stage": 3
+ },
+ {
+  "key": "c1bb19b27818343c1926119b958741b5",
+  "original": "Human",
+  "translation": "Human",
+  "context": "ID: HUMAN_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HUMAN_SPECIES\n",
   "stage": 1
  },
  {
@@ -5390,6 +5438,13 @@
   "translation": "人肉",
   "context": "ID: hflesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→hflesh\n",
   "stage": 3
+ },
+ {
+  "key": "164026233c75ffd195439756b7fb5b21",
+  "original": "Human constitution",
+  "translation": "Human constitution",
+  "context": "ID: HUMAN_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HUMAN_CONSTITUTION\n",
+  "stage": 1
  },
  {
   "key": "6cf4604c4de140b745a753782b85fe98",
@@ -5622,21 +5677,21 @@
   "original": "Insightful sword (bash)",
   "translation": "洞察之剑（钝击）",
   "context": "ID: youmu_insightfulsword2_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword2_bash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6c107ee1a7e207fc2ede5e86bc7cac69",
   "original": "Insightful sword (cut)",
   "translation": "洞察之剑（斩击）",
   "context": "ID: youmu_insightfulsword2_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword2_cut\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eaa335bf6b53116e940a313f767fe6b2",
   "original": "Insightful sword (stun)",
   "translation": "洞察之剑（眩晕）",
   "context": "ID: youmu_insightfulsword3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "205b28249dc72beae456d706ff8d1e3d",
@@ -5655,9 +5710,9 @@
  {
   "key": "d409407c5203691ab036dc286f581d7a",
   "original": "Ionic whip",
-  "translation": "离子鞭",
+  "translation": "电离鞭",
   "context": "ID: tec_iku_slap_elec\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap_elec\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4a55b3572bed4b247bdbfc59b423ee40",
@@ -5683,9 +5738,9 @@
  {
   "key": "0639228257dd331890bc19ce77d2bc61",
   "original": "It was time to retrieve a fancy new costume the Puppeteer crafted for your show next week.  On your way through the forest, a human attacked you without declaring a duel.  Given they were wearing clothes from the Outside, you defended yourself… pretty sure you didn't hit them that hard.  You're also pretty sure this isn't the Forest at all.",
-  "translation": "到了取回木偶师为你下周演出精心制作的新戏服的时候了。在穿越森林的途中，一个没有宣战就向你发起攻击的人类出现了。鉴于他们穿着来自外界的衣物，你进行了自卫……相当确信自己并没有用力击打他们。同时，你也非常肯定，这里根本不像是森林。\n\n正当疑惑之际，一股不祥的预感涌上心头，这片林间似乎隐藏着远超乎想象的诡异。",
+  "translation": "是时候去取回人偶师为你下周的演出而精心制作的新戏服了。在穿越森林的途中，一个没有宣战就向你发起攻击的人类出现了。鉴于他们穿着来自外界的衣物，你进行了自卫……你很确信自己并没有用力击打他们。同时，你也非常肯定，这里根本不像是森林。\n\n正当疑惑之际，一股不祥的预感涌上心头，这片林间似乎隐藏着远超乎想象的诡异。",
   "context": "ID: hata_no_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→hata_no_kokoro\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5f0bc37168398169c6782ea9f3fb6e3f",
@@ -5796,7 +5851,7 @@
   "original": "Kenjutsu (incomplete)",
   "translation": "剑术（未完成）",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "aac28e848db5d7fb39fdc8dec0d3ed3c",
@@ -5814,9 +5869,9 @@
  {
   "key": "fec41f19d47ccbcb62f9283dab16b38c",
   "original": "Keystone crash (bonus dmg)",
-  "translation": "关键部件撞击（附加伤害）",
+  "translation": "要石冲撞（附加伤害）",
   "context": "ID: tenko_keystonecrash3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "10ace3aab686c4ba4b8e1eaa92b6093e",
@@ -5867,37 +5922,37 @@
  {
   "key": "f276d313e3b9302b998f255e216622ab",
   "original": "Kick component of nitori_mechpunch ",
-  "translation": "nitori机甲拳击的踢击组件",
+  "translation": "Kick component of nitori_mechpunch",
   "context": "ID: nitori_mechpunch3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fdba36e743d8ed59eff7936c61791b41",
   "original": "Knee slasher",
-  "translation": "膝部切割者",
+  "translation": "断膝斩",
   "context": "ID: tec_youmu_knee_slasher\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_knee_slasher\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b6e2b2e58bc71310326441c42f1d5d62",
   "original": "Knee slasher (dmg) (tec)",
-  "translation": "膝部切割者（伤害）（技术）",
+  "translation": "断膝斩",
   "context": "ID: youmu_knee_slasher\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_knee_slasher\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "18fa281b20ff23c6b983527b87c6d358",
   "original": "Knee slasher (effect)",
-  "translation": "膝部切割者（效果）",
+  "translation": "断膝斩",
   "context": "ID: youmu_knee_slasher_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmu_knee_slasher_slow\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "26ef856754adace39823abd14eca613b",
   "original": "Knee slasher (slow) (tec)",
-  "translation": "膝部切割者（缓慢型）（技术型）",
+  "translation": "断膝斩",
   "context": "ID: youmu_knee_slasher2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_knee_slasher2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "00fdc085278682d2bad44c656136ebea",
@@ -5964,9 +6019,9 @@
  {
   "key": "f1a24490708c890ef16f69bacf070b3d",
   "original": "Knockback component of mokou_blazekick ",
-  "translation": "魔狂飞踢的击退效果",
+  "translation": "Knockback component of mokou_blazekick",
   "context": "ID: mokou_blazekick3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_blazekick3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bba5ff3ab5e2e39d6d41ea986fcd0a7d",
@@ -5978,9 +6033,9 @@
  {
   "key": "a4366529498b8dc7341915303ae0f615",
   "original": "Knockback component of tec_kasen_palmfly ",
-  "translation": "tec_kasen_palmfly技能的击退效果",
+  "translation": "Knockback component of tec_kasen_palmfly",
   "context": "ID: kasen_palmfly4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly4\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c5370ced849abbfa56487f82a0a5ab9f",
@@ -6027,23 +6082,23 @@
  {
   "key": "cd30c9aed1caff178dfe8957fb67dc1b",
   "original": "Landing effective attacks is more and more easy once you get going.  Additionally, increases your parries per turn.",
-  "translation": "一旦你行动起来，成功击中目标将变得越来越容易。此外，它还能增加你每回合的格挡次数。",
+  "translation": "一旦你开始战斗，命中目标将变得越来越容易。此外，你每回合的格挡次数也会增加。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f20c656cbb3f0ffd22b0b79010c4e722",
   "original": "Landing effective hits on enemies is electrifying, it allows you to evade attacks more easily.",
-  "translation": "对敌人造成有效打击令人振奋，使你更容易躲避攻击。",
+  "translation": "对敌人造成有效打击令人振奋，这使你更容易躲避攻击。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4377b94e780a5b18348a5d6bfae662ff",
   "original": "Landing effective hits on enemies is electrifying, it increases your movement speed.",
-  "translation": "对敌人造成有效打击令人振奋，能提升你的移动速度。",
+  "translation": "对敌人造成有效打击令人振奋，这使你的移动速度得到提升。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "106bfe1f2c29e2a72ef754920a888a1d",
@@ -6078,21 +6133,21 @@
   "original": "Life drain",
   "translation": "生命汲取",
   "context": "ID: yoshika_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c9b09beaa055349e71906378d7517e2a",
   "original": "Life drain (self heal)",
   "translation": "生命汲取（自我治疗）",
   "context": "ID: yoshika_drain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "598e41dd167a76be2d5dcb3393eefce6",
   "original": "Life is something curious: you can easily take it from everyone, except for the targets of your grudge.  Once you get going it's easier for you to do it.",
-  "translation": "生命真是个奇妙的东西：你可以轻而易举地从每个人身上夺走它，唯独对你怨恨的对象无能为力。一旦开始，你就更容易做到这一点。",
+  "translation": "生命真是个奇妙的东西：你可以从每个人身上轻而易举地夺走它，唯独不包括你怨恨的对象。一旦开始，你就更容易做到这一点。",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7877ef197be1a0b8e92857c27892d5e4",
@@ -6110,9 +6165,9 @@
  {
   "key": "a524eaee8d5b47d5f5c0ff2d682276c0",
   "original": "Lighting step",
-  "translation": "照明步骤",
+  "translation": "疾电步",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f9c3a409a4821f35aea023222d355f70",
@@ -6139,7 +6194,7 @@
   "original": "Liver punch",
   "translation": "爆肝拳",
   "context": "ID: tec_mokou_liver_punch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_liver_punch\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "29c06bbbe8f9ee4207f55a5cf1ac548b",
@@ -6158,9 +6213,9 @@
  {
   "key": "ed2da2239b4cb9a641ca8d134ed7c680",
   "original": "Long, black socks that reach above the knees.  There's a crescent printed on the left side of the left sock.  These are worn by trainees of the Lunar Defense Corps.",
-  "translation": "长及膝盖以上的黑色袜子。左脚左侧袜子上印有新月图案。这些是月球防御部队新兵的专属装备。",
+  "translation": "长度过膝的黑色袜子。左脚袜子的左侧印有月牙图案。月球防御部队的新兵服。",
   "context": "ID: ldc_kneesocks\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_kneesocks\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cc0b6441dc2fdacff9bcc720f087679f",
@@ -6399,30 +6454,30 @@
  {
   "key": "de457b97e0a7c9204b843eb508cbe839",
   "original": "Materialize your half-phantom self, who aids you by attacking nearby enemies for a short time.  \nCosts 100 mana.  Cast again at no cost to move your other half to your location.",
-  "translation": "实体化你的半幽灵自我，它会在短时间内帮助你攻击附近的敌人。消耗100点法力。再次施放此技能可无需消耗法力将你的另一半移动到你的位置。",
+  "translation": "实体化你的半灵部分，它会在短时间内帮助你攻击附近的敌人。\n消耗100点魔力。再次施放此技能可无需消耗魔力将你的另一半移动到你的位置。",
   "context": "ID: youmu_doublewheel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_doublewheel\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e083ee24f5dbb578014d50d2086dbcd4",
   "original": "Mechanical punch",
-  "translation": "机械冲孔机",
+  "translation": "机械拳",
   "context": "ID: nitori_mechpunch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7a5331805d1c1bde31c68c1e2c56573d",
   "original": "Mechanical punch (knockback)",
-  "translation": "机械冲击（击退）",
+  "translation": "机械拳（击退）",
   "context": "ID: nitori_mechpunch3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "39ab3ef1435682439770e735b27fa189",
   "original": "Mechanical punch (stun)",
-  "translation": "机械拳击（击晕）",
+  "translation": "机械拳（击晕）",
   "context": "ID: nitori_mechpunch2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cb3582403c37048b8740e3557f2cc2a2",
@@ -6490,9 +6545,9 @@
  {
   "key": "12348a96a8bb2bf39bd7e37b3315e3b6",
   "original": "Metabolic meditation (effect)",
-  "translation": "代谢冥想（效果）",
+  "translation": "代谢冥想",
   "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "73382e07a2af5e25cc43441b511b9b40",
@@ -6629,9 +6684,9 @@
  {
   "key": "a536da7d5c7ff3b47880e050b8492b09",
   "original": "Move quickly towards a nearby position.  You can dash through targets, slashing them in the process (requires swords).",
-  "translation": "迅速朝附近位置移动。你可以冲刺穿过目标，在过程中用剑对其造成斩击（需要装备剑）。",
+  "translation": "迅速朝附近位置移动。你可以冲刺穿过目标，并在过程对其进行斩击（需要装备剑）。",
   "context": "ID: dash_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f7decf48ee8f6a4a8d76273c2f84cbb8",
@@ -6650,9 +6705,9 @@
  {
   "key": "2e222e9dc87a2f89f5a9a2b47f3538a3",
   "original": "Moving decreases damage done and evasion immediately after.  Dampening.",
-  "translation": "移动后立即减少所受伤害和闪避能力。减震效果。",
+  "translation": "移动后立即减少所受伤害和闪避能力。降噪。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6ded2d8a20df3781a231ea2275db6814",
@@ -6824,16 +6879,16 @@
  {
   "key": "5eea49fe931b617973434af6142d8f45",
   "original": "Not used to stop in the middle of a fight, your accuracy and physical damage is reduced.  At the same time, this slightly increases your dodge chance.",
-  "translation": "不习惯在战斗中停下来，你的精准度和物理伤害都会降低。同时，这也会略微增加你的闪避几率。",
+  "translation": "由于不习惯在战斗中停止，你的命中和物理伤害都会降低。同时，这也会略微增加你的闪避几率。",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3b0649c72650c313a357338dcdfb64ec",
   "original": "Note",
-  "translation": "注释",
+  "translation": "音符",
   "context": "ID: aa_notewip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_wip.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aa_notewip\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "73feaacd6d1ac9886ca40649e6d97fe8",
@@ -6879,9 +6934,9 @@
  {
   "key": "983aa96f4cab438f7a95eef8e1134b6d",
   "original": "Nuclear explosion (fission) (terrain bash)",
-  "translation": "核爆炸（裂变）（地形冲击）",
+  "translation": "核能爆发",
   "context": "ID: utsuho_nuke5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke5\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b7d0250cd61dbb706bdf8010f1f734c0",
@@ -6938,6 +6993,13 @@
   "stage": 3
  },
  {
+  "key": "2c8daaa78699bbd1adbe201891394b76",
+  "original": "One armed wild hermit",
+  "translation": "One armed wild hermit",
+  "context": "ID: PROF_KASEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KASEN\n",
+  "stage": 1
+ },
+ {
   "key": "9acaef862f8995bc9d52dac4d3b41dd4",
   "original": "One hand on your hip, finger pointing to the sky, a lightning strikes %s! Sick!",
   "translation": "一手插兜，食指傲指苍穹，霎时电闪雷鸣，能量值爆表 %s ！超凡脱俗！",
@@ -6947,9 +7009,9 @@
  {
   "key": "ba45c85b97ee4f4298828e5c16f5eec6",
   "original": "One second against eternity",
-  "translation": "一秒对抗永恒",
+  "translation": "永世一瞬",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "099af32e4a19ead1aa424aaa2650ef6c",
@@ -7019,7 +7081,7 @@
   "original": "Outdoors starting locations.",
   "translation": "户外起始位置。",
   "context": "ID: touhou_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→scenario→touhou_everything\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a2c8936d12d18344b9d496e35e4d80fd",
@@ -7059,16 +7121,16 @@
  {
   "key": "92ba66348f4c3261d8f2058211c4fc4b",
   "original": "Palm strike (Wrap) (knockback)",
-  "translation": "掌击（缠绕）（击退）",
+  "translation": "冲掌（缠绕）（击退）",
   "context": "ID: kasen_palmfly4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly4\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "20a5a21ae923d3aa46cfd02aaa85c7fd",
   "original": "Palm strike (Wrap) (stun)",
-  "translation": "掌击（缠绕）（眩晕）",
+  "translation": "冲掌（缠绕）（眩晕）",
   "context": "ID: kasen_palmfly3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f37f68b0af0110c5f4e543f422177f83",
@@ -7080,9 +7142,9 @@
  {
   "key": "a415316e6f1def0fc376890aa2c2490a",
   "original": "Palm strike (left) (tec)",
-  "translation": "左手掌击（tec）",
+  "translation": "Palm strike (left) (tec)",
   "context": "ID: kasen_palm_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palm_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fbcfdda215c39a3e3ce45e44a90d4401",
@@ -7094,16 +7156,16 @@
  {
   "key": "3d00e05be05cce5c8fa1af3ec27c2643",
   "original": "Palm strike (right) (tec)",
-  "translation": "右掌击（技术）",
+  "translation": "Palm strike (right) (tec)",
   "context": "ID: kasen_palm_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palm_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f33fa8380eaa8bb33271a5f33e949150",
   "original": "Palm strike: Repulse the intruder",
-  "translation": "掌击：击退入侵者",
+  "translation": "挤劲势：螺旋前挤",
   "context": "ID: tec_meiling_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_palm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "79926a4577f0d3fe8ba4c61a70db2962",
@@ -7136,23 +7198,23 @@
  {
   "key": "7b909fbd13aa9a5e284600538f369a9f",
   "original": "Pause, clear your mind, and prepare yourself for what follows, increasing accuracy and greatly increasing crit chance.  Ever heard about the concept of emptiness, though? Way harder than it sounds, like trying to think about no thing.",
-  "translation": "暂停，清空思绪，为接下来的事物做好准备，这能提升精准度并极大地增加暴击几率。然而，你可曾听说过“空无”的概念？这比听起来要难得多，就像试图思考没有任何事物一样。",
+  "translation": "暂停，清空思绪，为接下来的事物做好准备，这能提升精准度并极大地增加暴击几率。你可曾听说过“空”的概念？这比听起来要难得多，就像试图什么也不想一样。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "893910dc05a82296a73eed5e48fafd7f",
   "original": "Perform the Body Substitution ritual, allowing you to escape the (quite literal) grasp of Death.  \nRequires: a bed, something that works as your replacement, and sheets to cover it.  Similar components may work too.  \nThe ritual lasts for five minutes until it's complete, but the duration of its effects last until you receive fatal wounds.",
-  "translation": "执行“替身转换仪式”，让你得以逃脱（字面意义上的）死亡之握。所需物品：一张床，某个可作为你替身的物体，以及用来遮盖替身的床单。类似组件亦可生效。该仪式将持续五分钟以完成施放，而其效果会一直持续，直到你遭受致命伤害为止。",
+  "translation": "执行“替身术”，让你得以逃离（字面意义上的）死神之手。\n所需物品：一张床，某个可作为你替身的物体，以及用来遮盖替身的床单。类似组件亦可生效。\n该术式将耗费五分钟以完成布置，而其效果会一直持续，直到你遭受致命伤害为止。",
   "context": "ID: seiga_shikaisenritual\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d2f41caa2f69ad27dc32b2525ffe3a7a",
   "original": "Phantasmal strike",
-  "translation": "幽灵一击",
+  "translation": "半灵击",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "124a00206badb8525aa23a0894cd2445",
@@ -7218,9 +7280,9 @@
  {
   "key": "2512119152939bec35f983ac8467f3d2",
   "original": "Place a forbidden curse upon the target, turning it into your personal minion if it dies under the affliction.",
-  "translation": "对目标施加禁忌诅咒，若目标在诅咒影响下死亡，则将其转化为你的个人仆从。",
+  "translation": "对目标施加禁忌诅咒，若目标死亡时带有诅咒，则将其转化为你的奴仆。",
   "context": "ID: seiga_corpsecurse\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "2a4e09130e404ecfc2855bcb10585526",
@@ -7277,9 +7339,9 @@
  {
   "key": "2b0c21b5438f604d08b02017c392ae0f",
   "original": "Prepare yourself to parry the next attack.  If successful, you will retaliate, briefly stunning the attacker.  The attack will have no effect if you don't parry immediately after using it.  \nRequires a sword.",
-  "translation": "准备招架下一次攻击。如果成功，你将反击并短暂地使攻击者昏迷。若在使用后未能立即招架，该技能将无效。此技能需要配备剑类武器。",
+  "translation": "准备招架下一次攻击。如果成功，你将反击并短暂地击晕对方。若在使用后未能立即招架，该技能将无效。\n需要一把剑。",
   "context": "ID: youmu_insightfulsword\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "62db99e25c2a764ee5fae8ac2501a5eb",
@@ -7312,9 +7374,9 @@
  {
   "key": "d0d0fb5cf3c454baf954449c068bc877",
   "original": "Pull component for kasen_biting_strike ",
-  "translation": "kasen_biting_strike的撕咬攻击组件",
+  "translation": "Pull component for kasen_biting_strike",
   "context": "ID: kasen_biting_strike2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_biting_strike2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6ab24833fcc675f22ddaccd64f9d8d57",
@@ -7333,9 +7395,9 @@
  {
   "key": "f15b32a2f6fc3318a9370ec4b93ed735",
   "original": "Punch (left) (tec)",
-  "translation": "左拳（技术）",
+  "translation": "Punch (left) (tec)",
   "context": "ID: kasen_punch_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5c2c3d5f5bf8c85243828fe52b17beb2",
@@ -7354,30 +7416,30 @@
  {
   "key": "dace0e91a7cea36ea8eccb47edead112",
   "original": "Punch (right) (tec)",
-  "translation": "右拳（技术）",
+  "translation": "Punch (right) (tec)",
   "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d055ae476efa258906b5d968ed70638b",
   "original": "Punch the target with your mechanical first, knocking them back a great distance.",
-  "translation": "用你的机械拳击打目标，将其击退很远的距离。",
+  "translation": "用你的机械拳击打目标，将其击退超远的距离。",
   "context": "ID: nitori_mechpunch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e15511bd3e10b3507afc31ca23976cd7",
   "original": "Punch with your unwrapped right hand, dealing spiritual damage.",
-  "translation": "用你未包裹的右手进行重击，造成灵性伤害。",
+  "translation": "用你未缠绷带的右手进行重击，造成灵力伤害。",
   "context": "ID: kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9c95bd1558fd5fe1e90a8a50bcb549e0",
   "original": "Push component for aya_fanwind ",
-  "translation": "推动组件，适用于aya_fanwind",
+  "translation": "Push component for aya_fanwind",
   "context": "ID: aya_draftblast3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_draftblast3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "01f15ba3777153c070f2dc4533a7bacf",
@@ -7439,7 +7501,7 @@
   "original": "Qi heal (heal effect)",
   "translation": "气疗术（治愈效果）",
   "context": "ID: meiling_qiheal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_qiheal2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d4569edf215203245f7673159f46ee4",
@@ -7466,12 +7528,12 @@
   "original": "Qi punch (stun)",
   "translation": "大鹏拳（击晕）",
   "context": "ID: meiling_qipunch2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_qipunch2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e20b477c4fb3b3b9e25d80a0db6fd9b4",
   "original": "Qi stomp",
-  "translation": "气踏",
+  "translation": "黄震脚",
   "context": "ID: tec_meiling_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_stomp\n",
   "stage": 3
  },
@@ -7568,21 +7630,21 @@
  {
   "key": "df162207176e716102b029e2c8cfa0e9",
   "original": "Rainbow orb",
-  "translation": "星脉弹",
+  "translation": "虹光弹",
   "context": "ID: kasen_rainboworb\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb\n",
   "stage": 3
  },
  {
   "key": "24563e785219aeda645e670aa5fe6ac1",
   "original": "Rainbow orb (dmg)",
-  "translation": "星脉弹（伤害）",
+  "translation": "虹光弹（伤害）",
   "context": "ID: kasen_rainboworb2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb2\n",
   "stage": 3
  },
  {
   "key": "71002cb60c315c52d7d3d4638ae01ff2",
   "original": "Rainbow orb (extra)",
-  "translation": "星脉弹（额外）",
+  "translation": "虹光弹（额外）",
   "context": "ID: kasen_rainboworb3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb3\n",
   "stage": 3
  },
@@ -7609,9 +7671,9 @@
  {
   "key": "b81e011a20cfc8fcbbd7aba26e165912",
   "original": "Rainstorm gust (stun)",
-  "translation": "暴雨狂风突袭（眩晕）",
+  "translation": "天狗暴风雨（眩晕）",
   "context": "ID: aya_stormgust2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_stormgust2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ec53f820262ff75b04ab0aeea5a52b97",
@@ -7646,7 +7708,7 @@
   "original": "Red energy release",
   "translation": "红寸劲",
   "context": "ID: meiling_redrelease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_redrelease\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e023185e0b874fa966d84cd47723f129",
@@ -7659,14 +7721,14 @@
   "original": "Red energy release (terrain bash)",
   "translation": "红寸劲（地形猛击）",
   "context": "ID: meiling_redrelease2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_redrelease2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "59f7b09c719488bf6602cc9c1d36188a",
   "original": "Redirected qi",
   "translation": "重定向的气",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5219e158b4a1bd98684965317f3356a2",
@@ -7674,6 +7736,13 @@
   "translation": "减缓受影响区域内时间的流动。",
   "context": "ID: sakuya_contraction\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_contraction\n",
   "stage": 3
+ },
+ {
+  "key": "da65e79dddb955df92d7da607d3fa96e",
+  "original": "Reduced pain penalties go here instead of the base mutation",
+  "translation": "Reduced pain penalties go here instead of the base mutation",
+  "context": "ID: YOUKAI_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→YOUKAI_CONSTITUTION\n",
+  "stage": 1
  },
  {
   "key": "71d6cf61891af989b2ef22ec50ce0fdc",
@@ -7761,9 +7830,9 @@
  {
   "key": "3cf8b7c554bb622f39417f94a7bbab54",
   "original": "Release the damage accumulated by your diseases on the target.  Deals damage upfront, but consumes the stored damage in the process.  \nAffected by the damage over time of Icy pyrexia, Scarlet plague and Volatile rot.  The stored damage is slowly reduced over time.",
-  "translation": "将你累积的疾病伤害释放到目标上。立即造成伤害，但会消耗已储存的伤害值。该技能受到冰霜热病、猩红瘟疫和挥发性腐烂这三种持续伤害影响。储存的伤害值会随时间逐渐减少。",
+  "translation": "将你累积的疾病伤害释放到目标上。立即造成伤害，但会消耗已储存的伤害值。\n该技能受到冰烧、猩红疫和爆发性腐坏这三种持续伤害影响。储存的伤害值会随时间逐渐减少。",
   "context": "ID: yamame_miasmaburst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_miasmaburst\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "255f311e1431644b6fe4344f6924cff0",
@@ -7797,7 +7866,7 @@
   "key": "931b8884249f15dcd46f26111047ebec",
   "original": "Remilia's \"shoe protectors\"",
   "translation": "蕾米莉亚的“鞋子保护装置”",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a584ceda859ac84ad1d28fc1dce9cea1",
@@ -7859,7 +7928,7 @@
   "original": "Removes all mon_vengeful_spirit under the aoe",
   "translation": "移除范围内的所有怨灵",
   "context": "ID: kaenbyou_vspossess2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fc5bceaf417016570dd9ec76f99ad4f5",
@@ -7873,7 +7942,7 @@
   "original": "Repeatedly getting hit increases your accuracy and blocking chance for a short duration.",
   "translation": "连续被击中会在短时间内提高你的命中率和格挡几率。",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e059ed1d3ab649a2cda68c8726019cf0",
@@ -7934,15 +8003,15 @@
  {
   "key": "9e44c60f203e5c7538cc050c85da66af",
   "original": "Resuming your duties after lunch, you master asked you to go look for Orin, and she was indeed missing again.  You went to the surface, noticing the friendly cave spider wasn't at her usual spot, maybe both went together!  You know she likes to go nap at the Shrine, so you went… to the wrong one, and noticing this was no mountain, nothing close, you looked back, you saw no \"back\".  You're aware you can get lost sometimes, but this is too much even for yourself.  Now you have to find Orin, find the Tsuchigumo, and return.",
-  "translation": "吃午饭后你开始了工作，主人让你去找橙，果然她又失踪了。你去了地面，发现友好的洞穴蜘蛛不在平时的位置，也许她们两人一起走了！你知道她喜欢在神社打盹，于是你去了…错的那一条路。你发现这里没有山，什么也没有。你回过头，发现找不到归路。你知道自己有时会迷路，但这对你来说太离谱了。现在你必须找到橙和土蜘蛛，然后回家。",
+  "translation": "吃午饭后你开始了工作，主人让你去找阿燐，果然她又失踪了。你去了地上，发现那友好土蜘蛛不在老地方，也许她们两人一起走了！你知道她喜欢在神社打盹，于是你去了……错误的那一个。你发现这里没有妖怪之山，什么也没有。你回过头，却发现找不到回去的路了。你知道自己有时会迷路，但这对你来说太离谱了。现在你必须找到橙和土蜘蛛，然后回家。",
   "stage": 3
  },
  {
   "key": "bb56d2ba2c485d550e1e5af801cfb285",
   "original": "Resuming your duties after lunch, you master asked you to go look for Orin, and she was indeed missing again.  You went to the surface, noticing the friendly cave spider wasn't at her usual spot, maybe both went together!  You know she likes to go nap at the Shrine, so you went… to the wrong one, and noticing this was no mountain, nothing close.  Looking back, you saw no \"back\".  You're aware you can get lost sometimes, but this is too much even for yourself.  Now you have to find Orin, find the Tsuchigumo, and return.",
-  "translation": "午餐后恢复职责时，你的主人让你去找奥琳，而她确实又不见了。你来到地表，注意到那只友好的洞穴蜘蛛也不在它常待的地方，也许它们一起离开了！你知道奥琳喜欢去神社打盹，于是你去了……却走错了地方，发现这里根本没有山，周围也毫无相似之处。回头望时，你甚至找不到来时的路。你知道自己有时会迷路，但这次连你自己都觉得太过离奇了。现在，你必须找到奥琳，找到土蜘蛛，并且回去。",
+  "translation": "吃午饭后你开始了工作，主人让你去找阿燐，果然她又失踪了。你去了地面，发现那友善的土蜘蛛不在平时的位置，也许她们两人一起走了吧！你知道她喜欢在神社打盹，于是你去了…错误的那一个。你发现这里没有山，什么也没有。回过头，你却发现找不到归路了。你知道自己有时会迷路，但这对你来说太离谱了。现在你必须找到阿燐和土蜘蛛，然后回家。",
   "context": "ID: utsuho_reiuji\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→utsuho_reiuji\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1efe39dd4665159ead559a8c6d206eb0",
@@ -7976,7 +8045,7 @@
   "original": "Resurrection Phoenix (stun)",
   "translation": "涅槃之不死鸟（眩晕）",
   "context": "ID: mokou_resurrectionphoenix2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_resurrectionphoenix2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "689bb7cefaa8b225a34fd348122371c6",
@@ -8239,7 +8308,7 @@
   "original": "Scarlet plague (disease)",
   "translation": "猩红疫（疾病）",
   "context": "ID: scarlet_plague\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→scarlet_plague\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f6df058010131a11c6dd9d774ebecd1b",
@@ -8321,7 +8390,7 @@
   "original": "Select wall",
   "translation": "选择墙壁",
   "context": "ID: seiga_wallwalk_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_eoc\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e01b51cdba5073b75414e6e3b0489aed",
@@ -8395,9 +8464,9 @@
  {
   "key": "66b3cf5bcc5bf49d169d6dd7067da922",
   "original": "Set up an entry point, to travel back to an existing exit point.",
-  "translation": "建立一个入口点，以便返回到已有的出口点。",
+  "translation": "建立一个\"入\"点，以便返回到已有的\"出\"处。",
   "context": "ID: kasen_fangshu_move\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_move\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "45647ed9bc50b00ae43b0c3917a5a037",
@@ -8411,7 +8480,7 @@
   "original": "Shape your bandages like a snake to punch a target from the distance, and pull it towards you.",
   "translation": "将你的绷带塑形为蛇状，从远处击中目标并将其拉向你。",
   "context": "ID: kasen_biting_strike\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_biting_strike\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e0afd66b210ff2762a99bc428f6566ac",
@@ -8465,16 +8534,16 @@
  {
   "key": "6238b6c60c97682678b78b97aca29669",
   "original": "Shikaisen ritual (effect)",
-  "translation": "Shikaisen仪式（效果）",
+  "translation": "尸解仙仪式（效果）",
   "context": "ID: seiga_shikaisen_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_shikaisen_effect\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b80b266119898c5855a13741ac10c177",
   "original": "Shock step",
-  "translation": "震撼步伐",
+  "translation": "掀雷步",
   "context": "ID: tec_iku_step\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_step\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "862a70b714e0ad573b21023928d26444",
@@ -8499,9 +8568,9 @@
  {
   "key": "073a548322caa5ed398409f81915aea9",
   "original": "Shoot a rainbow orb of energy towards the target.  It increases in size after some time, dealing a second instance of damage.  \nCosts 100 mana.",
-  "translation": "向目标发射一枚彩虹能量球，该能量球会在一段时间后增大，造成第二次伤害。消耗100点魔法值。",
+  "translation": "向目标发射一枚虹光弹，它会在一段时间后膨胀，并造成第二次伤害。\n消耗100点魔力。",
   "context": "ID: kasen_rainboworb\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "af213b362d96e524210bc24f7d54f58b",
@@ -8519,9 +8588,9 @@
  {
   "key": "1f1c895a3a5769fb25e4cd5bcac7c7f1",
   "original": "Shoulder strike: Stay out",
-  "translation": "肩撞：保持距离",
+  "translation": "靠劲势：弹抖肩靠",
   "context": "ID: tec_meiling_pshoulder_strike\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_pshoulder_strike\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f3a8ab936a111eaa535598ffcb43e6b6",
@@ -8553,9 +8622,9 @@
  {
   "key": "c022b0c048ff80e2eaf54f38ef8fba82",
   "original": "Slash of nether meditation (add var)",
-  "translation": "冥想之渊斩（变体附加）",
+  "translation": "冥想斩",
   "context": "ID: slashnether2_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slashnether2_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b563c7033ab7faacaaeca052c1764cc0",
@@ -8602,9 +8671,9 @@
  {
   "key": "75de83efbe2faeba5a2519e4e5fc55a5",
   "original": "Slash of the eternal future (bash) (add var)",
-  "translation": "永恒未来之斩（重击）（添加变量）",
+  "translation": "未来永劫斩",
   "context": "ID: slasheternal2_bash_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_bash_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f446869d0989694e329eddca037cd2d4",
@@ -8623,9 +8692,9 @@
  {
   "key": "e54d6e214516f66bc484e58bc768f044",
   "original": "Slash of the eternal future (cut) (add var)",
-  "translation": "永恒未来之斩（切割）（变量增强）",
+  "translation": "未来永劫斩",
   "context": "ID: slasheternal2_cut_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_cut_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9854c1daf3b68b94bc2577ae746d0c3e",
@@ -8697,9 +8766,9 @@
  {
   "key": "1983e317a2b8ea35c19560a9241c9aed",
   "original": "Slow component for youmu_knee_slasher ",
-  "translation": "慢速组件 - 你暮之膝斩",
+  "translation": "Pull component for kasen_biting_strike",
   "context": "ID: youmu_knee_slasher2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_knee_slasher2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8603a3b0e333cc39c5580a1e49342e6d",
@@ -8732,9 +8801,9 @@
  {
   "key": "994899e6e7c78aeafd96bf2134a0a757",
   "original": "Snap poke",
-  "translation": "快速戳刺",
+  "translation": "猛鞭",
   "context": "ID: tec_iku_poke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_poke\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fd2385e4a845698ca24ea8349c6129aa",
@@ -8752,16 +8821,16 @@
  {
   "key": "18dcfa31ff95df784dee2ecb0ba22251",
   "original": "Snap your fingers to create a nearby black sun that produces some light.  These can duplicate Hell Wave Cannon after you cast it.",
-  "translation": "弹响手指，便能在附近创造出一个发出微光的黑洞太阳。在施放后，这些黑洞太阳能够复制地狱波炮。",
+  "translation": "打个响指生成一个黑阳。在你使用地狱波动炮后，它们能够将其复制。",
   "context": "ID: utsuho_blacksun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_blacksun2_unc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "09a4cf52188bd25223448b04059dbbd3",
   "original": "Some pieces to complete the ritual are missing.",
-  "translation": "完成仪式所需的某些部件缺失。",
+  "translation": "完成仪式所需的某些部分缺失。",
   "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4574931463287ee9b9450d4cd9bfef39",
@@ -8780,9 +8849,9 @@
  {
   "key": "e7bb046cd71d247adca743ec1a52fc50",
   "original": "Sommersault kick",
-  "translation": "翻滚踢",
+  "translation": "凯风快晴飞翔蹴",
   "context": "ID: tec_mokou_sommersault_kick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_sommersault_kick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5a923cda21c2b06220dbaaa8aec092ac",
@@ -8843,7 +8912,7 @@
  {
   "key": "3fadfb38aa972ea7172c5cdf55d9ba90",
   "original": "Spear the Gungnir",
-  "translation": "冈格尼尔之枪",
+  "translation": "神枪·冈格尼尔",
   "context": "ID: remilia_gungnir\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_gungnir\n",
   "stage": 3
  },
@@ -8898,9 +8967,9 @@
  {
   "key": "0dc0f63421f7e782064b39ae88b07d3a",
   "original": "Spin attack",
-  "translation": "旋转攻击",
+  "translation": "回旋斩",
   "context": "ID: tec_kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_spin\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "dd9bf1d588d815c66d9a09083191063f",
@@ -8996,9 +9065,9 @@
  {
   "key": "e60b65c860681c0a53fcded0e33fc6de",
   "original": "Stinger",
-  "translation": "蜂刺",
+  "translation": "追风刺",
   "context": "ID: tec_youmu_stinger\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_stinger\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8fa2d2dceffec33a3d6773d2687d183b",
@@ -9046,7 +9115,7 @@
   "original": "Stride like a spirit (and hit like one).",
   "translation": "如幽灵般飘忽前行（并像幽灵般击中目标）。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2d13ffd2c895005f86c98f86e4b12109",
@@ -9107,9 +9176,9 @@
  {
   "key": "1cf4b57c9f90da372f6c9a9e18305875",
   "original": "Stun component for nitori_mechpunch . This is a qol buff so the targets don't immediately move again after the knockback",
-  "translation": "nitori_mechpunch的昏迷组件。这是一个提升游戏体验的增益，确保目标在被击退后不会立即再次移动。",
+  "translation": "Stun component for nitori_mechpunch . This is a qol buff so the targets don't immediately move again after the knockback",
   "context": "ID: nitori_mechpunch2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_mechpunch2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ed5708194c8ee2c83794b7434d9d7344",
@@ -9128,9 +9197,9 @@
  {
   "key": "93521967f8285ed6d3311ecdf2d6a34b",
   "original": "Stun component for tec_kasen_palmfly . This is a qol buff so the targets don't immediately move again after the knockback",
-  "translation": "tec_kasen_palmfly的眩晕组件。这是一个提升游戏体验的改动，以确保目标在被击退后不会立即再次移动。",
+  "translation": "Stun component for tec_kasen_palmfly . This is a qol buff so the targets don't immediately move again after the knockback",
   "context": "ID: kasen_palmfly3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ff54abd83dd68e207bc4162ad0df3551",
@@ -9149,9 +9218,9 @@
  {
   "key": "8331d046a8283a1ed01075049cef71a6",
   "original": "Stun component for utsuho_ugeyser . This is a qol buff so the targets don't immediately move again after the knockback",
-  "translation": "utsuho_ugeyser的昏迷组件。这是一个提高游戏体验的增益，使得目标在被击退后不会立即再次移动。",
+  "translation": "Stun component for utsuho_ugeyser . This is a qol buff so the targets don't immediately move again after the knockback",
   "context": "ID: utsuho_ugeyser3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f69992eb9b6327e94081e9f5ad0e79d1",
@@ -9170,9 +9239,9 @@
  {
   "key": "73d385784ee14f43081714f7fd4b441c",
   "original": "Subpsell that adds a random dot effect on the rezzed target",
-  "translation": "附加效果：对已复活的目标施加随机点状效应",
+  "translation": "Subpsell that adds a random dot effect on the rezzed target",
   "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7fa5e30f0cae4caae2621534881751fb",
@@ -9253,9 +9322,9 @@
  {
   "key": "2adfcb71cd2a87d5190a3580b2b42305",
   "original": "Summon component of seiga_yoshika_summon ",
-  "translation": "召唤组件 - 蛇雅贵莎召唤",
+  "translation": "Summon component of seiga_yoshika_summon",
   "context": "ID: seiga_yoshika_summon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bb92ade3fdc04b128aef2efc85a66b5e",
@@ -9302,9 +9371,9 @@
  {
   "key": "7e314fec2f3748325fa728d6c7a396e7",
   "original": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts 200 mana.  Cast again at no cost to move her to your location.",
-  "translation": "从你的森界召回忠实的由纪香。她的符咒守护着她，使她在遭受致命（？）伤害时能够返回。费用为200魔力值。再次施法可不消耗魔力将她移动到你的位置。",
+  "translation": "从你的仙境中召唤出你忠实的宫古芳香。她头上的符咒守护着她，使她在遭受致命（？）伤害时能够返回。\n消耗为200魔力。再次施法可不消耗魔力将她移动到你的位置。",
   "context": "ID: seiga_yoshika_summon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "87eeef7a0f01ecbf563a219e02548b78",
@@ -9330,16 +9399,16 @@
  {
   "key": "44d0c1dd7558f2d70cff8b228dd5b74d",
   "original": "Summon: Yoshika (summon)",
-  "translation": "召唤： Yoshika（召唤术）",
+  "translation": "召唤： 宫古芳香",
   "context": "ID: seiga_yoshika_summon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "2ed377ee5f1d83d3a38a34f72f112507",
   "original": "Summon: Yoshika (tp) (EOC)",
-  "translation": "召唤： Yoshika（时空通道）（末世之眼）",
+  "translation": "召唤：宫古芳香",
   "context": "ID: seiga_yoshika_summon3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "906f2a786cd924175938d90e1c67bd1d",
@@ -9365,9 +9434,9 @@
  {
   "key": "c81d645d3b6d8ea569250b14a654a4f7",
   "original": "Swap position component for tec_kokoro_switch ",
-  "translation": "交换位置组件为tec_kokoro_switch",
+  "translation": "Swap position component for tec_kokoro_switch ",
   "context": "ID: kokoro_switch2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_switch2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "bee07977196542531e23a3b5310d483b",
@@ -9379,9 +9448,9 @@
  {
   "key": "8e9014ddfce21beb1b3cd7da888cbdea",
   "original": "Sweep",
-  "translation": "清扫",
+  "translation": "圆心流转斩",
   "context": "ID: tec_youmu_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_sweep\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a5c175b103572a80062ff762598722a2",
@@ -9400,9 +9469,9 @@
  {
   "key": "7e5c1861ac0c9eacc7994affc189c1ae",
   "original": "Swipe (Wrap)",
-  "translation": "擦拭（包裹）",
+  "translation": "横扫（包裹）",
   "context": "ID: tec_kasen_swipe\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_swipe\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "812050de6748e8728da99320c2992f45",
@@ -9414,9 +9483,9 @@
  {
   "key": "3a048f8946603cb2d4732f72e105b705",
   "original": "Switch attack",
-  "translation": "切换攻击",
+  "translation": "业风神闪斩",
   "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f87e9c932144a8c7fdc18980e9906cb5",
@@ -9465,7 +9534,7 @@
   "original": "Tackle",
   "translation": "擒抱",
   "context": "ID: tec_mokou_tackle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_tackle\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "517da867069b71cbbccce8a6f1a23997",
@@ -9503,9 +9572,9 @@
  {
   "key": "2fe2d32bbcf9e7ac4c091e7f8f77837b",
   "original": "Tamper with the leylines of the target, pressing key pressure points to reverse the flow of qi, dealing instant damage and incapacitating them for a short time.  This deals more damage if the target is alive.",
-  "translation": "干扰目标的灵气线，按压关键穴位以逆转气流，造成即时伤害并短时间内使其丧失能力。如果目标仍存活，此技能将造成更多伤害。",
+  "translation": "干扰目标的视线，按压关键穴位以逆转气的流动，立即造成伤害并使其短时间内丧失行动能力。如果目标仍存活，此技能将造成更多伤害。",
   "context": "ID: seiga_chireversal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chireversal\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7f13e0ccec5cb515ed0b9f658e328f90",
@@ -9711,16 +9780,16 @@
  {
   "key": "9ee4bddafb490338e47dd8a1e8fc6d66",
   "original": "That scheming youkai refusing to elaborate was part of her plan for you to move.  Both sides knew that, but that's a custom when dealing important matters to you, so you didn't mind.  What pisses you off is that innocent parties are involved with this much of a threat.  This better be interesting.",
-  "translation": "那个狡猾的妖怪故意不详细说明，就是要诱使你行动，这是你们双方心知肚明的把戏，但鉴于事情重大，按照与你打交道的习惯，你并不介意。真正让你恼火的是，如此重大的威胁竟然牵连到了无辜者。这事最好有点意思，否则真不值得。",
+  "translation": "那个狡猾的妖怪故意不详细说明，就是要诱使你行动，这是你们双方心知肚明的把戏，但鉴于这是处理异变时的惯例，你并不介意。真正让你恼火的是，如此重大的威胁竟然牵连到了无辜者。这事最好有点意思，否则的话……",
   "context": "ID: remilia_scarlet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→remilia_scarlet\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2caf73b2624d01e489d13ebb3d676cd8",
   "original": "That which is unattainable",
-  "translation": "那无法触及之物",
+  "translation": "不可触之物",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a6e76521fd02c0c749a678975a5ece3d",
@@ -9781,7 +9850,7 @@
   "original": "The Devil's Destructive Little Sister",
   "translation": "吸血鬼的破坏性妹妹",
   "context": "ID: PROF_FLAN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_FLAN\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ff71d54e5accc87f3000672b9fda2eb4",
@@ -9814,7 +9883,7 @@
  {
   "key": "25af32d041d4f5e67dd052179badea6c",
   "original": "The Tiger qi goes away.",
-  "translation": "虎劲消散了。",
+  "translation": "猛虎内劲消散了。",
   "context": "ID: aura_tigerrelease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_tigerrelease\n",
   "stage": 3
  },
@@ -9863,7 +9932,7 @@
  {
   "key": "2e141c6e6ccd0e426a3ede4963d34c9c",
   "original": "The last day was very busy.  First, you were given a message to deliver to the head of the Hinanawi.  After reaching the clan however, you were told by them and your superiors to find Tenshi as soon as possible.  You followed her down in Earth, when the event struck.  Now you don't only have to complete your mission, but you also seem to be stuck here.",
-  "translation": "最后那天着实是忙碌。你有个消息要传达给比那名居的族长，等到达他们家族后，他们还有你的上级要你尽快找到天子。灾难发生时，你正跟着她落到了地球上。现在你不仅要完成你的任务，你还被困在了这里。",
+  "translation": "最后那天着实是忙碌。你有个消息要传达给比那名居家的家主，等到达他们家后，他们和你的上级又要你尽快找到天子。灾难发生时，你正跟着她落到了地面上。现在你不仅要完成任务，还被困在了这里。",
   "context": "ID: iku_nagae\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→iku_nagae\n",
   "stage": 3
  },
@@ -9891,14 +9960,14 @@
  {
   "key": "d9cf61463008d0110c0381521aeaf02c",
   "original": "The path that can be walked through is not the way.  Evading attacks increase your parry chance, but makes it more difficult to evade sucessive attacks.",
-  "translation": "可道非常道。闪避攻击会提升格挡几率，但使你更难闪避接下来的攻击。",
+  "translation": "道可道，非常道。闪避攻击会提升格挡几率，但使你更难闪避接下来的攻击。",
   "context": "ID: style_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kasen\n",
   "stage": 3
  },
  {
   "key": "dc76842e6f92111a6c667130ce608b36",
   "original": "The physical manifestation of your Tiger qi.",
-  "translation": "虎劲产生的物理形体。",
+  "translation": "猛虎内劲产生的物理形体。",
   "context": "ID: aura_tigerrelease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_tigerrelease\n",
   "stage": 3
  },
@@ -9912,23 +9981,23 @@
  {
   "key": "8f05156ba924234eedfbdee4c05f0174",
   "original": "The replacement is broken.",
-  "translation": "替换品也坏了。",
+  "translation": "替身已损坏。",
   "context": "ID: seiga_death_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_death_eoc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "09d64cfddbd6252b2fea4db95663557c",
   "original": "The ritual is completed.  Your replacement is ready, in case you need it.",
-  "translation": "仪式已完成。你的替代品已准备就绪，以防万一你需要。",
+  "translation": "仪式已完成。你的替身已准备就绪，以备不时之需。",
   "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b5e1feb1dd0903c7805a882ff92441a8",
   "original": "The safeguard you prepared activates, instantly swapping identities.",
-  "translation": "你准备的保险措施启动了，瞬间交换了身份。",
+  "translation": "你准备的保险措施启动，使你瞬间与替身交换。",
   "context": "ID: seiga_death_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_death_eoc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4576fdd2264113625b70429974b8d51e",
@@ -9947,9 +10016,9 @@
  {
   "key": "df485427dd9f926c10ef423033b771a0",
   "original": "The soul of your victim erupts from its corpse!",
-  "translation": "受害者的灵魂从尸体中爆发而出！",
+  "translation": "受害者的灵魂从尸体中喷涌而出！",
   "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "444a8ef0ab1aad76a00784d7c3fc6585",
@@ -10010,35 +10079,35 @@
  {
   "key": "baf471289a0a2e7f5a99a6d602bceaa4",
   "original": "There is no bed nearby to perform the ritual.",
-  "translation": "附近没有床可供进行仪式。",
+  "translation": "附近没有床可供进行术式。",
   "context": "ID: seiga_shikaisenritual_bed_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_bed_none\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5d7e26b61c79696cce2e79d9258009d6",
   "original": "There is no proper covering for your replacement at the proper location to perform the ritual.",
-  "translation": "在正确的位置进行仪式时，没有合适的掩体来替换你的位置。",
+  "translation": "地点正确，没有合适的遮蔽物来进行替换术式。",
   "context": "ID: seiga_shikaisenritual_corpse_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_corpse_found\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f143c43d22c5e8959c07a27bf8aeaebd",
   "original": "There is no replacement at the proper location to perform the ritual.",
-  "translation": "在合适的地点没有可以进行仪式的替代品。",
+  "translation": "在适当的位置没有可以进行仪式的替身。",
   "context": "ID: seiga_shikaisenritual_bed_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_bed_found\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c37c79888387dfe204dbcc4abb0a0731",
   "original": "There is no suitable corpse at the location.",
   "translation": "当前位置没有合适的尸体。",
   "context": "ID: kaenbyou_corpseexplosion_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_corpseexplosion_eoc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "58d8ca98500d1580e73903af920335df",
   "original": "There wasn't a lot going on so you went to visit some of your friends.  First stop was the Shrine Maiden, but she was more dismissive than usual.  Second stop was Momiji, but she wasn't available.  Third stop was the Village librarian, but she was sleeping.  Going through the Bamboo Forest of the Lost you, well… it was bound to happen some time.  You're pretty sure these people wearing filthy Outside world clothing shouldn't be here, which means this one's good!",
-  "translation": "你最近闲来无事，于是你去拜访了一些朋友。第一站是神社巫女，但她比平常更不耐烦。第二站是白玉楼的守矢神子，但她不在家。第三站是村里的图书管理员，但她正在睡觉。穿过迷失的竹林，你知道迟早会遇到。你非常确定这些穿着脏兮兮的外界衣服的人不应该出现在这里，意味着这是个不错的素材！",
+  "translation": "你最近闲来无事，于是你去拜访了一些朋友。第一站是神社巫女，但她比平常更不耐烦。第二站是犬走椛，但她不在家。第三站是本居小铃，但她正在睡觉。穿过迷途竹林，你知道迟早会遇到熟人的。好吧……你非常确定这些穿着脏兮兮外界衣服的人不应该出现在这里，这意味着——绝佳的新闻素材！\n\n哪怕是大灾变，也阻挡不了你搞个大新”文“的决心！",
   "context": "ID: aya_shameimaru\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→aya_shameimaru\n",
   "stage": 3
  },
@@ -10047,7 +10116,7 @@
   "original": "There's no suitable wall at the location.",
   "translation": "当前位置没有合适的墙壁。",
   "context": "ID: seiga_wallwalk_fail\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_fail\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b7e1f22f60058d3f59b10f8dedeceda1",
@@ -10326,7 +10395,7 @@
   "key": "066c2abef84092b2169efae754932375",
   "original": "Tiger qi release (damage)",
   "translation": "猛虎内劲 (伤害)",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f8a43bac84f25405281167ab72e39ae7",
@@ -10463,15 +10532,14 @@
   "key": "b1eed5e0ba736c420bfaab86dcd6336d",
   "original": "Touhou mod",
   "translation": "东方Project职业",
-  "context": "ID: touhou_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→scenario→touhou_everything\n",
   "stage": 3
  },
  {
   "key": "ded8202d4429a04cd456b1daf3a28287",
   "original": "Training results",
-  "translation": "训练结果",
+  "translation": "训练成果",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "267afa32a8e50e50a581b93d05044b11",
@@ -10483,9 +10551,9 @@
  {
   "key": "7375784d5b0a3caf12f0cee75f1d8914",
   "original": "Transform furniture component of seiga_shikaisenritual ",
-  "translation": "转化自重慶椅子的组件以进行青娥施加诅咒仪式",
+  "translation": "Transform furniture component of seiga_shikaisenritual",
   "context": "ID: seiga_shikaisenritual2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8c8eb4f764f05b4a29cb0e96d44c3a13",
@@ -10517,9 +10585,9 @@
  {
   "key": "5e11278d980e6b6dc56fe740158bc78e",
   "original": "Trigger a blast of air at the location, dealing a small amount of damage while greatly pushing away items and effects at the location.",
-  "translation": "在指定位置引发一阵气流爆炸，造成少量伤害，并强力推开该处的物品和效果。",
+  "translation": "在指定的位置引发一股气流冲击，能造成少量伤害，指定位置的物品和效果会被强力推开。",
   "context": "ID: aya_draftblast\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_draftblast\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "500f70e88f43dd87460820154b42c47f",
@@ -10657,9 +10725,9 @@
  {
   "key": "96b740da7e42b407f70910bd66ba5e71",
   "original": "Underwater Engineer",
-  "translation": "水下工程师",
+  "translation": "水中的工程师",
   "context": "ID: PROF_NITORI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_NITORI\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "88183b946cc5f0e8c96b2e66e1c74a7e",
@@ -10768,9 +10836,9 @@
  {
   "key": "d6bd52fb30631d02b9f6ac8f5761d94b",
   "original": "Unravel arm",
-  "translation": "解开手臂",
+  "translation": "解开的手臂",
   "context": "ID: kasen_unravel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_unravel\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "bc9bfa272dfa65ca6ef168cd93e08262",
@@ -10782,16 +10850,16 @@
  {
   "key": "c7290509ad7ca635ebfcf36e19a22b51",
   "original": "Unravel your arm and use it to punch the target, knocking them back.",
-  "translation": "甩开你的臂膀，用它来重击目标，将其击退。",
+  "translation": "解开你的手臂，用它来击打目标，并将其击退。",
   "context": "ID: kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "db537ad4d0acd8ea5b73f5842da3cc18",
   "original": "Unravel your bandages, hitting targets caught in the aoe.",
-  "translation": "解开你的绷带，对陷入范围内的目标进行攻击。",
+  "translation": "解开你的绷带，对处于范围内的目标进行攻击。",
   "context": "ID: kasen_unravel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_unravel\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7a002ce09e24f8877b37d1a56f6cbb5a",
@@ -10818,7 +10886,7 @@
   "original": "Utsuho's shirt",
   "translation": "阿空的衬衫",
   "context": "ID: utsuho_shirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→utsuho_shirt\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2192afe770098a48d22503e47ddb2c88",
@@ -10939,9 +11007,9 @@
  {
   "key": "64b89aa96911b24b47a4af2f893990da",
   "original": "Very elegant red shoe protectors.  Remilia uses them whenever she's going out.",
-  "translation": "非常优雅的红色鞋套。蕾米莉亚每次外出时都会使用它们。",
+  "translation": "十分优雅的红色鞋子保护装置。蕾米莉亚每次外出时都会穿着它们。",
   "context": "ID: remi_shoes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→remi_shoes\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "608756cae1708dc555fcaa8632d28c47",
@@ -10952,9 +11020,9 @@
  {
   "key": "0b062379294752c0f0ffc205557cd995",
   "original": "Very elegant white footwear.  Remilia prefers to wear them over normal shoes.",
-  "translation": "非常雅致的白色鞋履，蕾米莉亚更偏爱它们而非普通的鞋子。",
+  "translation": "十分雅致的白色鞋子，蕾米莉亚更喜欢穿它们来代替鞋子。",
   "context": "ID: remi_socks\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→remi_socks\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "dfe8eebfdc409a83d983e42b21af4f5a",
@@ -10987,9 +11055,9 @@
  {
   "key": "b430692dbacfb4dc0f1aca66c6b967a3",
   "original": "Visual effect for udonge_barrierwave , so the player is aware when she's hit",
-  "translation": "为udonge_barrierwave设计视觉效果，以便玩家在她被击中时能察觉到。",
+  "translation": "Visual effect for udonge_barrierwave , so the player is aware when she's hit",
   "context": "ID: udonge_warrierwave_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_warrierwave_vfx\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6fa63d31d7b0e29f8ba85fb8cf19a883",
@@ -11096,16 +11164,16 @@
  {
   "key": "9c9ca92b02561ff3b4c72a3db0e81359",
   "original": "Weapon swing",
-  "translation": "武器挥动",
+  "translation": "挥刀斩",
   "context": "ID: tec_kokoro_swing_2h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_2h\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "211fa2e67bbec77b37ed1fc32a9e5b29",
   "original": "Weapon swing (fast)",
-  "translation": "武器挥动（快速）",
+  "translation": "挥刀斩（快速）",
   "context": "ID: tec_kokoro_swing_1h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_1h\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "49a0b5c79372407306132230d7a7b5ed",
@@ -11138,23 +11206,23 @@
  {
   "key": "8c30bee376dd9d151f3419bcf7a39819",
   "original": "Webs around you disintegrate.",
-  "translation": "你周围的蛛网纷纷瓦解。",
+  "translation": "你周围的蛛网纷纷脱落。",
   "context": "ID: web_dismiss_terfur\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_ter_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ter_furn_transform→web_dismiss_terfur\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8016e2be7f2e39d70beb6a72d8acdf0c",
   "original": "While you can use spiritual energy, the lack of training makes you regenerate it much slower over time, still much faster than the average human.",
-  "translation": "尽管你可以使用灵能，但缺乏训练导致你随时间恢复灵能的速度要慢得多，尽管仍然比一般人类快很多。",
+  "translation": "尽管你能够使用灵力，但训练的缺乏使得你随时间恢复灵力的速度要慢得多——尽管仍然比一般人类快很多。",
   "context": "ID: SPIRIT_UNTRAINED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→SPIRIT_UNTRAINED\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a1c72704dfb2ebfe3a2def72a7002583",
   "original": "White baggy pants for practicing Tai Chi.  Very comfy.",
-  "translation": "白色宽松太极裤，练习时极为舒适。",
+  "translation": "宽松的白色练习用太极裤，穿起来十分舒适。",
   "context": "ID: tai_chi_pants\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_generic_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→tai_chi_pants\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e5b6a09beb227ee7fe18fbae0debcae8",
@@ -11171,6 +11239,13 @@
   "stage": 5
  },
  {
+  "key": "a823efb6947ef18d9a1157ff50204660",
+  "original": "Wicked hermit",
+  "translation": "Wicked hermit",
+  "context": "ID: WICKED_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WICKED_HERMIT\n",
+  "stage": 1
+ },
+ {
   "key": "226054181032403d1ab8ae7f724c03c2",
   "original": "Wild brawling",
   "translation": "茨歌斗术",
@@ -11181,7 +11256,6 @@
   "key": "11b8fddbff16f05ad90489acb5a6aa24",
   "original": "Wild hermit",
   "translation": "茨华仙",
-  "context": "ID: PROF_KASEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KASEN\n",
   "stage": 3
  },
  {
@@ -11189,7 +11263,7 @@
   "original": "Wind (magic)",
   "translation": "风（魔法）",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3334e4c95407978d23cdaab8bf41389d",
@@ -11316,9 +11390,9 @@
  {
   "key": "f161f9d3924b4a6193f7cf6305a763be",
   "original": "Yoshika's drain attack",
-  "translation": "Yoshika的吸血攻击",
+  "translation": "宫古芳香的吸血攻击",
   "context": "ID: yoshika_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6af872a601b3231cf0e258ab1ef2eb39",
@@ -11330,9 +11404,9 @@
  {
   "key": "4ebd98f7f52ae82f942697e1064c18bc",
   "original": "Yoshika's nail slash attack, casted after Seiga casts any spell",
-  "translation": "Yoshika在Seiga施放任何法术后施展的指甲斩击攻击",
+  "translation": "宫古芳香的利爪斩击，在青娥释放任意技能后随之释放",
   "context": "ID: yoshika_nails2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1831de640184b737f31e488aeb58af1f",
@@ -11372,9 +11446,15 @@
  {
   "key": "c2d33e3e8717ca483716342d4561ab2d",
   "original": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your inner self, which is in turn compossed of 66 Noh masks turned youkai.",
-  "translation": "你是面灵气，是付丧神的一个亚种。你的人形形态是内心自我的潜意识投影，而你的内在实质则是由66枚能剧面具化妖而成。",
+  "translation": "你是面灵气，是付丧神的一个亚种。你的人形形态是你本我的潜意识投影，而你的本我则是由66枚面具转化而成的妖怪。",
+  "stage": 1
+ },
+ {
+  "key": "7984821f870af41d7ddc8c3a9734b4e9",
+  "original": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your self, which is in turn compossed of 66 Noh masks turned youkai.",
+  "translation": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your self, which is in turn compossed of 66 Noh masks turned youkai.",
   "context": "ID: MENREIKI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→MENREIKI_SPECIES\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7265e2ccce339047f89714c579fe086f",
@@ -11461,6 +11541,13 @@
   "stage": 3
  },
  {
+  "key": "aea291a0660f519efca05b56c8dbeb58",
+  "original": "You can't descend there.",
+  "translation": "You can't descend there.",
+  "context": "ID: fly_downwards5_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→fly_downwards5_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "f9a6b97d85e9afec6aafb728b56592d4",
   "original": "You can't dismiss your Gungnir if you don't have it in your hand.",
   "translation": "你无法在不手持的情况下解除你的冈格尼尔之枪。",
@@ -11468,11 +11555,18 @@
   "stage": 3
  },
  {
+  "key": "d18375e629ff95e31a1fbc8509ccc67b",
+  "original": "You can't fly there.",
+  "translation": "You can't fly there.",
+  "context": "ID: fly_upwards_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→fly_upwards_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "cbc050e0dc18498f784e9aaf8294c95c",
   "original": "You can't recover the useful bits.",
   "translation": "你无法回收有用的部分。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/snippets/touhou_harvest_drop_msgs.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ab2978ae0cb6265a65f2cde53b8801f4",
@@ -11521,14 +11615,14 @@
   "original": "You clumsily hit the %s.",
   "translation": "你笨拙地击中了 %s 。",
   "context": "ID: arm_stub_r_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_body_parts.json\n类型为 body_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→body_part→arm_stub_r_kasen\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9de20356759dca13aa816adad9a518c1",
   "original": "You command nearby vengeful spirits to take control!",
   "translation": "你指挥附近的怨灵，命令它们夺取控制权！",
   "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "85f60600a68fa5a97fd4fa733fbbfed5",
@@ -11539,9 +11633,9 @@
  {
   "key": "916b6e03cac77dd35db2e1fd584eeb36",
   "original": "You create a burst of fire and pushes %s back!",
-  "translation": "你制造了一阵火焰爆破，将 %s 向后推去！",
+  "translation": "你打出一道炎爆，并将 %s 击退！",
   "context": "ID: tec_mokou_fire_burst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_fire_burst\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9d5246a8c764231003dd8b7a33cb3a0d",
@@ -11672,9 +11766,9 @@
  {
   "key": "9c090e8afd546f51b6afc6653b876514",
   "original": "You extend your wraps to hit %s, sending them flying!",
-  "translation": "你挥动你的裹布击中了 %s ，将其打得飞了出去！",
+  "translation": "你延伸你的绷带并击中 %s ，将其击飞！",
   "context": "ID: tec_kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palmfly\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "199cd97d1d74fb6fb008f51a19203116",
@@ -11730,6 +11824,20 @@
   "translation": "你缺乏兴趣。",
   "context": "ID: kokoro_unleash_determination_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_unleash_determination_effect\n",
   "stage": 3
+ },
+ {
+  "key": "08fdc035d8452636715374a36a8868a4",
+  "original": "You fly downwards.",
+  "translation": "You fly downwards.",
+  "context": "ID: fly_downwards5_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→fly_downwards5_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "341938aaf850cd4be6762587df9f6131",
+  "original": "You fly upwards.",
+  "translation": "You fly upwards.",
+  "context": "ID: fly_upwards_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→fly_upwards_eoc\n",
+  "stage": 1
  },
  {
   "key": "290dfe3617e42d843b8122ab6349da64",
@@ -11796,9 +11904,9 @@
  {
   "key": "be43318a2927add07f99dda6eb494ce3",
   "original": "You have a mysterious past.",
-  "translation": "你拥有一个神秘莫测的过往。",
+  "translation": "你有着不为人知的过往。",
   "context": "ID: MYSTERIOUS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→MYSTERIOUS\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4c267e20e198cce8856d152edaa053c9",
@@ -11810,16 +11918,16 @@
  {
   "key": "bba70f3ca7a94060f69d31e5834cdbb3",
   "original": "You have a pair of large raven wings.  Activate the mutation to spread your wings, enabling you to fly.",
-  "translation": "你拥有一对巨大的乌鸦翅膀。激活此突变，展开你的翅膀，使你能够飞翔。",
+  "translation": "你长着一对巨大的乌鸦翅膀。激活此变异，从而展开你的翅膀，以激活飞行功能。",
   "context": "ID: WINGS_HELLRAVEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b6d87c8fb9070ba69e0097a9813cc68b",
   "original": "You have a pair of relatively small crow wings.  Activate the mutation to enable flight.",
   "translation": "你长出了一对相对较小的乌鸦翅膀。激活变异以开启飞行功能。",
   "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c35df1e65bfa7f6c1ae15a6766bac793",
@@ -11861,7 +11969,7 @@
   "original": "You have long, blonde hair, bun style.",
   "translation": "你有一头金色长发，束成发髻样式。",
   "context": "ID: hair_yamame\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_yamame\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3c9bc8e51ceb00f8b3f4c44dff82d157",
@@ -11880,16 +11988,16 @@
  {
   "key": "d0b5f33269634f997d6c8416d4879571",
   "original": "You have long, somewhat thin, firm Gyokuto ears.  Normal to you but unlike anything to everyone else.",
-  "translation": "你拥有细长而坚实的玉兔耳朵，对你来说稀松平常，但对于其他人而言却是前所未见的独特存在。",
+  "translation": "你拥有瘦长而坚挺的玉兔耳朵，对你来说稀松平常，但对于其他人而言却是前所未见的独特存在。",
   "context": "ID: ear_gyokuto_firm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_ears.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→ear_gyokuto_firm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "91a8f003be0f4f3ae8e01d5c4230b8e0",
   "original": "You have long, somewhat thin, rumpled Gyokuto ears.  Normal to you but unlike anything to everyone else.",
-  "translation": "你拥有细长且略显皱褶的玉兔耳朵，对你来说稀松平常，但对其他人而言却是闻所未闻的独特存在。",
+  "translation": "你拥有受长且略显蔫皱的玉兔耳朵，对你来说稀松平常，但对其他人而言却是闻所未闻的独特存在。",
   "context": "ID: ear_gyokuto_rumpled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_ears.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→ear_gyokuto_rumpled\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "88b3abdc7a3563bbbe8c7d93dbf26f8b",
@@ -11908,16 +12016,16 @@
  {
   "key": "f4b469cc56aaadfc7985ab90380e8ca9",
   "original": "You have medium-length, blue hair, twintails style.",
-  "translation": "你有一头中等长度的蓝色头发，扎成了双马尾样式。",
+  "translation": "你有一头蓝色的中长头发，扎了一对双马尾。",
   "context": "ID: hair_nitori\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_nitori\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2a06892b6bdb9c0836fa218b1f21bb65",
   "original": "You have medium-length, silver hair, twin braid style.",
-  "translation": "你有一头中等长度的银色头发，梳成了双辫的样式。",
+  "translation": "你有一头中等长度的银色头发，扎了两条麻花辫。",
   "context": "ID: hair_sakuya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_sakuya\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "07ff021ecdc2d72494f6003ff28b32ea",
@@ -11938,7 +12046,7 @@
   "original": "You have placed a replacement for yourself somewhere, which will immediately activate to protect you from lethal harm.",
   "translation": "你已在某处放置了自己的替身，它将立即启动，以保护你免受致命伤害。",
   "context": "ID: seiga_shikaisen_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_shikaisen_effect\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f96cab190cae7866555b242fe9c1fe57",
@@ -11957,9 +12065,9 @@
  {
   "key": "6394cc933b4c0161cd9e55e05a4b3a46",
   "original": "You have short, light-blue hair, with two tufts you keep shaped like a pretzel.",
-  "translation": "你有着一头短而淡蓝色的头发，其中两簇被你刻意修剪成了椒盐卷饼的形状。",
+  "translation": "你有着一头短而淡蓝色的头发，其中两簇被你刻意修剪成了螺旋型。",
   "context": "ID: hair_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_seiga\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8822ad001232ec64db273e624c78f9ff",
@@ -11987,42 +12095,42 @@
   "original": "You have short, wavy light-blue hair.",
   "translation": "你有一头短而卷曲的淡蓝色头发。",
   "context": "ID: hair_remilia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_remilia\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "93672a31f32b6bdca5db90f6e4af9a3b",
   "original": "You have silver eyes.",
-  "translation": "你拥有银色的眼睛。",
+  "translation": "你有一双银色的眼睛。",
   "context": "ID: eye_silver_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_silver_touhou\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ee4d96dff793b69246f8fb11c054afcc",
   "original": "You have somewhat short, straight black hair.",
-  "translation": "你留着一头略微偏短的黑色直发。",
+  "translation": "你留着一头略偏短的黑色直发。",
   "context": "ID: hair_aya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_aya\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8d80f890243492aea4f20b6cb7a84d2e",
   "original": "You have very long, dark brown hair.",
-  "translation": "你有一头深棕色的长发。",
+  "translation": "你有一头超长的深棕色发。",
   "context": "ID: hair_utsuho\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_utsuho\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "157bd2cd5020ef0314eeb649999ec5c1",
   "original": "You have very long, straight hair, bleached white due continuous heat exposure.",
   "translation": "你有一头超长的直发，因为持续暴露在高温下而被漂成了白色。",
   "context": "ID: hair_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_mokou\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "510a78f01ce80dd93e3fba98370909a0",
   "original": "You have very long, straight jacaranda hair.",
   "translation": "你有一头长长的、笔直的蓝花楹色头发。",
   "context": "ID: hair_udongein\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_udongein\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "600800926f9a2dd7dc39c8c7ec3fb90e",
@@ -12034,9 +12142,9 @@
  {
   "key": "445ac7e20a31baa9f2861cbd8afe56bb",
   "original": "You hit %s with your wrapped arm.",
-  "translation": "你用布缠着的手臂击中了 %s 。",
+  "translation": "你用绷带构成的的手臂击中了 %s 。",
   "context": "ID: arm_r_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_body_parts.json\n类型为 body_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→body_part→arm_r_kasen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f8d461bcd6faf20a603cfa7e5208e32a",
@@ -12124,9 +12232,9 @@
  {
   "key": "a940fac1e71a6d7214f50e2752537e26",
   "original": "You move your other half to your side.",
-  "translation": "你将你的另一半移到身边。",
+  "translation": "你将你的半身移到身边。",
   "context": "ID: youmu_halfbody_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→youmu_halfbody_eoc\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3065cfce4a3e4a479789dfe62c72690b",
@@ -12166,23 +12274,23 @@
  {
   "key": "4016aa86beaf2ad5c5753941eb167552",
   "original": "You notice some strange organs, harvestable via careful dissection.",
-  "translation": "你注意到一些奇特的器官，可通过细心解剖进行采集。",
+  "translation": "你发现尸体内的一些奇异的器官，看来需要精心解剖才能获得它。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/snippets/touhou_harvest_drop_msgs.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→snippet→[0]\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3f98a14fbe6447e7acbd04b3bc82d2ba",
   "original": "You palm strike %s with your left hand!",
-  "translation": "你用左手掌击了 %s 下！",
+  "translation": "你用左手手掌猛击 %s ！",
   "context": "ID: tec_kasen_palm_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4c82549c82454606e8ca60e4d65b7661",
   "original": "You palm strike %s with your right hand!",
-  "translation": "你用右手猛地打出一记掌击，目标是%s！",
+  "translation": "你用右手手掌猛击 %s ！",
   "context": "ID: tec_kasen_palm_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8d36161bb7577f012932c653f3ec4996",
@@ -12194,16 +12302,16 @@
  {
   "key": "da987be908e66e4046768c19ee70c6df",
   "original": "You pass through the entry point, and walk past the exit point.",
-  "translation": "你穿过入口，经过了出口点。",
+  "translation": "你穿过“入”点，到达了“出”处。",
   "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cdeb3ec8031c171531c98d9ae2902e51",
   "original": "You perform a low slash at %s",
-  "translation": "你朝向%s方位执行了一次低扫攻击。",
+  "translation": "你对着%s挥出一记低位斜斩。",
   "context": "ID: tec_youmu_knee_slasher\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_knee_slasher\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1e8ddcca23e5a9fd4fffca61de9bc342",
@@ -12222,9 +12330,9 @@
  {
   "key": "3ae576c7ace40e443b5543f48b1e071a",
   "original": "You prepare yourself to fight once more.",
-  "translation": "你做好了再次战斗的准备。",
+  "translation": "你准备好再干一架了。",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ce60a0c89c8951a60c8b79abc91bec71",
@@ -12243,16 +12351,16 @@
  {
   "key": "d04a164d92c33976c3a41f470953ff5e",
   "original": "You punch %s with your left hand!",
-  "translation": "你用左手猛击，造成了%s点伤害！",
+  "translation": "你用左拳猛击%s！",
   "context": "ID: tec_kasen_punch_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_left\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "55a85243b65087502f83148cada10711",
   "original": "You punch %s with your right hand!",
-  "translation": "你用右手猛击，造成了%s点伤害！",
+  "translation": "你用右拳猛击%s！",
   "context": "ID: tec_kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_right\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "91c2ed74a698f6dc1016acaf09cee9eb",
@@ -12264,23 +12372,23 @@
  {
   "key": "4170a2a59f85250c161d51a99e156132",
   "original": "You punch downwards at %s",
-  "translation": "你朝下猛击，造成了%s点伤害。",
+  "translation": "你向下猛击，造成了%s点伤害。",
   "context": "ID: tec_mokou_punch_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_punch_down\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1083e17f05c6a19a28892aa21815c40f",
   "original": "You quickly chop at %s!",
   "translation": "你迅速朝%s砍去！",
   "context": "ID: tec_kasen_chop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_chop\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b86d5042b85c130d699f9e197292c860",
   "original": "You quickly counter swing your weapon at %s",
-  "translation": "你迅速地反手挥动武器，攻向%s号目标。",
+  "translation": "你迅速地反挥武器，斩向%s。",
   "context": "ID: tec_iku_slap_reverse\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap_reverse\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3e8259f15387e7bec1ee5b7849bde1a1",
@@ -12292,16 +12400,16 @@
  {
   "key": "b030ae0c4550085e9604bc7fe2629fa3",
   "original": "You quickly swing at %s!",
-  "translation": "你迅速朝%s挥击！",
+  "translation": "你迅速地朝%s挥剑！",
   "context": "ID: tec_kokoro_swing_1h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_1h\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d75cfebe36482845235062275cee6c1b",
   "original": "You quickly swing your weapon at %s",
-  "translation": "你迅速朝向%s号目标挥动武器。",
+  "translation": "你迅速地朝%s挥动武器。",
   "context": "ID: tec_iku_slap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "700a75d79977b8dbaa0a0e86446eb7ee",
@@ -12322,7 +12430,7 @@
   "original": "You rapidly attack %s!",
   "translation": "你迅速地向%s发起了攻击！",
   "context": "ID: tec_kokoro_rapid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_rapid\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "01610f0264028cbb8621842ddf0ef82c",
@@ -12390,9 +12498,9 @@
  {
   "key": "a5843f8f18958368963947e4a854eb6c",
   "original": "You rise your weapon high, and forcefully hit %s",
-  "translation": "你高举武器，用力挥击，造成了%s点伤害。",
+  "translation": "你高举武器，然后用力击向%s",
   "context": "ID: tec_youmu_downward_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_downward_slash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "173e34ecb48e6fc191afde7738bf438e",
@@ -12418,9 +12526,9 @@
  {
   "key": "d94e210a7087bc24876641c97b192d56",
   "original": "You shape your bandages as a drill and kick at %s with it!",
-  "translation": "你将绷带塑形为钻头，并用它朝%s号猛烈踢去！",
+  "translation": "你将绷带变化为为钻头的形状，并用它朝%s猛烈攻去！",
   "context": "ID: tec_kasen_drillkick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_drillkick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e079c018077a2fa0c76edd340d3511b3",
@@ -12432,30 +12540,30 @@
  {
   "key": "b4d3089027dc60cb118a8b3d0214066d",
   "original": "You slash upwards at %s",
-  "translation": "你向上猛砍，造成了%s点伤害。",
+  "translation": "你一记上挑斩向%s。",
   "context": "ID: tec_youmu_high_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_high_slash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "500a757699f60c2144bfa2092ef4c964",
   "original": "You slice %s sideways while jumping",
-  "translation": "你在跳跃时横砍向%s。",
+  "translation": "你一跃而起，横砍向%s。",
   "context": "ID: tec_youmu_rising_fang\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_rising_fang\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c438257939360c34473b80304bc8f273",
   "original": "You smash the %s with your fist.",
-  "translation": "你用拳头砸碎了 %s 。",
+  "translation": "你用拳头猛击了 %s 。",
   "context": "ID: hand_l_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_body_parts.json\n类型为 body_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→body_part→hand_l_kasen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4de76a05b3f35ddda8a6c28aa26972ba",
   "original": "You smash the %s with your wrapped fist.",
-  "translation": "你用布缠着的拳头砸碎了 %s 。",
+  "translation": "你用绷带构成的重拳猛击了 %s 。",
   "context": "ID: hand_r_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_body_parts.json\n类型为 body_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→body_part→hand_r_kasen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6f443e05474f35ff0ebaaaa7c6547f7c",
@@ -12502,16 +12610,16 @@
  {
   "key": "1c654a3b74d5f63d13c520051304e91e",
   "original": "You strike %s with the hilt of your weapon",
-  "translation": "你用武器的柄击中了 %s 。",
+  "translation": "你用武器的握柄击打 %s ",
   "context": "ID: tec_youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_hilt_nudge\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "49fcccea746b4f1cbdf8b98c3a2de78c",
   "original": "You strike back!",
   "translation": "你奋力反击！",
   "context": "ID: meiling_mountainbreak2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "37246ba1195a67a551973d9561db0e62",
@@ -12558,30 +12666,30 @@
  {
   "key": "273a41992d75e24a6266f6539d3af71c",
   "original": "You swing your weapon at %s!",
-  "translation": "你挥舞着武器，瞄准了%s号目标！",
+  "translation": "你将武器挥向了%s！",
   "context": "ID: tec_kokoro_swing_2h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_2h\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3afa2c1c9cc74e7af633cce267c9439d",
   "original": "You swing your weapon down at %s",
-  "translation": "你挥动武器，向着%s方位猛力劈下。",
+  "translation": "你挥动武器，向着%s猛力劈下",
   "context": "ID: tec_tenko_heaven_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_heaven_crescent\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "99d5fa6ec59e59662ee81865e3a1a723",
   "original": "You tackle %s!",
-  "translation": "你干掉了 %s 个！",
+  "translation": "你擒抱了 %s ！",
   "context": "ID: tec_mokou_tackle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_tackle\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "34efa9b0f193111b65fd52efc2e2db69",
   "original": "You take a firm grasp of your weapon.",
   "translation": "你紧握手中的武器。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3c5560a04f5bc1276f724906d215c7c6",
@@ -12593,16 +12701,16 @@
  {
   "key": "4f7aa00d787c1e64ec02b47afdbb5091",
   "original": "You throw a low kick at %s",
-  "translation": "你朝%s号目标使出一记低扫腿。",
+  "translation": "你朝%s使出一记低踢",
   "context": "ID: tec_tenko_kick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_kick\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ea74c2106173f375c41b9aa544d2bc5b",
   "original": "You throw a low kick at %s, knocking them back!",
-  "translation": "你向%s使出一记低扫腿，将他们击退！",
+  "translation": "你向%s使出一记低踢，将其击退！",
   "context": "ID: tec_tenko_kick2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_kick2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0d5d172615ffd8028da576325298bb7e",
@@ -12614,9 +12722,9 @@
  {
   "key": "eb5b4c413a253d0b1361dc0d496ecc06",
   "original": "You turn around and attack %s while moving backwards!",
-  "translation": "你转身向后移动，同时对%s发起攻击！",
+  "translation": "你在后退的同时转身攻击%s！",
   "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "faa86b4a16b7f8656873c93d94f96b3b",
@@ -12635,9 +12743,9 @@
  {
   "key": "4765fdf706e38988a062451f51517096",
   "original": "You unwrap your bandages and swipe towards %s!",
-  "translation": "你解开绷带，朝着%s号猛地一挥！",
+  "translation": "你解开绷带，猛地向%s一挥！",
   "context": "ID: tec_kasen_swipe\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_swipe\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f55be6194f0223b9da5dbbda7844691d",
@@ -12691,9 +12799,9 @@
  {
   "key": "2a52e55290c0b7ae5f3112699854a824",
   "original": "You were trained in the art of the sword.  Although you didn't reach completion, you're still very skilled at it.  Grants improved block, increased damage and reduced crit chance when using eastern swords.",
-  "translation": "你受过剑术的艺术训练，尽管尚未达到登峰造极，但技艺已颇为高超。使用东方剑时，能获得增强的格挡能力、增加的伤害以及降低的暴击几率。",
+  "translation": "你受过剑术方面的训练，尽管尚未登峰造极，但技艺已颇为高超。使用东方剑时，会获得更强的格挡能力、更高的伤害以及更低的暴击几率。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f8d177e846e8c1e3d676074a75830482",
@@ -12719,23 +12827,30 @@
  {
   "key": "615889a874d71b9dd8de553f4456a04a",
   "original": "You're a Moon rabbit.  Your kind was [REDACTED] by the Lunarians to serve them like tools.  Not that you mind (that much), as you're naturally carefree.  How convenient.",
-  "translation": "你是一只月兔。你的族群被月球居民[已编辑]，像工具一样为他们服务。不过你并不介意（至少不怎么介意），因为你天生就是无忧无虑的。这可真够省心的。",
+  "translation": "你是一只月兔。你的族群被月之民[*已编辑*]并像工具一样为他们服务。不过你并不介意（没有那么介意），因为你生来就无忧无虑。这可真够省心的。",
   "context": "ID: GYOKUTO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_SPECIES\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "207bc5cc03f78710065320469bc01ab4",
   "original": "You're a feline-looking youkai originating from (Former) Hell.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
-  "translation": "你是一只源自（旧）地狱的猫妖，目前正伪装成人类。激活变异以切换为妖怪形态。",
+  "translation": "你是一只来自（旧）地狱的猫妖，目前正伪装成人类。激活变异以切换为妖怪形态。",
   "context": "ID: KASHA_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_SPECIES\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3110128fed2caebde2e854d579972c5b",
   "original": "You're a feline-looking youkai originating from (Former) Hell.  Currently, you're transformed into your feline-like form.  Activate the mutation to switch to human form.",
-  "translation": "你是一只源自（旧）地狱的猫妖。此刻，你正展现着猫一般的形态。启动变异，以转变成人类形态。",
+  "translation": "你是一只来自（旧）地狱的猫妖。此刻，你正展现着猫一般的外形。激活变异以切换为人类形态。",
   "context": "ID: KASHA_SPECIES_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_SPECIES_active\n",
-  "stage": 0
+  "stage": 3
+ },
+ {
+  "key": "ffb66594ac31502877fa45d4bc5a8c71",
+  "original": "You're a human.  Not particularly remarkable.",
+  "translation": "You're a human.  Not particularly remarkable.",
+  "context": "ID: HUMAN_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HUMAN_SPECIES\n",
+  "stage": 1
  },
  {
   "key": "07948597f67176584ff8d22c25151c0b",
@@ -12751,10 +12866,23 @@
   "stage": 3
  },
  {
+  "key": "3e5fbe65040e09d6b7ddfc64b1ec2a45",
+  "original": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training and discipline enabled you to trascend the mortal realm, with the small side effect of being seen as an enemy, or better put, an exotic snack by supernatural creatures.",
+  "translation": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training and discipline enabled you to trascend the mortal realm, with the small side effect of being seen as an enemy, or better put, an exotic snack by supernatural creatures.",
+  "context": "ID: HERMIT_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HERMIT_SPECIES\n",
+  "stage": 1
+ },
+ {
+  "key": "32859a5e3d26887e103693e8ff9224f5",
+  "original": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training enabled you to trascend the mortal realm… although Heaven hath rejected you due your egotistical and uncaring nature.  Supernatural creatures see you as an enemy, or better put, an exotic snack.",
+  "translation": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training enabled you to trascend the mortal realm… although Heaven hath rejected you due your egotistical and uncaring nature.  Supernatural creatures see you as an enemy, or better put, an exotic snack.",
+  "context": "ID: WICKED_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WICKED_HERMIT\n",
+  "stage": 1
+ },
+ {
   "key": "ff7922fa6e8d3e414a5aa2f4588c0477",
   "original": "You're a practicioner of Taoist arts in search of immortality (among other things…).  Uncountable years of training and discipline have allowed you to trascend the mortal realm, although supernatural creatures now see you as an enemy, or better put, an exotic snack.",
   "translation": "You're a practicioner of Taoist arts in search of immortality (among other things…).  Uncountable years of training and discipline have allowed you to trascend the mortal realm, although supernatural creatures now see you as an enemy, or better put, an exotic snack.",
-  "context": "ID: HERMIT_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HERMIT_SPECIES\n",
   "stage": 3
  },
  {
@@ -12782,7 +12910,7 @@
   "original": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're (partially) transformed into your youkai form, revealing your hidden legs.  Activate the mutation to switch to human form.",
   "translation": "你是一只蜘蛛妖怪，来自地底风穴和黑暗洞窟。此刻，你正处于（部分）变身状态，显露出你隐藏的多足形态。激活变异以切换至人类形态。",
   "context": "ID: TSUCHIGUMO_SPECIES_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES_active\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cdd5214667d0d4d0cf48273b868fc423",
@@ -12795,7 +12923,7 @@
   "original": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
   "translation": "你是一只来自地底风穴和阴暗洞窟的蜘蛛妖怪。此刻，你正伪装成人类。激活变异以切换妖怪形态。",
   "context": "ID: TSUCHIGUMO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1fa6fd8108f04c06a05734751da61bff",
@@ -12828,9 +12956,9 @@
  {
   "key": "2d638e8b72bdb33ced81cf2a40ddd208",
   "original": "You're concentrated, turning your physical into spiritual energy…",
-  "translation": "你集中精神，将肉体能量转化为精神力量……",
+  "translation": "你集中精神，将肉体能量转化为灵力……",
   "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d97aaeda3ddd7b72ee3bc4dcd9816fe2",
@@ -12870,9 +12998,9 @@
  {
   "key": "8587c7dfd3dda2eb01a577c9c1f001b9",
   "original": "You're fundamentally not human despite looking like one, and thus you're not bound by their customs and rules.  You're 'just' 'off' according to genuine humans.",
-  "translation": "尽管你的外貌类似于人类，但你其实并非人类，因此不受他们的习俗和规则的束缚。在真正的人类看来，你只是显得有些‘不协调’。",
+  "translation": "尽管你的外貌类似于人类，但你其实并非人类，因此不受他们的习俗和规则的束缚。在真正的人类看来，你只是显得有些‘不合群’。",
   "context": "ID: NON_HUMAN_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→NON_HUMAN_SPECIES\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6cafbdb094b0bbbf817fa54c1fbf193c",
@@ -12905,9 +13033,9 @@
  {
   "key": "0f8389641ac94b96e8c8ce75bd976291",
   "original": "You're the Dragon Palace messenger in charge of Gensokyo, and the Hinanawi clan as of late.",
-  "translation": "你是负责幻想乡，尤其是比那名居一族的龙宫使者。",
+  "translation": "你是一名龙宫使，负责处理幻想乡地区的工作，以及为比那名居家效劳。",
   "context": "ID: PROF_IKU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_IKU\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e15558f7200ed739cc9cbeed83b5aed9",
@@ -12928,7 +13056,7 @@
   "original": "You're the conglomeration of Noh masks left forgotten countless years ago, now with a sense of self, and a personality of your own.  Due your nature, emotional states are not part of your physiology, so you rely on your masks to express your emotions.",
   "translation": "你是由无数年前被遗忘的能面集合而成的存在，如今拥有了自我意识和个性。由于你的本质，情绪状态并不属于你的生理机能，因此你依靠不同的面具来表达情感。",
   "context": "ID: PROF_KOKORO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KOKORO\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "87aea06ea8f2f112960574456f080ac2",
@@ -13029,6 +13157,13 @@
   "stage": 3
  },
  {
+  "key": "2a19b7a576472fcc2eb903fd79f13176",
+  "original": "Youkai constitution",
+  "translation": "Youkai constitution",
+  "context": "ID: YOUKAI_CONSTITUTION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→YOUKAI_CONSTITUTION\n",
+  "stage": 1
+ },
+ {
   "key": "2bd351b40a91c774032c1102bc23edda",
   "original": "Your ability, weaponized.",
   "translation": "你的能力，已武器化。",
@@ -13073,9 +13208,9 @@
  {
   "key": "2c1111f0c6ce185f293d5093d45792e3",
   "original": "Your half-phantom half, in full-human shape.",
-  "translation": "你那半幽灵的化身，以完整人形显现。",
+  "translation": "你的半灵的部分正以完整的人形显现",
   "context": "ID: mon_youmumyon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_youmumyon\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "083470ab8224a74cc792f403ffc2cb21",
@@ -13156,9 +13291,9 @@
  {
   "key": "64e33138d69eb0f14e7e1f1a18616a4b",
   "original": "Your personal bubble is being contracted.",
-  "translation": "你的个人空间正在被压缩。",
+  "translation": "你个人空间的时被压缩了。",
   "context": "ID: sakuya_contraction_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_contraction_effect\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b2ff706fb0c2e7d5fe681dfc797955cc",
@@ -13172,14 +13307,14 @@
   "original": "Your personal fighting style, learned over decades of sword training, plus some gardening component that helped too.  People say you may just be *too* tunnel-visioned about it.",
   "translation": "你个人的战斗风格，是通过几十年剑术训练磨练而成，其间还融入了一些园艺的元素，这同样功不可没。人们常说，你对剑术的专注或许已经到了过于执着的地步。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "392046a8dd30c6cd464036e6088cca13",
   "original": "Your poise allows you to easily evade incoming attacks.  Like a fish swimming through, your evasion is increased while your blocking chance is decreased.",
-  "translation": "你的从容不迫使你能够轻松躲避即将到来的攻击。宛如鱼儿在水中游刃有余，你的闪避能力得到提升，但格挡几率相应减少。",
+  "translation": "你的从容不迫使你能够轻松躲避即将到来的攻击，宛如水中游鱼。你的闪避得到提升，但格挡几率相应减少。",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "81959c1dafc3cec53461a112a1ac980b",
@@ -13205,9 +13340,9 @@
  {
   "key": "48f9d2887dbf5e6a74adaaac00201985",
   "original": "Your trusty jiang shi companion.  Eager to help you, she will assist you in battle as long as her body allows her to.",
-  "translation": "你可靠的丧尸伙伴。她渴望帮助你，只要她的身体允许，她就会在战斗中助你一臂之力。",
+  "translation": "你可靠的僵尸伙伴。她渴望帮助你，只要身体允许，她就会在战斗中助你一臂之力。",
   "context": "ID: mon_yoshika\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_yoshika\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a9884c871310e8cacebc06e81717839a",
@@ -13219,16 +13354,16 @@
  {
   "key": "609ca271c68d13dbd2414e41173e386b",
   "original": "Your victim warps as life leaves its body, turning into a monstrosity!",
-  "translation": "随着生命渐渐离体，你的牺牲品扭曲变形，化为一个怪物！",
+  "translation": "随着生命渐渐离体，你的祭品扭曲变形，化身为一个怪物！",
   "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5cedf062a24be307d0679e6a321b0901",
   "original": "Your victims warp as life leaves their bodies, turning into monstrosities!",
-  "translation": "随着生命从躯体中消逝，你的牺牲品扭曲变形，化为怪物！",
+  "translation": "随着生命渐渐离体，你的祭品扭曲变形，化身为一个怪物！",
   "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0624adf870cabfc720ed6bb0c96d2032",
@@ -13249,14 +13384,14 @@
   "original": "Your wings are now prepared for flying.  Activate the mutation to fold your wings, disabling flight.",
   "translation": "你的翅膀现已准备好飞翔。激活变异以收拢翅膀，从而关闭飞行功能。",
   "context": "ID: WINGS_HELLRAVEN_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN_spread\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a53d70e081a7c53e3dfcab863f1a8b4f",
   "original": "Your wings are now prepared for flying.  Activate to disable flight.",
   "translation": "你的翅膀现已准备好飞翔。激活以关闭飞行功能。",
   "context": "ID: WINGS_TENGUCROW_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW_spread\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9f3dcbf7754aa456078e05e3a6dd0bc6",
@@ -13308,6 +13443,20 @@
   "stage": 3
  },
  {
+  "key": "77d9a5f8d5888e3571b95ff04680c8da",
+  "original": "[↑] Fly upwards",
+  "translation": "[↑] Fly upwards",
+  "context": "ID: fly_upwards\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fly_upwards\n",
+  "stage": 1
+ },
+ {
+  "key": "079febd0fdfbeb22b1ee6ff8e6164fc5",
+  "original": "[↓] Fly downwards",
+  "translation": "[↓] Fly downwards",
+  "context": "ID: fly_downwards\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fly_downwards\n",
+  "stage": 1
+ },
+ {
   "key": "2fc91934a8f7220ba7e3555c720e028c",
   "original": "a creature from the mi-go homeworld",
   "translation": "来自米戈位面的生物",
@@ -13317,9 +13466,9 @@
  {
   "key": "526695e47e41573f034278a60dacff46",
   "original": "a female apparition",
-  "translation": "女鬼魅",
+  "translation": "女幽灵",
   "context": "ID: YOUKAI_FEMALE_TOUHOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→YOUKAI_FEMALE_TOUHOU\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "62f67ec79183896fd864ed2564228865",
@@ -13376,6 +13525,13 @@
   "translation": "植物",
   "context": "ID: PLANT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→PLANT\n",
   "stage": 3
+ },
+ {
+  "key": "3abaa95753e65e80d2adaaa0fdef7193",
+  "original": "a reanimated object",
+  "translation": "a reanimated object",
+  "context": "ID: TSUKUMOGAMI_TOUHOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→TSUKUMOGAMI_TOUHOU\n",
+  "stage": 1
  },
  {
   "key": "a458808583b04d02b450e6a73bcc2231",
@@ -15850,5 +16006,12 @@
   "translation": "…这干扰了你的注意力。造成暴击使你下次的攻击难以暴击。",
   "context": "ID: style_celestial_brawling_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_tenko\n",
   "stage": 3
+ },
+ {
+  "key": "b5f85807333792c368edcd0890b4102d",
+  "original": "☯ Touhou mod ☯",
+  "translation": "☯ Touhou mod ☯",
+  "context": "ID: touhou_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→scenario→touhou_everything\n",
+  "stage": 1
  }
 ]

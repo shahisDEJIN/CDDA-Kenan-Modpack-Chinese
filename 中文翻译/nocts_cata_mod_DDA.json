@@ -9028,7 +9028,7 @@
  {
   "key": "eef99cc1bfae6d3f03a574a26bd00b35",
   "original": "You steady yourself, prepared for the fights ahead.",
-  "translation": "保持冷静，为即将到来的战斗做好准备。",
+  "translation": "你屏气凝神，为即将到来的战斗做好准备。",
   "context": "ID: style_surv_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_surv_com\n",
   "stage": 3
  },

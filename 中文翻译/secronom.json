@@ -409,9 +409,9 @@
  {
   "key": "6c6e1d6621accc01a82fc8aab88b22ff",
   "original": "%1$s slams you to the floor with its mouth!",
-  "translation": "%1$s号用它的嘴巴将你猛地摔到地板上！",
+  "translation": "%1$s用它的嘴将你猛地摔到地上！",
   "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d8588a1c4df4661a572d966268df54db",
@@ -3320,7 +3320,7 @@
   "original": "A large corpse with its skin calcified, forming a shell-like layer.",
   "translation": "一具庞大的尸体，皮肤钙化，形成了壳状层。",
   "context": "ID: mon_zombie_charger_plate\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Charger.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_charger_plate\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "33386ae2a47c36a2a1f5708191c4066e",
@@ -10980,9 +10980,9 @@
  {
   "key": "b4c9754a8ecd4d90204be1e2fb6498ed",
   "original": "The %s's vine slashes at you, but you dodge!",
-  "translation": "%s号的藤蔓向你斩来，但你灵巧地躲开了！",
+  "translation": "%s的藤蔓向你斩来，但你躲开了！",
   "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8fb8f0960ee04f94d20f82d63a51f3b9",
@@ -11249,7 +11249,7 @@
   "original": "The flesh seeps and burn under your skin!",
   "translation": "你的皮肤下腐肉渗流，灼热难当！",
   "context": "ID: sflesh_fleshling_meld\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→sflesh_fleshling_meld\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b78154512d13235e43c4be75b14afdea",
@@ -12505,7 +12505,7 @@
   "original": "You body fills in with distress!",
   "translation": "你的身体充满了痛苦！",
   "context": "ID: secro_power_armor_flesh_devouring_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_flesh_devouring_note\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "413b6c1bc8607122736d798627760d6b",
@@ -12555,9 +12555,9 @@
  {
   "key": "3645d13221fef446c00714ad66cb3950",
   "original": "You feel dizzy…",
-  "translation": "你感到一阵眩晕…",
+  "translation": "你感到头晕目眩…",
   "context": "ID: secro_akin_siphon_foe\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_akin_siphon_foe\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b5f337a76d65dd05dee5dfaed08a56d8",
@@ -12595,16 +12595,16 @@
  {
   "key": "9c8122d18b5db5a0d00cac9bbca4d58f",
   "original": "You feel very stiff…",
-  "translation": "你感到身体异常僵硬…",
+  "translation": "你感到非常僵硬…",
   "context": "ID: secro_necros_para\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_necros_para\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "91f6f2fcfc9fe4acb13221ef9cd19a14",
   "original": "You feel weakened.",
   "translation": "你感到身体虚弱无力。",
   "context": "ID: parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→parasiteworm_weaken\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "c54f01ae56a5d3caab07bd3f0a7a5aad",

@@ -10,6 +10,12 @@
   "key": "6464e53472e311f543d98759a6954afb",
   "original": " <color_blue>Law</color> delivered to %s. <color_yellow>Order</color> restored.",
   "translation": " <color_blue>法律</color> 已传达 %s. <color_yellow>秩序</color> 已恢复。",
+  "stage": 1
+ },
+ {
+  "key": "7e5c68db9a6c3eac4c12a2060866eb28",
+  "original": " <color_blue>Law</color> has been delivered to %s. <color_yellow>Order</color> is restored.",
+  "translation": " <color_blue>Law</color> has been delivered to %s. <color_yellow>Order</color> is restored.",
   "context": "ID: law\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→law\n",
   "stage": 1
  },
@@ -31,13 +37,18 @@
   "key": "94d26527b65caa438f9abb9513f0857b",
   "original": " This doctrine describes how to protect yourself and your client using zweihander sword.",
   "translation": " 本教义介绍了如何使用双手巨剑保护自己和客户。",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
   "key": "8251114b5beb89431cc021c929a348de",
   "original": " You step aside and prepare for powerfull strike \n\n Armour penetration increached by 30% of strength.",
   "translation": " 你退到一旁，准备发动强力一击 \n\n 护甲穿透力增加 30%。",
+  "stage": 1
+ },
+ {
+  "key": "c6cc4b3ea88768260c69cfefde4c1189",
+  "original": " You step forward, prepared for a powerful strike. \n\nIncreases armor penetration by 30% of your strength.",
+  "translation": " You step forward, prepared for a powerful strike. \n\nIncreases armor penetration by 30% of your strength.",
   "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
@@ -46,6 +57,62 @@
   "original": " fine lab coats",
   "translation": " fine lab coats",
   "context": "ID: pm_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_labcoat\n",
+  "stage": 1
+ },
+ {
+  "key": "90c480017f3b7dad5d8727bc8be86405",
+  "original": "\"But... I shouldn't. No, I can't. The truth lies bare to me, and it can't change.\"",
+  "translation": "\"But... I shouldn't. No, I can't. The truth lies bare to me, and it can't change.\"",
+  "context": "ID: skin_down1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down1\n",
+  "stage": 1
+ },
+ {
+  "key": "3106c3397500537bc5aa205e3fb7528d",
+  "original": "\"Does... Does that mean the truth is meaningless? No, it can't be. It can't be all for nothing. Otherwise what would even be the point?\"",
+  "translation": "\"Does... Does that mean the truth is meaningless? No, it can't be. It can't be all for nothing. Otherwise what would even be the point?\"",
+  "context": "ID: skin_down2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down2\n",
+  "stage": 1
+ },
+ {
+  "key": "b49849bacb5791f801854be5a07b5948",
+  "original": "\"I REFUSE! I REFUSE THE TRUTH! IT CAN'T END LIKE THIS! I WON'T LET IT! I'LL MAKE MY OWN TRUTH! MY LIFE MUST HAVE MEANING!\"",
+  "translation": "\"I REFUSE! I REFUSE THE TRUTH! IT CAN'T END LIKE THIS! I WON'T LET IT! I'LL MAKE MY OWN TRUTH! MY LIFE MUST HAVE MEANING!\"",
+  "context": "ID: skin_down3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down3\n",
+  "stage": 1
+ },
+ {
+  "key": "8ba3b4ca0c405bfc7325a2a4ff001abb",
+  "original": "\"I have seen the truth...\"",
+  "translation": "\"I have seen the truth...\"",
+  "context": "ID: skin_book_eoc\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_book_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "91f91dbc3396c8cd0d0e25cc82983d2b",
+  "original": "\"No... I could save the world! I can fix everything!\"",
+  "translation": "\"No... I could save the world! I can fix everything!\"",
+  "context": "ID: skin_up3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up3\n",
+  "stage": 1
+ },
+ {
+  "key": "8871f3f357f3e1175e77e3eabaea1e95",
+  "original": "\"The truth of the world lies bare to me.\"",
+  "translation": "\"The truth of the world lies bare to me.\"",
+  "context": "ID: skin_up1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up1\n",
+  "stage": 1
+ },
+ {
+  "key": "323eb24d3d6197f2ba302a87617bc3f5",
+  "original": "\"With this... I could change the world!\"",
+  "translation": "\"With this... I could change the world!\"",
+  "context": "ID: skin_up2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up2\n",
+  "stage": 1
+ },
+ {
+  "key": "4e29c67a501b7fb4780b7b6e71e0dec3",
+  "original": "%1$s attempts to pierce your %2$s with its beak, but you dodge the attack!",
+  "translation": "%1$s attempts to pierce your %2$s with its beak, but you dodge the attack!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
   "stage": 1
  },
  {
@@ -59,6 +126,12 @@
   "key": "db1f24746cdd58c8e55cf7dce456ab05",
   "original": "%1$s draw a symbol in air then you head ring!",
   "translation": "%1$s draw a symbol in air then you head ring！",
+  "stage": 1
+ },
+ {
+  "key": "8f95246b70501cf54f2bfbd5a981ea76",
+  "original": "%1$s draws a symbol in air that makes your head ring!",
+  "translation": "%1$s draws a symbol in air that makes your head ring！",
   "context": "ID: mon_prophet_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet_2\n",
   "stage": 1
  },
@@ -115,27 +188,65 @@
   "key": "ae72456017d6822246a921aa2d32e67a",
   "original": "%1$s ignite air around you!",
   "translation": "%1$s 点燃了你周围的空气！",
+  "stage": 1
+ },
+ {
+  "key": "99d82017e5c1fd74a35e51ecf0a85e1e",
+  "original": "%1$s ignites the air around you!",
+  "translation": "%1$s ignites the air around you!",
   "context": "ID: mon_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet\n",
+  "stage": 1
+ },
+ {
+  "key": "c1ef7cddceb761ca88bbbccc15a7860b",
+  "original": "%1$s pierces <npcname>'s flesh with its beak, drawing blood!",
+  "translation": "%1$s pierces <npcname>'s flesh with its beak, drawing blood!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
+  "stage": 1
+ },
+ {
+  "key": "0325cc1744685c7591897f033b882f0a",
+  "original": "%1$s pierces your %2$s with its beak, drawing blood!",
+  "translation": "%1$s pierces your %2$s with its beak, drawing blood!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
   "stage": 1
  },
  {
   "key": "d3a93459d281266b46dd93cf84370028",
   "original": "%1$s placed a few fire symbols near you!",
   "translation": "%1$s 在你附近放置了几个火焰符号！",
-  "context": "ID: mon_prophet_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet_2\n",
   "stage": 1
  },
  {
   "key": "9b1c266045a7708ea5f66fc6525a522f",
   "original": "%1$s placed a fire symbol near you!",
   "translation": "%1$s在你附近放置了一个火焰符号！",
-  "context": "ID: mon_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet\n",
   "stage": 1
  },
  {
   "key": "c70615976c14c206c9d3d8e0023353e3",
   "original": "%1$s placed a huge fire symbol near you!",
   "translation": "%1$s 在你附近放置了一个巨大的火焰符号！",
+  "stage": 1
+ },
+ {
+  "key": "057ea9b5eb2c6ac90fc33d6ebe9498e2",
+  "original": "%1$s places a few fire symbols near you!",
+  "translation": "%1$s places a few fire symbols near you!",
+  "context": "ID: mon_prophet_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet_2\n",
+  "stage": 1
+ },
+ {
+  "key": "caecfdfa36ff94c1b0f51cff8b5ec0de",
+  "original": "%1$s places a fire symbol near you!",
+  "translation": "%1$s places a fire symbol near you！",
+  "context": "ID: mon_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet\n",
+  "stage": 1
+ },
+ {
+  "key": "9dbacaf53f2445522c6fdc9d262cdc6f",
+  "original": "%1$s places a huge fire symbol near you!",
+  "translation": "%1$s places a huge fire symbol near you!",
   "context": "ID: mon_prophet_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet_2\n",
   "stage": 1
  },
@@ -224,6 +335,27 @@
   "stage": 1
  },
  {
+  "key": "fc22a89bf01a6a09d7b84cdfe84547ee",
+  "original": "%1$s tries to pierce <npcname> with its beak, but they dodge just in time!",
+  "translation": "%1$s tries to pierce <npcname> with its beak, but they dodge just in time!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
+  "stage": 1
+ },
+ {
+  "key": "62bd8e9b234feccd6cf7c53e75d3b7b5",
+  "original": "%1$s tries to pierce <npcname>'s armor with its beak, but it fails to penetrate!",
+  "translation": "%1$s tries to pierce <npcname>'s armor with its beak, but it fails to penetrate!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
+  "stage": 1
+ },
+ {
+  "key": "83c4697b32cc2ed0644b634da837fac1",
+  "original": "%1$s tries to pierce your %2$s with its beak, but your armor holds strong!",
+  "translation": "%1$s tries to pierce your %2$s with its beak, but your armor holds strong!",
+  "context": "ID: execution_bird\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→monster_attack→execution_bird\n",
+  "stage": 1
+ },
+ {
   "key": "c208aa93ce50e3572aacb5d754320f2b",
   "original": "%1$s use his beak and pierce <npcname>, covering them in red liquid!",
   "translation": "%1$s用它的喙刺穿<npcname>，将其覆盖上了红色液体！",
@@ -269,20 +401,38 @@
   "key": "d1051764c284fc16fa6d1d45bf87d20e",
   "original": "%s exhale calmly and sligtly raise his sword.",
   "translation": "%s %平静地呼出一口气，微微举起了他的剑。",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
   "key": "e7cf8e5c0c040c7670617ca53793e2ba",
   "original": "%s exhale ecstatic",
   "translation": "%s   欣喜若狂地呼气",
-  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
   "stage": 0
+ },
+ {
+  "key": "d2a7089f810755a1d00fb3a9fc55b1fd",
+  "original": "%s exhales calmly and slightly raise their sword.",
+  "translation": "%s exhales calmly and slightly raise their sword.",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
+  "key": "911fef9dafdbc44c51e4df78272a344b",
+  "original": "%s exhales ecstatically",
+  "translation": "%s exhales ecstatically",
+  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
  },
  {
   "key": "a8a169a059d3b5fd5f6f1a074febb4e9",
   "original": "%s raise his fist with bloody grin.",
   "translation": "%s 举起拳头，露出嗜血的笑容。",
+  "stage": 1
+ },
+ {
+  "key": "a7fef13e552eb8f945a27015ae1787bd",
+  "original": "%s raises their fist with a bloody grin.",
+  "translation": "%s raises their fist with a bloody grin.",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
@@ -325,7 +475,6 @@
   "key": "490d300fb37cc24bd1dc6e684f445ad1",
   "original": "*thousands of thoughts fill your head, they clearly do not belong to you, you feel that someone who does not belong to this world has paid attention to you. His invisible pressence frightens you, you feel the cold of horror filling the insides of your bones*",
   "translation": "*成千上万的想法充斥着你的头脑，它们显然不属于你，你感觉到一个不属于这个世界的人关注着你。他无形的压力让你害怕，你感觉到恐怖的寒冷充斥着你的骨髓*。",
-  "context": "ID: skin_down4\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down4\n",
   "stage": 1
  },
  {
@@ -353,7 +502,7 @@
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "…",
-  "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
+  "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n",
   "stage": 3
  },
  {
@@ -385,6 +534,34 @@
   "stage": 1
  },
  {
+  "key": "0d8a49b08fbd8675161b3e1dff50043c",
+  "original": "<color_blue>EGO Suit Beak</color>",
+  "translation": "<color_blue>EGO Suit Beak</color>",
+  "context": "ID: ego_suit_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_beak\n",
+  "stage": 1
+ },
+ {
+  "key": "398e666b997060e87fe0404da2e89172",
+  "original": "<color_blue>EGO Suits Beak</color>",
+  "translation": "<color_blue>EGO Suits Beak</color>",
+  "context": "ID: ego_suit_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_beak\n",
+  "stage": 1
+ },
+ {
+  "key": "33812c987ce1c9862927ed72deceac8a",
+  "original": "<color_blue>EGO Weapon Beak</color>",
+  "translation": "<color_blue>EGO Weapon Beak</color>",
+  "context": "ID: ego_weapon_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_beak\n",
+  "stage": 1
+ },
+ {
+  "key": "5cea272a31be189298b111085d9196ed",
+  "original": "<color_blue>EGO gift Beak</color>",
+  "translation": "<color_blue>EGO gift Beak</color>",
+  "context": "ID: ego_beak_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_beak_gift\n",
+  "stage": 1
+ },
+ {
   "key": "86b6733c7f7ddf251ccfed5b7c3859cd",
   "original": "<color_blue>Punishing Bird</color>",
   "translation": "<color_blue>惩戒鸟</color>",
@@ -409,6 +586,12 @@
   "key": "7c7549bc2c83de0297364be23e67c7cd",
   "original": "<color_blue>Zwei</color> \n<color_yellow>Protect and Serve</color>",
   "translation": "<color_blue>Zwei</color> \n<color_yellow>保护与服务</color>",
+  "stage": 1
+ },
+ {
+  "key": "b970dd23c43db0d5fd6ba1ece53c0739",
+  "original": "<color_blue>Zwei</color> \n<color_yellow>To Protect and Serve</color>",
+  "translation": "<color_blue>Zwei</color> \n<color_yellow>To Protect and Serve</color>",
   "context": "ID: zw_mastery\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→zw_mastery\n",
   "stage": 1
  },
@@ -462,10 +645,24 @@
   "stage": 1
  },
  {
+  "key": "336b4f8f14f406252dc8a373d3fc7c8a",
+  "original": "<color_green>Success!</color>",
+  "translation": "<color_green>Success！</color>",
+  "context": "ID: beak_ego_g_3_success\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→beak_ego_g_3_success\n",
+  "stage": 1
+ },
+ {
   "key": "a94ed63ad13722480b0b7e35200752d0",
   "original": "<color_red>enraged Punishing Bird</color>",
   "translation": "<color_red>愤怒的惩戒鸟</color>",
   "context": "ID: mon_birb_enraged\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/How.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_birb_enraged\n",
+  "stage": 1
+ },
+ {
+  "key": "a5e1040a837237bda8e83f60774f54eb",
+  "original": "<color_red>feather of Punishing Bird</color>",
+  "translation": "<color_red>feather of Punishing Bird</color>",
+  "context": "ID: punishing_red_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_red_feather\n",
   "stage": 1
  },
  {
@@ -480,6 +677,13 @@
   "original": "<color_white>Ahh... </color>",
   "translation": "<color_white>啊...... </color>",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "937b6b372f2ab36afbf18f2bcc09b4fb",
+  "original": "<color_white>feather of Punishing Bird</color>",
+  "translation": "<color_white>feather of Punishing Bird</color>",
+  "context": "ID: punishing_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_feather\n",
   "stage": 1
  },
  {
@@ -514,34 +718,71 @@
   "key": "7c45ae58f9622a492fc38bdee439924c",
   "original": "<npcname> deal a deavstating blow at %s!",
   "translation": "<npcname> 对%s造成了毁灭性打击!",
-  "context": "ID: flex_supress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_supress\n",
+  "stage": 1
+ },
+ {
+  "key": "bd84c78cb0f88c021780a92aed40acd2",
+  "original": "<npcname> deals a devastating blow at %s!",
+  "translation": "<npcname> deals a devastating blow at %s!",
+  "context": "ID: flex_suppress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_suppress\n",
   "stage": 1
  },
  {
   "key": "36bd6e67d49d9252e6079264e0510b81",
   "original": "<npcname> execute powerful upward slash through %s",
   "translation": "<npcname> 向上猛劈，穿透了%s",
-  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
   "stage": 1
  },
  {
   "key": "b3b222b2e8d8a74e5d26f69ce9f4bcf7",
   "original": "<npcname> execute powerful wide diagonal slash through %s",
   "translation": "<npcname>对 %s进行了强力的斜斩",
+  "stage": 1
+ },
+ {
+  "key": "bca9f1dbfad6e033a006a397f2a1965a",
+  "original": "<npcname> executes a powerful downward slash through %s.",
+  "translation": "<npcname> executes a powerful downward slash through %s.",
+  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
+  "stage": 1
+ },
+ {
+  "key": "f12f89f8d2be5f7d77b6a56fde6be5f4",
+  "original": "<npcname> executes a powerful wide diagonal slash through %s.",
+  "translation": "<npcname> executes a powerful wide diagonal slash through %s.",
   "context": "ID: kr_sky2\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky2\n",
+  "stage": 1
+ },
+ {
+  "key": "768be9623950c3c8afb780624757b7e3",
+  "original": "<npcname> executes a wide slash through %s.",
+  "translation": "<npcname> executes a wide slash through %s.",
+  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
   "stage": 1
  },
  {
   "key": "b666534a27aae064cc9718c7b70c607a",
   "original": "<npcname> launch flank attack at %s You hear bone crackle",
   "translation": "<npcname>向%s发起迂回进攻，你听到骨骼噼啪作响",
-  "context": "ID: rc_flank\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_flank\n",
   "stage": 1
  },
  {
   "key": "9a6723b5426adefe9c5b3d96b3ec116b",
   "original": "<npcname> launch frontal attack at %s! You hear bone crackle",
   "translation": "<npcname>向%s发起正面攻击，你听到骨骼噼啪作响",
+  "stage": 1
+ },
+ {
+  "key": "79bd07e50574e9a80ded541996267bb7",
+  "original": "<npcname> launches a flanking attack at %s. \nYou hear cracking noises from %s",
+  "translation": "<npcname> launches a flanking attack at %s. \nYou hear cracking noises from %s",
+  "context": "ID: rc_flank\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_flank\n",
+  "stage": 1
+ },
+ {
+  "key": "6ba14cb705691de17c1ed68af8aef78f",
+  "original": "<npcname> launches a frontal attack at %s! \nYou hear cracking noises from %s.",
+  "translation": "<npcname> launches a frontal attack at %s! \nYou hear cracking noises from %s.",
   "context": "ID: rc_hth\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_hth\n",
   "stage": 1
  },
@@ -549,13 +790,18 @@
   "key": "7180f18cb9da093d6fb9e0ffb7fdee1f",
   "original": "<npcname> perform a wide slash through %s",
   "translation": "<npcname> 对 %s进行了阔斩",
-  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
   "stage": 1
  },
  {
   "key": "a5a05d6cf433a4c728e5665edc73c171",
   "original": "<npcname> pierce through %s",
   "translation": "<npcname> 刺穿 %s",
+  "stage": 1
+ },
+ {
+  "key": "1e21af579eb182ff3f57583ce223688e",
+  "original": "<npcname> pierces through %s.",
+  "translation": "<npcname> pierces through %s.",
   "context": "ID: kr_focus\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_focus\n",
   "stage": 1
  },
@@ -563,14 +809,19 @@
   "key": "594dc912b31b37902dd27d8b45f24ef0",
   "original": "<npcname> punch %s sitting a top of him",
   "translation": "<npcname>次重击，%s次坐在他顶上。",
-  "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
   "stage": 0
+ },
+ {
+  "key": "6b403dd30b87390c9b00b6396449dfc7",
+  "original": "<npcname> punches %s while sitting on top of them.",
+  "translation": "<npcname> punches %s while sitting on top of them.",
+  "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
+  "stage": 1
  },
  {
   "key": "5847e22abf28148b5219d72cde3a9fe7",
   "original": "<npcname> strike %s so quick that your eyes barely catch it",
   "translation": "<npcname>打击%s的速度如此之快，以至于你的眼睛几乎捕捉不到它",
-  "context": "ID: kr_hack\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_hack\n",
   "stage": 1
  },
  {
@@ -581,6 +832,13 @@
   "stage": 1
  },
  {
+  "key": "6cef4b5ca8e09fabf6db08a0f65ee120",
+  "original": "<npcname> strikes %s so quickly that it's almost too fast to see.",
+  "translation": "<npcname> strikes %s so quickly that it's almost too fast to see.",
+  "context": "ID: kr_hack\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_hack\n",
+  "stage": 1
+ },
+ {
   "key": "4f98ab89f493ec1658b89242c7ad796f",
   "original": "<npcname> swings in a wide arc through %s",
   "translation": "<npcname>大幅挥击%s",
@@ -588,23 +846,41 @@
   "stage": 1
  },
  {
+  "key": "a3bcbaaa0a1a5d1ab1129e3ca62882f3",
+  "original": "<npcname> tightens the chain around their hand and delivers a crushing blow to %s, channeling all their momentum into it!",
+  "translation": "<npcname> tightens the chain around their hand and delivers a crushing blow to %s, channeling all their momentum into it!",
+  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
+  "stage": 1
+ },
+ {
   "key": "d4cf9cb52d5595005fba5b1c51a69c72",
   "original": "<npcname> wrapping the chain even tighter around hand, deliver a crushing blow at %s, putting all his inertia into it!%s!",
   "translation": "<npcname> 用手将铁链缠得更紧，向 %s 施以致命一击，将所有惯性都投入其中！%s！",
-  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
+  "stage": 1
+ },
+ {
+  "key": "5cdfbe68604db92a0e8ab6ec984cbb07",
+  "original": "<npcname> wraps chains around %s and crushes them!",
+  "translation": "<npcname> wraps chains around %s and crushes them!",
+  "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
   "stage": 1
  },
  {
   "key": "f920dee9a79a5ca4d4c1c617d13cf592",
   "original": "<npcname> wraps chains around %s and then grind him!",
   "translation": "<npcname>用锁链缠住 %s 然后碾压他！",
-  "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
   "stage": 1
  },
  {
   "key": "fe1512e7b5253056164c07c72fdd3218",
   "original": "<npcname>s deflect %s attack and strike back.",
   "translation": "<npcname> 抵挡了%s的攻击并反击。",
+  "stage": 1
+ },
+ {
+  "key": "876f673c4dead2aefa9c71a4120c4366",
+  "original": "<npcname>s deflects %s attack and strikes back.",
+  "translation": "<npcname>s deflects %s attack and strikes back.",
   "context": "ID: guardian\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→guardian\n",
   "stage": 1
  },
@@ -612,6 +888,12 @@
   "key": "5f07407d9e35e6e968fda3cdb236c451",
   "original": "<npcname>s deliver <color_blue>Law</color> to %s. <color_yellow>Order</color> restored. ",
   "translation": "<npcname>s传达<color_blue>法律</color> 以让%s. <color_yellow>秩序</color>恢复。",
+  "stage": 1
+ },
+ {
+  "key": "cd7678c5feb0cdae1b41b83c434a4370",
+  "original": "<npcname>s delivers the <color_blue>Law</color> to %s. <color_yellow>Order</color> has been restored. ",
+  "translation": "<npcname>s delivers the <color_blue>Law</color> to %s. <color_yellow>Order</color> has been restored. ",
   "context": "ID: law\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→law\n",
   "stage": 1
  },
@@ -668,6 +950,13 @@
   "original": "A brown button-down shirt with long sleeves.  Looks professional!",
   "translation": "棕色长袖纽扣衬衫。 看起来专业极了！",
   "context": "ID: pm_shirt_brown\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_shirt_brown\n",
+  "stage": 1
+ },
+ {
+  "key": "f73528950bed2660628cab7657a55bed",
+  "original": "A bunch of odd glyphs. You can't understand it... maybe you should go closer to inspect it.",
+  "translation": "A bunch of odd glyphs. You can't understand it... maybe you should go closer to inspect it.",
+  "context": "ID: mon_fire_sphere_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_fire_sphere_1\n",
   "stage": 1
  },
  {
@@ -751,6 +1040,12 @@
   "key": "026fa444793ef640668b97c94eb9405f",
   "original": "A flash of red light blinds you. He has come and you feel his pressence. The prophecy came true",
   "translation": "一束红光闪过，让你睁不开眼。他来了，你感受到了他的威压。预言成真。",
+  "stage": 1
+ },
+ {
+  "key": "23c0cda4acb7e23101523176cf3189c8",
+  "original": "A flash of red light blinds you. It has arrived and you suffocate under its presence. The Prophet of Skin has arrived.",
+  "translation": "A flash of red light blinds you. It has arrived and you suffocate under its presence. The Prophet of Skin has arrived.",
   "context": "ID: skin_summon\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_summon\n",
   "stage": 1
  },
@@ -776,10 +1071,24 @@
   "stage": 1
  },
  {
+  "key": "efef2ac3664945d8b565b51141b2db6a",
+  "original": "A grotesque fusion of man and shrimp, this creature's twisted form defies nature. Its human body is encased in orange chitin, with a shrimp-like head perched atop its shoulders. Dressed in a gray overall and yellow boots, it approaches you with eerie, wave-like motions of its arms.",
+  "translation": "A grotesque fusion of man and shrimp, this creature's twisted form defies nature. Its human body is encased in orange chitin, with a shrimp-like head perched atop its shoulders. Dressed in a gray overall and yellow boots, it approaches you with eerie, wave-like motions of its arms.",
+  "context": "ID: mon_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/FunnyShrimps.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_wellcheers\n",
+  "stage": 1
+ },
+ {
   "key": "97a0c1f6f4925c42de3cf448097c89f6",
   "original": "A guide to Cataclysm",
   "translation": "A guide to Cataclysm",
   "context": "ID: MISSION_FIND_BOOK_GUIDE_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_FIND_BOOK_GUIDE_ZW\n",
+  "stage": 1
+ },
+ {
+  "key": "3a2bd7a67cc69bebf762f23d68576184",
+  "original": "A heavy suit of armor with plates protecting vital areas. Capable of contain EGO",
+  "translation": "A heavy suit of armor with plates protecting vital areas. Capable of contain EGO",
+  "context": "ID: ego_suit\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit\n",
   "stage": 1
  },
  {
@@ -809,6 +1118,13 @@
   "translation": "一条长长的钢链，你可以把它缠在身上。虽然相当笨重，但这些重拳会像火车一样撞击。",
   "context": "ID: rc_chains\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→rc_chains\n",
   "stage": 2
+ },
+ {
+  "key": "371ea1fc96e0c8498a3673bed8edf2f6",
+  "original": "A light gray magazine containing special Beak EGO bullets. This one has a bullet capacity of 15 rounds.",
+  "translation": "A light gray magazine containing special Beak EGO bullets. This one has a bullet capacity of 15 rounds.",
+  "context": "ID: beak_mag\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag\n",
+  "stage": 1
  },
  {
   "key": "c0c25f850638bc910e7baa490ed46f68",
@@ -887,6 +1203,48 @@
   "stage": 1
  },
  {
+  "key": "a33602f81386ad62f5458308030d4cf2",
+  "original": "A powerful attack that slices through an enemy, only effective against a bleeding target.",
+  "translation": "A powerful attack that slices through an enemy, only effective against a bleeding target.",
+  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
+  "stage": 1
+ },
+ {
+  "key": "6cbcf9c4f86937363141e865d46418ed",
+  "original": "A powerful diagonal slash aimed at a bleeding enemy, cutting through with immense force.",
+  "translation": "A powerful diagonal slash aimed at a bleeding enemy, cutting through with immense force.",
+  "context": "ID: kr_sky2\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky2\n",
+  "stage": 1
+ },
+ {
+  "key": "bcb64bdd1ae35369ae5b50f9af3078ca",
+  "original": "A powerful downward slash designed to strike through a bleeding enemy, dealing high damage.",
+  "translation": "A powerful downward slash designed to strike through a bleeding enemy, dealing high damage.",
+  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
+  "stage": 1
+ },
+ {
+  "key": "d03e43fcef2e0eca6c8c9a0a6a7ce6b2",
+  "original": "A precise piercing attack that targets a bleeding enemy, delivering focused damage.",
+  "translation": "A precise piercing attack that targets a bleeding enemy, delivering focused damage.",
+  "context": "ID: kr_focus\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_focus\n",
+  "stage": 1
+ },
+ {
+  "key": "7eb45e07ff6124a812c40cd2423cfac8",
+  "original": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
+  "translation": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
+  "context": "ID: beak_mag_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag_red\n",
+  "stage": 1
+ },
+ {
+  "key": "94463d582f8984776733b5dc718a1797",
+  "original": "A script made of unknown glyphs that will cremate the area around it.",
+  "translation": "A script made of unknown glyphs that will cremate the area around it.",
+  "context": "ID: mon_fire_sphere_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_fire_sphere_2\n",
+  "stage": 1
+ },
+ {
   "key": "7c392859cd4bd8ea2e411c83a3b28439",
   "original": "A shiny gold barette with amethyst in it. You feel angelic energy from it, still quite artificial.",
   "translation": "镶有紫水晶的闪亮金制发卡。你能从中感受到天使的能量，但十分有人造的虚伪感。",
@@ -915,10 +1273,31 @@
   "stage": 1
  },
  {
+  "key": "42f60278a31daa0f835b7b3113db086a",
+  "original": "A skinny lectern made of flesh and bones. Ominous",
+  "translation": "A skinny lectern made of flesh and bones. Ominous",
+  "context": "ID: f_flesh_pedestal\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→furniture→f_flesh_pedestal\n",
+  "stage": 1
+ },
+ {
+  "key": "60d894b08732033a3254b22895f5ac22",
+  "original": "A small white-feathered bird with tiny wings and a red mark on its chest.",
+  "translation": "A small white-feathered bird with tiny wings and a red mark on its chest.",
+  "context": "ID: mon_birb\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/How.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_birb\n",
+  "stage": 1
+ },
+ {
   "key": "e40b7351da1f17fb930be57446d55dcd",
   "original": "A steel breastplate, and a vital part of plate armor.  Even as full armor went into decline, cuirasses remained in use among cavalry in Europe.",
   "translation": "一件钢制的胸腹部护甲，一套盔甲的核心部位。就算在全身覆甲的潮流被时代所淘汰之后，钢制胸甲仍然在欧洲的骑兵部队中有被装备。",
   "context": "ID: cuirass_lightplate_test\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→cuirass_lightplate_test\n",
+  "stage": 1
+ },
+ {
+  "key": "c3118a161ba4d6e6b48bc13f57d8bff8",
+  "original": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird, it grants the wearer increased speed and agility, as well as the ability to carry more.",
+  "translation": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird，it grants the wearer increased speed and agility，as well as the ability to carry more.",
+  "context": "ID: ego_beak_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_beak_gift\n",
   "stage": 1
  },
  {
@@ -974,7 +1353,6 @@
   "key": "22397b0c1e0c79031f4e46b7ea80a023",
   "original": "A whole script that will turn this place in to crematorium.",
   "translation": "一个能把这里变成火葬场的完整剧本。",
-  "context": "ID: mon_fire_sphere_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_fire_sphere_2\n",
   "stage": 1
  },
  {
@@ -1009,7 +1387,6 @@
   "key": "68cf4b09e833e3671ff1569ad61f4255",
   "original": "Air fluctate near this symbol. Maybe you shouldn't stay near? ",
   "translation": "空气在这个符号的附近波动。也许你不应该呆在旁边？",
-  "context": "ID: mon_scatter_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_scatter_v1\n",
   "stage": 1
  },
  {
@@ -1044,7 +1421,34 @@
   "key": "44c769654dc5e74b8b1d72419c839e7c",
   "original": "An aluminum can, like what soda comes in.",
   "translation": "一个铝罐，就是装汽水的那种。",
+  "stage": 1
+ },
+ {
+  "key": "c162a49579e7e6428553e0f51eefd42e",
+  "original": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers.",
+  "translation": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers.",
   "context": "ID: well_can\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→well_can\n",
+  "stage": 1
+ },
+ {
+  "key": "fd1a182daeca3985ab19e937329f7c42",
+  "original": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers. Now comes in cherry flavour.",
+  "translation": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers. Now comes in cherry flavour.",
+  "context": "ID: wellcherry_can\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→wellcherry_can\n",
+  "stage": 1
+ },
+ {
+  "key": "4ae7a5008003cee7466b17dda56b2fda",
+  "original": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers. Now comes in grape flavour.",
+  "translation": "An aluminum can, like what soda comes in. This one appears to be a can of WellCheers. Now comes in grape flavour.",
+  "context": "ID: wellgrape_can\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→wellgrape_can\n",
+  "stage": 1
+ },
+ {
+  "key": "db7471eddec20f7b27961de67a6cbaa8",
+  "original": "An ancient-looking religious book. Its numerous pages are written on old parchment.\n\nIts believers prayed that its sanctity would last forever by binding the tome in human skin.",
+  "translation": "An ancient-looking religious book. Its numerous pages are written on old parchment.\n\nIts believers prayed that its sanctity would last forever by binding the tome in human skin.",
+  "context": "ID: skin_prophecy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→skin_prophecy\n",
   "stage": 1
  },
  {
@@ -1072,7 +1476,6 @@
   "key": "05d68d4eaf4d47ce4ab948a7fc01a2c6",
   "original": "And some sacrifices will need to be made...",
   "translation": "需要做出一些牺牲......",
-  "context": "ID: skin_down2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down2\n",
   "stage": 1
  },
  {
@@ -1086,7 +1489,6 @@
   "key": "4ab9793b79f36f83366f2176feda7f2c",
   "original": "Are they have a death wish or something?\n\n+30% of strength to block. +30% of dexteity to dodge",
   "translation": "他们是找死还是怎么的？\n\n格挡+30%力量。闪避+30%敏捷",
-  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
@@ -1094,6 +1496,13 @@
   "original": "Art of Kurokumo",
   "translation": "黑云会的艺术",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "d2d051ef130b601a72ed73d059f9a84c",
+  "original": "As if to prove that size doesn't matter when it comes to force, the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
+  "translation": "As if to prove that size doesn't matter when it comes to force，the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
+  "context": "ID: ego_weapon_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_beak\n",
   "stage": 1
  },
  {
@@ -1166,10 +1575,31 @@
   "stage": 1
  },
  {
+  "key": "cff575512c38103f0a45e231c2c3e61e",
+  "original": "Beak",
+  "translation": "Beak",
+  "context": "ID: beak_ammo\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ammunition_type→beak_ammo\n",
+  "stage": 1
+ },
+ {
+  "key": "e74dbe2d5a3ae3ae772449d014f05bfa",
+  "original": "Beak bullet",
+  "translation": "Beak bullet",
+  "context": "ID: beak_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet\n",
+  "stage": 1
+ },
+ {
+  "key": "244617d751206eab176875af17dcea09",
+  "original": "Beak magazine",
+  "translation": "Beak magazine",
+  "context": "ID: beak_mag\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag\n",
+  "stage": 1
+ },
+ {
   "key": "88b1d0462737f6bc828350a5be5c8929",
   "original": "Better to finish it off before it become more dangerous problem",
   "translation": "最好在问题变得更危险之前把它解决掉",
-  "context": "ID: flex_supress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_supress\n",
+  "context": "ID: flex_suppress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_suppress\n",
   "stage": 1
  },
  {
@@ -1294,14 +1724,12 @@
   "key": "375e1aa852ca61e5fbc7f25c4c5e4337",
   "original": "But this will require a lot of effort",
   "translation": "但这需要付出大量努力",
-  "context": "ID: skin_down1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down1\n",
   "stage": 1
  },
  {
   "key": "47289def6502afbd36c1aabb67b9a23a",
   "original": "By wrapping the chain even tighter around your hand, you deliver a crushing blow at %s, putting all your inertia into it!",
   "translation": "将链条更紧地缠绕在你的手上，你对 %s 施加致命一击，将你所有的惯性都投入其中！",
-  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
   "stage": 1
  },
  {
@@ -1323,6 +1751,13 @@
   "original": "Can I live in dorm?",
   "translation": "我可以住在宿舍里吗？",
   "context": "ID: TALK_ZW_HELP_DORM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP_DORM\n",
+  "stage": 1
+ },
+ {
+  "key": "aa391c4d2cf97b73b0056226a03c7b4e",
+  "original": "Canceled value is: <context_val:canceled_str>",
+  "translation": "Canceled value is: <context_val:canceled_str>",
+  "context": "ID: canceled_str_msg\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→canceled_str_msg\n",
   "stage": 1
  },
  {
@@ -1350,7 +1785,6 @@
   "key": "269745dbb24cc5cfeaad8a18b867d529",
   "original": "Candle of prophet",
   "translation": "预言家的蜡烛",
-  "context": "ID: mon_candle_lit\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_candle_lit\n",
   "stage": 1
  },
  {
@@ -1364,7 +1798,6 @@
   "key": "9e50da76cdc73652d1ea651ff16d6f14",
   "original": "Chalange me, fools! I am here!\n\n+1 block attempt. Bonus block +150% of strength. -20 dodge",
   "translation": "挑战我啊，蠢货！我在这里！\n\n+1格挡次数。 额外格挡+150%力量 。  -20闪避",
-  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
@@ -1451,10 +1884,31 @@
   "stage": 1
  },
  {
+  "key": "a80989fb26fbb3792af7cd3b84f57b61",
+  "original": "Decrease sin or not",
+  "translation": "Decrease sin or not",
+  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
+  "stage": 1
+ },
+ {
   "key": "f66ef592477a306b6a195a2403b5936b",
   "original": "Did it worked?",
   "translation": "它起作用了吗？",
   "context": "ID: TALK_ZWEI_TEST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_TEST\n",
+  "stage": 1
+ },
+ {
+  "key": "952f8d52fbca6da722e72d520acd6edd",
+  "original": "Die",
+  "translation": "Die",
+  "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
+  "stage": 1
+ },
+ {
+  "key": "0e8d6a4f6ff2af9f2a8e8e6308b2184a",
+  "original": "Do they have a death wish?\n\n+30% of strength to block. +30% of Dexterity to dodge",
+  "translation": "Do they have a death wish?\n\n+30% of strength to block. +30% of Dexterity to dodge",
+  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
@@ -1514,6 +1968,20 @@
   "stage": 1
  },
  {
+  "key": "e2e3eec363a239b6e63d85a8d9af7803",
+  "original": "EGO Suit",
+  "translation": "EGO Suit",
+  "context": "ID: ego_suit\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit\n",
+  "stage": 1
+ },
+ {
+  "key": "5fd59210f8c0c4f04276fb78ea1125d4",
+  "original": "EGO Suits",
+  "translation": "EGO Suits",
+  "context": "ID: ego_suit\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit\n",
+  "stage": 1
+ },
+ {
   "key": "1fa40d7f66016fbbed4f13e053054fdf",
   "original": "EGO suitcase",
   "translation": "EGO 手提箱",
@@ -1545,14 +2013,27 @@
   "key": "27c2d670f4a3848ed77542a74e2be681",
   "original": "Excesive force",
   "translation": "过度使用武力",
-  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
   "stage": 0
+ },
+ {
+  "key": "d62e2d69c84f53fb11cefc9ba038ab5e",
+  "original": "Excessive force",
+  "translation": "Excessive force",
+  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
+  "stage": 1
  },
  {
   "key": "8f44785c8c19412c5b6611db30984514",
   "original": "Execution",
   "translation": "执行",
   "context": "ID: execution\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→execution\n",
+  "stage": 1
+ },
+ {
+  "key": "b25a94847174d8422493be0bb2b1d11f",
+  "original": "Experience the unrivaled refreshment of Wellcheers! Bursting with essential vitamins and crafted for ultimate hydration, this soda is your gateway to vitality. Each sip is like a cool ocean breeze, invigorating your senses with the sound of distant waves and the nostalgic scent of sea salt. It's pure, it's delightful, and there's absolutely nothing to worry about—just endless, refreshing pleasure in every can.",
+  "translation": "Experience the unrivaled refreshment of Wellcheers! Bursting with essential vitamins and crafted for ultimate hydration, this soda is your gateway to vitality. Each sip is like a cool ocean breeze, invigorating your senses with the sound of distant waves and the nostalgic scent of sea salt. It's pure, it's delightful, and there's absolutely nothing to worry about—just endless, refreshing pleasure in every can.",
+  "context": "ID: wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→COMESTIBLE→wellcheers\n",
   "stage": 1
  },
  {
@@ -1630,6 +2111,20 @@
   "original": "Eyes yellow",
   "translation": "黄瞳",
   "context": "ID: eye_yellow\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→eye_yellow\n",
+  "stage": 1
+ },
+ {
+  "key": "f89ad98a7a1d84e7d8e58dbef0422446",
+  "original": "Face scar",
+  "translation": "Face scar",
+  "context": "ID: skin_scar_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_face\n",
+  "stage": 1
+ },
+ {
+  "key": "11a0d29c673b7bb75c1aaf60627153de",
+  "original": "Face scars",
+  "translation": "Face scars",
+  "context": "ID: skin_scars_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scars_face\n",
   "stage": 1
  },
  {
@@ -1727,7 +2222,20 @@
   "key": "d07aa67f94cf40c651a2d1c248e75edb",
   "original": "Fast finishing attacks",
   "translation": "快速终结攻击",
+  "stage": 1
+ },
+ {
+  "key": "3171528e4e37916548b3e4f80b744fd3",
+  "original": "Fast finishing attacks on a downed enemy",
+  "translation": "Fast finishing attacks on a downed enemy",
   "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
+  "stage": 1
+ },
+ {
+  "key": "a5d321c669868a6f7b1636ab3a639044",
+  "original": "Fight me, fools! I'm right here!\n\n+1 block attempt. Bonus block +150% of strength. -20 dodge",
+  "translation": "Fight me, fools! I'm right here!\n\n+1 block attempt. Bonus block +150% of strength. -20 dodge",
+  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
@@ -1822,10 +2330,16 @@
   "stage": 1
  },
  {
+  "key": "40631ba173e492200a17420a4a8a5e39",
+  "original": "Flexible Suppression",
+  "translation": "Flexible Suppression",
+  "context": "ID: flex_suppress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_suppress\n",
+  "stage": 1
+ },
+ {
   "key": "bc5f562f0b1faa33ae5fefef9f3482bf",
   "original": "Flexible Supression",
   "translation": "灵活压制",
-  "context": "ID: flex_supress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_supress\n",
   "stage": 1
  },
  {
@@ -1895,7 +2409,6 @@
   "key": "3bba584f123591db899457acd6615662",
   "original": "Great and delicious Wellcheers! It quenches thirst wonderfully, is full of vitamins and is good for health! It never gets tired of drinking, and refreshes like a pleasant sea breeze. you can even hear the sound of waves when you drink this soda. There's definitely nothing to worry about.",
   "translation": "美味可口的韦尔奇乐汽水！它解渴效果极佳，富含维生素，有益健康！它百喝不厌，沁人心脾，就像一阵宜人的海风。绝对没有需要担心的地方。",
-  "context": "ID: grape_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→COMESTIBLE→grape_wellcheers\n",
   "stage": 1
  },
  {
@@ -2036,6 +2549,20 @@
   "original": "Hair: Yang (Short black hair)",
   "translation": "发型:楊(黑色短发)",
   "context": "ID: yang_hair\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→yang_hair\n",
+  "stage": 1
+ },
+ {
+  "key": "7729510d87e83839fbebb10da7fce72a",
+  "original": "Hands and face scars",
+  "translation": "Hands and face scars",
+  "context": "ID: skin_scar_hands_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_hands_face\n",
+  "stage": 1
+ },
+ {
+  "key": "f99752051f6ac7f43fa7b7b2f6cd941f",
+  "original": "Hands scars",
+  "translation": "Hands scars",
+  "context": "ID: skin_scar_hands\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_hands\n",
   "stage": 1
  },
  {
@@ -2230,14 +2757,12 @@
   "key": "1b0d887e55f4fe6199254a3a982d6e57",
   "original": "I could change the world with this",
   "translation": "我可以用它改变世界",
-  "context": "ID: skin_up2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up2\n",
   "stage": 1
  },
  {
   "key": "44cc13adf5e6388b37c13d7036c5bd95",
   "original": "I could correct all the mistakes that were made before me!",
   "translation": "我可以纠正我之前犯下的所有错误！",
-  "context": "ID: skin_up3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up3\n",
   "stage": 1
  },
  {
@@ -2276,10 +2801,16 @@
   "stage": 1
  },
  {
+  "key": "ffa8aa7584ca3b2c6b5f69799608d969",
+  "original": "I read the book... I saw the Truth... was it worth it?",
+  "translation": "I read the book... I saw the Truth... was it worth it?",
+  "context": "ID: morale_prophecy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what morale.json\n类型为 morale_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→morale_type→morale_prophecy\n",
+  "stage": 1
+ },
+ {
   "key": "a69ce0870103886e4e31f05c05f3cd1b",
   "original": "I readed that book... was it worth it?",
   "translation": "我读过那本书......它值得吗？",
-  "context": "ID: morale_prophecy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what morale.json\n类型为 morale_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→morale_type→morale_prophecy\n",
   "stage": 1
  },
  {
@@ -2314,7 +2845,6 @@
   "key": "7e9d252bd014ef8cfb4acacd05c03edf",
   "original": "I'm just an observer, and I feel like guilt is eating me up from inside",
   "translation": "我只是一个旁观者，我感觉内疚从内心深处吞噬着我",
-  "context": "ID: skin_down3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down3\n",
   "stage": 1
  },
  {
@@ -2360,6 +2890,13 @@
   "stage": 1
  },
  {
+  "key": "cf733894ae45e5fd577f9be8c2b4c41b",
+  "original": "If it doesn't hit, then it doesn't hurt\n\n Armour penetration increached by 25% of dexteity. +1 evade attempt",
+  "translation": "If it doesn't hit, then it doesn't hurt\n\n Armour penetration increached by 25% of dexteity. +1 evade attempt",
+  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
   "key": "283c62de14846bc6a307c05e646d0bfd",
   "original": "If our man failed there, then apparently its really dangerous there. Gather a team or prepare the necessary equipment, anything can happen",
   "translation": "If our man failed there, then apparently its really dangerous there. Gather a team or prepare the necessary equipment, anything can happen",
@@ -2370,14 +2907,19 @@
   "key": "9bb786c8fbfa91d4bed8779e123806ad",
   "original": "If they cannot hit you, they cannot kill you\n\n Armour penetration increached by 25% of dexteity. +1 evade attempt",
   "translation": "如果他们无法命中你，就无法杀死你\n\n 装甲穿透力增加 25%。闪避次数+1",
-  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "55432aee127bfefbac70074bba6158c4",
+  "original": "If you can deflect this, you can deflect anything.\n\nIncreases armor penetration by 15% of your strength, block skill by 30% of your strength, and grants +1 block attempt. Can stack up to 4 times.",
+  "translation": "If you can deflect this, you can deflect anything.\n\nIncreases armor penetration by 15% of your strength, block skill by 30% of your strength, and grants +1 block attempt. Can stack up to 4 times.",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
   "key": "a7cfde38687cbcbc83d411a97e2e01cc",
   "original": "If you managed deflect this, you will manage to deflect everything. \n\n Armour penetration increached by 15% of strength, block skill +30% of your strength, +1 block attempt. Up to 4 stacks",
   "translation": "如果你能抵挡住这一击，你就能抵挡住一切。\n\n 护甲穿透力增加 15%力量，格挡技能 +30%力量，格挡次数 +1。最多叠加 4 次",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -2391,21 +2933,39 @@
   "key": "065ed2cd28b5c7bd5c754494518bd7ae",
   "original": "In the shrouded haze \nSteel carves its deadly path \nSilent vengeance calls. \n\n Your speed increaches by 75% of your agillity. Up to 3 stacks",
   "translation": "在笼罩的阴霾中 \n钢铁划出致命的轨迹 \n呼唤着无声的复仇\n\n 你的速度提高 75%。最多可叠加 3 次",
+  "stage": 1
+ },
+ {
+  "key": "fff704a52373a2a6c5d5679bfbf49f9e",
+  "original": "In the shrouded haze, \nSteel shall carve its deadly path, \nSilent vengeance calls. \n\nYour speed increases by 75% of your agility. Can stack up to 3 times",
+  "translation": "In the shrouded haze, \nSteel shall carve its deadly path, \nSilent vengeance calls. \n\nYour speed increases by 75% of your agility. Can stack up to 3 times",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "01da0712d3139d25bdeddbabb1719a20",
+  "original": "In the toughest of fights, hope will come.",
+  "translation": "In the toughest of fights, hope will come.",
+  "context": "ID: standoff\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→standoff\n",
   "stage": 1
  },
  {
   "key": "c7aacc62554da51b50739bdbecb1015e",
   "original": "In thougest fights a hope will born.",
   "translation": "在最惨烈的战斗中，希望会诞生。",
-  "context": "ID: standoff\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→standoff\n",
   "stage": 1
  },
  {
   "key": "a3e602b99a2c2122985ad6f117f2e317",
   "original": "In trouble seeking mode \n\nBlock -20. +1 dodge attempt. -20 block. +60% of agillity to dodge",
   "translation": "寻求麻烦模式 \n\nBlock -20. +1 闪避次数. -20 格挡. +60% of 敏捷 to 闪避",
-  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "33fe9f6f183025f6529192861781a451",
+  "original": "Increase sin or not",
+  "translation": "Increase sin or not",
+  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
   "stage": 1
  },
  {
@@ -2413,6 +2973,13 @@
   "original": "Incredibly beautiful and expensive black silk.",
   "translation": "Incredibly beautiful and expensive black silk.",
   "context": "ID: b_silk_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_silk_item\n",
+  "stage": 1
+ },
+ {
+  "key": "974fff004b29735d46b44f1cd74def73",
+  "original": "Indulge in the rich, bold taste of Wellcheers Grape, a symphony of juicy grape goodness combined with the iconic refreshment of Wellcheers. Infused with vitamins and overflowing with robust flavor, this soda is your ticket to a grape-infused paradise. As you drink, the whispers of a vineyard breeze accompany each gulp, filling you with strength and delight. Relax, enjoy, and remember—there’s absolutely nothing suspicious about this extraordinary flavor.",
+  "translation": "Indulge in the rich, bold taste of Wellcheers Grape, a symphony of juicy grape goodness combined with the iconic refreshment of Wellcheers. Infused with vitamins and overflowing with robust flavor, this soda is your ticket to a grape-infused paradise. As you drink, the whispers of a vineyard breeze accompany each gulp, filling you with strength and delight. Relax, enjoy, and remember—there’s absolutely nothing suspicious about this extraordinary flavor.",
+  "context": "ID: grape_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→COMESTIBLE→grape_wellcheers\n",
   "stage": 1
  },
  {
@@ -2430,10 +2997,16 @@
   "stage": 1
  },
  {
+  "key": "1a23c2a26968b4a7930c7f005e77f3f6",
+  "original": "Inhale. Exhale. Deflect.\n\n+1 accuracy, block skill increased by 50% of strength.\n-1 Dodge attempts\nLasts 2 turns. Max 2 stacks",
+  "translation": "Inhale. Exhale. Deflect.\n\n+1 accuracy, block skill increased by 50% of strength.\n-1 Dodge attempts\nLasts 2 turns. Max 2 stacks",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
   "key": "746c444a5efb496b90f1f3447fa0bdc2",
   "original": "Inhale. Exhale. Deflect.\n\n+1 accuracy, block skill increased by 50% of strength.\nLasts 2 turns. Max 2 stacks",
   "translation": "吸气。呼气。偏转。\n\n+1命中, 格挡技能强度增加50%力量.\n持续 2 个回合。最多叠加 2 次",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -2492,6 +3065,13 @@
   "stage": 1
  },
  {
+  "key": "16661311ae9005c8e9100c44548b1b57",
+  "original": "It's sleek without a dent. The suit was originally very small, barely wearable by a child. As more blood stains the armor, the chestplate writhes subtly as if it were alive.",
+  "translation": "It's sleek without a dent. The suit was originally very small，barely wearable by a child. As more blood stains the armor，the chestplate writhes subtly as if it were alive.",
+  "context": "ID: ego_suit_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_beak\n",
+  "stage": 1
+ },
+ {
   "key": "c8157e48005ea51469b72a5e1d62cec9",
   "original": "Jikan",
   "translation": "基坎",
@@ -2509,7 +3089,6 @@
   "key": "d9847d38cb05ddffc207250c9b0dea29",
   "original": "Just a bunch of symbols. Seems like it doesnt make any sense... try to come closer to inspect!",
   "translation": "只是一堆符号。似乎没有任何意义......试着仔细观察！",
-  "context": "ID: mon_fire_sphere_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_fire_sphere_1\n",
   "stage": 1
  },
  {
@@ -2571,7 +3150,6 @@
   "key": "53e93d055449f9169d3b7fcef958a4f8",
   "original": "Knowledge about this can be useful...",
   "translation": "这方面的知识可能会很有用...",
-  "context": "ID: skin_up1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_up1\n",
   "stage": 1
  },
  {
@@ -2783,6 +3361,13 @@
   "stage": 1
  },
  {
+  "key": "cb1a9fd450bf83ef7409449eb1a045ba",
+  "original": "Lets fucking go",
+  "translation": "Lets fucking go",
+  "context": "ID: practice_pm_test_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→practice_pm_test_selector\n",
+  "stage": 1
+ },
+ {
   "key": "c925584deb896ce6d1b135d1240f415b",
   "original": "Light Heal",
   "translation": "轻度治愈",
@@ -2856,6 +3441,12 @@
   "key": "a37c96733f707ae62b455e399fd4df10",
   "original": "Like a hot knife through butter\n<color_red>*sound of broken bones and flesh tired apart*</color> ",
   "translation": "就像一把热刀穿过黄油\n<color_red>*骨头断裂和血肉分离的声音*</color> ",
+  "stage": 1
+ },
+ {
+  "key": "a80c1681d64666fa0f1fe94c5df4927e",
+  "original": "Like a hot knife through butter\n<color_red>You feel their flesh rip and their bones break</color> ",
+  "translation": "Like a hot knife through butter\n<color_red>You feel their flesh rip and their bones break</color> ",
   "context": "ID: zw_mastery\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→zw_mastery\n",
   "stage": 1
  },
@@ -2975,7 +3566,6 @@
   "key": "3381c4dd6a94b0bfac0197698e857b33",
   "original": "Looks like construct of flesh and bones. Definetly ominous",
   "translation": "看起来像是由血肉和骨头构成的。绝对是不祥之兆",
-  "context": "ID: f_flesh_pedestal\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→furniture→f_flesh_pedestal\n",
   "stage": 1
  },
  {
@@ -3143,7 +3733,34 @@
   "key": "1a6d74dfe4ca2700196ce313fee0d245",
   "original": "Now Die",
   "translation": "送你上路",
-  "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
+  "stage": 1
+ },
+ {
+  "key": "dbe2ae6ec28af5a56deaab42cc2ff3c9",
+  "original": "O-02-56 Document",
+  "translation": "O-02-56 Document",
+  "context": "ID: p_bird_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_bird_book\n",
+  "stage": 1
+ },
+ {
+  "key": "d86f3476cbe69b7510c526108469b70e",
+  "original": "O-02-56 EGO Beak armor research notes",
+  "translation": "O-02-56 EGO Beak armor research notes",
+  "context": "ID: beak_ego_a_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_a_note_3\n",
+  "stage": 1
+ },
+ {
+  "key": "8dbd4b1c050effa4c255b53449fef44d",
+  "original": "O-02-56 EGO Beak gift research notes",
+  "translation": "O-02-56 EGO Beak gift research notes",
+  "context": "ID: beak_ego_g_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_g_note_3\n",
+  "stage": 1
+ },
+ {
+  "key": "78dc08baf9932624666940ec196f4d41",
+  "original": "O-02-56 EGO Beak weapon research notes",
+  "translation": "O-02-56 EGO Beak weapon research notes",
+  "context": "ID: beak_ego_w_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_w_note_3\n",
   "stage": 1
  },
  {
@@ -3206,6 +3823,12 @@
   "key": "1112d02bb65591d740aafaa4fe09c122",
   "original": "Patroling",
   "translation": "地区巡查",
+  "stage": 1
+ },
+ {
+  "key": "a97f35cf92005d4f3a99bb9c18992e6f",
+  "original": "Patrolling",
+  "translation": "Patrolling",
   "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
@@ -3255,14 +3878,12 @@
   "key": "490b61bb3b5854fbcbf08dadba64c70f",
   "original": "Pinkish book, which seems to be made from human remains, specially skin, bones and other tissues. The open book has bloody marks and contain runic symbols on the pages.",
   "translation": "粉红色的书，似乎是用人类遗骸制成的，特别是皮肤、骨头和其他组织。打开的书页上有血迹和符文符号。",
-  "context": "ID: skin_prophecy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→skin_prophecy\n",
   "stage": 1
  },
  {
   "key": "cf79148d4d03e51b0ef2c4ac13d6bd5f",
   "original": "Pinkish book, which seems to be made from human remains, specially skin, bones and other tissues. The open book has bloody marks and contain runic symbols on the pages. Now it pulsating with energy.",
   "translation": "粉红色的书，似乎是用人类遗骸制成的，特别是皮肤、骨头和其他组织。打开的书页上有血迹和符文符号。现在，它正跃动着能量。",
-  "context": "ID: skin_prophecy_evoked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→skin_prophecy_evoked\n",
   "stage": 1
  },
  {
@@ -3276,7 +3897,6 @@
   "key": "40ec41fac641e363e4654d28ea1eb4ae",
   "original": "Powerful diagonal attack",
   "translation": "强力的斜向攻击",
-  "context": "ID: kr_sky2\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky2\n",
   "stage": 1
  },
  {
@@ -3290,7 +3910,6 @@
   "key": "8bcf61503800774cbb27b660706fd0a5",
   "original": "Powerful upward attack",
   "translation": "强大的向上攻击",
-  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
   "stage": 1
  },
  {
@@ -3357,10 +3976,24 @@
   "stage": 1
  },
  {
-  "key": "d988d1c644839e44e443d82394765ad0",
-  "original": "Reach source of misterious broadcast",
-  "translation": "Reach source of misterious broadcast",
-  "context": "ID: MISSION_REACH_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_REACH_ZWEI\n",
+  "key": "2becc93c2240ee333afae32df739f730",
+  "original": "Quick attack",
+  "translation": "Quick attack",
+  "context": "ID: kr_hack\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_hack\n",
+  "stage": 1
+ },
+ {
+  "key": "b08d82db5de5939ca5861f27cfbdaea7",
+  "original": "Reach the source of the mysterious broadcast",
+  "translation": "Reach the source of the mysterious broadcast",
+  "context": "ID: MISSION_REACH_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/Other.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→MISSION_REACH_ZWEI\n",
+  "stage": 1
+ },
+ {
+  "key": "0b4935f481985826fdf47a95b928ad74",
+  "original": "Read about TETH abnos.",
+  "translation": "Read about TETH abnos.",
+  "context": "ID: prac_abno_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/recipes.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→practice→prac_abno_teth\n",
   "stage": 1
  },
  {
@@ -3368,6 +4001,20 @@
   "original": "Red electricity",
   "translation": "红色伤害",
   "context": "ID: red_elec\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→red_elec\n",
+  "stage": 1
+ },
+ {
+  "key": "76d47f6922318b93e8683c9708b32f21",
+  "original": "Research of Beak EGO",
+  "translation": "Research of Beak EGO",
+  "context": "ID: beak_study_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→beak_study_selector\n",
+  "stage": 1
+ },
+ {
+  "key": "1eaee7bd2206c0e402c91c3d97ec5bdc",
+  "original": "Research the Extracted EGO \"Beak\" and explore its secrets and potential applications.",
+  "translation": "Research the Extracted EGO \"Beak\" and explore its secrets and potential applications.",
+  "context": "ID: beak_study_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→beak_study_selector\n",
   "stage": 1
  },
  {
@@ -3434,6 +4081,20 @@
   "stage": 1
  },
  {
+  "key": "28f2143065b53f61b99a70917eb4f9ec",
+  "original": "SINER!",
+  "translation": "SINER!",
+  "context": "ID: increase_sin\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→increase_sin\n",
+  "stage": 1
+ },
+ {
+  "key": "f714821b41f68c3d2c79b061983ce36a",
+  "original": "Savor the tantalizing taste of Wellcheers Cherry, where the sweet and tangy essence of ripe cherries meets the legendary refreshment of Wellcheers. Packed with vitamins and bursting with flavor, it's more than just a drink—it's a juicy escape. With every sip, feel the thrill of cherry waves washing over you, leaving you rejuvenated and craving more. And don't worry, it's all perfectly safe... probably.",
+  "translation": "Savor the tantalizing taste of Wellcheers Cherry, where the sweet and tangy essence of ripe cherries meets the legendary refreshment of Wellcheers. Packed with vitamins and bursting with flavor, it's more than just a drink—it's a juicy escape. With every sip, feel the thrill of cherry waves washing over you, leaving you rejuvenated and craving more. And don't worry, it's all perfectly safe... probably.",
+  "context": "ID: cherry_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→COMESTIBLE→cherry_wellcheers\n",
+  "stage": 1
+ },
+ {
   "key": "6413f966377526ba85ec57b1ad748901",
   "original": "Sayo",
   "translation": "紗世",
@@ -3466,6 +4127,13 @@
   "original": "Scientist",
   "translation": "Scientist",
   "context": "ID: NC_LC_SCIENTIST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_SCIENTIST\n",
+  "stage": 1
+ },
+ {
+  "key": "3f960275119963444b842d9be8206d2b",
+  "original": "Seeking Trouble \n\nBlock -20. +1 dodge attempt. +60% of Agility to dodge",
+  "translation": "Seeking Trouble \n\nBlock -20. +1 dodge attempt. +60% of Agility to dodge",
+  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
@@ -3504,6 +4172,20 @@
   "stage": 1
  },
  {
+  "key": "2367fb660beb8aa0e9ea8d601cb52893",
+  "original": "Sin Strike",
+  "translation": "Sin Strike",
+  "context": "ID: sin_strike\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→sin_strike\n",
+  "stage": 1
+ },
+ {
+  "key": "bb47a88992f3d3115c69dc557a648290",
+  "original": "Sins",
+  "translation": "Sins",
+  "context": "ID: SIN\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 vitamin\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→vitamin→SIN\n",
+  "stage": 1
+ },
+ {
   "key": "22f6720633cdfa6a6abf24e28c4fa951",
   "original": "Skin Book",
   "translation": "人皮书",
@@ -3514,7 +4196,7 @@
   "key": "1becbd8c2cdcf6d52d27af5b76d61be6",
   "original": "Skin book eff",
   "translation": "皮肤之书效果",
-  "context": "ID: p_marked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_marked\n",
+  "context": "ID: skin_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→skin_book\n",
   "stage": 0
  },
  {
@@ -3535,7 +4217,6 @@
   "key": "bd84ecf566af636a509803260fb265a3",
   "original": "Small, white-feathered bird with small wings and a red mark on its chest.",
   "translation": "白色羽毛的小鸟，翅膀短小，胸前有一块红色标记。",
-  "context": "ID: mon_birb\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/How.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_birb\n",
   "stage": 1
  },
  {
@@ -3556,7 +4237,6 @@
   "key": "67a92da1d15b6de702d8a155cc9d656c",
   "original": "So... thats true",
   "translation": "所以……那是真的",
-  "context": "ID: skin_book_eoc\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_book_eoc\n",
   "stage": 1
  },
  {
@@ -3604,7 +4284,6 @@
   "key": "207208d7ce3d0b2bed82250d255815c8",
   "original": "Spawns a golden monolith.",
   "translation": "召唤黄金巨石。",
-  "context": "ID: death_yrax_sphenocorona2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/SomethingLikeThis.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_yrax_sphenocorona2\n",
   "stage": 1
  },
  {
@@ -3632,7 +4311,6 @@
   "key": "2e61ec6fdb14b3dea34d13dedee58072",
   "original": "Sphenocorona Death?",
   "translation": "死亡菱冠病毒？",
-  "context": "ID: death_yrax_sphenocorona2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/SomethingLikeThis.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_yrax_sphenocorona2\n",
   "stage": 0
  },
  {
@@ -3702,7 +4380,27 @@
   "key": "bb58c1d02a550d939b062f870bb78a05",
   "original": "Stun 1 turns",
   "translation": "击晕1回合",
+  "stage": 1
+ },
+ {
+  "key": "6101a18a17e076c16d81a024db3880dd",
+  "original": "Stun for 1 turn",
+  "translation": "Stun for 1 turn",
   "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
+  "stage": 1
+ },
+ {
+  "key": "77e00d752c1de6bbbeaaea95a108061f",
+  "original": "Stuns for 1 turn and breaks grab",
+  "translation": "Stuns for 1 turn and breaks grab",
+  "context": "ID: rc_flank\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_flank\n",
+  "stage": 1
+ },
+ {
+  "key": "9c034cb3b694eb1cbd2b3f81032c7cd3",
+  "original": "Stuns, knockback, and downs the enemy",
+  "translation": "Stuns, knockback, and downs the enemy",
+  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
   "stage": 1
  },
  {
@@ -3748,17 +4446,29 @@
   "stage": 1
  },
  {
+  "key": "d4f2b279a15d88a699f069b63c7a1a84",
+  "original": "Summon a calm Punishing Bird",
+  "translation": "Summon a calm Punishing Bird",
+  "context": "ID: punished\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→punished\n",
+  "stage": 1
+ },
+ {
+  "key": "c08b69115fbefc98eb2517f58573d791",
+  "original": "Summon an enraged Punishing Bird",
+  "translation": "Summon an enraged Punishing Bird",
+  "context": "ID: enrage\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→enrage\n",
+  "stage": 1
+ },
+ {
   "key": "cf3cc5d383d74ea6628a533dcbace9e5",
   "original": "Summon calmed Punishing Bird",
   "translation": "召唤平静的惩戒鸟",
-  "context": "ID: punished\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→punished\n",
   "stage": 1
  },
  {
   "key": "344b9be96f2bc52e244974f7e5e9df4a",
   "original": "Summon enraged Punishing Bird",
   "translation": "召唤愤怒的惩戒之鸟",
-  "context": "ID: enrage\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→enrage\n",
   "stage": 0
  },
  {
@@ -3781,6 +4491,27 @@
   "translation": "测试私人信息",
   "context": "ID: mon_test_pm\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/HumansOrAlmostHumans.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_test_pm\n",
   "stage": 0
+ },
+ {
+  "key": "28958842e5e431dc51b337d95f8aa606",
+  "original": "TEST document",
+  "translation": "TEST document",
+  "context": "ID: test_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→test_book\n",
+  "stage": 1
+ },
+ {
+  "key": "ff6ac2a45c7e06eb40a081baf125fce9",
+  "original": "TEST of O-02-56 document",
+  "translation": "TEST of O-02-56 document",
+  "context": "ID: test_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→test_book\n",
+  "stage": 1
+ },
+ {
+  "key": "0b199736c5a309b5bc0441f1f000f780",
+  "original": "TETH",
+  "translation": "TETH",
+  "context": "ID: prac_abno_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/recipes.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→practice→prac_abno_teth\n",
+  "stage": 1
  },
  {
   "key": "135270f095eb26685250967e98f532b5",
@@ -3832,6 +4563,20 @@
   "stage": 0
  },
  {
+  "key": "716b022252e852b30f627982989a723f",
+  "original": "Testie",
+  "translation": "Testie",
+  "context": "ID: pm_test_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→pm_test_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "716c0901e81e113d2093bf724ea6e1f3",
+  "original": "Testing guy",
+  "translation": "Testing guy",
+  "context": "ID: NC_TEST_PM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_TEST_PM\n",
+  "stage": 1
+ },
+ {
   "key": "920ea0232ec5992bbadd3aa1f0507833",
   "original": "Thank you. But the book seems useless in this situation. Well, here you go, it's a reward for your efforts.",
   "translation": "Thank you. But the book seems useless in this situation. Well, here you go, it's a reward for your efforts.",
@@ -3843,6 +4588,13 @@
   "original": "Thanks for the information, bye",
   "translation": "谢谢你提供的信息，再见",
   "context": "ID: TALK_ZW_HELP2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP2\n",
+  "stage": 1
+ },
+ {
+  "key": "b63e17b5effd1681c5bcebeaafcdcae9",
+  "original": "That human is no more",
+  "translation": "That human is no more",
+  "context": "ID: p_gaze\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→p_gaze\n",
   "stage": 1
  },
  {
@@ -3944,6 +4696,20 @@
   "stage": 1
  },
  {
+  "key": "89303ee188efdd5e1aa18324bd98cd82",
+  "original": "The Candle of the Prophet. It is lit, burning down the future.",
+  "translation": "The Candle of the Prophet. It is lit, burning down the future.",
+  "context": "ID: mon_candle_lit\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_candle_lit\n",
+  "stage": 1
+ },
+ {
+  "key": "9073193d9a4f2d1577820ed282fea10e",
+  "original": "The Candle of the Prophet. It is unlit, thanks to your efforts.",
+  "translation": "The Candle of the Prophet. It is unlit, thanks to your efforts.",
+  "context": "ID: mon_candle\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_candle\n",
+  "stage": 1
+ },
+ {
   "key": "5f5936e53cb6e56772c083a4194c4743",
   "original": "The Kurokumo clan, ruthless thugs who can take your life with one move. Similar to the Yakuza, they live by collecting protection money. Elegant appearance, not elegant methods of execution.",
   "translation": "黑云会是残忍的暴徒，一招就能要了你的命。与山口组类似，他们以收取保护费为生。外表高雅，行刑手段却不高雅。",
@@ -3961,6 +4727,12 @@
   "key": "3eaa1d95d2c461f5ac1a0e5e76e3aecf",
   "original": "The Skin Prophet is a maroon, emaciated humanoid with a bony body, a long spine, and a lumpy base instead of legs. It has three heads on long necks, each with a large, glowing orange eye with a red slit pupil. It has two arms holding a large book and a third arm with a fiery quill, constantly writing illegible glyphs described as future prophecies in the book.",
   "translation": "人皮预言者是一个褐红色、憔悴的人形生物，它的身体骨瘦如柴，脊柱很长，腿部是块状底座。它有三个长在脖子上的头，每个头上都有一只闪着橙色光芒的大眼睛，瞳孔是红色的。它的两只手臂拿着一本大书，第三只手臂拿着一根火红色的羽毛笔，不停地在书上书写着难以辨认的字形，这些字形被描述为未来的预言。",
+  "stage": 1
+ },
+ {
+  "key": "60b833c51e7a2bab0abd6ff11fe25045",
+  "original": "The Skin Prophet is a maroon, emaciated humanoid with a bony body, a long spine, and a lumpy base instead of legs. It has three heads on long necks, each with a large, glowing orange eye with a red slit pupil. It has two arms holding a large book and a third arm with a fiery quill, constantly writing illegible glyphs. You feel as if the Prophet is writing down the future.",
+  "translation": "The Skin Prophet is a maroon，emaciated humanoid with a bony body，a long spine，and a lumpy base instead of legs. It has three heads on long necks，each with a large，glowing orange eye with a red slit pupil. It has two arms holding a large book and a third arm with a fiery quill，constantly writing illegible glyphs. You feel as if the Prophet is writing down the future.",
   "context": "ID: mon_prophet_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet_2\n",
   "stage": 1
  },
@@ -3969,6 +4741,27 @@
   "original": "The Zwei Association, they take orders from ordinary people and carry them out, mainly specialize in protecting the client and accompanying him. Despite the fact that they are dressed in ordinary office clothes and are very good at wielding swords, sometimes the size of their swords is simply enormous, and they have no problem wielding them with dexterity and skill. The main sign is a blue jacket or raincoat with two yellow stripes at the bottom.\n\nZwei Association - your shield",
   "translation": "Zwei协会，他们接受普通人的委托并付诸行动,主要负责陪同并保护客户。 尽管他们身着普通的办公室服装，而且非常擅长挥剑、 有时，他们的剑的尺寸简直大的惊人, 而且他们仍然可以灵活熟练地使用它们。主要标志是一件蓝色外套或雨衣，底部有两条黄色条纹。\n\nZwei协会 - 您的盾牌",
   "context": "ID: zwei_association\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→zwei_association\n",
+  "stage": 1
+ },
+ {
+  "key": "e26fdd11cb941d5f54d2012c1d6fa29a",
+  "original": "The air fluctates near this glyph. Maybe you shouldn't be near? ",
+  "translation": "The air fluctates near this glyph. Maybe you shouldn't be near? ",
+  "context": "ID: mon_scatter_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_scatter_v1\n",
+  "stage": 1
+ },
+ {
+  "key": "3289eca25483173c636cacbd318bb483",
+  "original": "The bullet's surface is covered with numerous spikes resembling small fangs, so it can inflict quite a lot of pain when it penetrates an enemy.",
+  "translation": "The bullet's surface is covered with numerous spikes resembling small fangs，so it can inflict quite a lot of pain when it penetrates an enemy.",
+  "context": "ID: beak_bullet_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet_red\n",
+  "stage": 1
+ },
+ {
+  "key": "bc3942c73066d9a1abaf37cce2cd36e9",
+  "original": "The bullet's surface is covered with numerous spikes resembling small teeth, so it can inflict quite a bit of pain when it penetrates an enemy.",
+  "translation": "The bullet's surface is covered with numerous spikes resembling small teeth，so it can inflict quite a bit of pain when it penetrates an enemy.",
+  "context": "ID: beak_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet\n",
   "stage": 1
  },
  {
@@ -3982,6 +4775,12 @@
   "key": "0d67101c03f52c0d19f84065036d074d",
   "original": "The feather of a Punishing Bird. It's small but quite sharp enough to cut yourself. Holding it in your hands, you feel the weight of your sins",
   "translation": "惩戒鸟的羽毛。它很小，但锋利得足以割伤你自己。将它握在手中，你会感到自己罪孽的沉重。",
+  "stage": 1
+ },
+ {
+  "key": "9b3a8d0628f1e15b4413198562266280",
+  "original": "The feather of the Punishing Bird. Small, but sharp enough to cut yourself. Holding it in your hands, you feel your sins crawling on your back",
+  "translation": "The feather of the Punishing Bird. Small, but sharp enough to cut yourself. Holding it in your hands, you feel your sins crawling on your back",
   "context": "ID: punishing_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_feather\n",
   "stage": 1
  },
@@ -4010,6 +4809,12 @@
   "key": "427493bff2234f51601aab9decb4cbbd",
   "original": "The red feather of a Punishing Bird. It's small but realy sharp enough to cut yourself. Holding it in your hands, you feel the weight of other people's sins",
   "translation": "惩戒鸟的红色羽毛。它很小，但锋利得足以割伤你自己。握在手中，你能感受到他人罪恶的重量。",
+  "stage": 1
+ },
+ {
+  "key": "4bd2829257df5082297e5d50966fa26d",
+  "original": "The red feather of the Punishing Bird. Small, but sharp enough to cut yourself. As you hold it in your hands, you feel the sins of those around you",
+  "translation": "The red feather of the Punishing Bird. Small, but sharp enough to cut yourself. As you hold it in your hands, you feel the sins of those around you",
   "context": "ID: punishing_red_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_red_feather\n",
   "stage": 1
  },
@@ -4024,6 +4829,12 @@
   "key": "9064eb33ab1c6343f4a681dd5484a673",
   "original": "The tension in the air eased",
   "translation": "空气中的紧张气氛有所缓解",
+  "stage": 1
+ },
+ {
+  "key": "9cdbe7429cc78992d6199d581a924618",
+  "original": "The tension in the air fades away",
+  "translation": "The tension in the air fades away",
   "context": "ID: marked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→marked\n",
   "stage": 1
  },
@@ -4049,17 +4860,64 @@
   "stage": 1
  },
  {
+  "key": "0e8ade569b4199f52dab940cd1182c00",
+  "original": "These are the results of your research on O-02-56, detailing the features of the EGO armor.",
+  "translation": "These are the results of your research on O-02-56，detailing the features of the EGO armor.",
+  "context": "ID: beak_ego_a_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_a_note_3\n",
+  "stage": 1
+ },
+ {
+  "key": "ed46dea98e17451102e3cc9ca4517616",
+  "original": "These are the results of your research on O-02-56, detailing the features of the EGO gift.",
+  "translation": "These are the results of your research on O-02-56，detailing the features of the EGO gift.",
+  "context": "ID: beak_ego_g_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_g_note_3\n",
+  "stage": 1
+ },
+ {
+  "key": "8883081c1661e673270e012215131766",
+  "original": "These are the results of your research on O-02-56, detailing the features of the EGO weapon.",
+  "translation": "These are the results of your research on O-02-56，detailing the features of the EGO weapon.",
+  "context": "ID: beak_ego_w_note_3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→beak_ego_w_note_3\n",
+  "stage": 1
+ },
+ {
+  "key": "d35c3c899cb05d3ace86949aba7cc12b",
+  "original": "They had a chance to kill you. They failed. Now it's your turn\n\n Armour penetration increased by 15% of strength. +1 block attempt",
+  "translation": "They had a chance to kill you. They failed. Now it's your turn\n\n Armour penetration increased by 15% of strength. +1 block attempt",
+  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
   "key": "b68fa5cafedd5a8998a100ffb14a4bbd",
   "original": "They had oportunity to kill you. They messed it up. Your turn\n\n Armour penetration increached by 15% of strength. +1 block attempt",
   "translation": "他们本有机会杀死你。不过他们搞砸了。接下来是你的回合\n\n护甲穿透力提高 15%力量。 +1格挡次数",
-  "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
  {
   "key": "733efab21b3eb4b41b42253f13a7eba2",
   "original": "This creature has the appearance of a large gray wolf with a slender body and limbs, and a bushy mane and tail. Three wolf heads can be seen attached to front. They each possess a crooked snout lined with sharp teeth, and a equally crooked long, thin tongue.",
   "translation": "这只生物看起来像一只大型灰狼，身体和四肢细长，鬃毛和尾巴茂密。它的前部有三个狼头。它们各有一个弯曲的鼻子，上面长满了锋利的牙齿，还有一条同样弯曲的细长舌头。",
+  "stage": 1
+ },
+ {
+  "key": "93b3d5127d2aed3e9925ed4c9a43378f",
+  "original": "This creature has the appearance of a large gray wolf with a slender body and limbs, and a bushy mane and tail. Three wolf heads can be seen attached to front. They each possess a crooked snout lined with sharp teeth, and a equally crooked long, thin tongue. A charred figure of a man is seen resting atop the wolf heads, covered in barbed wire. There are also four bloodied telephone poles staked into the creature's back that are connected together by slack power lines.",
+  "translation": "This creature has the appearance of a large gray wolf with a slender body and limbs，and a bushy mane and tail. Three wolf heads can be seen attached to front. They each possess a crooked snout lined with sharp teeth，and a equally crooked long，thin tongue. A charred figure of a man is seen resting atop the wolf heads，covered in barbed wire. There are also four bloodied telephone poles staked into the creature's back that are connected together by slack power lines.",
   "context": "ID: mon_watchdog_second_phase\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_second_phase\n",
+  "stage": 1
+ },
+ {
+  "key": "7f93e181518bdf2e1d988e51d0f7d375",
+  "original": "This creature has the appearance of a large gray wolf with a slender body and limbs, and a bushy mane and tail. Three wolf heads can be seen attached to front. They each possess a crooked snout lined with sharp teeth, and a equally crooked long, thin tongue. A charred figure of a man is seen resting atop the wolf heads, covered in barbed wire. There are also four bloodied telephone poles staked into the creature's back that are connected together by slack power lines.\n\nIt looks like it's sleeping, judging by the snores you can barely hear.",
+  "translation": "This creature has the appearance of a large gray wolf with a slender body and limbs, and a bushy mane and tail. Three wolf heads can be seen attached to front. They each possess a crooked snout lined with sharp teeth, and a equally crooked long, thin tongue. A charred figure of a man is seen resting atop the wolf heads, covered in barbed wire. There are also four bloodied telephone poles staked into the creature's back that are connected together by slack power lines.\n\nIt looks like it's sleeping, judging by the snores you can barely hear.",
+  "context": "ID: mon_watchdog_initial\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_initial\n",
+  "stage": 1
+ },
+ {
+  "key": "730b7c768eff402cd5533802916bee86",
+  "original": "This doctrine outlines the techniques for defending both yourself and your client with a zweihander sword.",
+  "translation": "This doctrine outlines the techniques for defending both yourself and your client with a zweihander sword.",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -4073,7 +4931,6 @@
   "key": "dec46ca1667ff4613b3e622448a91773",
   "original": "This grotesque creature has the shape of a human body but the head of a shrimp, the whole body is covered with orange chitin and approaching you it makes wave movements with its hands",
   "translation": "这种怪异的生物有着人类的身体和虾的头部，全身覆盖着橙色的甲壳素，在向你靠近时，它会挥舞它的双手。",
-  "context": "ID: mon_wellcheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/FunnyShrimps.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_wellcheers\n",
   "stage": 1
  },
  {
@@ -4111,9 +4968,36 @@
   "stage": 1
  },
  {
+  "key": "f3ce4761884f921a932cfcf674bfb008",
+  "original": "Those who open the book will be enlightened to unimaginable truths. The ones who have mastered the truths will be called by the prophets; this call cannot be denied.\n\nSave us now and forevermore. The truth shall set us free.",
+  "translation": "Those who open the book will be enlightened to unimaginable truths. The ones who have mastered the truths will be called by the prophets; this call cannot be denied.\n\nSave us now and forevermore. The truth shall set us free.",
+  "context": "ID: skin_prophecy_evoked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→skin_prophecy_evoked\n",
+  "stage": 1
+ },
+ {
+  "key": "aa286f2d65836b5f7aeb282132a67182",
+  "original": "Thousands of foreign thoughts bombard your mind. You have caught the attention of Something that does not belong. The invisible presence sinks deep into your skin and fills you with terror.",
+  "translation": "Thousands of foreign thoughts bombard your mind. You have caught the attention of Something that does not belong. The invisible presence sinks deep into your skin and fills you with terror.",
+  "context": "ID: skin_down4\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down4\n",
+  "stage": 1
+ },
+ {
+  "key": "957c73836025aed1a390bae9e0540170",
+  "original": "To protect and serve.",
+  "translation": "To protect and serve.",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
   "key": "c943987c62691012f79b77602f443b9a",
   "original": "To see another day you need to survive",
   "translation": "为了看到明天的太阳，你必须活下去",
+  "stage": 1
+ },
+ {
+  "key": "c20fc2383d538ca0e20c79cd259a6240",
+  "original": "To see the dawn, you must survive the night",
+  "translation": "To see the dawn, you must survive the night",
   "context": "ID: guardian\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→guardian\n",
   "stage": 1
  },
@@ -4121,7 +5005,6 @@
   "key": "8f093ff77c46200aae9d106a35858063",
   "original": "To serve and protect.",
   "translation": "为了服务与保护",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -4181,6 +5064,13 @@
   "stage": 1
  },
  {
+  "key": "3016826a1f0c3f1876c405a8fdee1663",
+  "original": "UNSINER!",
+  "translation": "UNSINER!",
+  "context": "ID: decrease_sin\n位于 /Kenan-Structured-Modpack/PM_World/EoCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→decrease_sin\n",
+  "stage": 1
+ },
+ {
   "key": "ff5846ff0d386bf7651aad7882792772",
   "original": "Ugh... get out and get the job done.",
   "translation": "Ugh... get out and get the job done.",
@@ -4198,6 +5088,12 @@
   "key": "70b4c579a79078289af018f195062f1c",
   "original": "Under the blade's dance \nIn death, solace is found, where \nFoes yield their last chance. \n\n All your actions now a 15% faster",
   "translation": "在锋刃旋舞之下\n为了在死亡之中寻得慰藉\n敌人弃让了最后的机会。\n\n 现在，您的所有行动速度都提高了 15%",
+  "stage": 1
+ },
+ {
+  "key": "21d21edbefd26f1ba171774fa3a0fae9",
+  "original": "Under the blade's dance, \nIn death, solace shall be found, \nYour Foes lost their chance. \n\nAll your actions are now 15% faster.",
+  "translation": "Under the blade's dance, \nIn death, solace shall be found, \nYour Foes lost their chance. \n\nAll your actions are now 15% faster.",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
   "stage": 1
  },
@@ -4272,6 +5168,13 @@
   "stage": 1
  },
  {
+  "key": "b4efa1c657b8d6f96022631587a8ff01",
+  "original": "Unleashes a blast of energy fueled by your sins.",
+  "translation": "Unleashes a blast of energy fueled by your sins.",
+  "context": "ID: sin_strike\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→sin_strike\n",
+  "stage": 1
+ },
+ {
   "key": "93344e336a81df4613d7b95b9cb481fe",
   "original": "Unleashes a powerful howl that stuns enemies and summons a telepole.",
   "translation": "发出一声强大的咆哮，使敌人昏迷，并召唤出一根电线杆。",
@@ -4289,6 +5192,12 @@
   "key": "e24bfe5d2dabb29c87e3f4978cf521bf",
   "original": "Using a barbed chains you know how mulitate enemy and turn him in minced meat.",
   "translation": "你知晓如何使用带刺的铁链将敌人绞成肉酱。",
+  "stage": 1
+ },
+ {
+  "key": "9ef4b2cb611adf76e3b72a06bdc0161d",
+  "original": "Using a barbed chains you know how mutilate enemy and turn him in minced meat.",
+  "translation": "Using a barbed chains you know how mutilate enemy and turn him in minced meat.",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
   "stage": 1
  },
@@ -4310,7 +5219,6 @@
   "key": "a179255c40a88445dca0ef3dc4536f57",
   "original": "Very fast attack",
   "translation": "非常快速的攻击",
-  "context": "ID: kr_hack\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_hack\n",
   "stage": 1
  },
  {
@@ -4491,6 +5399,12 @@
   "key": "006ef16621514d0b7d2b197e257e7bfa",
   "original": "When We Deliver <color_blue>Law</color> to thy, <color_yellow>Order</color> shall come",
   "translation": "当我们向你传达<color_blue>法律</color>时，<color_yellow>命令</color>就会到来",
+  "stage": 1
+ },
+ {
+  "key": "86906c318c0649a9ee6cfe37f5c243b2",
+  "original": "When we deliver <color_blue>Law</color>, <color_yellow>Order</color> shall follow",
+  "translation": "When we deliver <color_blue>Law</color>, <color_yellow>Order</color> shall follow",
   "context": "ID: law\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→law\n",
   "stage": 1
  },
@@ -4547,13 +5461,32 @@
   "key": "2b1775d2c5df471ae797746afcadf5ec",
   "original": "With steel grip and mastery <npcname>s shove %s away.",
   "translation": "<npcname>用钢铁般的握力和精湛的技巧将%s推开。",
-  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
   "stage": 1
  },
  {
   "key": "b5fb02e36fb9be7471c41e76d5ea8e4b",
   "original": "With steel grip and mastery you shove %s away.",
   "translation": "有了钢铁般的握力和精湛的技巧，你就能将%推得远远的。",
+  "stage": 1
+ },
+ {
+  "key": "8290bae0b7424daaeef82846213c916f",
+  "original": "With their blood, you will make art that inspires both fear and hope in those who witness it",
+  "translation": "With their blood, you will make art that inspires both fear and hope in those who witness it",
+  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "31d95980d338d0af059e70c13d322b0d",
+  "original": "With unyielding force and precision, <npcname> shoves %s away.",
+  "translation": "With unyielding force and precision, <npcname> shoves %s away.",
+  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
+  "stage": 1
+ },
+ {
+  "key": "a79541c72046136c8fa7289fba20015d",
+  "original": "With unyielding force and precision, you shove %s away.",
+  "translation": "With unyielding force and precision, you shove %s away.",
   "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
   "stage": 1
  },
@@ -4629,14 +5562,19 @@
   "key": "66b7034ca05095e5bb380a5f312e1784",
   "original": "You can't focus your eyes on the letters, and when you try to look at them, strange and surreal images appear in your head and disappear as soon as you look away",
   "translation": "你无法将视线集中在字母上，当你试图注视它们时，你的脑海中会浮现出奇怪的超现实画面，而当你移开视线时，这些画面又会立即消失。",
-  "context": "ID: skin_book_eoc\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_book_eoc\n",
   "stage": 1
  },
  {
   "key": "444f593c8923eee644dc2eb3e7ef709e",
   "original": "You deal a deavstating blow at %s!",
   "translation": "你对%s造成了致命一击！",
-  "context": "ID: flex_supress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_supress\n",
+  "stage": 1
+ },
+ {
+  "key": "e4d1f256928cb171795d48c931965b5e",
+  "original": "You deals a devastating blow at %s!",
+  "translation": "You deals a devastating blow at %s!",
+  "context": "ID: flex_suppress\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→flex_suppress\n",
   "stage": 1
  },
  {
@@ -4650,6 +5588,12 @@
   "key": "11ef7c9e9b6a624dc498b8d7c961578f",
   "original": "You deflect %s attack and strike back.",
   "translation": "你抵挡了%s的攻击，并进行反击。",
+  "stage": 1
+ },
+ {
+  "key": "df44b846458dc48484008574a3b534e7",
+  "original": "You deflects %s attack and strikes back.",
+  "translation": "You deflects %s attack and strikes back.",
   "context": "ID: guardian\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→guardian\n",
   "stage": 1
  },
@@ -4661,6 +5605,13 @@
   "stage": 1
  },
  {
+  "key": "dd961ddd5f50a644cb2d9642e9a7e771",
+  "original": "You didn't learn anything new",
+  "translation": "You didn't learn anything new",
+  "context": "ID: ego_study_fail\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→ego_study_fail\n",
+  "stage": 1
+ },
+ {
   "key": "8db1a2830b6e9977fa5c7b4d891c513c",
   "original": "You even cant bring a book from the bookstore",
   "translation": "You even cant bring a book from the bookstore",
@@ -4668,31 +5619,62 @@
   "stage": 1
  },
  {
+  "key": "a956f4846890672827e73afa4f7a09ee",
+  "original": "You execute a powerful downward slash through %s.",
+  "translation": "You execute a powerful downward slash through %s.",
+  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
+  "stage": 1
+ },
+ {
+  "key": "82025b6c61f9167daa8c4428007149b2",
+  "original": "You execute a powerful wide diagonal slash through %s.",
+  "translation": "You execute a powerful wide diagonal slash through %s.",
+  "context": "ID: kr_sky2\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky2\n",
+  "stage": 1
+ },
+ {
+  "key": "32ba580984021150408ea45ffa1dcd72",
+  "original": "You execute a wide slash through %s.",
+  "translation": "You execute a wide slash through %s.",
+  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
+  "stage": 1
+ },
+ {
   "key": "c3fa862265f072bed4dba58ebfd13cb6",
   "original": "You execute powerful upward slash through %s",
   "translation": "你对%s进行了强力的上挑斩击",
-  "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
   "stage": 1
  },
  {
   "key": "7151591d508118430d61f32372111920",
   "original": "You execute powerful wide diagonal slash through %s",
   "translation": "你对%s进行了强力的斜向斩击",
-  "context": "ID: kr_sky2\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky2\n",
+  "stage": 1
+ },
+ {
+  "key": "413d3ce6472e4a322b2a084ed6f371dd",
+  "original": "You feel energized by an unknown force.",
+  "translation": "You feel energized by an unknown force.",
+  "context": "ID: blue_charge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How eocs.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→blue_charge\n",
   "stage": 1
  },
  {
   "key": "96402878164e2081dde91d384a1f16b6",
   "original": "You feel energized by some unknown force.",
   "translation": "你感觉自己被某种未知的力量激发了活力。",
-  "context": "ID: blue_charge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How eocs.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→blue_charge\n",
+  "stage": 1
+ },
+ {
+  "key": "16bf94c5b6917d6bffa23c5ea9abbee3",
+  "original": "You feel someone presence",
+  "translation": "You feel someone presence",
+  "context": "ID: p_gaze\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→p_gaze\n",
   "stage": 1
  },
  {
   "key": "9d98eeb4b323fe60db1063801b89589c",
   "original": "You fell someone pressence",
   "translation": "您给某人施加了压力",
-  "context": "ID: p_gaze\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→p_gaze\n",
   "stage": 1
  },
  {
@@ -4727,7 +5709,6 @@
   "key": "6e668da3c4ca82f1fbc75e4e7eb0180e",
   "original": "You have been hit! Take a better position\n\n-3.75 to evade. Up to 3 stacks",
   "translation": "你被击中了! 占据更有利的位置\n\n闪避-3.75。最多可叠加 3 层",
-  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
   "stage": 1
  },
  {
@@ -4794,37 +5775,60 @@
   "stage": 1
  },
  {
+  "key": "56fb69a3f4f4ba1c2fc3d4004d2dd401",
+  "original": "You launch a flanking attack at %s. \nYou hear their bones crack",
+  "translation": "You launch a flanking attack at %s. \nYou hear their bones crack",
+  "context": "ID: rc_flank\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_flank\n",
+  "stage": 1
+ },
+ {
+  "key": "564dcbb2e128c6fdd41824991a64b3b0",
+  "original": "You launch a frontal attack at %s! \nYou hear their bones crack.",
+  "translation": "You launch a frontal attack at %s! \nYou hear their bones crack.",
+  "context": "ID: rc_hth\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_hth\n",
+  "stage": 1
+ },
+ {
   "key": "d0b3232e52c50127305b186e5be70f38",
   "original": "You launch flank attack at %s \nYou hear bone crackle",
   "translation": "你向%s发起迂回进攻\n你听到骨骼噼啪作响",
-  "context": "ID: rc_flank\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_flank\n",
   "stage": 1
  },
  {
   "key": "6834c949ac8aacfedc818cca25c46513",
   "original": "You launch frontal attack at %s! \nYou hear bone crackle",
   "translation": "您向%s发起正面进攻！\n您听到骨头噼啪作响",
-  "context": "ID: rc_hth\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_hth\n",
+  "stage": 1
+ },
+ {
+  "key": "26bb878a0ee7b865aa1f16deb8e1b63c",
+  "original": "You managed to calm down and push the Truth out of your mind. The presence has lost its sight on you. You should be more careful of what your read...",
+  "translation": "You managed to calm down and push the Truth out of your mind. The presence has lost its sight on you. You should be more careful of what your read...",
+  "context": "ID: skin_summon\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_summon\n",
   "stage": 1
  },
  {
   "key": "f40cec3166cadf1eb84c2b5714531d14",
   "original": "You managed to calm down, and the one who sould not have come lost sight of you. You should be carefull...",
   "translation": "你终于冷静下来了，而那个不该出现的人却失去了踪影。你应该小心...",
-  "context": "ID: skin_summon\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_summon\n",
   "stage": 1
  },
  {
   "key": "97efbfbc09d9298003931406b09cfe78",
   "original": "You perform a wide slash through %s",
   "translation": "你对%s进行了阔斩",
-  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
   "stage": 1
  },
  {
   "key": "61c4477e055c077315520169785b3d67",
   "original": "You pierce through %s",
   "translation": "你刺穿了%s",
+  "stage": 1
+ },
+ {
+  "key": "12d1ef726a6e7677799bc6a48b09e7e0",
+  "original": "You pierce through %s.",
+  "translation": "You pierce through %s.",
   "context": "ID: kr_focus\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_focus\n",
   "stage": 1
  },
@@ -4832,6 +5836,12 @@
   "key": "aaa13276f371c8c637788867f0b48c0c",
   "original": "You punch %s sitting a top of him",
   "translation": "你坐在%s的头顶上打了他一拳",
+  "stage": 1
+ },
+ {
+  "key": "2f02ebcd759217fedc69fb8fc6d1457c",
+  "original": "You punch %s while sitting on top of them.",
+  "translation": "You punch %s while sitting on top of them.",
   "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
   "stage": 1
  },
@@ -4846,7 +5856,6 @@
   "key": "91c0cac8725d27d8a0d2370f07799463",
   "original": "You see that human no more",
   "translation": "你看不见那个人了",
-  "context": "ID: p_gaze\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→p_gaze\n",
   "stage": 1
  },
  {
@@ -4867,6 +5876,12 @@
   "key": "09cf1deff9b09d5199e7ca4b5873434b",
   "original": "You strike %s at flashing speed",
   "translation": "你疾速攻击%s",
+  "stage": 1
+ },
+ {
+  "key": "09ee0fd860a9f1aeab378bae866eaae3",
+  "original": "You strike %s with lightning speed.",
+  "translation": "You strike %s with lightning speed.",
   "context": "ID: kr_hack\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_hack\n",
   "stage": 1
  },
@@ -4885,10 +5900,23 @@
   "stage": 1
  },
  {
+  "key": "7296b588854a2d080f396526d50fa9b5",
+  "original": "You take a fighting stance. Ready to protect. \n\nBlock attempts +1\nBlock skill +50% of your strength\nDodge skill -100% of your strength",
+  "translation": "You take a fighting stance. Ready to protect. \n\nBlock attempts +1\nBlock skill +50% of your strength\nDodge skill -100% of your strength",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
+  "key": "2a1d20fe624148c02835e916acf31887",
+  "original": "You tighten the chain around your hand and deliver a crushing blow to %s, channeling all your momentum into it!",
+  "translation": "You tighten the chain around your hand and deliver a crushing blow to %s, channeling all your momentum into it!",
+  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
+  "stage": 1
+ },
+ {
   "key": "e0fe3bccb108014c62de27f6385ba4e7",
   "original": "You took a fighting stance. Ready to protect. \n\nBlock attempts +1, block skill +50% of your strength.",
   "translation": "你摆出战斗姿势。准备护卫。\n\n格挡次数+1，格挡技能+50%力量。",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -4902,14 +5930,19 @@
   "key": "2e1cf39f923be3cd360bc55de6c37c6a",
   "original": "You will draw using their blood, the art that you create will instill fear and hope in those who remain alive to see it.",
   "translation": "你将用他们的鲜血来绘画，你创造的艺术将给那些活着看到它的人带来恐惧和希望。",
-  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "88899d962d1a605fdc0a9f62a62e187f",
+  "original": "You wrap chains around %s and crush them!",
+  "translation": "You wrap chains around %s and crush them!",
+  "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
   "stage": 1
  },
  {
   "key": "88d8def4303a0371f74ecd7e1ca9c243",
   "original": "You wrap chains around %s and then grind him!",
   "translation": "你用铁链缠住%s然后碾压他！",
-  "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
   "stage": 1
  },
  {
@@ -4924,6 +5957,20 @@
   "original": "You're covered in red, burning rage",
   "translation": "你满脸通红，怒火中烧",
   "context": "ID: red_acid\n位于 /Kenan-Structured-Modpack/PM_World/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→red_acid\n",
+  "stage": 1
+ },
+ {
+  "key": "4f64aae3ccb75e82523ddefa9e75f926",
+  "original": "You've been struck! Adjust your stance.\n\n-3.75 to evade. Can stack up to 3 times.",
+  "translation": "You've been struck! Adjust your stance.\n\n-3.75 to evade. Can stack up to 3 times.",
+  "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "70808c8731ba17ba0a5450000c6b4c59",
+  "original": "Your eyes can't seem to focus on the text, and when you try to look at it, strange and surreal images appear in your head that disappears as soon as you look away",
+  "translation": "Your eyes can't seem to focus on the text, and when you try to look at it, strange and surreal images appear in your head that disappears as soon as you look away",
+  "context": "ID: skin_book_eoc\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_book_eoc\n",
   "stage": 1
  },
  {
@@ -5077,7 +6124,6 @@
   "key": "dab70db887f4f26114c182ac935bae29",
   "original": "Your hit will blow away that enemy, no one like him anyway.",
   "translation": "你的一击让敌人灰飞烟灭，反正也没人喜欢他。",
-  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
   "stage": 1
  },
  {
@@ -5120,6 +6166,13 @@
   "original": "Your shield",
   "translation": "您的盾牌",
   "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
+  "key": "305915c1bd57bcb8eb5a9a7f9e2f14ea",
+  "original": "Your strike will send that enemy flying—no one will miss them anyway.",
+  "translation": "Your strike will send that enemy flying—no one will miss them anyway.",
+  "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
   "stage": 1
  },
  {
@@ -5179,6 +6232,13 @@
   "stage": 3
  },
  {
+  "key": "72a2b62d05f943fd68f76a632f2584b6",
+  "original": "Zwei Combat Doctrine",
+  "translation": "Zwei Combat Doctrine",
+  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
+  "stage": 1
+ },
+ {
   "key": "f7fab7492fa431346a0af47bbb0057dc",
   "original": "Zwei association have enough trust in you",
   "translation": "Zwei协会对你有足够的信任",
@@ -5217,7 +6277,6 @@
   "key": "28ec522466a279add311d64554853b70",
   "original": "Zwei doctrine",
   "translation": "Zwei 理论",
-  "context": "ID: zwei_big\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→zwei_big\n",
   "stage": 1
  },
  {
@@ -5364,7 +6423,6 @@
   "key": "358e7bb3ec3d6b7367567bf0705311e3",
   "original": "attack that go trhough enemy",
   "translation": "攻击敌人",
-  "context": "ID: kr_clean\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_clean\n",
   "stage": 1
  },
  {
@@ -5620,6 +6678,13 @@
   "stage": 1
  },
  {
+  "key": "568fe9b1e086d1760f13ac150a072d4f",
+  "original": "copies of O-02-56 document",
+  "translation": "copies of O-02-56 document",
+  "context": "ID: p_bird_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_bird_book\n",
+  "stage": 1
+ },
+ {
   "key": "463c8a7593a8a79078cb5c119424e62a",
   "original": "crack",
   "translation": "快克",
@@ -5683,17 +6748,22 @@
   "stage": 1
  },
  {
+  "key": "275876e34cf609db118f3d84b799a790",
+  "original": "dummy",
+  "translation": "dummy",
+  "context": "ID: pm_test_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→pm_test_npc\n",
+  "stage": 1
+ },
+ {
   "key": "2454260630228f235f6cb80932afe277",
   "original": "face scar",
   "translation": "面部伤疤",
-  "context": "ID: skin_scar_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_face\n",
   "stage": 1
  },
  {
   "key": "e06d0c7574f1f3b89c2eff66df8e5cc1",
   "original": "face scars",
   "translation": "面部伤疤",
-  "context": "ID: skin_scars_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scars_face\n",
   "stage": 1
  },
  {
@@ -5707,7 +6777,6 @@
   "key": "a810aefbdbb3aee45f155d78b9caa27f",
   "original": "feather of Punishing Bird",
   "translation": "惩戒鸟的羽毛",
-  "context": "ID: punishing_red_feather\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→punishing_red_feather\n",
   "stage": 1
  },
  {
@@ -5798,14 +6867,12 @@
   "key": "9ec54221ba431b9956694872cc9165a5",
   "original": "hands and face scars",
   "translation": "手部和面部伤疤",
-  "context": "ID: skin_scar_hands_face\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_hands_face\n",
   "stage": 1
  },
  {
   "key": "bada32700e46509e702447f05b79d739",
   "original": "hands scars",
   "translation": "手部伤疤",
-  "context": "ID: skin_scar_hands\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→skin_scar_hands\n",
   "stage": 1
  },
  {
@@ -5887,7 +6954,6 @@
   "key": "96524426cce6c4d28839195c01af5530",
   "original": "launch target far away",
   "translation": "远距离发射目标",
-  "context": "ID: rc_soft\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_soft\n",
   "stage": 1
  },
  {
@@ -6055,7 +7121,6 @@
   "key": "331ffd0e55a36240fd2d68029fa9c522",
   "original": "pierce attack",
   "translation": "穿刺攻击",
-  "context": "ID: kr_focus\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_focus\n",
   "stage": 1
  },
  {
@@ -6077,6 +7142,27 @@
   "original": "receptionist of Zwei",
   "translation": "Zwei接待员",
   "context": "ID: zwei_rec_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_rec_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "c77b0103e8f2c6bdb52dbc8f07af36b6",
+  "original": "red Beak bullet",
+  "translation": "red Beak bullet",
+  "context": "ID: beak_bullet_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet_red\n",
+  "stage": 1
+ },
+ {
+  "key": "e2ce38f4a434a67e44bc5371934e65bd",
+  "original": "red Beak magazine",
+  "translation": "red Beak magazine",
+  "context": "ID: beak_mag_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag_red\n",
+  "stage": 1
+ },
+ {
+  "key": "50861b5619df7677c9c6c1c23970da5c",
+  "original": "researching",
+  "translation": "researching",
+  "context": "ID: beak_study_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 activity_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→activity_type→beak_study_gift\n",
   "stage": 1
  },
  {
@@ -6143,6 +7229,13 @@
   "stage": 1
  },
  {
+  "key": "8275386616d84ff418cffa9a6d08b6cb",
+  "original": "studying",
+  "translation": "studying",
+  "context": "ID: study_abno2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 activity_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→activity_type→study_abno2\n",
+  "stage": 1
+ },
+ {
   "key": "538f3e601e9c32c427a5c1c29744f720",
   "original": "sturdy armguard",
   "translation": "坚固的护臂",
@@ -6195,6 +7288,13 @@
   "original": "test",
   "translation": "测试",
   "context": "ID: PM_TEST\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/TotalySpecies.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPECIES→PM_TEST\n",
+  "stage": 1
+ },
+ {
+  "key": "43ad2a5dc1361f88746c4e78bd060cbf",
+  "original": "test selector",
+  "translation": "test selector",
+  "context": "ID: practice_pm_test_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→practice_pm_test_selector\n",
   "stage": 1
  },
  {
@@ -6314,6 +7414,13 @@
   "original": "yellow shirts",
   "translation": "黄色衬衫",
   "context": "ID: pm_shirt_yel\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_shirt_yel\n",
+  "stage": 1
+ },
+ {
+  "key": "22624f108362b2ccae80721d3bbf65fa",
+  "original": "Грешим?",
+  "translation": "Грешим?",
+  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
   "stage": 1
  }
 ]
