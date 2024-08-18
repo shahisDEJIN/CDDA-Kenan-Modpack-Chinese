@@ -2347,7 +2347,7 @@
   {
     "id": "voiro_nurse_clothes_hau",
     "type": "ARMOR",
-    "copy-from": "flag_shirt",
+    "copy-from": "tshirt",
     "name": "ナース服(雨晴はう)[voiro]",
     "description": "白い生地にピンクのラインの入ったナース服です。",
     "armor": [ 
