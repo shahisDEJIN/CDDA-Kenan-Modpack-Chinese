@@ -56,7 +56,7 @@
   {
     "type": "effect_on_condition",
     "id": "summon_npc1",
-    "effect": [ { "u_spawn_npc": "kr_npc", "real_count": 1, "min_radius": 1, "max_radius": 3 } ]
+    "effect": [ { "u_spawn_npc": "pm_test_npc", "real_count": 1, "min_radius": 1, "max_radius": 3 } ]
   },
   {
     "type": "effect_on_condition",
@@ -181,23 +181,20 @@
       {
         "text": "Make a note of the location.",
         "topic": "COMP_REFUGEE_CENTER_MAIN",
+        "condition": { "not": { "u_has_mission": "MISSION_REACH_ZWEI" } },
         "effect": [ { "assign_mission": "MISSION_REACH_ZWEI" } ]
       },
       { "text": "Press any key.", "topic": "COMP_REFUGEE_CENTER_MAIN" }
     ]
   },
   {
-    "id": "MISSION_REACH_ZWEI",
-    "type": "mission_definition",
-    "name": { "str": "Reach source of misterious broadcast" },
-    "goal": "MGOAL_GO_TO_TYPE",
-    "difficulty": 1,
-    "value": 0,
-    "start": {
-      "assign_mission_target": { "om_terrain": "zwei_office0", "om_special": "Zwei_main_office", "random": false, "search_range": 2400 }
-    },
-    "origins": [ "ORIGIN_COMPUTER" ],
-    "destination": "zwei_office0",
-    "end": { "effect": [ { "u_add_var": "found_zwei", "value": "yes" } ] }
+    "type": "effect_on_condition",
+    "id": "increase_sin",
+    "effect": [ { "math": [ "u_vitamin('SIN')", "+=", "1" ] }, { "u_message": "SINER!", "type": "bad" } ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "decrease_sin",
+    "effect": [ { "math": [ "u_vitamin('SIN')", "-=", "1" ] }, { "u_message": "UNSINER!", "type": "good" } ]
   }
 ]
