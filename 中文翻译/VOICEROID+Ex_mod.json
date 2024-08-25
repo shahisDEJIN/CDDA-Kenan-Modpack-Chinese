@@ -2354,7 +2354,7 @@
  {
   "key": "1e5f2d5022f3d2cb4db411d09f366dc8",
   "original": "ありがとうなぎ！",
-  "translation": "谢谢鳗鱼！",
+  "translation": "谢谢鳗鱼！（棒球梗）",
   "context": "ID: TALK_UNA_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_UNA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_UNA_SAN_2\n",
   "stage": 3
  },
@@ -5105,7 +5105,7 @@
  {
   "key": "c81e84243cf6ab0d812c84ed16de27bd",
   "original": "アイドル[VOIRO]",
-  "translation": "偶像（音街ウナ）[VOIRO]",
+  "translation": "偶像（音街鳗）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[20]\n",
   "stage": 3
  },

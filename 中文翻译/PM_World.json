@@ -596,6 +596,34 @@
   "stage": 1
  },
  {
+  "key": "3d3fbb29e98f1b7d14c634907b797c5a",
+  "original": "<color_green>EGO Suit Soda</color>",
+  "translation": "<color_green>EGO Suit Soda</color>",
+  "context": "ID: ego_suit_soda\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_soda\n",
+  "stage": 1
+ },
+ {
+  "key": "95d8b2f0c9dfac09f88e278cf2d88ba8",
+  "original": "<color_green>EGO Suits Soda</color>",
+  "translation": "<color_green>EGO Suits Soda</color>",
+  "context": "ID: ego_suit_soda\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_soda\n",
+  "stage": 1
+ },
+ {
+  "key": "479a066bc1d5c1f50166b0d463d7fac7",
+  "original": "<color_green>EGO Weapon Soda</color>",
+  "translation": "<color_green>EGO Weapon Soda</color>",
+  "context": "ID: ego_weapon_soda\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_soda\n",
+  "stage": 1
+ },
+ {
+  "key": "e7a198180cd6f7917a5916de18d7f048",
+  "original": "<color_green>EGO gift Soda</color>",
+  "translation": "<color_green>EGO gift Soda</color>",
+  "context": "ID: ego_soda_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_soda_gift\n",
+  "stage": 1
+ },
+ {
   "key": "b89f7f54e182b5fc8bd5f5012c5612b3",
   "original": "<color_green>Peccatulum Acediae</color>",
   "translation": "<color_green>怠惰罪种</color>",
@@ -1127,6 +1155,20 @@
   "stage": 1
  },
  {
+  "key": "25abfac8a498921731766be4f2486db9",
+  "original": "A light violet magazine containing special Soda EGO bullets. This one has a bullet capacity of 18 rounds.",
+  "translation": "A light violet magazine containing special Soda EGO bullets. This one has a bullet capacity of 18 rounds.",
+  "context": "ID: soda_mag\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→soda_mag\n",
+  "stage": 1
+ },
+ {
+  "key": "000c3672256c75cafe4c7e5ad9d9f0d9",
+  "original": "A light violet magazine containing special Soda EGO bullets. This one has a bullet capacity of 24 rounds.",
+  "translation": "A light violet magazine containing special Soda EGO bullets. This one has a bullet capacity of 24 rounds.",
+  "context": "ID: soda_mag_medium\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→soda_mag_medium\n",
+  "stage": 1
+ },
+ {
   "key": "c0c25f850638bc910e7baa490ed46f68",
   "original": "A lightweight polymer vest",
   "translation": "轻型聚合物背心",
@@ -1193,6 +1235,13 @@
   "original": "A piece of cotton. It seems denser than ordinary cotton.",
   "translation": "A piece of cotton. It seems denser than ordinary cotton.",
   "context": "ID: pm_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "cc6f3bc48e59740bb822498b49b2211e",
+  "original": "A pistol painted in a refreshing purple. Whenever this E.G.O. is used, a faint scent of grapes wafts through the air",
+  "translation": "A pistol painted in a refreshing purple. Whenever this E.G.O. is used, a faint scent of grapes wafts through the air",
+  "context": "ID: ego_weapon_soda\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_soda\n",
   "stage": 1
  },
  {
@@ -1297,7 +1346,14 @@
   "key": "c3118a161ba4d6e6b48bc13f57d8bff8",
   "original": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird, it grants the wearer increased speed and agility, as well as the ability to carry more.",
   "translation": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird，it grants the wearer increased speed and agility，as well as the ability to carry more.",
-  "context": "ID: ego_beak_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_beak_gift\n",
+  "context": "ID: ego_soda_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_soda_gift\n",
+  "stage": 1
+ },
+ {
+  "key": "4f4e1d33e97a86c81f81c2d761319d98",
+  "original": "A suit of armor that feels like you're wearing aluminum. Its quite light for armor, so it is rather comfortable to wear.\n\nSome say it smells of sea-salt when worn for a long time.",
+  "translation": "A suit of armor that feels like you're wearing aluminum. Its quite light for armor, so it is rather comfortable to wear.\n\nSome say it smells of sea-salt when worn for a long time.",
+  "context": "ID: ego_suit_soda\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_soda\n",
   "stage": 1
  },
  {
@@ -1754,13 +1810,6 @@
   "stage": 1
  },
  {
-  "key": "aa391c4d2cf97b73b0056226a03c7b4e",
-  "original": "Canceled value is: <context_val:canceled_str>",
-  "translation": "Canceled value is: <context_val:canceled_str>",
-  "context": "ID: canceled_str_msg\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→canceled_str_msg\n",
-  "stage": 1
- },
- {
   "key": "e966b2e6caa2b8a2f49802e3baf6fbf2",
   "original": "Candle",
   "translation": "蜡烛",
@@ -1798,6 +1847,13 @@
   "key": "9e50da76cdc73652d1ea651ff16d6f14",
   "original": "Chalange me, fools! I am here!\n\n+1 block attempt. Bonus block +150% of strength. -20 dodge",
   "translation": "挑战我啊，蠢货！我在这里！\n\n+1格挡次数。 额外格挡+150%力量 。  -20闪避",
+  "stage": 1
+ },
+ {
+  "key": "e79fd80fa754a6b5934003c53dd69021",
+  "original": "Cheers drinked",
+  "translation": "Cheers drinked",
+  "context": "ID: cheers\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 vitamin\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→vitamin→cheers\n",
   "stage": 1
  },
  {
@@ -1881,13 +1937,6 @@
   "original": "Death effect for mon_prophet , summons mon_prophet_2 ",
   "translation": "Death effect for mon_prophet ，summons mon_prophet_2 ",
   "context": "ID: death_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_prophet\n",
-  "stage": 1
- },
- {
-  "key": "a80989fb26fbb3792af7cd3b84f57b61",
-  "original": "Decrease sin or not",
-  "translation": "Decrease sin or not",
-  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
   "stage": 1
  },
  {
@@ -2072,6 +2121,13 @@
   "stage": 1
  },
  {
+  "key": "6a987697a1ff6c1e4b87662ccb1c5796",
+  "original": "Extraslow",
+  "translation": "Extraslow",
+  "context": "ID: soda_slowed\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→soda_slowed\n",
+  "stage": 1
+ },
+ {
   "key": "1f7c049717c5268c9bbece53320a3cf3",
   "original": "Eyes blue",
   "translation": "蓝瞳",
@@ -2111,6 +2167,13 @@
   "original": "Eyes yellow",
   "translation": "黄瞳",
   "context": "ID: eye_yellow\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→eye_yellow\n",
+  "stage": 1
+ },
+ {
+  "key": "dd53ef65bfd450dfe7964a6f3b9a92db",
+  "original": "F-05-52 Document",
+  "translation": "F-05-52 Document",
+  "context": "ID: p_soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_soda_book\n",
   "stage": 1
  },
  {
@@ -2962,13 +3025,6 @@
   "stage": 1
  },
  {
-  "key": "33fe9f6f183025f6529192861781a451",
-  "original": "Increase sin or not",
-  "translation": "Increase sin or not",
-  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
-  "stage": 1
- },
- {
   "key": "b1d435e48184ca20f6a07636956e1249",
   "original": "Incredibly beautiful and expensive black silk.",
   "translation": "Incredibly beautiful and expensive black silk.",
@@ -3358,13 +3414,6 @@
   "original": "Lethitia \"Pie\"",
   "translation": "蕾蒂西娅 \"派\"",
   "context": "ID: zwei_office3_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_office3_npc\n",
-  "stage": 1
- },
- {
-  "key": "cb1a9fd450bf83ef7409449eb1a045ba",
-  "original": "Lets fucking go",
-  "translation": "Lets fucking go",
-  "context": "ID: practice_pm_test_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→practice_pm_test_selector\n",
   "stage": 1
  },
  {
@@ -3997,6 +4046,13 @@
   "stage": 1
  },
  {
+  "key": "2ba8f59ef2962f167ec57e1ca053ed4d",
+  "original": "Realy slowed",
+  "translation": "Realy slowed",
+  "context": "ID: soda_slowed\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→soda_slowed\n",
+  "stage": 1
+ },
+ {
   "key": "6a75dcf22b3f609ac432cf04e663dab4",
   "original": "Red electricity",
   "translation": "红色伤害",
@@ -4214,9 +4270,23 @@
   "stage": 1
  },
  {
+  "key": "981559160bad7133014695d17cd6de67",
+  "original": "Slowed",
+  "translation": "Slowed",
+  "context": "ID: soda_slowed\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→soda_slowed\n",
+  "stage": 1
+ },
+ {
   "key": "bd84ecf566af636a509803260fb265a3",
   "original": "Small, white-feathered bird with small wings and a red mark on its chest.",
   "translation": "白色羽毛的小鸟，翅膀短小，胸前有一块红色标记。",
+  "stage": 1
+ },
+ {
+  "key": "69c7401b783edfcc961eb9d2ee092a26",
+  "original": "Snail speed",
+  "translation": "Snail speed",
+  "context": "ID: soda_slowed\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→soda_slowed\n",
   "stage": 1
  },
  {
@@ -4237,6 +4307,27 @@
   "key": "67a92da1d15b6de702d8a155cc9d656c",
   "original": "So... thats true",
   "translation": "所以……那是真的",
+  "stage": 1
+ },
+ {
+  "key": "0e6178be86f58b563bd568b161396dd7",
+  "original": "Soda",
+  "translation": "Soda",
+  "context": "ID: soda_ammo\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ammunition_type→soda_ammo\n",
+  "stage": 1
+ },
+ {
+  "key": "8bf0a35046dc739c70cfa722ef03b0e4",
+  "original": "Soda bullet",
+  "translation": "Soda bullet",
+  "context": "ID: soda_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet\n",
+  "stage": 1
+ },
+ {
+  "key": "812b7517236205805b0ca9eaad244d0e",
+  "original": "Soda magazine",
+  "translation": "Soda magazine",
+  "context": "ID: soda_mag_medium\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→soda_mag_medium\n",
   "stage": 1
  },
  {
@@ -4493,20 +4584,6 @@
   "stage": 0
  },
  {
-  "key": "28958842e5e431dc51b337d95f8aa606",
-  "original": "TEST document",
-  "translation": "TEST document",
-  "context": "ID: test_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→test_book\n",
-  "stage": 1
- },
- {
-  "key": "ff6ac2a45c7e06eb40a081baf125fce9",
-  "original": "TEST of O-02-56 document",
-  "translation": "TEST of O-02-56 document",
-  "context": "ID: test_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→test_book\n",
-  "stage": 1
- },
- {
   "key": "0b199736c5a309b5bc0441f1f000f780",
   "original": "TETH",
   "translation": "TETH",
@@ -4754,7 +4831,7 @@
   "key": "3289eca25483173c636cacbd318bb483",
   "original": "The bullet's surface is covered with numerous spikes resembling small fangs, so it can inflict quite a lot of pain when it penetrates an enemy.",
   "translation": "The bullet's surface is covered with numerous spikes resembling small fangs，so it can inflict quite a lot of pain when it penetrates an enemy.",
-  "context": "ID: beak_bullet_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet_red\n",
+  "context": "ID: soda_bullet_grape\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet_grape\n",
   "stage": 1
  },
  {
@@ -6608,6 +6685,13 @@
   "stage": 1
  },
  {
+  "key": "ddef56c875c2e9b2fe3bb30b19c159e2",
+  "original": "cherry Soda bullet",
+  "translation": "cherry Soda bullet",
+  "context": "ID: soda_bullet_cherry\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet_cherry\n",
+  "stage": 1
+ },
+ {
   "key": "80ed752565b9941eecfa92416cb0c3b1",
   "original": "cherry Wellcheers",
   "translation": "樱桃味韦尔奇乐汽水",
@@ -6675,6 +6759,13 @@
   "original": "coordinator of Zwei",
   "translation": "Zwei协调人",
   "context": "ID: zwei_meet_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_meet_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "b45b36c2391d17dfcb28fc411ba9006d",
+  "original": "copies of F-05-52 document",
+  "translation": "copies of F-05-52 document",
+  "context": "ID: p_soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_soda_book\n",
   "stage": 1
  },
  {
@@ -6812,6 +6903,20 @@
   "original": "frontal twig",
   "translation": "前枝",
   "context": "ID: wps_irae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_irae_body\n",
+  "stage": 1
+ },
+ {
+  "key": "f0dc782b08b64ab28ab38edbe996c696",
+  "original": "general ammo for Soda EGO weapon.  ",
+  "translation": "general ammo for Soda EGO weapon.  ",
+  "context": "ID: soda_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet\n",
+  "stage": 1
+ },
+ {
+  "key": "01608b2b7a0d01a02b4e35aa2bfb986e",
+  "original": "grape Soda bullet",
+  "translation": "grape Soda bullet",
+  "context": "ID: soda_bullet_grape\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet_grape\n",
   "stage": 1
  },
  {
@@ -7229,13 +7334,6 @@
   "stage": 1
  },
  {
-  "key": "8275386616d84ff418cffa9a6d08b6cb",
-  "original": "studying",
-  "translation": "studying",
-  "context": "ID: study_abno2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 activity_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→activity_type→study_abno2\n",
-  "stage": 1
- },
- {
   "key": "538f3e601e9c32c427a5c1c29744f720",
   "original": "sturdy armguard",
   "translation": "坚固的护臂",
@@ -7288,13 +7386,6 @@
   "original": "test",
   "translation": "测试",
   "context": "ID: PM_TEST\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/TotalySpecies.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPECIES→PM_TEST\n",
-  "stage": 1
- },
- {
-  "key": "43ad2a5dc1361f88746c4e78bd060cbf",
-  "original": "test selector",
-  "translation": "test selector",
-  "context": "ID: practice_pm_test_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→practice_pm_test_selector\n",
   "stage": 1
  },
  {
@@ -7414,13 +7505,6 @@
   "original": "yellow shirts",
   "translation": "黄色衬衫",
   "context": "ID: pm_shirt_yel\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_shirt_yel\n",
-  "stage": 1
- },
- {
-  "key": "22624f108362b2ccae80721d3bbf65fa",
-  "original": "Грешим?",
-  "translation": "Грешим?",
-  "context": "ID: sin_chose\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Side effects of fun.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→sin_chose\n",
   "stage": 1
  }
 ]

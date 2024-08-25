@@ -5264,9 +5264,9 @@
  {
   "key": "8e5333705cceafd314e1e57a1e69fba4",
   "original": "Prepper Holdout",
-  "translation": "末日预备者坚守点",
+  "translation": "末日准备者坚守点",
   "context": "ID: PROF_PREPPER_HOLDOUT\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→PROF_PREPPER_HOLDOUT\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "683b5492becfa546921c780f1705f0be",
@@ -5279,7 +5279,7 @@
   "original": "Prepper Safehouse",
   "translation": "末日准备者安全屋",
   "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "48f477a9db326fd8af4402d3685cb5fa",
@@ -5868,7 +5868,7 @@
   "original": "Safehouse",
   "translation": "安全屋",
   "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1d772d6636f7e7506b309bbd824ce01c",
@@ -5896,7 +5896,7 @@
   "original": "See you later.",
   "translation": "再见。",
   "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5e30c0f820153c32c7d071c059e8d8e9",

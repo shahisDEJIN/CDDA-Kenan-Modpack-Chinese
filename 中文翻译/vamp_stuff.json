@@ -1919,7 +1919,7 @@
  {
   "key": "25cb630ccd5abe3fcea2ce8093fbd7c0",
   "original": "Conjures a profane fireball to strike the foe. Upon impact, it explodes, dealing <color_red>fire damage</color> and spreads cursed flames on that area.\n\nThis is a <color_red>tier 5</color> spell.",
-  "translation": "召唤一个邪恶的火球来打击敌人。撞击后，它爆炸，造成<color_red>点火焰伤害</color>，并在该区域传播诅咒火焰。\n\n这是一个<color_red>第5层<color>咒语。",
+  "translation": "召唤渎灵火球打击敌人。撞击后爆炸，造成<color_red>火焰伤害</color>，并散播诅咒之焰。\n\n这是一个<color_red>五阶</color>法术。",
   "context": "ID: t5_elem_firebane\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_elem_firebane\n",
   "stage": 1
  },

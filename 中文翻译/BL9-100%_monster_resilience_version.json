@@ -888,7 +888,7 @@
  {
   "key": "e6790968bf7cc1f3af23a97ffcdb3e76",
   "original": "40mm BL9",
-  "translation": "40mm BL9弹",
+  "translation": "40mm BL9榴弹",
   "context": "ID: 40mmBL9\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→AMMO→40mmBL9\n",
   "stage": 3
  },
@@ -5709,8 +5709,8 @@
  {
   "key": "f791f11c77bcfe6888e5ee31de6f0c04",
   "original": "Agent's Notes - Part 1 - Strange Merchant",
-  "translation": "特工笔记-第一部分-奇怪的商人",
-  "stage": 1
+  "translation": "特工笔记-第1部分-奇怪的商人",
+  "stage": 3
  },
  {
   "key": "56133d41ab9e0e5793d4f7f6f4df6c55",
@@ -5722,177 +5722,177 @@
  {
   "key": "c682cc745c2f4463a008d0d2747ba0ae",
   "original": "Agent's Notes - Part 10 - The Assassin",
-  "translation": "探员笔记-第10部分-刺客",
+  "translation": "特工笔记-第10部分-刺客",
   "context": "ID: BL9_agent_note10\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note10\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "320b7b9f67e04e96c23911f3639abbcc",
   "original": "Agent's Notes - Part 11 - The Furnace",
-  "translation": "探员笔记-第11部分-熔炉",
+  "translation": "特工笔记-第11部分-熔炉",
   "context": "ID: BL9_agent_note11\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note11\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bb36845b0d109fa3da0b9ffcb3f2ef65",
   "original": "Agent's Notes - Part 12 - The Sand Ruins",
-  "translation": "探员笔记-第12部分-沙废墟",
+  "translation": "特工笔记-第12部分-沙废墟",
   "context": "ID: BL9_agent_note12\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note12\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "459a058d48ca4ee67442ca11bb466dfb",
   "original": "Agent's Notes - Part 13 - The Castlelan",
-  "translation": "探员笔记-第13部分-卡斯特兰",
+  "translation": "特工笔记-第13部分-卡斯特兰",
   "context": "ID: BL9_agent_note13\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note13\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eab70d6165ebeebff652ce7b9be65426",
   "original": "Agent's Notes - Part 14 - The Island",
-  "translation": "探员笔记-第14部分-岛屿",
+  "translation": "特工笔记-第14部分-岛屿",
   "context": "ID: BL9_agent_note14\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note14\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cf4cc453f518159c7c6c353863936df4",
   "original": "Agent's Notes - Part 15 - The Way Through The Island",
-  "translation": "探员笔记-第15部分-通过岛的方式",
+  "translation": "特工笔记-第15部分-通过岛的方式",
   "context": "ID: BL9_agent_note15\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note15\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "755db1583ff7594915e9a5f27cb6b4a6",
   "original": "Agent's Notes - Part 16 - The Water Caves",
-  "translation": "探员笔记-第16部分-水洞",
+  "translation": "特工笔记-第16部分-水洞",
   "context": "ID: BL9_agent_note16\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note16\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2e138542d4a477cd2bff6481e5d286f0",
   "original": "Agent's Notes - Part 17 - The Labs",
-  "translation": "探员笔记-第17部分-实验室",
+  "translation": "特工笔记-第17部分-实验室",
   "context": "ID: BL9_agent_note17\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note17\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1dbe83103f242b8d9bdc342200a9fa6",
   "original": "Agent's Notes - Part 18 - The Waste Disposal",
-  "translation": "代理人须知-第18部分-废物处理",
+  "translation": "特工笔记-第18部分-废物处理",
   "context": "ID: BL9_agent_note18\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note18\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1ed5aa6aa1114093467c1820be2fe585",
   "original": "Agent's Notes - Part 19 - The Basement Passage",
-  "translation": "探员笔记-第19部分-地下室通道",
+  "translation": "特工笔记-第19部分-地下室通道",
   "context": "ID: BL9_agent_note19\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note19\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "54109a4954e2ffce3f231667631b2904",
   "original": "Agent's Notes - Part 2 - Through the Guard Rooms",
-  "translation": "探员的笔记-第二部分-穿过警卫室",
+  "translation": "特工笔记-第2部分-穿过警卫室",
   "context": "ID: BL9_agent_note2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "73247fe53ec8c6e60c78b187da01f818",
   "original": "Agent's Notes - Part 20 - The Military Base",
   "translation": "特工笔记-第20部分-军事基地",
   "context": "ID: BL9_agent_note20\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note20\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b680d71a435fba938fbe4dd57bc7deba",
   "original": "Agent's Notes - Part 21 - The Secret Exit",
-  "translation": "特工笔记第21部分秘密出口",
+  "translation": "特工笔记-第21部分-秘密出口",
   "context": "ID: BL9_agent_note21\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note21\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "34624776c56a0a50e055a8a00c47e437",
   "original": "Agent's Notes - Part 22 - The Grotesque Amalgamation",
-  "translation": "特工笔记第22部分怪诞的合并",
+  "translation": "特工笔记-第22部分-怪诞的合并",
   "context": "ID: BL9_agent_note22\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note22\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cf2c0d8c8289ee899578f67b84460a3c",
   "original": "Agent's Notes - Part 23 - The Acidic Caves",
-  "translation": "探员笔记-第23部分-酸性洞穴",
+  "translation": "特工笔记-第23部分-酸性洞穴",
   "context": "ID: BL9_agent_note23\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note23\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "070d9ee5b5e2fe7a0616b1f31bace85f",
   "original": "Agent's Notes - Part 24 - The Ruins and The General",
-  "translation": "探员笔记-第24部分-废墟和将军",
+  "translation": "特工笔记-第24部分-废墟和将军",
   "context": "ID: BL9_agent_note24\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note24\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d76c8c892f7e70714656d0de0a90e015",
   "original": "Agent's Notes - Part 25 - The Master",
-  "translation": "探员笔记-第25部分-大师",
+  "translation": "特工笔记-第25部分-大师",
   "context": "ID: BL9_agent_note26\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note26\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "58f7a1987fb1fd31fec379cb53abbc54",
   "original": "Agent's Notes - Part 25 - The Military Fortress",
   "translation": "特工笔记-第25部分-军事要塞",
   "context": "ID: BL9_agent_note25\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note25\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "500580b1721172f8ec2156d8cc46df88",
   "original": "Agent's Notes - Part 26 - Thank You",
-  "translation": "探员笔记-第26部分-谢谢",
+  "translation": "特工笔记-第26部分-谢谢",
   "context": "ID: BL9_agent_note27\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note27\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b29330566e8813eb65ff0a44b4af55b7",
   "original": "Agent's Notes - Part 3 - Into the Grand Hall",
-  "translation": "探员的笔记-第三部分-进入大厅",
+  "translation": "特工笔记-第三部分-进入大厅",
   "context": "ID: BL9_agent_note3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce704421b3f40eba82c3d7cadab8533c",
   "original": "Agent's Notes - Part 4 - Blind Clawer",
-  "translation": "特工笔记.第4部分.盲爪",
+  "translation": "特工笔记-第4部分-盲爪",
   "context": "ID: BL9_agent_note4\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b5ee1963d180e79c1ce38c3985bb931c",
   "original": "Agent's Notes - Part 5 - Underground Prison Cells",
-  "translation": "探员笔记-第5部分-地下牢房",
+  "translation": "特工笔记-第5部分-地下牢房",
   "context": "ID: BL9_agent_note5\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note5\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "08c36fd623e5b8ed18cf02313f628bbe",
   "original": "Agent's Notes - Part 6 - Through the Garden Labyrinth",
-  "translation": "探员笔记-第6部分-穿过花园迷宫",
+  "translation": "特工笔记-第6部分-穿过花园迷宫",
   "context": "ID: BL9_agent_note6\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note6\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5646db16af521b69be5769826f056129",
   "original": "Agent's Notes - Part 7 - Infernal Room",
-  "translation": "特工笔记-第7部分-无间道",
+  "translation": "特工笔记-第7部分-地下室",
   "context": "ID: BL9_agent_note7\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note7\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cc1252bfb515579ca082e1db4583137f",
   "original": "Agent's Notes - Part 8 - The Bridge",
-  "translation": "探员笔记第8部分桥",
+  "translation": "特工笔记-第8部分-桥",
   "context": "ID: BL9_agent_note8\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_note8\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0814eb6be7543af7ed65b95080d2dcc0",
@@ -13568,9 +13568,9 @@
  {
   "key": "936a064836fdb6c9232914b75d77cf65",
   "original": "Hologram appears in front of you!",
-  "translation": "全息图在你面前显现！",
+  "translation": "全息影像在你面前显现！",
   "context": "ID: BL9_alliance_base_mission_hologram\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/items_NPC_missions.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_alliance_base_mission_hologram\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ab59cc2c7b172d5a54a97f64f7db756d",
@@ -15248,7 +15248,7 @@
  {
   "key": "8a2383afe7f46418141122fb7cc0adb7",
   "original": "Master's Notes - Part 3 - Scientific Experiments",
-  "translation": "硕士笔记-第3部分-科学实验",
+  "translation": "大师笔记-第3部分-科学实验",
   "context": "ID: BL9_master_note3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_master_note3\n",
   "stage": 1
  },
@@ -15283,7 +15283,7 @@
  {
   "key": "b41b4d2eb0862dc8a970455367045ad8",
   "original": "Master's Notes - Part 8 - The General",
-  "translation": "硕士笔记-第8部分-概述",
+  "translation": "大师笔记-第8部分-概述",
   "context": "ID: BL9_master_note8\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_master_note8\n",
   "stage": 1
  },
@@ -15444,128 +15444,128 @@
  {
   "key": "4d9e76ac0213d6146b0fba723bd72ec6",
   "original": "Molten Caves1",
-  "translation": "熔腔1",
+  "translation": "熔岩洞穴1",
   "context": "ID: lava_caves1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e847d4df6901950f58441466f5a7474",
   "original": "Molten Caves1 - Island",
-  "translation": "熔融洞穴1 -岛屿",
+  "translation": "熔岩洞穴1 -岛屿",
   "context": "ID: lava_caves1_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves1_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fc3973d2939b2051cf52000c99a65c75",
   "original": "Molten Caves2",
-  "translation": "熔腔2",
+  "translation": "熔岩洞穴2",
   "context": "ID: lava_caves2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f78caa62dc334820a80ad4214eefb516",
   "original": "Molten Caves2 - Island",
   "translation": "熔岩洞穴2-岛",
   "context": "ID: lava_caves2_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves2_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a0f2b47aebbee5c80be425e17288f483",
   "original": "Molten Caves3",
-  "translation": "熔融洞穴3",
+  "translation": "熔岩洞穴3",
   "context": "ID: lava_caves3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6a6e2c97c77cf5b1a83833072b6f456c",
   "original": "Molten Caves3 - Island",
-  "translation": "熔融洞穴3 -岛屿",
+  "translation": "熔岩洞穴3 -岛屿",
   "context": "ID: lava_caves3_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves3_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0c26ca73754e8977f5a16457997fc728",
   "original": "Molten Caves4",
-  "translation": "熔融洞穴4",
+  "translation": "熔岩洞穴4",
   "context": "ID: lava_caves4\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f13523f1f98952bc946d22c512259e76",
   "original": "Molten Caves4 - Island",
   "translation": "熔岩洞穴4-岛",
   "context": "ID: lava_caves4_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves4_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f9fd22b3ac582145172129311ecfcfb2",
   "original": "Molten Caves5",
-  "translation": "熔腔5",
+  "translation": "熔岩洞穴5",
   "context": "ID: lava_caves5\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves5\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "edbc349117f942e26ecb39a89856b3f2",
   "original": "Molten Caves5 - Island",
-  "translation": "熔融洞穴5 -岛屿",
+  "translation": "熔岩洞穴5 -岛屿",
   "context": "ID: lava_caves5_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves5_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f014d37f30a7e3c39479766b465bf399",
   "original": "Molten Caves6",
-  "translation": "熔融洞穴6",
+  "translation": "熔岩洞穴6",
   "context": "ID: lava_caves6\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves6\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "21b97aed8aad951e7ed88f50c03412ff",
   "original": "Molten Caves6 - Island",
-  "translation": "熔融洞穴6 -岛屿",
+  "translation": "熔岩洞穴6 -岛屿",
   "context": "ID: lava_caves6_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves6_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1c55224c9f9e03a7770e5d2b9a04b15e",
   "original": "Molten Caves7",
-  "translation": "熔腔7",
+  "translation": "熔岩洞穴7",
   "context": "ID: lava_caves7\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves7\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c4fc5fc93da275b13153c308b86d807c",
   "original": "Molten Caves7 - Island",
   "translation": "熔岩洞穴7-岛",
   "context": "ID: lava_caves7_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves7_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cfbab50b5301405e4107abc3de2b59b3",
   "original": "Molten Caves8",
-  "translation": "熔腔8",
+  "translation": "熔岩洞穴8",
   "context": "ID: lava_caves8\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves8\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36bd172fcc135e3abe711e7149ff5bc4",
   "original": "Molten Caves8 - Island",
-  "translation": "熔融洞穴8 -岛屿",
+  "translation": "熔岩洞穴8 -岛屿",
   "context": "ID: lava_caves8_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves8_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a0544591f508034d8869232c97872b53",
   "original": "Molten Caves9",
-  "translation": "熔融洞穴9",
+  "translation": "熔岩洞穴9",
   "context": "ID: lava_caves9\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves9\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "737d06f2f75a6c5a295e92a26bfcf4ff",
   "original": "Molten Caves9 - Island",
   "translation": "熔岩洞穴9-岛",
   "context": "ID: lava_caves9_island\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Overmap/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→overmap_terrain→lava_caves9_island\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5a5070131fc1bcf2324d82494906c0f0",
@@ -16112,7 +16112,7 @@
  {
   "key": "cff0be1890dc09d35e814a229f91fb47",
   "original": "Printed Agent's Journal - Who I am",
-  "translation": "代理人杂志打印版-我是谁",
+  "translation": "特工日记打印版-我是谁",
   "context": "ID: BL9_agent_journal1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_journal1\n",
   "stage": 3
  },
