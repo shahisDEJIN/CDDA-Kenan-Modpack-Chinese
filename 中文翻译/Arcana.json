@@ -6805,7 +6805,7 @@
   "key": "0a664616e1506d0c24a61bd1cca7d70e",
   "original": "Apprentice",
   "translation": "学徒",
-  "context": "ID: sanguine_order_apprentice\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→sanguine_order_apprentice\n",
+  "context": "ID: NC_BLOOD_MAGE_APPRENTICE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_BLOOD_MAGE_APPRENTICE\n",
   "stage": 3
  },
  {
@@ -7073,7 +7073,7 @@
   "key": "67014b8fb35ede8060503769d5cf26c5",
   "original": "Arcane Purifier",
   "translation": "奥术净化师",
-  "context": "ID: cleansing_flame_purifier_merchant\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→cleansing_flame_purifier_merchant\n",
+  "context": "ID: NC_CF_PURIFIER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_CF_PURIFIER\n",
   "stage": 3
  },
  {
@@ -7087,7 +7087,7 @@
   "key": "1bbf756c002431fc781bb921cc1799b2",
   "original": "Arcanist",
   "translation": "奥术师",
-  "context": "ID: PROF_ARCANIST2\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_other.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→PROF_ARCANIST2\n",
+  "context": "ID: NC_CF_AUX_MAGE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_CF_AUX_MAGE\n",
   "stage": 5
  },
  {
@@ -11055,7 +11055,7 @@
   "key": "9d8eafbbcf71f1be8fe36d78fe39f2be",
   "original": "Grandmaster",
   "translation": "大师",
-  "context": "ID: cleansing_flame_grandmaster\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→cleansing_flame_grandmaster\n",
+  "context": "ID: NC_CF_GM\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_CF_GM\n",
   "stage": 3
  },
  {
@@ -11324,7 +11324,7 @@
   "key": "dfb1e87498a944ac1c4b10880cb20074",
   "original": "Gunslinger",
   "translation": "枪手",
-  "context": "ID: cf_auxillery_mercenary\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→cf_auxillery_mercenary\n",
+  "context": "ID: NC_CF_AUX_MERC\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_CF_AUX_MERC\n",
   "stage": 3
  },
  {
@@ -11736,7 +11736,7 @@
   "key": "cccfaafd2026c0ff56117e517baa0d5c",
   "original": "Hermit",
   "translation": "隐士",
-  "context": "ID: the_hermit\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→the_hermit\n",
+  "context": "ID: NC_HERMIT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_HERMIT\n",
   "stage": 3
  },
  {
@@ -23162,7 +23162,7 @@
   "key": "d0ad9e75d1809ca8bb4b78b34cee1798",
   "original": "Seeker",
   "translation": "探索者",
-  "context": "ID: mage_hunter_seeker\n位于 /Kenan-Structured-Modpack/Arcana/npcs/npcs.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc→mage_hunter_seeker\n",
+  "context": "ID: NC_CF_SEEKER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/NC_FILES.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→npc_class→NC_CF_SEEKER\n",
   "stage": 3
  },
  {

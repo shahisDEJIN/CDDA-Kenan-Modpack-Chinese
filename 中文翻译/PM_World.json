@@ -1456,7 +1456,7 @@
   "key": "6132295fcf5570fb8b0a944ef322a598",
   "original": "Alpha",
   "translation": "阿尔法",
-  "context": "ID: alpha_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→alpha_npc\n",
+  "context": "ID: NC_ALPHA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ALPHA\n",
   "stage": 1
  },
  {
@@ -1759,7 +1759,7 @@
   "key": "0f891fef261105dc27c92212c926e15c",
   "original": "Bongbong",
   "translation": "邦邦",
-  "context": "ID: bongbong_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→bongbong_npc\n",
+  "context": "ID: NC_BONGBONG\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_BONGBONG\n",
   "stage": 1
  },
  {
@@ -2444,7 +2444,7 @@
   "key": "d7ad223a94b1cdb31734ad5fb25df4bd",
   "original": "Gin",
   "translation": "银",
-  "context": "ID: gin_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→gin_npc\n",
+  "context": "ID: NC_KR_GIN\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR_GIN\n",
   "stage": 1
  },
  {
@@ -3082,7 +3082,7 @@
   "key": "ae5f9be0953255382bfd82ae4254d106",
   "original": "Isadora",
   "translation": "伊莎多拉",
-  "context": "ID: isadora_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isadora_npc\n",
+  "context": "ID: NC_ZW_ISADORA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_ISADORA\n",
   "stage": 1
  },
  {
@@ -3096,7 +3096,7 @@
   "key": "d746ef426409bd08b2bc7a49903abae7",
   "original": "Isao",
   "translation": "ISAO",
-  "context": "ID: isao_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isao_npc\n",
+  "context": "ID: NC_ISAO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ISAO\n",
   "stage": 0
  },
  {
@@ -3138,7 +3138,7 @@
   "key": "2344521e389d6897ae7af9abf16e7ccc",
   "original": "Julia",
   "translation": "朱莉娅",
-  "context": "ID: julia_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→julia_npc\n",
+  "context": "ID: NC_ZW_JULIA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_JULIA\n",
   "stage": 1
  },
  {
@@ -5323,7 +5323,7 @@
   "key": "e1229bab1c271d1f1796cb0c52ab9933",
   "original": "Walter",
   "translation": "沃尔特",
-  "context": "ID: walter_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→walter_npc\n",
+  "context": "ID: NC_ZW_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_WALTER\n",
   "stage": 1
  },
  {
@@ -6284,7 +6284,7 @@
   "key": "17d4d4fb5dffdcb48236d9f9bfdd24f1",
   "original": "Zonya",
   "translation": "佐尼娅",
-  "context": "ID: zonya_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zonya_npc\n",
+  "context": "ID: NC_LC_ZONYA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_ZONYA\n",
   "stage": 1
  },
  {
