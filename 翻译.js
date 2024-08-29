@@ -784,6 +784,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       }
     }
     item.description = await translateFunction(item.description);
+    item.job_description = await translateFunction(item.job_description);
     item.detailed_definition = await translateFunction(item.detailed_definition);
     await messageOrMessages(item);
 
@@ -1155,17 +1156,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       item.dialogue.failure = await translateFunction(item.dialogue.failure);
     }
   };
-  translators.npc_class = async (item) => {
-    if(item?.name){
-      item.name = await translateFunction(item.name);
-      if(item.name?.str){
-        item.name.str = await translateFunction(item.name.str);
-      }
-    }
-    if(item?.job_description){
-      item.job_description = await translateFunction(item.job_description)
-    }
-  }
+  translators.npc_class = namePlDesc;
   translators.npc = npc;
   translators.trait_group = noop;
   translators.mapgen = noop;
