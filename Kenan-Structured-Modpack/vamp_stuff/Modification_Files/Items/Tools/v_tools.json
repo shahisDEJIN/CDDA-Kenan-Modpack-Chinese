@@ -16,8 +16,7 @@
         "item_restriction": [
           "light_minus_disposable_cell",
           "light_minus_battery_cell",
-          "light_battery_cell",
-          "light_atomic_battery_cell"
+          "light_battery_cell"
         ]
       }
     ],
@@ -47,8 +46,7 @@
         "item_restriction": [
           "light_minus_disposable_cell",
           "light_minus_battery_cell",
-          "light_battery_cell",
-          "light_atomic_battery_cell"
+          "light_battery_cell"
         ]
       }
     ],

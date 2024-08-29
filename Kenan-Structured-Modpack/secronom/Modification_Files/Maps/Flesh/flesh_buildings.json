@@ -2006,11 +2006,6 @@
         { "group": "ammo_shotgun_common", "x": 3, "y": 8, "chance": 95, "repeat": [ 1, 8 ] },
         { "group": "ammo_rifle_common", "x": 3, "y": 9, "chance": 95, "repeat": [ 1, 6 ] },
         { "group": "mags_common", "x": 3, "y": 10, "chance": 100, "repeat": [ 1, 4 ] },
-        { "group": "mags_pistol_common", "x": 3, "y": 9, "chance": 100, "repeat": [ 1, 4 ] },
-        { "group": "mags_rifle_common", "x": 3, "y": 8, "chance": 75, "repeat": [ 1, 4 ] },
-        { "group": "mags_shotgun_common", "x": 3, "y": 7, "chance": 50, "repeat": [ 1, 4 ] },
-        { "group": "mags_pistol_rare", "x": 3, "y": [ 7, 10 ], "chance": 50 },
-        { "group": "mags_rifle_rare", "x": 3, "y": [ 7, 10 ], "chance": 25 },
         { "group": "book_gunmags", "x": 8, "y": [ 8, 9 ], "chance": 100, "repeat": [ 1, 8 ] },
         { "group": "book_gunmags", "x": 8, "y": [ 11, 12 ], "chance": 50, "repeat": [ 1, 8 ] },
         {
