@@ -50,7 +50,7 @@
         "difficulty": { "melee": 3, "cut": 3 },
         "damage_mult": { "all": 1.2 },
         "coverage": 20,
-        "required_effects": [ "stunned" ],
+        "condition": { "npc_has_any_effect": [ "stunned" ]},
         "effects": [
           {
             "effect": "bleed",
