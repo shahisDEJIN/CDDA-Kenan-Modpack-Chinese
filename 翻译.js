@@ -1158,6 +1158,9 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.npc_class = async (item) => {
     if(item?.name){
       item.name = await translateFunction(item.name);
+      if(item.name?.str){
+        item.name.str = await translateFunction(item.name.str);
+      }
     }
     if(item?.job_description){
       item.job_description = await translateFunction(item.job_description)
