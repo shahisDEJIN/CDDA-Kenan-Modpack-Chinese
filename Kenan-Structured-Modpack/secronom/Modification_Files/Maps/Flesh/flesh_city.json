@@ -2007,7 +2007,6 @@
         { "group": "mags_shotgun_common", "x": 3, "y": 7, "chance": 50, "repeat": [ 1, 4 ] },
         { "group": "mags_pistol_rare", "x": 3, "y": [ 7, 10 ], "chance": 50 },
         { "group": "mags_rifle_rare", "x": 3, "y": [ 7, 10 ], "chance": 25 },
-        { "group": "mags_shotgun_rare", "x": 3, "y": [ 7, 10 ], "chance": 10 },
         { "group": "book_gunmags", "x": 8, "y": [ 8, 9 ], "chance": 100, "repeat": [ 1, 8 ] },
         { "group": "book_gunmags", "x": 8, "y": [ 11, 12 ], "chance": 50, "repeat": [ 1, 8 ] },
         {
