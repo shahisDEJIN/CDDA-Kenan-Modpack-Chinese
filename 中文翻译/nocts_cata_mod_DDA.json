@@ -10382,7 +10382,7 @@
   "key": "17c144538637e2cc99e50827e4eac7f3",
   "original": "light rechargeable plutonium cell",
   "translation": "可再充钚燃料电池（轻型）",
-  "context": "ID: light_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→light_atomic_battery_cell_rechargeable\n",
+  "context": "ID: medium_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→medium_atomic_battery_cell_rechargeable\n",
   "stage": 3
  },
  {
@@ -10489,7 +10489,6 @@
   "key": "a5528c39617cb73f6d77d8f7b04d6e60",
   "original": "medium rechargeable plutonium cell",
   "translation": "可再充钚燃料电池（中型）",
-  "context": "ID: medium_atomic_battery_cell_rechargeable\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MAGAZINE→medium_atomic_battery_cell_rechargeable\n",
   "stage": 3
  },
  {

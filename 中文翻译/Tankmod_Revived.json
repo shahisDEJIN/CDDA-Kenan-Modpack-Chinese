@@ -914,9 +914,9 @@
  {
   "key": "ff94455358cc7416b46ef50e4dd2860f",
   "original": "large artillery casing",
-  "translation": "large artillery casing",
+  "translation": "大型火炮弹壳",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→GENERIC→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0d9e696f218868b67e6054cb8592f00e",

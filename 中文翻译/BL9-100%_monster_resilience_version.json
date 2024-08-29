@@ -5530,7 +5530,7 @@
   "original": "About that mission...",
   "translation": "关于那个任务...",
   "context": "ID: TALK_BL9_ALLIANCE_BASE_HOLOGRAM\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/NPC_missions.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→talk_topic→TALK_BL9_ALLIANCE_BASE_HOLOGRAM\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f5a2ff1c54ff9f26aaf9e93343d24565",
@@ -6123,8 +6123,8 @@
  {
   "key": "294999a42cb636726907287ee1599cc5",
   "original": "An armored professional soldier infected by the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the BL9 presence,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a railgun and it obviously knows how to use it well.",
-  "translation": "一名被BL9病毒感染的装甲职业军人。它似乎仍保持着意识，具有正常人的所有特征，但面部表情异常攻击性和烦躁，明显的反应速度加快以及充血的眼睛显示出BL9病毒的影响。它们会竭尽全力阻止任何成功潜入其领地的入侵者。这名军人装备了轨道枪，并且显然擅长使用它。",
-  "stage": 1
+  "translation": "一名身披重甲的职业军人，不幸遭受了BL9病毒的感染。此人外表与常人无异，唯有面部表情异常暴戾，目光焦躁，加之反应能力显著提升及布满血丝的眼眸，皆是BL9感染的典型表征。对于任何闯入其营地的不速之客，他将全力以赴予以阻击。这名军人装备了轨道枪，并且显然擅长使用它。",
+  "stage": 3
  },
  {
   "key": "410a090fb65e39f72803311fc991bea0",
@@ -6136,13 +6136,13 @@
   "key": "c272f75dbd7946a235ef6de0d617bc2a",
   "original": "An armored professional soldier infected by the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the BL9 presence,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with a rifle and it obviously knows how to use it well.",
   "translation": "一名身披重甲的职业军人，不幸遭受了BL9病毒的感染。此人外表与常人无异，唯有面部表情异常暴戾，目光焦躁，加之反应能力显著提升及布满血丝的眼眸，皆是BL9感染的典型表征。对于任何闯入其营地的不速之客，他将全力以赴予以阻击。此人手持步枪，显然是一位射击高手。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "62806bfd3d2631545867a0efb760e81b",
   "original": "An armored professional soldier infected by the BL9. It appears to be sentient, having all characteristics of a normal person except for strangely aggressive and bothered look on it's face, evidently faster reflexes and bloodshot eyes indicating the BL9 presence,  they will do their best to stop any intruder that managed to infiltrate their compound, this one is armed with an energy machine gun, pack of energy grenades and it obviously knows how to use them well.",
-  "translation": "一名被BL9病毒感染的装甲职业军人。它似乎保持着意识，具备正常人的所有特征，但面容异常凶猛，显得焦躁不安，其明显的快速反应能力和充血的眼睛表明了BL9病毒的存在。它们会竭尽全力阻止任何成功潜入其领地的入侵者。这名士兵装备有能量机枪、能量手榴弹，并显然擅长使用这些武器。",
-  "stage": 1
+  "translation": "一名身披重甲的职业军人，不幸遭受了BL9病毒的感染。此人外表与常人无异，唯有面部表情异常暴戾，目光焦躁，加之反应能力显著提升及布满血丝的眼眸，皆是BL9感染的典型表征。对于任何闯入其营地的不速之客，他将全力以赴予以阻击。这名士兵装备有能量机枪、能量手榴弹，并显然擅长使用这些武器。",
+  "stage": 3
  },
  {
   "key": "0e7721d58ccead824b69c7db2055eb7e",
@@ -7659,9 +7659,9 @@
  {
   "key": "cf577492c366aca22877f4bd7098cd05",
   "original": "BL9 Base Android",
-  "translation": "BL9基础型号安卓机器人",
+  "translation": "BL9基础型人形机器人",
   "context": "ID: BL9_baseandroid\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/NPC_BL9_Base_Android.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→npc→BL9_baseandroid\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0bd4e0955cc01ef7d6b5cc74898cb4ae",
@@ -7998,7 +7998,7 @@
   "original": "BL9 Guide - Part 6 - Late-Game Explanations",
   "translation": "BL9 指南 - 第六部分 - 游戏后期说明",
   "context": "ID: BL9_guide_note6\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_guide_note6\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "49818d57c72b5c4a257c80b1ebca8707",
@@ -14357,7 +14357,7 @@
  {
   "key": "2e6a78c4052ef408ca0875ef815a6419",
   "original": "Initiate fancy reading mode. These alien species are native to a swamp-like shrouded by glowing purple fog of some sorts planet of Arganoides. Yengnutrium are insectoids, resembling a strange mix of mantises and locusts, they breed and live in dryer underground cave systems of this planet. They have an elongated body, 2 antennas protruding from their heads, multiple eyes, many of them may have wings and 2 sharp serrated claws.\n \n    Obviously, Arganoides have brought them here. Possibly for using them as experimental subjects for infusing with BL9, since it is the main reason 'Alliance' is here. We must approach them carefully. If they are infused with BL9 then many of them must have mutated as well",
-  "translation": "启动华丽阅读模式。这些外星物种是Arganoides星球上的原生物种，该星球笼罩在某种发光的紫色雾气之中，宛如一片沼泽。Yengnutrium属于昆虫类生物，形似奇特的螳螂与蝗虫混合体，它们在这个星球较干燥的地下洞穴系统中繁殖和生活。其身体细长，头部伸出两根触角，拥有复眼，许多个体还生有翅膀及一对锋利的锯齿状爪子。\n\n显而易见，是Arganoides将它们带到了这里。可能目的是将它们作为试验对象，注入BL9病毒进行实验，毕竟这是“联盟”此行的主要目的。我们必须谨慎接近它们。如果它们被注入了BL9，那么其中许多个体很可能也发生了变异。",
+  "translation": "启动华丽阅读模式。这些外星物种是Arganoides星球上的原生物种，该星球笼罩在某种发光的紫色雾气之中，宛如一片沼泽。英努特里姆属于昆虫类生物，形似奇特的螳螂与蝗虫混合体，它们在这个星球较干燥的地下洞穴系统中繁殖和生活。其身体细长，头部伸出两根触角，拥有复眼，许多个体还生有翅膀及一对锋利的锯齿状爪子。\n\n显而易见，是Arganoides将它们带到了这里。可能目的是将它们作为试验对象，注入BL9病毒进行实验，毕竟这是“联盟”此行的主要目的。我们必须谨慎接近它们。如果它们被注入了BL9，那么其中许多个体很可能也发生了变异。",
   "context": "ID: TALK_BL9_BASE_ANDROID3_YENGNUTRIUM\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/BL9_Base_Android.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→talk_topic→TALK_BL9_BASE_ANDROID3_YENGNUTRIUM\n",
   "stage": 1
  },
@@ -19298,7 +19298,7 @@
  {
   "key": "a44ea0677fdf8367bb4d8137b84dd819",
   "original": "These alien species are native to a swamp-like shrouded by glowing purple fog of some sorts planet of Arganoides. Yengnutrium are insectoids, resembling a strange mix of mantises and locusts, they breed and live in dryer underground cave systems of this planet. They have an elongated body, 2 antennas protruding from their heads, multiple eyes, many of them may have wings and 2 sharp serrated claws.\n \n    Obviously, Arganoides have brought them here. Possibly for using them as experimental subjects for infusing with BL9, since it is the main reason 'Alliance' is here. We must approach them carefully. If they are infused with BL9 then many of them must have mutated as well",
-  "translation": "这些外星物种是Arganoides星球上的原住民，该星球被某种发光的紫色雾气笼罩，宛如一片沼泽。Yengnutrium属于昆虫类生物，形似奇特的螳螂与蝗虫混合体，它们在该星球较干燥的地下洞穴系统中繁衍生活。它们拥有细长的身体，头部伸出两根触角，拥有多只眼睛，许多个体还长有翅膀和两对锋利的锯齿爪。\n\n显而易见，是Arganoides将它们带到了这里。可能是为了用作BL9融合实验的对象，毕竟‘联盟’来到这里的主要目的就是BL9。我们必须谨慎接近它们。如果它们被注入了BL9，那么其中许多可能也已经发生了变异。",
+  "translation": "这些外星物种是Arganoides星球上的原住民，该星球被某种发光的紫色雾气笼罩，宛如一片沼泽。英努特里姆属于昆虫类生物，形似奇特的螳螂与蝗虫混合体，它们在该星球较干燥的地下洞穴系统中繁衍生活。它们拥有细长的身体，头部伸出两根触角，拥有多只眼睛，许多个体还长有翅膀和两对锋利的锯齿爪。\n\n显而易见，是Arganoides将它们带到了这里。可能是为了用作BL9融合实验的对象，毕竟‘联盟’来到这里的主要目的就是BL9。我们必须谨慎接近它们。如果它们被注入了BL9，那么其中许多可能也已经发生了变异。",
   "context": "ID: BL9_intel_yengn1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_intel_yengn1\n",
   "stage": 1
  },
@@ -20571,7 +20571,7 @@
  {
   "key": "c267d821db215cc13d5fc616e5d254ad",
   "original": "Yengnutrium Mutant Amalgamation with all of it's typical traits: 2 asymetrically growing heads - one resembles a mix of a mantis' and fly's head with multiple rapidly blinking eyes - the other resembles a mix of a locust's and cockroach's head with 2 eyes at both sides of it. What's left of it's humanoid body is barely recognizable - it's vertically elongated with 2 winged tentacles protruding from it's back. 2 serrated curved claws in the place of the arms, and 2 spiked far apart insect legs. What distinguishes this creature from other Amalgamations is that it is bigger, faster, seems to be trained as an experimental soldier. It holds a strange organic-looking gun in one of it's claws",
-  "translation": "融合了典型特征的叶nutrium变种合体：拥有两个不对称生长的头颅——一个头颅混合了螳螂和苍蝇的特点，拥有多个快速眨动的眼睛；另一个头颅则混合了蝗虫与蟑螂的特征，两侧各有两个眼睛。其类人形的身体已难以辨认，纵向拉长，背部伸出两只带翼的触须。双臂位置长有锯齿状弯曲的爪子，以及两只有刺且间距较远的昆虫腿。这种生物与其他合体的不同之处在于它体型更大、速度更快，似乎受过作为实验性士兵的训练。它的一只爪中握着一把奇特的、看起来像有机物制成的枪。",
+  "translation": "融合了典型特征的英努特里姆变种合体：拥有两个不对称生长的头颅——一个头颅混合了螳螂和苍蝇的特点，拥有多个快速眨动的眼睛；另一个头颅则混合了蝗虫与蟑螂的特征，两侧各有两个眼睛。其类人形的身体已难以辨认，纵向拉长，背部伸出两只带翼的触须。双臂位置长有锯齿状弯曲的爪子，以及两只有刺且间距较远的昆虫腿。这种生物与其他合体的不同之处在于它体型更大、速度更快，似乎受过作为实验性士兵的训练。它的一只爪中握着一把奇特的、看起来像有机物制成的枪。",
   "context": "ID: mon_BL9_yengn_6\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/pecurial_bastards.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_yengn_6\n",
   "stage": 1
  },
@@ -20585,7 +20585,7 @@
  {
   "key": "c57da1e7a9a1ad0304fae473cea451ef",
   "original": "Yengnutrium Super Soldier",
-  "translation": "营养钛超级战士",
+  "translation": "英努特里姆超级战士",
   "context": "ID: mon_BL9_yengn_6\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/BL9monsters/pecurial_bastards.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→MONSTER→mon_BL9_yengn_6\n",
   "stage": 1
  },

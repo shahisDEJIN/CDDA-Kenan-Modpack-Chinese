@@ -3495,6 +3495,13 @@
   "stage": 3
  },
  {
+  "key": "e1c2d5bdd1848644c7530ab4222f9fb2",
+  "original": "Flesh Spawn",
+  "translation": "Flesh Spawn",
+  "context": "ID: NC_SECRO_FLESH_SPAWN\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESH_SPAWN\n",
+  "stage": 1
+ },
+ {
   "key": "1295973e23c6de2b3e3f99753d9fdcf8",
   "original": "Flesh Vessel",
   "translation": "脉管装甲",
@@ -3684,6 +3691,13 @@
   "original": "Here you are.",
   "translation": "给你。",
   "stage": 5
+ },
+ {
+  "key": "cd8acb5d1783ed0cfbebe56403e941a2",
+  "original": "Hiveling",
+  "translation": "Hiveling",
+  "context": "ID: NC_SECRO_FLESH_START\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESH_START\n",
+  "stage": 1
  },
  {
   "key": "55f9b417828f26a879fa9df9e62be2fa",
@@ -4956,6 +4970,13 @@
   "translation": "Secronom研究员",
   "context": "ID: secro_faction\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→faction→secro_faction\n",
   "stage": 5
+ },
+ {
+  "key": "176bd95836107b93ecd41a3c37bfe506",
+  "original": "Secronom Scientist",
+  "translation": "Secronom Scientist",
+  "context": "ID: NC_SECRO_SCIENTIST\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_SCIENTIST\n",
+  "stage": 1
  },
  {
   "key": "3becc918a3e52e422c627cc108107c29",

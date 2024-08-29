@@ -1498,6 +1498,13 @@
   "stage": 3
  },
  {
+  "key": "e04c977c307987b54c841716ad4df799",
+  "original": "Vampire Arcane Seeker",
+  "translation": "Vampire Arcane Seeker",
+  "context": "ID: V_SEEKER\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→npc_class→V_SEEKER\n",
+  "stage": 1
+ },
+ {
   "key": "bef2b69957eb25310cb86198964d37a7",
   "original": "Vampiric Stuff + Arcana Mod Extension",
   "translation": "吸血鬼+奥术扩展",

@@ -5301,6 +5301,13 @@
   "stage": 5
  },
  {
+  "key": "76e51aeca67ad0949e3f150f7840f1c9",
+  "original": "Shopkeep",
+  "translation": "Shopkeep",
+  "context": "ID: H_JUNKSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_JUNKSHOP\n",
+  "stage": 1
+ },
+ {
   "key": "52867c2c1210451155b77f42a25c6733",
   "original": "Shrouded in black, mystical mist, it moves silently in every step while remains unseen to its prey. A vampire skilled in lashing and striking, with pure wisdom to the acts of the dark days.",
   "translation": "它笼罩在黑色神秘的薄雾中，每一步都在无声地移动，而猎物却看不见它。这是一个擅长鞭打和猛击的吸血鬼。",
@@ -6850,6 +6857,13 @@
   "stage": 1
  },
  {
+  "key": "c86fc76b9c340829641c175ae3d357b2",
+  "original": "Underground Vampires",
+  "translation": "Underground Vampires",
+  "context": "ID: V_UNDERCOMMANDO\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERCOMMANDO\n",
+  "stage": 1
+ },
+ {
   "key": "0cf9a4b75f4cfa4abed4d5d068fdb6eb",
   "original": "Underground bombardments of pure damage.",
   "translation": "纯粹破坏的地下轰炸。",
@@ -6953,6 +6967,13 @@
   "translation": "吸血鬼狂热分子",
   "context": "ID: vampfreak\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Others/v_scenario_class.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→profession→vampfreak\n",
   "stage": 3
+ },
+ {
+  "key": "3cf0a3bec3614bb4146193f7c80944bf",
+  "original": "Vampire Gunkeeper",
+  "translation": "Vampire Gunkeeper",
+  "context": "ID: V_GUNSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_GUNSHOP\n",
+  "stage": 1
  },
  {
   "key": "6d27986c55e57b88b5f21b05b2651d37",
@@ -7142,6 +7163,27 @@
   "translation": "荒地居民",
   "context": "ID: wastelander\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_faction.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→faction→wastelander\n",
   "stage": 3
+ },
+ {
+  "key": "361762af6718c1576c738482ceacc3b0",
+  "original": "Wasteland Guard Vampire",
+  "translation": "Wasteland Guard Vampire",
+  "context": "ID: V_WASTEGUARD2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTEGUARD2\n",
+  "stage": 1
+ },
+ {
+  "key": "d90536ed75adebf43c120309e9719eca",
+  "original": "Wasteland Refugee",
+  "translation": "Wasteland Refugee",
+  "context": "ID: H_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_WASTELAND\n",
+  "stage": 1
+ },
+ {
+  "key": "96f7b7d4b7373a82f59183af57cbfd48",
+  "original": "Wasteland Vampires",
+  "translation": "Wasteland Vampires",
+  "context": "ID: V_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTELAND\n",
+  "stage": 1
  },
  {
   "key": "ab3ff68df6a52e0b385bd737de341a41",

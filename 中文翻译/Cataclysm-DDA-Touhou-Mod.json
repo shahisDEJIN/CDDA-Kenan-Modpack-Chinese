@@ -126,10 +126,23 @@
   "stage": 3
  },
  {
+  "key": "d4f0ef947c2e4d1144fd9b50bb8f49a5",
+  "original": "<global_val:var_detectrad_furn_TEST_1> AAA",
+  "translation": "<global_val:var_detectrad_furn_TEST_1> AAA",
+  "context": "ID: utsuho_detectrad_furn_eoc_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_detectrad_furn_eoc_WIP\n",
+  "stage": 1
+ },
+ {
+  "key": "1c30ef33dfcd866de678f5c926fa7d52",
+  "original": "<global_val:var_detectrad_furn_TEST_2> BBB",
+  "translation": "<global_val:var_detectrad_furn_TEST_2> BBB",
+  "context": "ID: utsuho_detectrad_furn_eoc_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_detectrad_furn_eoc_WIP\n",
+  "stage": 1
+ },
+ {
   "key": "8386ec6bbd041559cbfe7f28f4968c72",
   "original": "<global_val:var_detectrad_item_1_1> AAA",
   "translation": "<global_val:var_detectrad_item_1_1> AAA",
-  "context": "ID: utsuho_detectrad_item_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_detectrad_item_eoc\n",
   "stage": 1
  },
  {
@@ -1173,7 +1186,7 @@
  {
   "key": "65e78a4a13e485e7059d7370f3e76e0c",
   "original": "A seat, for the corpse cart.",
-  "translation": "一个座位，火焰猫磷的火车上的。",
+  "translation": "一个座位，火焰猫磷的猫车上的。",
   "stage": 3
  },
  {
@@ -1506,7 +1519,7 @@
  {
   "key": "30b7e4f2f878f7ffd1e06003f6bde77c",
   "original": "A white helmet with space for a Moon Rabbit's ears to stick out of.  It has a black bow decorating the back side.  This is worn by members of the Lunar Defense Corps.",
-  "translation": "一顶白色的头盔，预留了空间让月兔们的两只兔耳伸出来。头盔背面有一个黑色蝴蝶结的装饰。配发给月面防卫队成员。",
+  "translation": "一顶白色的头盔，预留了空间让月兔们的两只兔耳伸出来。头盔背面有一个黑色蝴蝶结的装饰。配发给月球防卫部队成员。",
   "context": "ID: ldc_helmet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_helmet\n",
   "stage": 3
  },
@@ -1568,7 +1581,7 @@
  {
   "key": "f18c3273a57d3195840d695741e4ab91",
   "original": "Activate some of your qi reserves to enhance your melee attacks.  Deactivates if you wield any item.",
-  "translation": "运起气劲强化近战攻击。手持任意物品时停止任意",
+  "translation": "运起气劲强化近战攻击。手持任意物品时停止。",
   "stage": 3
  },
  {
@@ -2532,7 +2545,7 @@
  {
   "key": "ee37f7b2fb43fc8324aa3eccf8f695ed",
   "original": "Channel for a short time, blasting the target location with a circle of hellfire, instantly dealing damage and heavily burning them over time.",
-  "translation": "Channel for a short time, blasting the target location with a circle of hellfire, instantly dealing damage and heavily burning them over time.",
+  "translation": "引导一小段时间，在目标位置爆发出一轮地狱之火，立即造成伤害并随着时间的推移造成严重烧伤。",
   "context": "ID: kaenbyou_blazingwheel2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_blazingwheel2\n",
   "stage": 3
  },
@@ -3429,7 +3442,7 @@
   "key": "30f07ba01415355119dc03793f149eed",
   "original": "Detect radiation",
   "translation": "检测辐射",
-  "context": "ID: utsuho_detectrad\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad\n",
+  "context": "ID: utsuho_detectrad_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad_WIP\n",
   "stage": 3
  },
  {
@@ -3449,6 +3462,20 @@
   "original": "Detect radiation (item)",
   "translation": "Detect radiation (item)",
   "stage": 3
+ },
+ {
+  "key": "a3a18c2c6170382a6530157b8e59f48c",
+  "original": "Detect radiation (monsters)",
+  "translation": "Detect radiation (monsters)",
+  "context": "ID: utsuho_detectrad2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad2\n",
+  "stage": 1
+ },
+ {
+  "key": "d63bbdf85f0ad6b0fb793fa8b5450ad8",
+  "original": "Detects monsters",
+  "translation": "Detects monsters",
+  "context": "ID: utsuho_detectrad2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad2\n",
+  "stage": 1
  },
  {
   "key": "cb0ff5333a11d688398eb1000425dda3",
@@ -3980,7 +4007,7 @@
  {
   "key": "e4536268470f248eb54ddbba3f3d737f",
   "original": "Entangle a target and pull it towards your position, stunning it for a short time.",
-  "translation": "Entangle a target and pull it towards your position，stunning it for a short time.",
+  "translation": "纠缠一个目标并朝你的方向拉拽，并眩晕一小段时间。",
   "context": "ID: yamame_damnedrope2_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2_UPDATED\n",
   "stage": 3
  },
@@ -5439,7 +5466,7 @@
  {
   "key": "6cf4604c4de140b745a753782b85fe98",
   "original": "Hurl a mass of unholy fire towards a target, which explodes burning their soul, and damaging any enemy nearby.",
-  "translation": "Hurl a mass of unholy fire towards a target, which explodes burning their soul, and damaging any enemy nearby.",
+  "translation": "向目标投掷一团邪恶之火，爆炸时燃烧其灵魂，并对附近的敌人造成伤害。",
   "stage": 3
  },
  {
@@ -5644,7 +5671,7 @@
  {
   "key": "811444dc0a38524cf66116385900ab17",
   "original": "Infuse your weapon with spiritual energy and sweep in front of you, dealing damage and pulling enemies towards your position.",
-  "translation": "Infuse your weapon with spiritual energy and sweep in front of you，dealing damage and pulling enemies towards your position.",
+  "translation": "向你的武器注入灵力并横扫前方，造成伤害并将敌人推开。",
   "context": "ID: kokoro_backsweep2_stab\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_backsweep2_stab\n",
   "stage": 3
  },
@@ -6755,7 +6782,7 @@
  {
   "key": "0f6f866105b05e553846859a117602fc",
   "original": "Nail slash",
-  "translation": "Nail slash",
+  "translation": "爪斩",
   "context": "ID: yoshika_nails\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails\n",
   "stage": 3
  },
@@ -6955,7 +6982,7 @@
  {
   "key": "6c25aaaa4a20b21f7f2c98830b5470a6",
   "original": "Nìzhuǎn qì (effect)",
-  "translation": "Nìzhuǎn qì (effect)",
+  "translation": "逆转",
   "context": "ID: seiga_chireversal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chireversal2\n",
   "stage": 3
  },
@@ -7164,7 +7191,7 @@
  {
   "key": "40802c19acc7bc9cd142674665698603",
   "original": "Parry attack",
-  "translation": "Parry attack",
+  "translation": "招架攻击",
   "context": "ID: kasen_parry\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_parry\n",
   "stage": 1
  },
@@ -9126,9 +9153,9 @@
  {
   "key": "554cac08b2548d6bfddc12ad05718082",
   "original": "Storage for the corpse cart.  When assembled, you can store stuff here.",
-  "translation": "丧尸车的储物空间。组装完成后，你可以在这里存放物品。",
+  "translation": "猫车的储物空间。组装完成后，你可以在这里存放物品。",
   "context": "ID: storage_corpsecart\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→storage_corpsecart\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0649cf1e855cddb69b35c5da1ccd1e77",
@@ -10220,6 +10247,13 @@
   "stage": 3
  },
  {
+  "key": "2c71ed68acda3c87f042bbb31d610e4c",
+  "original": "This is casted via eocs. It places the field by a spell instead of using u_set_field . There's virtually no difference",
+  "translation": "This is casted via eocs. It places the field by a spell instead of using u_set_field . There's virtually no difference",
+  "context": "ID: utsuho_detectrad_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad_WIP\n",
+  "stage": 1
+ },
+ {
   "key": "789259da3b7556a0252c298d6d26470a",
   "original": "This reduces the condition for mon_utsuho_minisun to cast the spell",
   "translation": "This reduces the condition for mon_utsuho_minisun to cast the spell",
@@ -10667,9 +10701,9 @@
  {
   "key": "e7195de2b099f692eab7a1d22ac7f74d",
   "original": "Tāi dòng",
-  "translation": "Tāi dòng",
+  "translation": "胎动",
   "context": "ID: seiga_foetusmovement\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_foetusmovement\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d4edd9a772577e5a9df4b1740c08799c",
@@ -11259,9 +11293,9 @@
  {
   "key": "a823efb6947ef18d9a1157ff50204660",
   "original": "Wicked hermit",
-  "translation": "Wicked hermit",
+  "translation": "邪仙",
   "context": "ID: WICKED_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WICKED_HERMIT\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "226054181032403d1ab8ae7f724c03c2",
@@ -11470,7 +11504,7 @@
  {
   "key": "7984821f870af41d7ddc8c3a9734b4e9",
   "original": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your self, which is in turn compossed of 66 Noh masks turned youkai.",
-  "translation": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your self, which is in turn compossed of 66 Noh masks turned youkai.",
+  "translation": "你是面灵气，是付丧神的一个亚种。你的人形形态是你本我的潜意识投影，而你的本我则是由66枚面具转化而成的妖怪。",
   "context": "ID: MENREIKI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→MENREIKI_SPECIES\n",
   "stage": 1
  },
@@ -12813,14 +12847,14 @@
  {
   "key": "f8d177e846e8c1e3d676074a75830482",
   "original": "You were walking to some location in Gensokyo, and ended up in the Outside World.  Not only that, but thousands of ri away! This incident seems to be on another whole level.",
-  "translation": "你本来走在幻想乡内的去某个地方的路上，结果来到了外界的世界。不仅如此，你还离原来的地方有数千里之遥！这次异变程度似乎是另一种层次的等级了。",
+  "translation": "你本来在幻想乡内去某个地方的路上，却意外来到了外界。不仅如此，你还离原来的地方有数千里之遥！这次异变程度似乎到另一种层次的等级了。",
   "context": "ID: touhou_everything\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→scenario→touhou_everything\n",
   "stage": 3
  },
  {
   "key": "bf3ab18fcc2586a0da487d95f661fd95",
   "original": "You whip your weapon upwards %s, knocking them back!",
-  "translation": "You whip your weapon upwards %s，knocking them back！",
+  "translation": "你挥舞武器上扫 %s，将敌人击退！",
   "stage": 1
  },
  {
@@ -13235,9 +13269,9 @@
  {
   "key": "35f4755d08ffa522bd5358b31f95b60b",
   "original": "Your immortal rival that you've been killing constantly (and vice-versa) has mysteriously vanished during the Cataclysm, along with everyone else that you knew.  You face the post-Cataclysm world alone with lots and lots of fire.",
-  "translation": "你一直厮杀的不死之敌(如你这般)在大灾变中神秘消失了，你所认识的所有人也是如此。你要独自一人，带着熊熊烈火去面对被大灾变摧残后的世界了。",
+  "translation": "你一直厮杀（彼此相杀）的不死之敌在大灾变中神秘消失了，你所认识的所有人也是如此。你要独自一人，带着熊熊烈火去面对大灾变摧残后的世界了。",
   "context": "ID: fujiwara_no_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→fujiwara_no_mokou\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "927ca0ed13bfceb73dc8adafaf4d5788",
@@ -15165,7 +15199,7 @@
  {
   "key": "1e29a4656c6c1127098dae21cd101468",
   "original": "pierced",
-  "translation": "动摇",
+  "translation": "穿刺",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
   "stage": 1
  },
