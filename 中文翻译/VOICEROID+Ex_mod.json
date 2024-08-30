@@ -32,7 +32,7 @@
   "original": "%sのバッテリーが不足している為、強化外骨格『吉田ロイド』が機能を停止しました。",
   "translation": "%s的电池能量不足、强化外骨骼『吉田机器人』已自动关闭。",
   "context": "ID: voiro_yoshidaroid\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_yoshidaroid\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c4cc63634ac0ad7d22cae8470f744804",
@@ -95,7 +95,7 @@
   "original": "<color_pink>追加 - ボイスロイド</color>",
   "translation": "<color_pink>追加 - ボイロ</color>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→MOD_INFO→[0]\n",
-  "stage": 3
+  "stage": 2
  },
  {
   "key": "9e86f6648ce8eca757523624943a1ad6",
@@ -751,30 +751,30 @@
  {
   "key": "eac6ec4ecff13c3f52282961aae48223",
   "original": "CeVIOのキャラクター、OИEの容姿になります。",
-  "translation": "外观变为CeVIO的角色“OИE”。",
+  "translation": "外观变为CeVIO的角色“ONE”。",
   "context": "ID: VOIRO_BODY_ONE\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_ONE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "717176e97511844dde884f3fe152d4cb",
   "original": "CeVIOのキャラクター、さとうささらの容姿になります。",
   "translation": "外观变为CeVIO的角色“佐藤莎莎拉”。",
   "context": "ID: VOIRO_BODY_SASARA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_SASARA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "856c7ad48b8bc0c9f202a3b12c68d44d",
   "original": "CeVIOのキャラクター、すずきつづみの容姿になります。",
   "translation": "外观变为CeVIO的角色“铃木梓梓弥”。",
   "context": "ID: VOIRO_BODY_TSUZUMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TSUZUMI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fa8bb46d5cf89d9d7eadd830b5f9b06a",
   "original": "CeVIOのキャラクター、タカハシの容姿になります。。",
   "translation": "外观变为CeVIO的角色“高桥”。",
   "context": "ID: VOIRO_BODY_TAKAHASHI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TAKAHASHI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "be89eae7d126a7d1618b7ecdaa9b96be",
@@ -809,7 +809,7 @@
   "original": "LAKISTONの文字とロゴマークが入ったグレーのパーカーです。",
   "translation": "灰色连帽衫，饰有玩偶熊“LAKISTON”的徽标和字母。",
   "context": "ID: voiro_hoodie_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hoodie_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc0b6441dc2fdacff9bcc720f087679f",
@@ -823,14 +823,14 @@
   "original": "Lをふたつ対極させた様なマークが付いたチョーカーです。",
   "translation": "带有看起来像两个对立的L的标记的项圈。",
   "context": "ID: voiro_choker\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_choker\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "43bcdf705b0515479cc464e489166617",
   "original": "MusicMakerのイメージキャラクター、弦巻マキの容姿になります。",
   "translation": "外观变为MusicMaker的形象代言人“弦卷真纪”。",
   "context": "ID: VOIRO_BODY_MAKI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MAKI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c31cc776d78b3ade62769030714f4da6",
@@ -851,49 +851,49 @@
   "original": "SAS隊員",
   "translation": "SAS队员",
   "context": "ID: VOIRO_PROF_SAS\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_PROF_SAS\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "682e70d56bf58adad285ec66c7f72b59",
   "original": "SAS隊員(大尉)[VOIRO]",
-  "translation": "SAS队员（ゆかミラン大尉）[VOIRO]",
+  "translation": "SAS队员（大尉）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[31]\n",
-  "stage": 3
+  "stage": 2
  },
  {
   "key": "19aae7b13501a291eb6c0fa593689bef",
   "original": "Spicy版に変化しました。",
   "translation": "变为Spicy版。",
   "context": "ID: voiro_sneakers_una_sugar\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sneakers_una_sugar\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1fe3525a55933ee3f3e82312dc146975",
   "original": "Sugar&Spicy版に変化しました。",
   "translation": "变为Sugar&Spicy版。",
   "context": "ID: voiro_hair_una3\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b0d164cad8f8dee774b08d9cf3012798",
   "original": "Sugar版に変化しました。",
   "translation": "变为Sugar版。",
   "context": "ID: voiro_boots_una\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_una\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b1522c48219d6a5602f66b1635cc8fcc",
   "original": "Talk_EX版に変化しました。",
   "translation": "变为Talk_Ex版。",
   "context": "ID: voiro_socks_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_una_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0090c95403011c449bd959889fa7fb48",
   "original": "Talk_Ex版に変化しました。",
   "translation": "变为Talk_Ex版。",
   "context": "ID: voiro_hair_una3_sugar_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una3_sugar_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d69c657d870783acde66436cd6ebe57e",
@@ -935,224 +935,224 @@
   "original": "VOCALOIDのキャラクター、初音ミクの容姿になります。\n変異を有効化する事により弱音ハクの容姿になります。",
   "translation": "外观变为VOCALOID的角色“初音未来”。\n激活变异以变成弱音白的样子。",
   "context": "ID: VOIRO_BODY_MIKU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MIKU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5565d017907e5c5e478c266e27e685c2",
   "original": "VOCALOIDのキャラクター、弱音ハクの容姿になります。\n変異を有効化する事により初音ミクの容姿になります。",
   "translation": "外观变为VOCALOID的角色“弱音白”。\n激活变异以变成初音未来的样子。",
   "context": "ID: VOIRO_BODY_MIKU_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MIKU_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "05c0d8562fe20c64a16108645dccfd45",
   "original": "VOCALOID及びVOICEROIDのキャラクター、IAの容姿になります。",
   "translation": "外观变为VOCALOID和VOICEROID的角色“IA”。",
   "context": "ID: VOIRO_BODY_IA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_IA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2312f64c94440ce628ebce817d399706",
   "original": "VOCALOID及びVOICEROIDのキャラクター、桜乃そらの容姿になります。",
   "translation": "外观变为VOCALOID和VOICEROID的角色“樱乃空”。",
   "context": "ID: VOIRO_BODY_SORA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_SORA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c35afc5d72bc63e12eaebfeaf43570d2",
   "original": "VOCALOID及びVOICEROIDのキャラクター、結月ゆかりの容姿になります。\n変異を有効化する事により胸がまな板になります。",
   "translation": "外观变为VOCALOID和VOICEROID的角色“结月缘”。\n激活变异以将你的胸打回原形，变成砧板。",
   "context": "ID: VOIRO_BODY_YUKARI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ef4b5802f3e5139f5c6edc1aeed41d67",
   "original": "VOCALOID及びVOICEROIDのキャラクター、結月ゆかりの容姿になります。\n変異を有効化する事により胸が元に戻ります。",
   "translation": "外观变为VOCALOID和VOICEROID的角色“结月缘”。\n激活变异以使你的胸虚假地变大。",
   "context": "ID: VOIRO_BODY_YUKARI_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b24b0e30e021723fd1aa2f6db8145905",
   "original": "VOCALOID及びガイノイドTalkのキャラクター、flowerの容姿になります。",
   "translation": "外观变为VOCALOID和Gynoid Talk的角色“flower”。",
   "context": "ID: VOIRO_BODY_FLOWER\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_FLOWER\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ba0e131fba41eb6daee86cdb0e8ee6c5",
   "original": "VOCALOID及びガイノイドTalkのキャラクター、鳴花ヒメ(VOCALOID)の容姿になります。\n変異を有効化する事により鳴花ヒメ(ガイノイドTalk)の容姿になります。",
   "translation": "外观变为VOCALOID和Gynoid Talk的角色“鸣花姬（VOCALOID版）”。\n激活变异以变成鸣花姬（Gynoid Talk版）的样子。",
   "context": "ID: VOIRO_BODY_HIME_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HIME_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7a08a6348f2c0e4f3e70bdd228cbab43",
   "original": "VOCALOID及びガイノイドTalkのキャラクター、鳴花ヒメ(ガイノイドTalk)の容姿になります。\n変異を有効化する事により鳴花ヒメ(VOCALOID)の容姿になります。",
   "translation": "外观变为VOCALOID和Gynoid Talk的角色“鸣花姬”（Gynoid Talk版）。\n激活变异以变成鸣花姬（VOCALOID版）的样子。",
   "context": "ID: VOIRO_BODY_HIME\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HIME\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b7538305a67a57747436ffb117e480e9",
   "original": "VOCALOID及びガイノイドTalkのキャラクター、鳴花ミコト(VOCALOID)の容姿になります。\n変異を有効化する事により鳴花ミコト(ガイノイドTalk)の容姿になります。",
   "translation": "外观变为VOCALOID和Gynoid Talk的角色“鸣花尊”（VOCALOID版）。\n激活变异以变成鸣花尊（Gynoid Talk版）的样子。",
   "context": "ID: VOIRO_BODY_MIKOTO_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MIKOTO_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6667360611870f85a36cc4e037a3d854",
   "original": "VOCALOID及びガイノイドTalkのキャラクター、鳴花ミコト(ガイノイドTalk)の容姿になります。\n変異を有効化する事により鳴花ミコト(VOCALOID)の容姿になります。",
   "translation": "外观变为VOCALOID和Gynoid Talk的角色“鸣花尊”（Gynoid Talk版）。\n激活变异以变成鸣花尊（VOCALOID版）的样子。",
   "context": "ID: VOIRO_BODY_MIKOTO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MIKOTO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "32db688b5fc5df979f2d1a1f14d56497",
   "original": "VOCALOID及び音街ウナTalk_Exのキャラクター、音街ウナ(Sugar)の容姿になります。\n変異を有効化する事により音街ウナ(Talk_Ex)の容姿になります。\nスキン(音街ウナTalk_EX&Spicy)と両立して、一緒に使用する事が出来ます。",
   "translation": "外观变为VOCALOID和《音街鳗Talk_Ex》的角色“音街鳗”（Sugar声线）。\n激活变异以变成音街鳗（Talk_Ex声线）的样子。\n和“皮肤（音街鳗Talk_EX&Spicy）”不冲突，可以一起使用。",
   "context": "ID: VOIRO_BODY_UNA_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_UNA_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "066f2ab7726daab2e1047c0945096b52",
   "original": "VOCALOID及び音街ウナTalk_Exのキャラクター、音街ウナ(Talk_Ex)の容姿になります。\n変異を有効化する事により音街ウナ(Sugar)の容姿になります。\nスキン(音街ウナTalk_EX&Spicy)と両立して、一緒に使用する事が出来ます。",
   "translation": "外观变为VOCALOID和《音街鳗Talk_Ex》的角色“音街鳗”（Talk_Ex声线）。\n激活变异以变成音街鳗（Sugar声线）的样子。\n和“皮肤（音街鳗Talk_EX&Spicy）”不冲突，可以一起使用。",
   "context": "ID: VOIRO_BODY_UNA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_UNA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8399581b0166d8bcff0a17818a71da68",
   "original": "VOICEROIDのキャラクター、伊織弓鶴の容姿になります。",
   "translation": "外观变为VOICEROID的角色“伊织弓鹤”。",
   "context": "ID: VOIRO_BODY_YUZURU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUZURU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "40c21951bfe101d866a962e54ad058da",
   "original": "VOICEROIDのキャラクター、小春六花の容姿になります。",
   "translation": "外观变为VOICEROID的角色“小春六花”。",
   "context": "ID: VOIRO_BODY_RIKKA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_RIKKA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "97cbdd0df4f2ac3c593f572d3c4b3f44",
   "original": "VOICEROIDのキャラクター、月読アイの容姿になります。",
   "translation": "外观变为VOICEROID的角色“月读爱”。",
   "context": "ID: VOIRO_BODY_AI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "95f409fa6af307a96ab71272a703bdbd",
   "original": "VOICEROIDのキャラクター、月読ショウタの容姿になります。",
   "translation": "外观变为VOICEROID的角色“月读翔太”。",
   "context": "ID: VOIRO_BODY_SHOTA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_SHOTA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4e0b9102e912c76bc63d75354335083c",
   "original": "VOICEROIDのキャラクター、水奈瀬コウの容姿になります。",
   "translation": "外观变为VOICEROID的角色“水奈濑光”。",
   "context": "ID: VOIRO_BODY_KOU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_KOU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "24e77aa474c7cad4a0b19e221ec8a790",
   "original": "VOICEROIDのキャラクター、琴葉茜(スライム)の容姿になります。\n変異を有効化する事により通常の茜の容姿になります。",
   "translation": "外观变为VOICEROID的角色“琴叶茜”（史莱姆化）。\n激活此变异以恢复人类琴叶茜的样子。",
   "context": "ID: VOIRO_BODY_AKANE_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AKANE_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "982437d5c9735f6f271257b8b7a5db06",
   "original": "VOICEROIDのキャラクター、琴葉茜の容姿になります。\n変異を有効化する事によりスライム茜の容姿になります。",
   "translation": "外观变为VOICEROID的角色“琴叶茜”。\n激活此变异以变成琴叶茜史莱姆化的样子。",
   "context": "ID: VOIRO_BODY_AKANE\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AKANE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "01c54dce19b636f1dd6817095d4feb40",
   "original": "VOICEROIDのキャラクター、琴葉葵(スライム)の容姿になります。\n変異を有効化する事により通常の葵の容姿になります。",
   "translation": "外观变为VOICEROID的角色“琴叶葵”（史莱姆化）。\n激活变异以恢复人类琴叶葵的样子。",
   "context": "ID: VOIRO_BODY_AOI_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AOI_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "71f862344c6e6bcff5ade3124010484d",
   "original": "VOICEROIDのキャラクター、琴葉葵の容姿になります。\n変異を有効化する事によりスライム葵の容姿になります。",
   "translation": "外观变为VOICEROID的角色“琴叶葵”。\n激活变异以变成琴叶葵史莱姆化的样子。",
   "context": "ID: VOIRO_BODY_AOI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AOI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4c0d42bbec2b23194682ae4ce94433be",
   "original": "VOICEROID及びVOCALOIDのキャラクター、紲星あかりの容姿になります。",
   "translation": "外观变为VOICEROID和VOCALOID的角色“绁星灯”。",
   "context": "ID: VOIRO_BODY_AKARI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_AKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bd0d043148f66283e85208bbb49fb3f5",
   "original": "VOICEVOXのキャラクター、ずんだもんの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“俊达萌”。",
   "context": "ID: VOIRO_BODY_ZUNDAMON\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_ZUNDAMON\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "147ce60c1e1ef8930ab02f0c5a6a374d",
   "original": "VOICEVOXのキャラクター、モチノ・キョウコの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“望野京子”。",
   "context": "ID: VOIRO_BODY_MOCHIKO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MOCHIKO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7af052164c658e07f5e65262afe7927e",
   "original": "VOICEVOXのキャラクター、九州そらの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“九州宇宙”。",
   "context": "ID: VOIRO_BODY_SORA_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_SORA_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "861ccc49a35ac0bb262a726f957cc830",
   "original": "VOICEVOXのキャラクター、冥鳴ひまりの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“冥鸣阳葵”。",
   "context": "ID: VOIRO_BODY_HIMARI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HIMARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7f98fdd3279e249eb396d6c1e81bad80",
   "original": "VOICEVOXのキャラクター、四国めたんの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“四国玫碳”。",
   "context": "ID: VOIRO_BODY_METAN\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_METAN\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "888eaa9e378e5574f197ffb9c8fb525b",
   "original": "VOICEVOXのキャラクター、春日部つむぎの容姿になります。",
-  "translation": "外观变为VOICEVOX的角色“春日部䌷”。",
+  "translation": "外观变为VOICEVOX的角色“春日部紬”。",
   "context": "ID: VOIRO_BODY_TUMUGI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8158f9c740089fbb2c2e15a7a59f5409",
   "original": "VOICEVOXのキャラクター、波音リツの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“波音律”。",
   "context": "ID: VOIRO_BODY_RITHU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_RITHU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7929f0e0c80ee58abef3cc841eeb9a42",
   "original": "VOICEVOXのキャラクター、雨晴はうの容姿になります。",
   "translation": "外观变为VOICEVOX的角色“雨晴晴雨”。",
   "context": "ID: VOIRO_BODY_HAU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HAU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2c0fa09e4368cce3bc63ccb240a2e2be",
   "original": "Vネックのニットセーターです。厚みはそれほどありませんが、充分に暖かさを保ちます。",
   "translation": "V字领的针织毛衣。 不是很厚，但足够保暖。",
   "context": "ID: voiro_sweater_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sweater_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3cd89b0aa3a972b56d75989412e21863",
@@ -1166,28 +1166,28 @@
   "original": "YamahaInd社が開発した吉田くんの着ぐるみです。中身はハイテクに埋め尽くされており、重量はあるものの通常の着ぐるみに比べ収納スペースの確保、防水性能、温度調節機構等多岐による改良が施されています。",
   "translation": "雅马哈公司开发的吉田君人偶服。内部安装了大量高科技设备，虽然相比普通的人偶服重量更大，但对储存空间、防水性能和温度调节机制等多方面进行了改良。",
   "context": "ID: voiro_yoshidasuit\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_yoshidasuit\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "702651033724a01709ee69ac9b409e25",
   "original": "YamahaInd社が開発した吉田くんの着ぐるみというフェイクをいれた強化外骨格です。",
   "translation": "雅马哈公司开发的带有吉田君人偶服的强化外骨骼。",
   "context": "ID: voiro_yoshidaroid\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_yoshidaroid\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ce4fc9f6172694cb5d26e4b2586eef04",
   "original": "YamahaInd社製の自立型AIを搭載したロボットに、小春六花の持つぬいぐるみに模した着ぐるみを被せたロボットです。",
   "translation": "该机器人配备了雅马哈制造的自主人工智能，并穿着类似小春六花拥有的毛绒动物的服装。",
   "context": "ID: bot_lakiston\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/bot_lakiston.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→MONSTER→bot_lakiston\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "94521612a62bae8abfa350aeab337ec4",
   "original": "YamahaInd社製の自立型AIを搭載したロボットに、小春六花の持つぬいぐるみに模した着ぐるみを被せた停止状態のロボットです。起動に成功すると、使用者を味方として認識して追従し、敵を攻撃します。",
   "translation": "该机器人配备了雅马哈制造的自主人工智能，并穿着类似小春六花拥有的毛绒动物的服装。一旦成功激活，它将识别用户为盟友，跟随你并攻击敌人。",
   "context": "ID: bot_lakiston_hack\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/bot_lakiston.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→bot_lakiston_hack\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1e3dfadc825ab8e1efde849109da4657",
@@ -1229,663 +1229,663 @@
   "original": "Zoff社製の赤い眼鏡です。使用すると太陽光を一点に集中させます。",
   "translation": "Zoff公司生产的红色眼镜。激活可以把太阳光集中在一点上。",
   "context": "ID: voiro_glasses_kou\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_glasses_kou\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "608f0b988db4a96066af7dd8870de96c",
   "original": "flower",
-  "translation": "花",
+  "translation": "flower",
   "context": "ID: NC_VOIRO_MIKU\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_MIKU\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3b34c92b88ae44a4d8c412f79555436c",
   "original": "galaxias!のイメージキャラクター、ギャラ子の容姿になります。",
   "translation": "外观变为galaxias！的形象代言人“Galaco”。",
   "context": "ID: VOIRO_BODY_GALACO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_GALACO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2f8ed7fafd3c1784a3be4da8eb3d106a",
   "original": "…",
   "translation": "…",
   "context": "ID: TALK_ZUNKO_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_ZUNKO.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_ZUNKO_SAN_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0e26ed2c4b34b13c7ecc5abd3a43e20d",
   "original": "※IA専用※\nバッグ等に隠れる後ろ髪等を前に表示する用の見た目アイテムです。",
   "translation": "※IA专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_ia2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_ia2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b33e20dd2c2fe1286c5cca1b5f7c84ac",
   "original": "※IA専用※\n服に隠れるおさげと前髪の一部を前に表示する用の見た目アイテムです。",
   "translation": "※IA専用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "33a705376d9a98951077b9deab5a7040",
   "original": "※OИE専用※\nバッグ等に隠れるおさげと前髪の一部を前に表示する用の見た目アイテムです。",
-  "translation": "※OИE专用※\n外观道具，用于展示被衣服挡住的辫子。",
+  "translation": "※ONE专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "60069c08c5a986fcde6494033ac16427",
   "original": "※さとうささら専用※\nバッグ等に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※佐藤莎莎拉专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_sasara2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_sasara2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "62bf008d66ab78bd495234305f972be5",
   "original": "※さとうささら専用※\n服に隠れるサイドの髪を前に表示する用の見た目アイテムです。",
   "translation": "※佐藤莎莎拉专用※\n外观道具，用于展示被衣服挡住的前发。",
   "context": "ID: voiro_hair_sasara\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_sasara\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e46c3259ce5a44085aee4461a8a918e3",
   "original": "※のぞみ専用※\nバッグ等に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※希专用※\n外观道具，用于展示被背包之类挡住的辫子。",
   "context": "ID: voiro_hair_nozomi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_nozomi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fddb1576558c370e66db9529d2b2fd8c",
   "original": "※ギャラ子専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※Galaco专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_galaco2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_galaco2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0b6e0a40e0e8277260e83ccca9ce1cf3",
   "original": "※ギャラ子専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※Galaco专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_galaco\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_galaco\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7735cd15563fc3da1b8d838103e74e69",
   "original": "※初音ミク専用※\nバッグ等に隠れるおさげを前に表示する用の見た目アイテムです。使用する事でエクステ(おさげ・弱音ハク)に変化します。",
   "translation": "※初音未来专用※\n外观道具，用于展示被背包之类挡住的辫子。激活以变成头发扩展（辫子・弱音白）。",
   "context": "ID: voiro_hair_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e27489486d3560ca0b0dc6b53f3436e9",
   "original": "※小春六花専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※小春六花专用※\n外观道具，用于展示被背包之类挡住的辫子。",
   "context": "ID: voiro_hair_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "02b91bd4588db75de678f147ade6d31c",
   "original": "※弦巻マキ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※弦卷真纪专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_maki2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_maki2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "df0a15fa0cbf3f9bdb5e873e8f536c5b",
   "original": "※弦巻マキ専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。",
   "translation": "※弦卷真纪专用※\n外观道具，用于展示被衣服挡住的前发。",
   "context": "ID: voiro_hair_maki\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_maki\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "950df50958ecae1c76460789152b9f51",
   "original": "※弱音ハク専用※\nバッグ等に隠れるおさげと前髪の一部を前に表示する用の見た目アイテムです。使用する事でエクステ(おさげ・初音ミク)に変化します。",
   "translation": "※弱音白专用※\n外观道具，用于展示被背包之类挡住的辫子和部分前发。激活以变成头发扩展（辫子・初音未来）。",
   "context": "ID: voiro_hair_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "af7a61229e33703b6b8e341b7fd53543",
   "original": "※役ついな専用※\nバッグ等に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※役追傩专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_tuina\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_tuina\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "58e4f5f69fdc8e831f0b9d8b8b5b03a5",
   "original": "※悪い結月ゆかり専用※\n服等に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※黑化结月缘专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_yukari_evil2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_yukari_evil2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "28ff8fa110862de71a602815a74908ca",
   "original": "※月読アイ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※月读爱专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2f9d0a81b75dac1df3dd1b0ced820147",
   "original": "※東北きりたん専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※东北切蒲英专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_kiritan\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_kiritan\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "11b3baba5ce3029655e8a1e460a2ee79",
   "original": "※東北ずん子専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※东北俊子专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_zunko2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_zunko2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3b6cb531caece70d5c4a97098911da07",
   "original": "※東北ずん子専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※东北俊子专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_zunko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_zunko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "74b720cb0f5474658fa5338eb851efeb",
   "original": "※東北イタコ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。使用する事でエクステ(後ろ髪・東北イタコ(憑依前))に変化します。",
   "translation": "※东北伊达子专用※\n外观道具，用于展示被背包之类挡住的后发。激活以变成头发扩展（后发・东北伊达子（凭依前））。",
   "context": "ID: voiro_hair_itako2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_itako2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ad238556d13a03f85ba1648394b1c280",
   "original": "※東北イタコ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。使用する事でエクステ(後ろ髪・東北イタコ)に変化します。",
   "translation": "※东北伊达子专用※\n外观道具，用于展示被背包之类挡住的后发。激活以变成头发扩展（后发・东北伊达子）。",
   "context": "ID: voiro_hair_itako_old2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_itako_old2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c11586e5a676de954d58b98cb7459d12",
   "original": "※東北イタコ専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。使用する事でエクステ(前髪・東北イタコ(憑依前))に変化します。",
   "translation": "※东北伊达子专用※\n外观道具，用于展示被衣服挡住的前发。激活以变成头发扩展（前发・东北伊达子（凭依前））。",
   "context": "ID: voiro_hair_itako\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_itako\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "75b79f6bbfd963b464ea940fe68eda49",
   "original": "※東北イタコ専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。使用する事でエクステ(前髪・東北イタコ)に変化します。",
   "translation": "※东北伊达子专用※\n外观道具，用于展示被衣服挡住的前发。激活以变成头发扩展（前发・东北伊达子）。",
   "context": "ID: voiro_hair_itako_old\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_itako_old\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "70bf6f9eae31dd0ba41d394e8892a8bc",
   "original": "※桜乃そら専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※樱乃空专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_sora2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_sora2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eeb1160fc059e828b5f65711f5c61188",
   "original": "※桜乃そら専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※樱乃空专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_sora\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_sora\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4d8a48d6f40f441e5b7a462fb6aedafd",
   "original": "※琴葉茜専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※琴叶茜专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_akane2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_akane2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a4a2ad9ad0c883f67dca3dddf417d903",
   "original": "※琴葉茜専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※琴叶茜专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_akane\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_akane\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1e3a30885f869b19ed8d289156332b98",
   "original": "※琴葉葵専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※琴叶葵专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_aoi2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_aoi2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d953807355d5c02ee9cde0050642ae5b",
   "original": "※琴葉葵専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※琴叶葵专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_aoi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_aoi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "45533663409569269a73390f90de5d8d",
   "original": "※紲星あかり専用※\nバッグ等に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※绁星灯专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_akari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_akari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "903882bf166235e875b5d0cc62a82cba",
   "original": "※結月ゆかり専用※\n服に隠れるおさげを前に表示する用の見た目アイテムです。",
   "translation": "※结月缘专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_yukari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "176fe8f58953989c5b25089a9d2502b1",
   "original": "※音街ウナSpicy専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。使用する事でエクステ(後ろ髪・音街ウナ)に変化します。",
   "translation": "※音街鳗Spicy专用※\n外观道具，用于展示被背包之类挡住的后发。激活以变成头发扩展（后发・音街鳗）。",
   "context": "ID: voiro_hair_una2_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una2_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "915cfdc69a0e7121ac33df2944049e6b",
   "original": "※音街ウナSugar・Spicy専用※\nオタマン帽等に隠れるあほげを前に表示する用の見た目アイテムです。使用する事でエクステ(あほげ・音街ウナ)に変化します。",
   "translation": "※音街鳗Sugar・Spicy专用※\n外观道具，用于展示被帽子之类挡住的呆毛。激活以变成头发扩展（呆毛・音街鳗）。",
   "context": "ID: voiro_hair_una3_sugar_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una3_sugar_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e846d77b7a1fb71740f0fc0229785ef0",
   "original": "※音街ウナSugar・Spicy専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。使用する事でエクステ(前髪・音街ウナ)に変化します。",
   "translation": "※音街鳗Sugar・Spicy专用※\n外观道具，用于展示被衣服挡住的前发。激活以变成头发扩展（前发・音街鳗）。",
   "context": "ID: voiro_hair_una_sugar_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una_sugar_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e0907bcf374c52bdc87e354cb310b041",
   "original": "※音街ウナSugar専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。使用する事でエクステ(後ろ髪・音街ウナSpicy)に変化します。",
   "translation": "※音街鳗Sugar专用※\n外观道具，用于展示被背包之类挡住的后发。激活以变成头发扩展（后发・音街鳗Spicy）。",
   "context": "ID: voiro_hair_una2_sugar\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una2_sugar\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9604c838d0d6b92edd690c625bde7f1f",
   "original": "※音街ウナ専用※\nオタマン帽等に隠れるあほげを前に表示する用の見た目アイテムです。使用する事でエクステ(あほげ・音街ウナSugar&Spicy)に変化します。",
   "translation": "※音街鳗专用※\n外观道具，用于展示被帽子之类挡住的呆毛。激活以变成头发扩展（呆毛・音街鳗Sugar&Spicy）。",
   "context": "ID: voiro_hair_una3\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0a17a6876b2dee4c4ce5677af55f59e0",
   "original": "※音街ウナ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。使用する事でエクステ(後ろ髪・音街ウナSugar)に変化します。",
   "translation": "※音街鳗专用※\n把被包挡住的后发表示在外面用的外观道具。使用之后会变成头发扩展（后发・音街鳗Sugar）。",
   "context": "ID: voiro_hair_una2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b75009714bbc4d5852e72d8f225db89a",
   "original": "※音街ウナ専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。使用する事でエクステ(前髪・音街ウナSugar&Spicy)に変化します。",
   "translation": "※音街鳗专用※\n外观道具，用于展示被衣服挡住的前发。激活以变成头发扩展（前发・音街鳗Sugar&Spicy）。",
   "context": "ID: voiro_hair_una\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_una\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b26b93b76f5f773609278344c139a3ea",
   "original": "※食べられません※\n世界は一本の葱から始まった。使用する事で一升瓶に変化します。",
   "translation": "※不可以吃※\n世界始于一根大葱。激活以变成一升瓶。",
   "context": "ID: voiro_negi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_negi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a901d0ad92209690339b5b0748551639",
   "original": "※食べられません※\n世界は二本の葱で終わった。",
   "translation": "※不可以吃※\n世界终于两根大葱。",
   "context": "ID: voiro_negi_double\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_negi_double\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "38315b106c8091b43b74e85d7484873a",
   "original": "※鳴花ヒメ専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※鸣花姬专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_hime2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_hair_hime2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d30a6fd896fa0511563cb3c2e5771bbf",
   "original": "※鳴花ヒメ専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。",
   "translation": "※鸣花姬专用※\n外观道具，用于展示被衣服挡住的前发。",
   "context": "ID: voiro_hair_hime\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_hime\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f1e040bf4f739405ef7f30100c8d7f22",
   "original": "※鳴花ミコト専用※\nバッグ等に隠れる後ろ髪を前に表示する用の見た目アイテムです。",
   "translation": "※鸣花尊专用※\n外观道具，用于展示被背包之类挡住的后发。",
   "context": "ID: voiro_hair_mikoto2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_mikoto2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e1811e3181d1676dd3ecf08597cc2759",
   "original": "※鳴花ミコト専用※\n服に隠れる前髪を前に表示する用の見た目アイテムです。",
   "translation": "※鸣花尊专用※\n外观道具，用于展示被衣服挡住的前发。",
   "context": "ID: voiro_hair_mikoto\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_mikoto\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "01ddbfc0edb7ad196a34276404fc1674",
   "original": "★日記(IA)",
   "translation": "★日记(IA)",
   "context": "ID: nikki_14\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_14\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5ecca7ca3dc86e2ffe494aafd8379b28",
   "original": "★日記(ONE)",
-  "translation": "★日记(OИE)",
+  "translation": "★日记(ONE)",
   "context": "ID: nikki_13\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_13\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5ee9cb61fe0adaab58da30c0c30fa304",
   "original": "★日記(flower)",
   "translation": "★日记(flower)",
   "context": "ID: nikki_27\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_27\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "452c0424eb372ad71b1adac68ce6e4fc",
   "original": "★日記(えんのついな)",
   "translation": "★日记(役追傩)",
   "context": "ID: nikki_24\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_24\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cea05d486ece884931777c91ef2bfc9f",
   "original": "★日記(さとうささら)",
   "translation": "★日记(佐藤莎莎拉)",
   "context": "ID: nikki_7\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_7\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8125dc3368396092a37e305a5cc81cac",
   "original": "★日記(すずきつづみ)",
   "translation": "★日记(铃木梓梓弥)",
   "context": "ID: nikki_8\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_8\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d12e8022fb3181106c0b861246934f45",
   "original": "★日記(ずんだもん)",
   "translation": "★日记(俊达萌)",
   "context": "ID: nikki_29\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_29\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8f13f1b2cf9bcdbf0eb25381b6b9f265",
   "original": "★日記(のぞみ)",
   "translation": "★日记(希)",
   "context": "ID: nikki_25\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_25\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "11519e23427c9193d1f14754d8d11094",
   "original": "★日記(ギャラ子)",
   "translation": "★日记(Galaco)",
   "context": "ID: nikki_12\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_12\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cfca51953a7677135413a2ed9a91eb84",
   "original": "★日記(タカハシ)",
   "translation": "★日记(高桥)",
   "context": "ID: nikki_9\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_9\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b5fd0b3a160baa2d7d959e403ceb9299",
   "original": "★日記(モチノ・キョウコ)",
   "translation": "★日记(望野京子)",
   "context": "ID: nikki_37\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_37\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e0e0592d4910e9c444794d04e4eb4b54",
   "original": "★日記(九州そら)",
   "translation": "★日记(九州宇宙)",
   "context": "ID: nikki_35\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_35\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b82f8000e1c2ae97ca15b4aaae0d209f",
   "original": "★日記(京町セイカ)",
   "translation": "★日记(京町精华)",
   "context": "ID: nikki_16\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_16\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6e1d92aa70feefb0b488174bdbccde69",
   "original": "★日記(伊織弓鶴)",
   "translation": "★日记(伊织弓鹤)",
   "context": "ID: nikki_26\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_26\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "554c83ffbbea17e64e9ffcbf9d009fea",
   "original": "★日記(冥鳴ひまり)",
   "translation": "★日记(冥鸣阳葵)",
   "context": "ID: nikki_34\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_34\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f2cdf9406829d30c70c9fdd5d631f330",
   "original": "★日記(初音ミク)",
   "translation": "★日记(初音未来)",
   "context": "ID: nikki_28\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_28\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5907707fc4b9eec91edac1f4f7ab3e4a",
   "original": "★日記(吉田)",
   "translation": "★日记(吉田)",
   "context": "ID: nikki_3\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "82497ce1b8ac61ad0802da5cf926ff9d",
   "original": "★日記(四国めたん)",
   "translation": "★日记(四国玫碳)",
   "context": "ID: nikki_30\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_30\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d0d8d5bd140f36c92a9f98c095fb7534",
   "original": "★日記(小春六花)",
   "translation": "★日记(小春六花)",
   "context": "ID: nikki_36\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_36\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6896f7e527fd38e182fd142966745467",
   "original": "★日記(弦巻マキ)",
   "translation": "★日记(弦卷真纪)",
   "context": "ID: nikki_4\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_4\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5c7719877fb2387e732b1a6d867007d3",
   "original": "★日記(春日部つむぎ)",
-  "translation": "★日记(春日部䌷)",
+  "translation": "★日记(春日部紬)",
   "context": "ID: nikki_31\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_31\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b594ba61643a46d9aafa8629d859c809",
   "original": "★日記(月読アイ)",
   "translation": "★日记(月读爱)",
   "context": "ID: nikki_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f7bb800300c5d4a6dcfa990d9793c717",
   "original": "★日記(月読ショウタ)",
   "translation": "★日记(月读翔太)",
   "context": "ID: nikki_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8070a39212bf9f5d0eca768bc6fc29e9",
   "original": "★日記(東北きりたん)",
   "translation": "★日记(东北切蒲英)",
   "context": "ID: nikki_17\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_17\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "483e34b0ea9abcf91e1a2dec2167c7c2",
   "original": "★日記(東北ずん子)",
   "translation": "★日记(东北俊子)",
   "context": "ID: nikki_6\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_6\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fe641490877b28486262facdc00379d1",
   "original": "★日記(東北イタコ)",
   "translation": "★日记(东北伊达子)",
   "context": "ID: nikki_21\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_21\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "981bb0c3bac5aa21c64000fe42d84c6b",
   "original": "★日記(桜乃そら)",
   "translation": "★日记(樱乃空)",
   "context": "ID: nikki_20\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_20\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "83a0fcce114b803e70a102bde3e91c5f",
   "original": "★日記(水奈瀬コウ)",
   "translation": "★日记(水奈濑光)",
   "context": "ID: nikki_15\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_15\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fd24a6ac66ec1d400a65e799ac08c9f9",
   "original": "★日記(波音リツ)",
   "translation": "★日记(波音律)",
   "context": "ID: nikki_33\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_33\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4a0fb0b110ad1cf9f9691a01723fc76c",
   "original": "★日記(琴葉茜)",
   "translation": "★日记(琴叶茜)",
   "context": "ID: nikki_10\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_10\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7f91214ac26df660ab696a7058a656eb",
   "original": "★日記(琴葉葵)",
   "translation": "★日记(琴叶葵)",
   "context": "ID: nikki_11\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_11\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3f15aa9118849fb8bceddd12ee91fe97",
   "original": "★日記(紲星あかり)",
   "translation": "★日记(绁星灯)",
   "context": "ID: nikki_19\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_19\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8b3e9d576f2d85fb4f85ce8cdb737852",
   "original": "★日記(結月ゆかり)",
   "translation": "★日记(结月缘)",
   "context": "ID: nikki_5\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_5\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "defb34db9e014978796b4c8f72bb49b9",
   "original": "★日記(雨晴はう)",
   "translation": "★日记(雨晴晴雨)",
   "context": "ID: nikki_32\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_32\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "08789f6b911e8f972573394990789482",
   "original": "★日記(音街ウナ)",
   "translation": "★日记(音街鳗)",
   "context": "ID: nikki_18\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_18\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9f1b751e10bb70d4f4ec03fcc1281f6c",
   "original": "★日記(鳴花ヒメ)",
   "translation": "★日记(鸣花姬)",
   "context": "ID: nikki_22\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_22\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1327d94230ec82a763a44cb78fabb447",
   "original": "★日記(鳴花ミコト)",
   "translation": "★日记(鸣花尊)",
   "context": "ID: nikki_23\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_23\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ff5d2a8c57a51264a685c91457da4570",
   "original": "「…私の顔に、何かついてる？」\n相棒のささらと一緒に、好物の中華まんを求めてボストンのチャイナタウンに旅行で向かう途中でした。道中でささらともはぐれ今は一人ぼっち。とりあえず、図書館にでも向かってみようかな？",
   "translation": "「...我脸上有什么东西吗？(推眼镜)」\n和搭档莎莎拉一起去波士顿的唐人街旅行，寻找喜欢的中华包子。结果在路上失散了，现在是孤身一人。总之，先去图书馆看看吧？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[10]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "386ff566161b52729ae05f5baf7af87d",
   "original": "「あ どっこいしょ！ どっこいしょ！」\n大変動の日、ふらふらと居なくなったヒメを探していたら花ともはぐれてしまいました。シェルター生活では何故かずんだ餅とラーメンばかりが提供されていたので暫く食べたくありません。物資も無くなり、2人の安否を確認しに行く時が来ました。",
   "translation": "「啊 嗨咻！嗨咻！」\n大灾变那天，四处闲逛寻找消失的姬时，与flower也走散了。在避难所生活时不知为何只提供俊达饼和拉面，已经吃腻了。现在物资也没有了，是时候去确认两个人的安危了。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[25]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4ae9078bd40571ba6a0c471002e36169",
   "original": "「あの虹が 私を呼んでる。」\n京町セイカと一緒に、一大農産地のカリフォルニア州(精華町)で農業をする為やってきました。…西海岸と東海岸を間違えるまでは全てが順調だったのですが。何故か今は一人です。",
   "translation": "「那道彩虹在呼唤我。」\n和京町精华一起，为了在最大农业产地加利福尼亚州(精华町)做农业而来。在搞错西海岸和东海岸之前明明都很顺利的……不知为何现在是孤身一人。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[14]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2710d3aec6edc26d084623228b966a87",
   "original": "「おっしょい！　おっしょい！　おっしょい！　おっしょい！　おっしょい！　おっしょい！」\nミコトと花との3人でニューイングランド随一の紅葉が楽しめるバーモント州に遊びに来ていました。燃え盛る様な紅葉が見事な土地ですが、その日は全てが燃えていました。見失った2人を探し出して、梅は無理でも沢山の草木を蘇らせましょう！",
   "translation": "「哦！哦！哦！哦！哦！哦！」\n和尊还有flower三个人来到了新英格兰红叶最多的佛蒙特州游玩。这片土地上的枫叶像熊熊燃烧的火焰，但那一天燃烧着的远不只是枫叶。去寻找失散的两个人，即使不能修复梅树，也让植物们复苏吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[24]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "67a73de7599123df693e061316d6dd0f",
   "original": "「お知らせです！」\nギャラ子と一緒に農業をしようとアメリカへ渡って来たのですが、大規模な特異点「スポット」がニューイングランドで観測されたとの連絡を受け出動しました。どうやらギャラ子とははぐれてしまったようです。",
   "translation": "「紧急情况！」\n为了和Galaco一起种地，来到了美国，但接到在新英格兰观测到大规模奇点“spot”的紧急通知，于是立刻出动了。现在似乎是和Galaco失散了。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[17]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cb4eb506f174844801d2e3b4bca4c504",
   "original": "「ぎゅんぎゅん行くよー！」\njamバンドのメンバーとアメリカ横断ライブハウス巡りの最中、大異変に巻き込まれ仲間とはぐれました。いざと言う時に頼りになるカナちゃんと、ロボタがいるから皆は心配ないけど…今は愛器のむすタンだけが心の拠り所です。",
   "translation": "「要出发咯！」\n在和jam乐队的成员横跨美国巡回演出场地的途中卷入了大灾变，与乐队成员失散了。平常的关键时刻有值得信赖的小加奈和机器人pepper在，所以一直过得轻松自在...现在只有心爱的乐器Mus碳作为心灵的寄托。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[6]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "53757b4e37b57ba4a2fc161789784768",
   "original": "「ここにお好きなテキストを入力してください。」\n新人研修とかいう名目で、双子の赤い方を捕獲するとかいう作戦に同行させられました。ここまで連れて来た筈の青い方もどっか行くし、もう一人居た新人？の姿もありません。捕獲作戦は難航しそうです。",
   "translation": "「请在这里输入你喜欢的文本。」\n以新人研修的名义，一起参加了捕获双胞胎中红色的那只的作战。但是本来应该带我到这里来的蓝色那只也不知去了哪里，还有其他新人吗？也没有看到人影。捕获行动似乎遇到了困难。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[28]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0b1e05a4edb202dbcab7d6964a819669",
   "original": "「さとうささら、東京出身の16歳です！」\n相棒のつづみと一緒に旅行中、大事件が発生し引き離されました。避難中に小耳に挟んだアイス専門のハンターの噂。このままでは好物のアイスが大陸から絶滅してしまいます！　今ここに、蒼い狩人との戦いの火蓋が切って落とされました！",
   "translation": "「我是佐藤莎莎拉、来自东京的16岁烧酒！」\n和搭档梓梓弥一起旅行的时候，因为重大事件的发生和搭档走散了。在疏散时无意中听到了关于冰淇淋猎人的流言。 继续这样下去，最喜欢的冰淇淋将会从美洲大陆灭绝！此时此刻，与蓝色猎人的战斗已经打响了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[9]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7a7c7761343591074b7752f69ea3d104",
   "original": "「ずんだもんなのだ!」\n今日は東北家と一緒にニューイングランドに旅行中!ですがずんちゃんやイタコさんともはぐれてしまい、周りには生ける屍がいっぱい・・・。ゾンビ達に食べられてしまう前に東北家と合流しましょう!",
   "translation": "「我是俊达萌呐喏哒!」\n在和东北家一起去新英格兰旅行中!但是和俊子还有伊达子失散了，周围居然有很多活着的尸体...。在被丧尸们吃掉之前和东北家汇合吧喏哒！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[34]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a96f876890512509f68e8f442eec9973",
   "original": "「ちゅわ～。」\nきりたん達の漁船に乗せてもらって、本マグロの一本釣りで稼ごうと企んでいましたが、ご破算になってしまいました。ゾンビは既に抜け殻の様で会話には応じてくれませんが、こんな世界ではイタコの力は引っ張りだこです。",
-  "translation": "「啾哇～。」\n原本打算搭上切蒲英的渔船，钓蓝鳍金枪鱼赚点钱，结果却失败了。虽然丧尸已经是具空壳，无法就对话做出反应，但这样的世界，也是非常需要潮来的力量的。",
+  "translation": "「啾哇～。」\n原本打算搭上切蒲英她们的渔船，钓蓝鳍金枪鱼赚点钱，结果却失败了。虽然丧尸已经是具空壳，无法就对话做出反应，但这样的世界，也是非常需要潮来的力量的。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[23]\n",
   "stage": 3
  },
@@ -1894,154 +1894,154 @@
   "original": "「どうも皆さんこんにちは。ゲームのプロ、ゆかりさんです。」\nライブツアー(？)に出発し、そこで消息を絶った相棒の弦巻マキ。彼女を探しにボストンに乗り込んで来ました。この地には全てを喰らいつくすお化けが出るそうです。ゾンビはなれっこですが、お化け相手に立ち回れるのでしょうか？",
   "translation": "「大家好。在下正是游戏专家缘。」\n因为巡回演唱会(?)出发，搭档弦卷在那之后音讯全无。为了找她来到了波士顿。据说在这片土地上出现了吞噬一切的怪物。虽然在游戏里是熟练的丧尸杀手，但在现实中能对付的了这些怪物吗？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[7]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fea3b15ff698a35d8ba7a621037b5935",
   "original": "「どうも皆さんこんにちは。ゾンビサバイバルのプロ、ゆかりさんです。」\n7 Days to Die、Survival Method、Dying Light、Corridor Z、Zombie Derby 2、Project Zomboid、DeadRising3、Death Road to Canada、BIOHAZARD RE:2、Mist Survival、They are billions、COD:BO2 ORIGINS、Zombie Army Trilogy…etc…そしてMinecraft。数多の世界でゾンビを屠って来ました。「ｽﾃﾝﾊﾞｲ……ｽﾃﾝﾊﾞｰｲ……GO！」ワンマンアーミーゆかりさんがニューイングランドを往く！",
   "translation": "「大家好。 在下是缘，一名专业的丧尸生存专家。」\n七日杀、生存之道、消逝的光芒、僵尸回廊、僵尸德比2、僵尸毁灭工程、丧尸围城3、加拿大死亡之路、生化危机2重制版、迷雾生存、亿万僵尸、使命召唤:BO2 ORIGINS、僵尸部队三部曲…等等…还有我的世界。我猎杀了许多世界上的僵尸。「standby……standby……GO！」一人就是一支军队的缘·米兰小姐正前往新英格兰!",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[31]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "51c62fd8f5154d45f024cbd611a68576",
   "original": "「はーどっこい！」\nマサチューセッツ湾で東北とタラやニシンを獲ろうと約束していましたが、仕事でキャンセルになってしまいました。東北が今何処に居るのか分かりませんが、今なら見た事も無い変なのが沢山取れる気がします。",
   "translation": "「哈~工作终于结束了！」\n虽然约定在马萨诸塞湾和东北一起捕获鳕鱼和鲱鱼，不过因为工作取消了。虽然不知道东北现在在哪里，但是似乎看到了很多以前没见过的奇怪的东西。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[20]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "24d9f896d14c387fb3d0b6921cc3648c",
   "original": "「ほんとそれな。」\nアリゾナ州に存在する地上の楽園でゾンビサバイバルをすると聞かされていました。既に周りがゾンビだらけですし、ドリル巻き髪の少女も暴れ回っています。もうここが目的地って事で何の問題も無いですね。",
   "translation": "「确实是这样哦。」\n听说丧尸在亚利桑那州的人间天堂生存着。这片区域已经布满了丧尸，还有一个有着钻头卷发的女孩在横冲直撞。 看来这是就是目的地，没有任何问题。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[15]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "304daa4b9f3973ce42ee0929a5104be8",
   "original": "「みっくみくにしてあげる♪」\nMIKU EXPOボストン公演の最中バイオハザードが発生しました。握手もおさわりも禁止なのに熱烈なファンが押し寄せて来て困っちゃいます。今こそスクリーンを飛び出して、言う事を聞かない悪い人達をネギブレードでしばき倒しましょう。",
   "translation": "「把你mikumiku掉♪」\n在MIKU EXPO波士顿公演期间发生了生化危机。虽然禁止握手也禁止触摸，但是热情的粉丝还是涌了过来，真是令人困扰呢。是时候跳出屏幕，用大葱打倒那些不听话的坏人吧。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[33]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b2220fd8b9d1dcafcbbeaffaa9cb07be",
   "original": "「もぐもぐ。」\nアメリカの食文化を堪能しようとサンクスギビングに合わせ渡米しました。西から攻めて残すはボストン！　ロブスターにクラムチャウダー、生牡蠣に…おっと、シーフードばかりじゃ駄目ですね。イギリスの伝統的な煮込み料理やロースト料理も名物ですもんね！　明日が楽しみだなー！",
   "translation": "「嚼嚼嚼。」\n为了充分体验美国的饮食文化，在感恩节期间去了美国。从西海岸开始展开进攻，目标波士顿！龙虾！蛤蜊浓汤！还有碳烤生蚝！！！当然光吃海鲜可不够。英国传统的炖菜和烤菜也很有名呢！真期待明天啊！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[21]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0b08c78193d1f02139712ec0b6366a68",
   "original": "「アイのおしごとはこえをだしてごほんをよむことです。」\nボイスロイド界に君臨する天下の5歳児です。今や誰にも読まれる事がなくなった本達が、ここには無数に放置されています。何やら図書館を救う少女が居るらしいのですが、負けてはいられません。さぁ、彼らを迎えに行きましょう！",
   "translation": "「小爱的工作是发声读书。」\n君临VOICEROID界天下的5岁儿童。无数不再有人阅读的书籍被留在这里。 这个女孩似乎会以某种方式拯救图书馆，虽然有失败的可能。 那么，出发去寻找书籍吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[3]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "14d1af5d4e78337c5176e2a6688eb913",
   "original": "「ウチはモノノケ退治のすぺしゃりすとやで！」\nモノノケの仕業かおじーちゃんの仕業か知らんけど、アメリカがえらいっこちゃで！　こーなったら、ウチの力で皆まとめて鬼は外や！　さぁさ皆様お立会い、方相氏ついなちゃんの鬼やらいの時間やで！",
   "translation": "「我可是退治鬼怪的专家！」\n虽然不知道是鬼怪们干的还是大叔干的，但现在美国的形势很不妙啊！既然这样，就用我的力量把大家集中起来驱鬼！大家一起来，方相氏追傩酱的捉鬼时间到了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[26]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d037098525409cde405879cd88d5a21e",
   "original": "「チョコミントアイスエイヤッ↑(/>_<)/」\n厳戒態勢すら敷けなくなり、無政府状態となったアメリカに勝手に渡った姉を追ってきました。溶けてなくなる前に、この国のアイス達を確保してあげましょう。",
   "translation": "「巧克力薄荷冰激凌↑(/>_<)/」\n连戒严态势都不管不顾的姐姐擅自前往无政府状态的美国，正是为了追捕姐姐而来的。顺便，要在这个国家的冰淇淋融化之前保护它们，让巧克力薄荷冰激凌涂满整个美国！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[13]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7001c32777eaa53f5fe5d469e041dd5e",
   "original": "「マキちゃんの事か～～～ッ！」\n文化祭の出し物として、廃棄されていたロボットにラキストンの着ぐるみを被せた物を作っていました。よく転ぶ子ですが、今はこの子が生命線です。",
   "translation": "「是关于真纪酱的事情吗～～～！」\n作为文化祭的表演，一个将被废弃的机器人被制作成了穿上Rakiston玩偶服的伙伴。虽然它是一个容易摔倒的孩子，但现在它成为了我们求生的重要伙伴。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[30]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "91d3adb54ce5fcbad94fea8b99e1339d",
   "original": "「人生はチョコレートの箱、開けてみるまで分からない。」\n見失ったヒメの習性を考えて南下中、路肩に泊まる車のナンバープレートに刻まれた文字が目に飛び込んできました。「自由に生きる、もしくは死を」これが警告か暗示になるのかは分かりませんが、前者を掴み取りたいものです。",
   "translation": "「生活就像一盒巧克力，直到打开它你才会知道其中是什么。」\n考虑到姬冒冒失失的习性，正在南下中。看到停在路边的车辆上刻在车牌上的文字。『自由地活着，或者死亡』。我并不清楚这是否是一种警告或者提示，但我希望能抓住前者。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[29]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f2b7860ed6e3cef6bde67e4e9a82c556",
   "original": "「僕の仕事は妹のアイを守ることです。」\n混迷するニューイングランドは危険がいっぱい！　こんな状況でも田畑を耕す人、小麦を育てて命を育もうとする人、色んな人が戦っています。こわがりのアイちゃんの為にお兄ちゃんは平和を守ります。",
   "translation": "「保护妹妹小爱是我的职责。」\n混乱的新英格兰充满危险！即使在这种情况下，无论是耕地的人还是努力种植小麦维持生命的人，各种各样的人依然在顽强地生存着。作为哥哥，我要为担惊受怕的小爱守护这份和平。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[4]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "adb08d1734bc7d471bc0a0af8216c490",
   "original": "「前略、母さん元気ですか？」\n「人と地球にやさしい世界征服」を企む悪の秘密結社「鷹の爪団」が誇る島根の星、吉田くんを模した着ぐるみを売り込む為に単身渡米しました。帰りの便が見つかると良いのですが。",
   "translation": "「前略，母亲还好吗？」\n为了推销模仿吉田君——怀有「对人类和地球友好地征服世界」的图谋的、邪恶的秘密结社“鹰爪团”引以为傲的岛根之星——的人偶服，我只身前往美国。如果能找到回程的航班就好了。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[5]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "574bd1ec16e26629e6a9041c8dff2576",
   "original": "「呪った相手が穴という穴から血を噴き出して死ぬ」という能力を持った死神です。この世界には死にぞこないのゾンビが山ほどいるようですが、死神の勤めをちゃんと果たせるのでしょうか？",
   "translation": "拥有「令诅咒的对象从身上的洞里喷出血而死」的能力的死神。看来这个世界上有很多不甘心死去的丧尸，我能好好履行死神的职责吗？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[39]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "50880282cdb1619814371c9087a88d1d",
   "original": "「夢は秋葉原にずんだカフェを作ること！」\nずんだ餅の布教先にアメリカの東北を選びました。日本の東北地方よりも緯度の高い所ですが、寒いのはへっちゃらです！　早速ずんだの素晴らしさを広める為の旅に出発しましょう！",
   "translation": "「梦想是在秋叶原开一家俊达主题咖啡馆！」\n来到美国的东北地区传播俊达文化。虽然是比日本东北地区纬度更高的地方，但寒冷绝对无法阻挡对俊达的热爱！快开始推广俊达饼的精彩之旅吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[8]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0ad60bdf1dee91a6f4d13a9e3115be14",
   "original": "「好きな食べ物はラーメンです。」\nささらとつづみに置いて行かれ、後を追っては来たものの大災害に巻き込まれました。シェルターでのラーメンは大盛況でしたが、人も去り、手持ちのラーメンもあと僅か。こうなったら小麦を育てて、全米に「パワーヌードル」の名を知らしめてやりましょう！",
   "translation": "「喜欢的食物是拉面。」\n就这样被莎莎拉和梓梓弥无情丢下了，虽然试图追了上来，却被卷进了大灾变中。在避难所售卖拉面盛况空前，但现在人越来越少了，手头的拉面也所剩无几。这样的话就种小麦，让全美都知晓“能量面条”的威名吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[11]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "855f07ff5ee703b11d2f8951a439a575",
   "original": "「小学五年生相手にこのザマなんて、恥ずかしいと思わないんですか？」\nタラ漁も楽しみにしていたボストンアニメコンも白紙になってしまいました。ひきこもりには避難所生活も悪くは無いですが、そろそろずん子ニウムが欠乏しそうです。さて「ずんだ売りの少女」とやらを探しに行きましょうか！",
   "translation": "「你这样对待一个小学五年级学生，就不觉得害臊吗？」\n期待着钓鳕鱼的波士顿动漫展结果泡汤了。虽然对于家里蹲来说，窝在避难所的生活也不坏，但是快要缺乏俊子能量了(切碳宁可失去游戏机，也不能失去俊子姐姐的大腿！)。那么，去寻找那个“卖俊达的少女”吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[18]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c1e9c75cfac1cb84a3a92660d5c2b1bf",
   "original": "「得意教科は国語で、面白いことわざを紹介するのが好きです。」\n大災害の1週間前、バーモント州のとある小学校に赴任して来ました。長い休暇の後、これから子供達の成長を見守っていく筈だった学び舎は灰燼に帰していました。妹の為に戦う兄、姉を探すランチャー少女…この地に希望の光はまだ灯っています。",
   "translation": "「擅长的科目是国语，喜欢介绍有趣的谚语。」\n大灾变爆发的一周前，来到佛蒙特州的一所小学任教。结果长假过后，原本应该照顾孩子们成长的教学楼化为了灰烬。有为妹妹而战的哥哥，也有寻找姐姐的和服少女，至少在这片土地上还闪烁着希望之光。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[16]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5f9c2bddb3310fa2e27da5553f95b7fc",
   "original": "「桜乃そら、17歳でーす。・・・・・おいおい☆」\nアメリカの大自然が今なお残る、ホワイトマウンテン国立公園近隣の再開発にやってきました。最近は建物を破壊する臭い人たちが多くて困ってます！",
   "translation": "「我叫樱乃空，17岁。......喂喂☆(十七岁神教都懂吧)」\n为了再开发项目，来到了美国白山山脉国家森林公园附近，那里仍然保留着美国的伟大荒野。 最近，有很多坏人破坏建筑物，很困扰啊！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[22]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c50be12d609fba4c232815acd01bba35",
   "original": "「消える飛行機雲 追いかけて追いかけて。」\nウィンタースポーツのメッカ、ニューハンプシャー州の雪山でタカハシとウイングスーツをする予定だったのですが、約束をすっぽかされました。この地には要塞でゾンビと戦う少女や、国立公園の守護者がいるそうですが、私に出来る事は何でしょうか？　…せめて紡ぎましょう、希望の唄を。",
   "translation": "「不停追寻着 消散而去的航迹云。」(鸟之诗的歌词)\n我原本计划和高桥一起去冬季运动圣地新罕布什尔州的雪山里进行翼装飞行，但是预约被取消了。 听说这里有在要塞里和丧尸战斗的小女孩，还有国家公园的守护者，但是我能做什么呢？... 至少让我们唱一首希望之歌吧。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[19]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ece07dd63c97ee669ae5559db29b3269",
   "original": "「茜ちゃん可愛いって言って？」\n巨大なエビが出没するという噂を聞きつけ(避難勧告を無視して)、はるばるこの地にやってきました。目指すは川辺。ギネス記録に載る位の巨大なエビフライを作りましょう！",
   "translation": "「快来说小茜可爱吧？」\n听说有巨大的虾出没的传闻(无视了避难劝告)，千里迢迢来到了这里。目的地是能捕获大虾的河流。制作能载入吉尼斯纪录的巨大炸虾吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[12]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1b1006324b5d012ba15ce0ec129a5bf0",
   "original": "「音声合成のAITalkをご存知ですか？」\n同期のゆかりさんが消息不明になったという連絡を受け、葵ちゃん達に同行する形で捜索に来ました。ひとまずはゲームセンターを目指すべきでしょうか？",
   "translation": "「你知道语音合成的AITalk吗？」\n接到同期的小缘失踪的讯息后，和小葵她们一起来搜救了。所以首先应该以游戏厅为目标吗？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[27]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c0803f58c38a19a9a0f31b8ef353356a",
@@ -2209,7 +2209,7 @@
   "original": "あなたはうさちゃんと遊んでいます。",
   "translation": "你和兔兔一起玩耍。",
   "context": "ID: voiro_stuffed_bunny_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_stuffed_bunny_ai\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "37f84cb2ce6cf4774fc5d68778f19797",
@@ -2356,7 +2356,7 @@
   "original": "ありがとうなぎ！",
   "translation": "谢谢鳗鱼！（棒球梗）",
   "context": "ID: TALK_UNA_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_UNA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_UNA_SAN_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a553a2706e0a97595e85c7321cba8ec1",
@@ -2480,7 +2480,7 @@
  {
   "key": "5c7c39d0fd174b2b5ff66699c0d90065",
   "original": "いいえ",
-  "translation": "没什么",
+  "translation": "算了",
   "context": "ID: TALK_TAKAHASHI_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TAKAHASHI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TAKAHASHI_SAN_1\n",
   "stage": 3
  },
@@ -2489,7 +2489,7 @@
   "original": "いいや、ないよ",
   "translation": "不，没有哦",
   "context": "ID: TALK_SEIKA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_SEIKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_SEIKA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "29d171d10f87776c7dc298a6c661301c",
@@ -2615,7 +2615,7 @@
   "original": "うえーん…ここどこ？",
   "translation": "呜呜呜...这是哪里啊？",
   "context": "ID: TALK_UNA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_UNA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_UNA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c4029638639759c50d078292922e8ae0",
@@ -2790,7 +2790,7 @@
   "original": "うーん？",
   "translation": "嗯？",
   "context": "ID: TALK_MAKI_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_MAKI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_MAKI_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "93cc3732f32139eeb0fc8ccda432467f",
@@ -2804,7 +2804,7 @@
   "original": "えんのついな",
   "translation": "役追傩",
   "context": "ID: NC_VOIRO_TUINA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_TUINA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "00297e572ca2b22a541aa60970f549fb",
@@ -2851,9 +2851,9 @@
  {
   "key": "ecc29bb797fb79e60d7156034bda5f9f",
   "original": "おしゃれなニーソックスです",
-  "translation": "时髦的过膝袜。",
+  "translation": "时髦的过膝袜",
   "context": "ID: voiro_socks_mochiko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_mochiko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7e76c7623e17f469e9279f9c87197514",
@@ -2888,14 +2888,14 @@
   "original": "おままごとは楽しいな♪",
   "translation": "过家家真是开心呢♪",
   "context": "ID: voiro_stuffed_bunny_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_stuffed_bunny_ai\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6dc8aca848f81f085113d6b700ff0184",
   "original": "おや、こんなとこに人が来るなんて珍しいこともありますね、…お酒持ってないですか？",
   "translation": "哎呀，真是很少见到有人会来这种地方呢…你有酒吗？",
   "context": "ID: TALK_SEIKA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_SEIKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_SEIKA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "45573f0667302dca4321849101f7fafb",
@@ -3166,7 +3166,7 @@
  {
   "key": "42750da3525780e8b24e12b9c245cfff",
   "original": "ここは・・・どこ・・・ですか・・・",
-  "translation": "这里...到底是...哪里...",
+  "translation": "这里...到底是...哪里啊...",
   "context": "ID: TALK_RIKKA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_RIKKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_RIKKA_SAN_1\n",
   "stage": 3
  },
@@ -3266,7 +3266,7 @@
   "original": "これから仲良くしましょうね",
   "translation": "从现在开始要好好相处哦",
   "context": "ID: TALK_YUKARISAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_YUKARI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_YUKARISAN_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e10caeda6e5c97a010298fe6c2f6dd06",
@@ -3490,7 +3490,7 @@
   "original": "さとうささら",
   "translation": "佐藤莎莎拉",
   "context": "ID: NC_VOIRO_SASARA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_SASARA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2149e8834176ae21243d50cbea68e200",
@@ -3518,7 +3518,7 @@
   "original": "さらし[voiro]",
   "translation": "漂白布[voiro]",
   "context": "ID: voiro_sarashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sarashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "af439b61fa9638c4a35d2533cc5ed6fb",
@@ -3532,7 +3532,7 @@
   "original": "しょうがないなー",
   "translation": "没办法啊~只好答应啦",
   "context": "ID: TALK_MIKOTO_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_MIKOTO.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_MIKOTO_SAN_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "63209ccffebc44f3e43ba7bb648932c4",
@@ -3574,7 +3574,7 @@
   "original": "すずきつづみ",
   "translation": "铃木梓梓弥",
   "context": "ID: NC_VOIRO_TSUZUMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_TSUZUMI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a8769482e9cc4458167e53670a81c0de",
@@ -3588,7 +3588,7 @@
   "original": "ずんだ[voiro]",
   "translation": "俊达（毛豆泥）[voiro]",
   "context": "ID: voiro_zunda\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→COMESTIBLE→voiro_zunda\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8bb851c06181ae6b79ab45b2a369ec3a",
@@ -3644,12 +3644,12 @@
   "original": "ずんだもん",
   "translation": "俊达萌",
   "context": "ID: NC_VOIRO_ZUNDAMON\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_ZUNDAMON\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5a59b556a222ad3fa0dc2fc84a02aff4",
   "original": "ずんだもん[VOIRO]",
-  "translation": "俊达萌（ずんだもん）[voiro]",
+  "translation": "俊达萌（俊达萌）[voiro]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[34]\n",
   "stage": 3
  },
@@ -3658,14 +3658,14 @@
   "original": "ずんだもん[voiro]",
   "translation": "妖精俊达萌[voiro]",
   "context": "ID: voiro_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_zundamon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "aca689d3a7d6f070a44ec55856b51b38",
   "original": "ずんだもんなのだ！",
   "translation": "我是俊达萌呐喏哒！（抬手）",
   "context": "ID: TALK_ZUNDAMON_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_ZUNDAMON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_ZUNDAMON_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2dceb28d45f6c478422b7d5262826696",
@@ -3742,14 +3742,14 @@
   "original": "ずんだアロー[voiro]",
   "translation": "俊达弓[voiro]",
   "context": "ID: Voiro_zunda_arrow\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GUN→Voiro_zunda_arrow\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2e3f67058ad2cbcd00a01ffdb92252e7",
   "original": "ずんだアローに宿るずんだ餅の精。使用する事でずんだアローへ変身します。",
   "translation": "寄宿在俊达弓上的俊达饼之妖精。使用之后变成俊达弓。",
   "context": "ID: voiro_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_zundamon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c327cba9052100d7d76389832b59f3a3",
@@ -3817,9 +3817,9 @@
  {
   "key": "35bb0ecbe258cdb0874ca46902d6dca5",
   "original": "ずんだ餅の精、ずんだもんが変身した姿。三陸海岸を歩いていたずん子が雷に打たれ、病院で目を覚ますとなぜか大事に抱えていました。使用する事でずんだもんに戻ります。",
-  "translation": "俊达饼之妖精，俊达萌变身之后的样子。走在三陆海岸的俊子被雷击中，在医院醒来后不知为何小心翼翼地抱着它。激活以变回妖精俊达萌。",
+  "translation": "俊达饼之妖精，即俊达萌变身之后的样子。走在三陆海岸的俊子被雷电击中，在医院醒来后不知为何小心翼翼地抱着它。激活以变回妖精俊达萌。",
   "context": "ID: Voiro_zunda_arrow\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GUN→Voiro_zunda_arrow\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "88fe2ecd8d49c25c04d7178b64ce7dd4",
@@ -3908,16 +3908,16 @@
  {
   "key": "aba33d950d51cc92eff9d3c3470fa83a",
   "original": "そらロボ[voiro]",
-  "translation": "空中机器人[voiro]",
+  "translation": "“宇宙”机器人[voiro]",
   "context": "ID: voiro_sorarobo\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_sorarobo\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "87ed71054be56d80de92b7306e844b5d",
   "original": "そらロボは耳あてへと姿を変えました。",
-  "translation": "空中机器人变成耳罩的形态了。",
+  "translation": "”宇宙“机器人变成耳罩的形态了。",
   "context": "ID: voiro_sorarobo\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_sorarobo\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bc3fd9217c8839df7a33a1dbd16c3879",
@@ -4153,7 +4153,7 @@
  {
   "key": "0b3ed4ebb9c40b1f54020d4db9243507",
   "original": "ど、どなたですか・・？",
-  "translation": "你，你是哪位呢？",
+  "translation": "您，您是哪位呢？",
   "context": "ID: TALK_YUZURU_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_YUZURU.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_YUZURU_SAN_1\n",
   "stage": 3
  },
@@ -4281,14 +4281,14 @@
   "original": "なんばしょっと？",
   "translation": "你在干什么呢？",
   "context": "ID: TALK_HIME_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_HIME.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_HIME_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "705a6dbb373b58356d0b1dc610cd7f2c",
   "original": "ぬいぐるみ(うさぎ)[voiro]",
   "translation": "布偶（兔子）[voiro]",
   "context": "ID: voiro_stuffed_bunny_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_stuffed_bunny_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1368f1bfd11e86596a8e7bd9580e436c",
@@ -4337,7 +4337,7 @@
   "original": "のぞみ",
   "translation": "希",
   "context": "ID: NC_VOIRO_NOZOMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_NOZOMI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1056eb73cee433f31972efd010f5946a",
@@ -4349,9 +4349,9 @@
  {
   "key": "33ade161742ab5986d2a3b6a3f484ddc",
   "original": "はい(仲間に勧誘)",
-  "translation": "是的（邀请加入队伍）",
+  "translation": "好啊（邀请加入队伍）",
   "context": "ID: TALK_TAKAHASHI_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TAKAHASHI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TAKAHASHI_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fd9724dbad04dc36ab2c76f2d4862e59",
@@ -4440,9 +4440,9 @@
  {
   "key": "c67876e4f48cf09aa38d0acec606ab7d",
   "original": "ひきこもり[VOIRO]",
-  "translation": "宅家女（東北きりたん）[VOIRO]",
+  "translation": "宅家女（东北切蒲英）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[18]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fc284822443fce348e09276c0ddb8e0f",
@@ -4540,7 +4540,7 @@
   "original": "ふんどしパンツ[voiro]",
   "translation": "兜裆裤[voiro]",
   "context": "ID: voiro_fundoshi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_fundoshi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d16bda18a06770b2fac006c8273e0267",
@@ -4834,7 +4834,7 @@
   "original": "やったね",
   "translation": "太好了",
   "context": "ID: TALK_YUKARISAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_YUKARI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_YUKARISAN_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "daec5ae0b4c49db189a8f2e68b7072d5",
@@ -4939,7 +4939,7 @@
   "original": "よかったら一緒に行動しないかい？(仲間に勧誘)",
   "translation": "要不要一起行动呢？（邀请加入队伍）",
   "context": "ID: TALK_UNA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_UNA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_UNA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bd8d83a192aaf7fb35831ad65d1680d5",
@@ -4972,9 +4972,9 @@
  {
   "key": "ac183728f26e288fbbfe834ad5049aad",
   "original": "りっちゃん[VOIRO]",
-  "translation": "小律（波音リツ）[VOIRO]",
+  "translation": "小律（波音律）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[38]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3880984da473b1a34e8a1ff0782a51e1",
@@ -5086,7 +5086,7 @@
   "original": "アイは…？",
   "translation": "是小爱吗？",
   "context": "ID: TALK_SHOTA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_SHOTA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_SHOTA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e7eb6b4266952fc54c2ce2a9e2270040",
@@ -5098,16 +5098,16 @@
  {
   "key": "7546d36a5410624ef665dcd41ca26187",
   "original": "アイスハンター[VOIRO]",
-  "translation": "冰淇淋猎人（琴葉葵）[VOIRO]",
+  "translation": "冰淇淋猎人（琴叶葵）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[13]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c81e84243cf6ab0d812c84ed16de27bd",
   "original": "アイドル[VOIRO]",
   "translation": "偶像（音街鳗）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[20]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "065924aca2601d61ed76c14889ea70bd",
@@ -5191,14 +5191,14 @@
   "original": "アームカバー(ONE)[voiro]",
   "translation": "臂套（ONE）[voiro]",
   "context": "ID: voiro_arm_covers_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_arm_covers_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3105193d111548c5d5e165815f91160b",
   "original": "アームカバー(モチノ・キョウコ)[voiro]",
   "translation": "臂套（望野京子）[voiro]",
   "context": "ID: voiro_arm_covers_mochiko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_arm_covers_mochiko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "65a961fefe87538a6c46390aaf19e4c0",
@@ -5266,9 +5266,9 @@
  {
   "key": "76d1f11a0d81e31a1d305a27bd9e7e35",
   "original": "イタコ[VOIRO]",
-  "translation": "潮来巫女（東北イタコ）[VOIRO]",
+  "translation": "潮来巫女（东北伊达子）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[23]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3f8ae2f6b245eede889ea6a757b0e3f3",
@@ -5331,28 +5331,28 @@
   "original": "エクステ(おさげ・IA)[voiro]",
   "translation": "头发扩展（辫子・IA）[voiro]",
   "context": "ID: voiro_hair_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "619baaef6b2ff107edba206415f16c0d",
   "original": "エクステ(おさげ・ONE)[voiro]",
   "translation": "头发扩展（辫子・ONE）[voiro]",
   "context": "ID: voiro_hair_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bc51babddc9c748e0a44b203025b934d",
   "original": "エクステ(おさげ・さとうささら)[voiro]",
   "translation": "头发扩展（辫子・佐藤莎莎拉）[voiro]",
   "context": "ID: voiro_hair_sasara2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_sasara2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "100295d96197ce7d177322837eb486ab",
   "original": "エクステ(おさげ・のぞみ)[voiro]",
   "translation": "头发扩展（辫子・希）[voiro]",
   "context": "ID: voiro_hair_nozomi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_nozomi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "72c9c99de5dc284de705c8302522fc36",
@@ -5672,16 +5672,16 @@
  {
   "key": "81136800f854ad8ff6f9578e7e390ee3",
   "original": "エビハンター[VOIRO]",
-  "translation": "炸虾猎人（琴葉茜）[VOIRO]",
+  "translation": "炸虾猎人（琴叶茜）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[12]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "68329caadc8e013d607c36118b0cbc16",
   "original": "エビフライ[voiro]",
   "translation": "炸虾[voiro]",
   "context": "ID: voiro_ebi_fly\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→COMESTIBLE→voiro_ebi_fly\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1ff682d9a311abb3648bebfa10a4dc94",
@@ -5693,9 +5693,9 @@
  {
   "key": "7b09c89e95069c56e80ad24d284bf9cf",
   "original": "オシャレを目的としたアームカバーです。OИEの物は手の甲まで覆う指出しカバーになっています。",
-  "translation": "以时髦为目的的护手臂套。OИE的是露出手指的样式。",
+  "translation": "以时髦为目的的护手臂套。ONE的是露出手指的样式。",
   "context": "ID: voiro_arm_covers_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_arm_covers_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "90fe634fd6b806613379eb65b1e3b894",
@@ -5742,9 +5742,9 @@
  {
   "key": "182572a78f8a3235c9b89e7c8cefeffe",
   "original": "オフィスレディ[VOIRO]",
-  "translation": "女白领（のぞみ）[VOIRO]",
+  "translation": "女白领（希）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[27]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "82ed621b8da8610aff3014ea3af1755b",
@@ -5772,7 +5772,7 @@
   "original": "オーバーオール(ずんだもん)[voiro]",
   "translation": "连衣裤（俊达萌）[voiro]",
   "context": "ID: voiro_overall_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_overall_zundamon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "120e6f0cdbe4d960ed53aa706254e4b7",
@@ -5786,7 +5786,7 @@
   "original": "カチューシャ(すずきつづみ)[voiro]",
   "translation": "发箍（铃木梓梓弥）[voiro]",
   "context": "ID: voiro_aliceband_tsuzumi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_aliceband_tsuzumi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6366033707cc44d786de004a9cf7d66c",
@@ -5812,7 +5812,7 @@
  {
   "key": "f4260db76c695334f8b99671742eebc8",
   "original": "カーディガン(春日部つむぎ)[voiro]",
-  "translation": "开襟衫（春日部䌷）[voiro]",
+  "translation": "开襟衫（春日部紬）[voiro]",
   "context": "ID: voiro_cardigan_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_cardigan_tumugi\n",
   "stage": 3
  },
@@ -5821,7 +5821,7 @@
   "original": "キャミソール(flower)[voiro]",
   "translation": "吊带衫（flower）[voiro]",
   "context": "ID: voiro_camisole_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_camisole_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1fa2a4bedd8d0a1055ac6f9836d7c411",
@@ -5840,9 +5840,9 @@
  {
   "key": "ff653b490657c1abd7c80c3d2de47a35",
   "original": "ギャル[VOIRO]",
-  "translation": "辣妹（春日部つむぎ）[VOIRO]",
+  "translation": "辣妹（春日部紬）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[36]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ae7a05eae626c45b86bebfdc79841aa5",
@@ -5882,16 +5882,16 @@
  {
   "key": "f5e013afd6f92d877c7aa2a8939cda31",
   "original": "ゲーマー[VOIRO]",
-  "translation": "游戏玩家（結月ゆかり）[VOIRO]",
+  "translation": "游戏玩家（结月缘）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[7]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1c55a0a0162a97c8e31bdbccd1040f78",
   "original": "コットンパンツ(タカハシ)[voiro]",
   "translation": "棉裤（高桥）[voiro]",
   "context": "ID: voiro_pants_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_pants_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3f817d2c11465cbd9379fc9ff5b1b206",
@@ -5905,21 +5905,21 @@
   "original": "ゴーグル(モチノ・キョウコ)[voiro]",
   "translation": "防风护目镜（望野京子）[voiro]",
   "context": "ID: voiro_goggles_mochiko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_goggles_mochiko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6b61c41005d86f677cf717fd265dcfb0",
   "original": "サイハイソックス(IA)[voiro]",
   "translation": "过膝袜（IA）[voiro]",
   "context": "ID: voiro_socks_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "523f1c162ea11f88d782acbac057090d",
   "original": "サイハイソックス(ONE)[voiro]",
   "translation": "过膝袜（ONE）[voiro]",
   "context": "ID: voiro_socks_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fba6cfcc24c4ab35905d84ff0dfc0cf3",
@@ -5931,9 +5931,9 @@
  {
   "key": "ae472afb6d3508d3b6cfeb7d238af2c8",
   "original": "サバイバー[VOIRO]",
-  "translation": "幸存者（OИE）[VOIRO]",
+  "translation": "幸存者（ONE）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[15]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4ecebf48f917fa57d0ef7aea1c906201",
@@ -5954,14 +5954,14 @@
   "original": "サンダル(flower)[voiro]",
   "translation": "凉鞋（flower）[voiro]",
   "context": "ID: voiro_sandals_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sandals_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1a5ccea2fc85da2bc3cb3d419391145e",
   "original": "サンダル(すずきつづみ)[voiro]",
   "translation": "凉鞋（铃木梓梓弥）[voiro]",
   "context": "ID: voiro_sandals_tsuzumi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sandals_tsuzumi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7fcc513ad71f10b0f93f1f2eff156d51",
@@ -5996,14 +5996,14 @@
   "original": "ジャケット(flower)[voiro]",
   "translation": "夹克（flower）[voiro]",
   "context": "ID: voiro_jacket_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_jacket_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4e1933606bba84c2ff317f65538ddab6",
   "original": "ジャケット(タカハシ)[voiro]",
   "translation": "夹克（高桥）[voiro]",
   "context": "ID: voiro_jacket_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_jacket_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1beb99092a0158c811266b038eb96ca5",
@@ -6031,7 +6031,7 @@
   "original": "ジャンボエビフライ[voiro]",
   "translation": "巨大炸虾[voiro]",
   "context": "ID: voiro_jumbo_ebi_fly\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→COMESTIBLE→voiro_jumbo_ebi_fly\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0a82ee689e8c8065a8ba2327e646c138",
@@ -6043,16 +6043,16 @@
  {
   "key": "1cc41235c24a6d34c30b9eb8c991f7d4",
   "original": "スカベンジャー(アイス)[VOIRO]",
-  "translation": "冰淇淋拾荒者（さとうささら）[VOIRO]",
+  "translation": "冰淇淋拾荒者（佐藤莎莎拉）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[9]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1cf365ef4f7b1e52f212bd1fa730527a",
   "original": "スカート(のぞみ)[voiro]",
   "translation": "短裙（希）[voiro]",
   "context": "ID: voiro_skirt_nozomi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_skirt_nozomi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "48c3c53c263a9347606ab80ff2bbf9ca",
@@ -6092,7 +6092,7 @@
  {
   "key": "cfb2e31739dfffaee5a753426ee131c2",
   "original": "スカート(春日部つむぎ)[voiro]",
-  "translation": "短裙（春日部䌷）[voiro]",
+  "translation": "短裙（春日部紬）[voiro]",
   "context": "ID: voiro_skirt_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_skirt_tumugi\n",
   "stage": 3
  },
@@ -6108,49 +6108,49 @@
   "original": "スキン(IA)",
   "translation": "皮肤（IA）",
   "context": "ID: VOIRO_BODY_IA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_IA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2a784be6ff56903ba1017ba9f0e51229",
   "original": "スキン(OИE)",
-  "translation": "皮肤（OИE）",
+  "translation": "皮肤（ONE）",
   "context": "ID: VOIRO_BODY_ONE\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_ONE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2eab8bd5df8df79a6abff475c9369148",
   "original": "スキン(flower)",
   "translation": "皮肤（flower）",
   "context": "ID: VOIRO_BODY_FLOWER\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_FLOWER\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3be8f1a2eb867d68b58a32a2afeb7273",
   "original": "スキン(さとうささら)",
   "translation": "皮肤（佐藤莎莎拉）",
   "context": "ID: VOIRO_BODY_SASARA\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_SASARA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2b5237cb735f2187f34fb75d50d57459",
   "original": "スキン(すずきつづみ)",
   "translation": "皮肤（铃木梓梓弥）",
   "context": "ID: VOIRO_BODY_TSUZUMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TSUZUMI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f200b540fd0c612a59ff28e3653e786b",
   "original": "スキン(ずんだもん)",
   "translation": "皮肤（俊达萌）",
   "context": "ID: VOIRO_BODY_ZUNDAMON\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_ZUNDAMON\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "815ed569acc05e6e17852511a85a5a95",
   "original": "スキン(のぞみ)",
   "translation": "皮肤（希）",
   "context": "ID: VOIRO_BODY_NOZOMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_NOZOMI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7d0a89bd3e19b3df98122aa3a6ad6aac",
@@ -6164,21 +6164,21 @@
   "original": "スキン(タカハシ)",
   "translation": "皮肤（高桥）",
   "context": "ID: VOIRO_BODY_TAKAHASHI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TAKAHASHI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bca3a860c01edd206dc666b3bc523dcd",
   "original": "スキン(ハルオロイド)",
   "translation": "皮肤（HAL-O-ROID）",
   "context": "ID: VOIRO_BODY_HAL-O-ROID\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HAL-O-ROID\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "475c90c0457562acf670258d5484408d",
   "original": "スキン(モチノキョウコ)",
   "translation": "皮肤（望野京子）",
   "context": "ID: VOIRO_BODY_MOCHIKO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_MOCHIKO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2c19536459977ca68ddb194992606ca7",
@@ -6253,21 +6253,21 @@
  {
   "key": "1014262d0fb18581107714d6b0edab08",
   "original": "スキン(悪い結月ゆかり)",
-  "translation": "皮肤（病态的结月缘）",
+  "translation": "皮肤（黑化结月缘）",
   "context": "ID: VOIRO_BODY_YUKARI_EVIL\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI_EVIL\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "79a8a43f3ce9e5dba17e4dcb604ab02d",
   "original": "スキン(悪い結月ゆかり:まな板)",
   "translation": "皮肤（黑化结月缘：砧板）",
   "context": "ID: VOIRO_BODY_YUKARI_EVIL_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI_EVIL_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a17fd282bcb28d903b20f270d2d6eb9c",
   "original": "スキン(春日部つむぎ)",
-  "translation": "皮肤（春日部䌷）",
+  "translation": "皮肤（春日部紬）",
   "context": "ID: VOIRO_BODY_TUMUGI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI\n",
   "stage": 3
  },
@@ -6472,7 +6472,7 @@
   "original": "スクールバッグ[voiro]",
   "translation": "学生书包[voiro]",
   "context": "ID: voiro_bag_una\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_bag_una\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dc632327b34edb961e2532ed6270f5a2",
@@ -6521,14 +6521,14 @@
   "original": "スニーカー(ずんだもん)[voiro]",
   "translation": "运动鞋（俊达萌）[voiro]",
   "context": "ID: voiro_sneakers_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sneakers_zundamon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1f4af2422db6d968b5008645f9a38773",
   "original": "スニーカー(タカハシ)[voiro]",
   "translation": "运动鞋（高桥）[voiro] ",
   "context": "ID: voiro_sneakers_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sneakers_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "04d9f555e09e9431f6021f6c4b56e7e7",
@@ -6624,7 +6624,7 @@
  {
   "key": "fdc5066d57cc8be711311ac984f83ea4",
   "original": "ソックス(春日部つむぎ)[voiro]",
-  "translation": "袜子（春日部䌷）[voiro]",
+  "translation": "袜子（春日部紬）[voiro]",
   "context": "ID: voiro_socks_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_tumugi\n",
   "stage": 3
  },
@@ -6661,7 +6661,7 @@
   "original": "タカハシ",
   "translation": "高桥",
   "context": "ID: NC_VOIRO_TAKAHASHI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_TAKAHASHI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ecd5b69d100293f01063417689135e79",
@@ -6696,14 +6696,14 @@
   "original": "チョーカー(IA・ONE)[voiro]",
   "translation": "项圈（IA・ONE）[voiro]",
   "context": "ID: voiro_choker\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_choker\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "766def7fdb0e69b133d6b73736149be1",
   "original": "チョーカー(flower)[voiro]",
   "translation": "项圈（flower）[voiro]",
   "context": "ID: voiro_choker_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_choker_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "18097eff1984a4c4a438b9a5d607b22e",
@@ -6724,14 +6724,14 @@
   "original": "ドレスシャツ(ずんだもん)[voiro]",
   "translation": "礼服衬衫（俊达萌）[voiro]",
   "context": "ID: voiro_dress_shirt_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_shirt_zundamon\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "86b34cd732eeb03617211856d9a67178",
   "original": "ドレスシャツ(タカハシ)[voiro]",
   "translation": "礼服衬衫（高桥）[voiro] ",
   "context": "ID: voiro_dress_shirt_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_shirt_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dd873700608c109186758937aabe5fed",
@@ -6766,7 +6766,7 @@
   "original": "ナノスカート(モチノ・キョウコ)[voiro]",
   "translation": "纳米短裙（望野京子）[voiro]",
   "context": "ID: voiro_nanoskirt_mochiko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_nanoskirt_mochiko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "606d7b864768661efde6451cd3fc13ef",
@@ -6801,7 +6801,7 @@
   "original": "ニーソックス(モチノ・キョウコ)[voiro]",
   "translation": "过膝袜（望野京子）[voiro]",
   "context": "ID: voiro_socks_mochiko\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_mochiko\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1474143840e3f54f929dd9b20a9ee4df",
@@ -6862,7 +6862,7 @@
  {
   "key": "071d8fae6ef42e1180b9b5ac9ff34473",
   "original": "ネクタイ(春日部つむぎ)",
-  "translation": "领带（春日部䌷）",
+  "translation": "领带（春日部紬）",
   "context": "ID: voiro_necktie_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_necktie_tumugi\n",
   "stage": 3
  },
@@ -6948,7 +6948,7 @@
   "original": "パイロットスーツ(マキ)[voiro]",
   "translation": "战斗员套装（弦卷真纪）[voiro]",
   "context": "ID: voiro_suit_maki\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_suit_maki\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9240a061633de32324528eb35581459e",
@@ -6990,14 +6990,14 @@
   "original": "パンクロッカー[VOIRO]",
   "translation": "朋克摇滚乐手（flower）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[29]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5402c4cb7a244af1896dd77d7e8811ba",
   "original": "パンプス(さとうささら)[voiro]",
   "translation": "浅口皮鞋（佐藤莎莎拉）[voiro] ",
   "context": "ID: voiro_shoes_sasara\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_sasara\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3b88cb6f8da604c88436adb6da5adfad",
@@ -7060,21 +7060,21 @@
   "original": "ピンクのシンプルなパンプスです。",
   "translation": "一双朴素的粉色浅口鞋。",
   "context": "ID: voiro_shoes_sasara\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_sasara\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "90cd8f86558bb2a787d3b9866165edd3",
   "original": "ピンク色の長耳うさちゃん。これで叩かれても痛くも痒くもないでしょう。「演奏」と枕の代わりが出来そうです。",
-  "translation": "粉红色的长耳朵兔兔。即使拿来打人也不痛不痒。可以用于「演奏」或者当作枕头。",
+  "translation": "粉红色的长耳朵兔兔。即使拿来打人也不痛不痒。可以用于「表演」或者当作枕头。",
   "context": "ID: voiro_stuffed_bunny_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_stuffed_bunny_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6a679f13bfa73fd5b86b457578abdc75",
   "original": "ピースキーパー[VOIRO]",
-  "translation": "和平卫士（月読ショウタ）[VOIRO]",
+  "translation": "和平卫士（月读翔太）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[4]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f4ebcac3ec38a055284e543c2fa45fb3",
@@ -7114,28 +7114,28 @@
  {
   "key": "0b6c375e5edfca0546385efaf0a8b051",
   "original": "フードファイター[VOIRO]",
-  "translation": "食物斗士（紲星灯）[VOIRO]",
+  "translation": "食物斗士（绁星灯）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[21]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a162de737ff6157a8a4de7551f232cab",
   "original": "ブラウス(すずきつづみ)[voiro]",
   "translation": "女式衬衫（铃木梓梓弥）[voiro]",
   "context": "ID: voiro_blouse_tsuzumi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_blouse_tsuzumi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c9ff0159e1b5868a31f680d083485910",
   "original": "ブラウス(のぞみ)[voiro]",
   "translation": "衬衫（希）[voiro]",
   "context": "ID: voiro_blouse_nozomi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_blouse_nozomi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1e264df8525372cfb526ccddbd635d67",
   "original": "ブラウス(春日部つむぎ)[voiro]",
-  "translation": "女式衬衫（春日部䌷）[voiro]",
+  "translation": "女式衬衫（春日部紬）[voiro]",
   "context": "ID: voiro_shirt_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shirt_tumugi\n",
   "stage": 3
  },
@@ -7144,21 +7144,21 @@
   "original": "ブーツ(IA)[voiro]",
   "translation": "靴子（IA）[voiro]",
   "context": "ID: voiro_boots_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d16e5826a98af1f3d9c17e8be78a00db",
   "original": "ブーツ(ONE)[voiro]",
   "translation": "靴子（ONE）[voiro]",
   "context": "ID: voiro_boots_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4f915b4f3a4fe499efad22d2fa3e274b",
   "original": "ブーツ(ヒメ・ミコト)[voiro]",
   "translation": "靴子（姬·尊）[voiro]",
   "context": "ID: voiro_boots_meikaers\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_meikaers\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d75dbfda1c49970881c0d722ecb50718",
@@ -7347,28 +7347,28 @@
   "original": "ホットパンツ(flower)[voiro]",
   "translation": "热裤（flower）[voiro]",
   "context": "ID: voiro_hot_pants_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hot_pants_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ad72443c3e3e528963d474d3824baeb8",
   "original": "ホットパンツ(すずきつづみ)[voiro]",
   "translation": "热裤（铃木梓梓弥）[voiro]",
   "context": "ID: voiro_hot_pants_tsuzumi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hot_pants_tsuzumi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4770a3e6b1e6d70b0b077f704a438dc0",
   "original": "ポイポン8",
   "translation": "PoiPon 8",
   "context": "ID: voiro_poipon8\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6aeb71044379527e44dae2176263dbda",
   "original": "ポイポン8(ライト)[voiro]",
   "translation": "PoiPon 8（手电筒）[voiro]",
   "context": "ID: voiro_poipon8_flashlight\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8_flashlight\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9366efc3117a6190b1a2fc2c71794373",
@@ -7389,7 +7389,7 @@
   "original": "ポイポンU92 Pro (ライト)[voiro]",
   "translation": "PoiPon U92 Pro（手电筒）[voiro]",
   "context": "ID: voiro_atomic_poipon_u92_flashlight\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_atomic_poipon_u92_flashlight\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bc982bceb11e1da1cf9eef2d97c60604",
@@ -7403,7 +7403,7 @@
   "original": "ポイポンU92 Pro [voiro]",
   "translation": "PoiPon U92 Pro [voiro]",
   "context": "ID: voiro_atomic_poipon_u92\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_atomic_poipon_u92\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "02360553a74b5a1692deb3431c5515fd",
@@ -7424,7 +7424,7 @@
   "original": "マイク[voiro]",
   "translation": "麦克风[voiro]",
   "context": "ID: voiro_mic\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_mic\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "51549a3ac3daed79b667032387a086e1",
@@ -7450,9 +7450,9 @@
  {
   "key": "3c8d2c8b93a926f914d485221fb71244",
   "original": "ミュージシャン[VOIRO]",
-  "translation": "乐队成员（弦巻マキ）[VOIRO]",
+  "translation": "乐队成员（弦卷真纪）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[6]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e55d4ebebf176ad9f59436a17d45888b",
@@ -7494,7 +7494,7 @@
   "original": "ラキストン",
   "translation": "Lakiston",
   "context": "ID: bot_lakiston\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/bot_lakiston.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→MONSTER→bot_lakiston\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6627f34d26840c0c1f57df0bee8d7bdb",
@@ -7529,14 +7529,14 @@
   "original": "ランドセル[voiro]",
   "translation": "双肩包[voiro] ",
   "context": "ID: voiro_randsel\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_randsel\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0ee9253df63e2ec8a21023d247bbb78e",
   "original": "リストバンド(タカハシ)[voiro]",
   "translation": "腕带（高桥）[voiro] ",
   "context": "ID: voiro_wrist_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_wrist_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c6e0234c60346f3b4aa69f5a93684145",
@@ -7564,7 +7564,7 @@
   "original": "レッグウォーマー(flower)[voiro]",
   "translation": "暖腿套（flower）[voiro]",
   "context": "ID: voiro_leg_warmers_flower\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_leg_warmers_flower\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "451e6fc48243a36412de7e6767c47319",
@@ -7592,12 +7592,12 @@
   "original": "ローファー(のぞみ)[voiro]",
   "translation": "乐福鞋（希）[voiro]",
   "context": "ID: voiro_loafers_nozomi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_loafers_nozomi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "87db02652be38e735ebd635b946ebaa5",
   "original": "ローファー(春日部つむぎ)[voiro]",
-  "translation": "乐福鞋（春日部䌷）[voiro]",
+  "translation": "乐福鞋（春日部紬）[voiro]",
   "context": "ID: voiro_shoes_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_tumugi\n",
   "stage": 3
  },
@@ -7606,21 +7606,21 @@
   "original": "ワンピース(IA)[voiro]",
   "translation": "连衣裙（IA）[voiro] ",
   "context": "ID: voiro_dress_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "620f20d03597028ea39950229aed7a3b",
   "original": "ワンピース(ONE)[voiro]",
   "translation": "连衣裙（ONE）[voiro]",
   "context": "ID: voiro_dress_one\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_one\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8d5f40f89b67b7090ba92b29eb2aa03a",
   "original": "ワンピース(さとうささら)[voiro]",
   "translation": "连衣裙（佐藤莎莎拉）[voiro] ",
   "context": "ID: voiro_dress_sasara\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_sasara\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "105b1a7ceead04b4608aa2ed4f060d71",
@@ -8045,7 +8045,7 @@
  {
   "key": "be74934f3cd51fd44bbae98683685def",
   "original": "仲間になってください",
-  "translation": "请成为我的伙伴",
+  "translation": "请成为我的伙伴吧",
   "context": "ID: TALK_ZUNDAMON_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_ZUNDAMON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_ZUNDAMON_SAN_1\n",
   "stage": 3
  },
@@ -8054,7 +8054,7 @@
   "original": "仲間になってください(仲間に勧誘)",
   "translation": "要一起走吗（邀请加入队伍）",
   "context": "ID: TALK_TUINA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TUINA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TUINA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a0363ee6adb4dc6ca4caddfeb0e756ce",
@@ -8537,7 +8537,7 @@
   "original": "変身(耳あて)",
   "translation": "变身（耳罩）",
   "context": "ID: voiro_sorarobo\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_sorarobo\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "290291efc9db46c7e03516adb389d9b6",
@@ -8551,7 +8551,7 @@
   "original": "大丈夫?手助けが必要かな？(仲間に勧誘)",
   "translation": "没事吧？需要帮助吗？（邀请加入队伍）",
   "context": "ID: TALK_RIKKA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_RIKKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_RIKKA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e0bf71902f2eef35d61b7e0f6f66562a",
@@ -8698,7 +8698,7 @@
   "original": "子供がこんなとこにいるなんて…保護しなきゃ",
   "translation": "竟然有个孩子在这里...必须保护她",
   "context": "ID: TALK_SHOTA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_SHOTA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_SHOTA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "abe4e4518815f5b2f44fbea0a742eb0b",
@@ -8908,7 +8908,7 @@
   "original": "弦巻マキの愛器。フェンダー・ジャパンのムスタングです。弾けるような高音域と、その小ぶりなボディーから想像も出来ない個性的なサウンドは、広く大衆の心を痺れさせてきました。",
   "translation": "弦卷真纪心爱的乐器，是Fender公司（日本）的Mustang吉他。其爆炸性的高音域和很难想象是由这么小的身板发出的独特声音，让听众为之着迷。",
   "context": "ID: voiro_guitar_mustang\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_guitar_mustang\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2375f78c5c0beb2ce27ea902a6e8f85e",
@@ -9039,9 +9039,9 @@
  {
   "key": "245f6d7b56e7181623c254efaa641753",
   "original": "怪しい…",
-  "translation": "可疑...",
+  "translation": "真可疑...",
   "context": "ID: TALK_UNA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_UNA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_UNA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4284a3105cee6add2b502ca8dcd245f5",
@@ -9214,16 +9214,16 @@
  {
   "key": "7970f3ff5b0dd9440df342502961708a",
   "original": "新島秋一氏による結月ゆかり二次創作キャラクター、悪い結月ゆかりの容姿になります。\n変異を有効化する事により元に戻ります。",
-  "translation": "外观变为由新岛秀一先生二次创作的角色“黑化结月缘”。\n激活变异以使你的胸虚假地变大。 ",
+  "translation": "外观变为由新岛秋一先生二次创作的角色“黑化结月缘”。\n激活变异以使你的胸虚假地变大。 ",
   "context": "ID: VOIRO_BODY_YUKARI_EVIL_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI_EVIL_active\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e044e979c42c077af39e1b6c997a066a",
   "original": "新島秋一氏による結月ゆかり二次創作キャラクター、悪い結月ゆかりの容姿になります。\n変異を有効化する事により胸がまな板になります。",
-  "translation": "外观变为由新岛秀一先生二次创作的角色“黑化结月缘”。\n激活变异以将你的胸打回原形，变成砧板。 ",
+  "translation": "外观变为由新岛秋一先生二次创作的角色“黑化结月缘”。\n激活变异以将你的胸打回原形，变成砧板。 ",
   "context": "ID: VOIRO_BODY_YUKARI_EVIL\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_YUKARI_EVIL\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ef46ae64587cbce2e999dfbd4c2f98cf",
@@ -9382,28 +9382,28 @@
  {
   "key": "b11ee81d8df9a227930533d1e9cc2084",
   "original": "春日部つむぎの後ろの髪です。\n変異を有効化する事により後ろ髪をだします。",
-  "translation": "春日部䌷的后发。\n激活变异使后发显现出来。",
+  "translation": "春日部紬的后发。\n激活变异使后发显现出来。",
   "context": "ID: VOIRO_BODY_TUMUGI_KAMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI_KAMI\n",
   "stage": 3
  },
  {
   "key": "3719e56cc0759e53776c75b70602f63b",
   "original": "春日部つむぎの後ろの髪です。\n変異を有効化する事により後ろ髪を隠します。",
-  "translation": "春日部䌷的后发。\n激活变异以隐藏后发。",
+  "translation": "春日部紬的后发。\n激活变异以隐藏后发。",
   "context": "ID: VOIRO_BODY_TUMUGI_KAMI_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI_KAMI_active\n",
   "stage": 3
  },
  {
   "key": "47e4c37ab7ecb71d85b10dc0c80a0d0d",
   "original": "春日部つむぎの髪",
-  "translation": "春日部䌷的头发",
+  "translation": "春日部紬的头发",
   "context": "ID: VOIRO_BODY_TUMUGI_KAMI_active\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI_KAMI_active\n",
   "stage": 3
  },
  {
   "key": "1620c2eacf5824b196c5a35acc245872",
   "original": "春日部つむぎの髪(非表示)",
-  "translation": "春日部䌷的头发（不显示）",
+  "translation": "春日部紬的头发（不显示）",
   "context": "ID: VOIRO_BODY_TUMUGI_KAMI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_TUMUGI_KAMI\n",
   "stage": 3
  },
@@ -9431,9 +9431,9 @@
  {
   "key": "4d37cf65e6e29a36e13189fbd919c646",
   "original": "普段は耳あてに擬態している謎の浮遊ロボ。使用する事で耳あてに変身します。",
-  "translation": "谜一样的漂浮机器人，平时它会拟态成耳罩。使用后可以变成耳罩。",
+  "translation": "谜一样的漂浮机器人，平时它会拟态成耳罩。激活后可以变成耳罩。",
   "context": "ID: voiro_sorarobo\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_sorarobo\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d09a802cef81d2502c06cd74f73f1602",
@@ -9487,7 +9487,7 @@
  {
   "key": "628d6f3573f9fc80723885aad60226ac",
   "original": "月読アイ",
-  "translation": "月読アイ",
+  "translation": "月读爱",
   "context": "ID: NC_VOIRO_AI\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_AI\n",
   "stage": 3
  },
@@ -9636,7 +9636,7 @@
   "original": "枝豆をすり潰してペースト状にしたものです。砂糖や塩などを加える前の状態の為、そのまま食べても美味しくありません。",
   "translation": "将毛豆捣碎的糊状物质。还没有添加糖和盐，因此直接食用并不好吃。",
   "context": "ID: voiro_zunda\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→COMESTIBLE→voiro_zunda\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "55a9b3429c1422f624a152f5bdb00625",
@@ -9804,7 +9804,7 @@
   "original": "漂白された木綿です。腹巻や肌着、コルセットのような医療補助目的で着用する他、ガーゼや包帯の代替として利用できます。",
   "translation": "一条漂白的棉布。除了用于辅助医疗的腹带、内衣和紧身衣之外，它还可以代替纱布和绷带。",
   "context": "ID: voiro_sarashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sarashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ea7cf8591b8a28051fe401d9123fb51c",
@@ -10026,9 +10026,9 @@
  {
   "key": "685b9be910d34203779c26aeb03c6ed6",
   "original": "異能生存体[VOIRO]",
-  "translation": "异能生存体（悪い結月ゆかり）[VOIRO]",
+  "translation": "异能生存体（黑化结月缘）[VOIRO]",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→profession→[32]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "443e7b1d772514e5fa7603860e66e13d",
@@ -10252,7 +10252,7 @@
   "original": "知らん",
   "translation": "不造啊",
   "context": "ID: TALK_RIKKA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_RIKKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_RIKKA_SAN_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e8af94e4f6dc48aca04a29353177cabd",
@@ -11601,7 +11601,7 @@
  {
   "key": "14f55b8cf45a8f0db022c60dfebc6442",
   "original": "ﾅﾆﾆｼﾏｽｶ?",
-  "translation": "你要点什么吗？",
+  "translation": "你要点啥嘞？（搅拌拉面）*辐射4梗",
   "context": "ID: TALK_TAKAHASHI_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TAKAHASHI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TAKAHASHI_SAN_2\n",
   "stage": 3
  }

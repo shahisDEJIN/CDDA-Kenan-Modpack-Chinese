@@ -15227,7 +15227,7 @@
  {
   "key": "7d432bfdfc38f2f4387b0855c1dd9878",
   "original": "会って無い間に結婚までしたってOИEちゃんに言ったらどうなっちゃうんだろう…。\nお、怒られたら一緒に謝ってね、<u_name>！",
-  "translation": "要是告诉OИE酱，我们在她不在的时候婚都结了，她会有什么反应呢…。\n如、如果她生气了，我们一起道歉吧，<u_name>！",
+  "translation": "要是告诉ONE酱，我们在她不在的时候婚都结了，她会有什么反应呢…。\n如、如果她生气了，我们一起道歉吧，<u_name>！",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
   "stage": 3
  },
@@ -16689,7 +16689,7 @@
  {
   "key": "571cee3f491e89a849814961affc6437",
   "original": "恋人の写真(つむぎ)",
-  "translation": "恋人的写真（䌷）",
+  "translation": "恋人的相片（紬）",
   "context": "ID: lovers_photo_tumugi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_tumugi\n",
   "stage": 3
  },
@@ -17529,7 +17529,7 @@
  {
   "key": "967ad3236de7a147ad5d2d5064a1d004",
   "original": "最近実は悩んでることがあって…\nOИEちゃんに<u_name>のこと、どう紹介しようかなって",
-  "translation": "其实，我最近在为一件事烦恼…\n该怎么向OИE酱介绍<u_name>呢？",
+  "translation": "其实，我最近在为一件事烦恼…\n该怎么向ONE酱介绍<u_name>呢？",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
   "stage": 3
  },
