@@ -12378,6 +12378,13 @@
   "stage": 3
  },
  {
+  "key": "9238652a4dd982cea676a815d7028639",
+  "original": "You prepare your wings to fly.",
+  "translation": "You prepare your wings to fly.",
+  "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
+  "stage": 1
+ },
+ {
   "key": "3ae576c7ace40e443b5543f48b1e071a",
   "original": "You prepare yourself to fight once more.",
   "translation": "你准备好再干一架了。",
@@ -12493,6 +12500,13 @@
   "translation": "你沉静心绪.",
   "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
   "stage": 3
+ },
+ {
+  "key": "b3db38c4cf965c488b5010427d941bc5",
+  "original": "You relax your wings.",
+  "translation": "You relax your wings.",
+  "context": "ID: WINGS_TENGUCROW_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW_spread\n",
+  "stage": 1
  },
  {
   "key": "94c96e96ddf90d365b562da768daa3c1",
