@@ -1812,6 +1812,13 @@
   "stage": 3
  },
  {
+  "key": "92e14441c7de735a05a7bea8c0ffaf35",
+  "original": "Ate a cucumber.",
+  "translation": "Ate a cucumber.",
+  "context": "ID: morale_cucumber\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_morale_types.json\n类型为 morale_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→morale_type→morale_cucumber\n",
+  "stage": 1
+ },
+ {
   "key": "37d733f654fba35825e29be1713a91d8",
   "original": "Attack for mon_darksphere_seiga ",
   "translation": "Attack for mon_darksphere_seiga ",
@@ -2631,6 +2638,13 @@
   "stage": 3
  },
  {
+  "key": "63e827c8793535a7b537b4fb02405616",
+  "original": "Consumed human.",
+  "translation": "Consumed human.",
+  "context": "ID: morale_hblood_vitamin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_morale_types.json\n类型为 morale_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→morale_type→morale_hblood_vitamin\n",
+  "stage": 1
+ },
+ {
   "key": "54a9c5ad4da89b59f55013d05cab50f6",
   "original": "Corpse carrier cheering hellcat",
   "translation": "欢快运尸的地狱之猫",
@@ -2998,7 +3012,6 @@
   "key": "6d66e52814fc680e8890b3e4d85dec90",
   "original": "Damage component for remilia_vampiricaura ",
   "translation": "Damage component for remilia_vampiricaura ",
-  "context": "ID: vampiric_claw\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_claw\n",
   "stage": 3
  },
  {
@@ -3152,7 +3165,6 @@
   "key": "52515b3ece651150608924726f9fc27f",
   "original": "Damage component for utsuho_fusionblade ",
   "translation": "Damage component for utsuho_fusionblade ",
-  "context": "ID: fusion_bonk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fusion_bonk\n",
   "stage": 3
  },
  {
@@ -4721,7 +4733,6 @@
   "key": "2bc8990ce3194497c1482b9461f33128",
   "original": "Fusion blade (dmg)",
   "translation": "聚变光刃 (伤害)",
-  "context": "ID: fusion_bonk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fusion_bonk\n",
   "stage": 3
  },
  {
@@ -5157,7 +5168,7 @@
   "key": "08d7a58f00d85eebe5cf5eac15038378",
   "original": "Heal component for remilia_vampiricaura ",
   "translation": "Heal component for remilia_vampiricaura",
-  "context": "ID: vampiric_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_drain\n",
+  "context": "ID: vampiric_drain_spell\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_drain_spell\n",
   "stage": 3
  },
  {
@@ -10987,7 +10998,7 @@
   "key": "28417f94c3c7581e031c501c2ed259c4",
   "original": "Vampiric DRAIN",
   "translation": "吸血鬼吸取",
-  "context": "ID: vampiric_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_drain\n",
+  "context": "ID: vampiric_drain_spell\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_drain_spell\n",
   "stage": 3
  },
  {
@@ -11027,7 +11038,6 @@
   "key": "303ceade31c2769f9449517c5d38356e",
   "original": "Vampiric claw (dmg)",
   "translation": "Vampiric claw (dmg)",
-  "context": "ID: vampiric_claw\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vampiric_claw\n",
   "stage": 3
  },
  {
@@ -11914,17 +11924,29 @@
   "stage": 3
  },
  {
+  "key": "ba29cd255ebd1cf27cc257056661d9bb",
+  "original": "You gain soulshards by killing humanoids, which you can use to fuel some of your spells.  \nSpell cost displays how many you currently have.  \nMax 16 soulshards.",
+  "translation": "You gain soulshards by killing humanoids, which you can use to fuel some of your spells.  \nSpell cost displays how many you currently have.  \nMax 16 soulshards.",
+  "context": "ID: kaenbyou_zz_soulshard\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_zz_soulshard\n",
+  "stage": 1
+ },
+ {
   "key": "d72497153701aed7cd95e213df8ea431",
   "original": "You gain soulshards by killing humanoids, which you can use to fuel some of your spells.  Casting time displays how many you currently have.  \nMax 16 soulshards.",
   "translation": "你可以通过击败人形生物获得灵魂碎片，为一些法术提供燃料。施法时间显示你当前拥有的灵魂碎片数量。\n最多可拥有16个灵魂碎片。",
-  "context": "ID: kaenbyou_zz_soulshard\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_zz_soulshard\n",
   "stage": 3
+ },
+ {
+  "key": "2e5745a67ddb9316520a6172e7a5b58f",
+  "original": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nSpell cost displays how many you currently have.  \nMax 200 scrap.",
+  "translation": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nSpell cost displays how many you currently have.  \nMax 200 scrap.",
+  "context": "ID: nitori_zz_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_zz_kappascrap\n",
+  "stage": 1
  },
  {
   "key": "aee67f13ab46ea5376035eec43b1cd87",
   "original": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  Casting time displays how many you currently have.  \nMax 200 scrap.",
   "translation": "你通过转换人类的废料和科技材料获得有用的河童废料，可以用来建造和部署河童技术。施放时间显示了你现在拥有的河童废料数量。\n最多可拥有200个河童废料。",
-  "context": "ID: nitori_zz_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_zz_kappascrap\n",
   "stage": 3
  },
  {

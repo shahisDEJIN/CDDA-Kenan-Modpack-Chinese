@@ -6906,63 +6906,63 @@
   "original": "ネクタイ(小春六花)[voiro]",
   "translation": "领结（小春六花）[voiro]",
   "context": "ID: voiro_tie_ascot_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_tie_ascot_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "071d8fae6ef42e1180b9b5ac9ff34473",
   "original": "ネクタイ(春日部つむぎ)",
   "translation": "领带（春日部紬）",
   "context": "ID: voiro_necktie_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_necktie_tumugi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3c7610ac543fadf8c739412460f4ed27",
   "original": "ノースリーブ(初音ミク)[voiro]",
   "translation": "无袖衫（初音未来）[voiro]",
   "context": "ID: voiro_sleeveless_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sleeveless_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1f37cbe135794e37919164b66a89142f",
   "original": "ノースリーブ(初音ミク)に変化しました。",
   "translation": "变成无袖衫（初音未来）了。",
   "context": "ID: voiro_sleeveless_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sleeveless_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "34db4bd21a26dad16020ddfd5ea57967",
   "original": "ノースリーブ(弱音ハク)[voiro]",
   "translation": "无袖衫（弱音白）[voiro]",
   "context": "ID: voiro_sleeveless_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sleeveless_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0a6703435c98969efd71892a0aa4876c",
   "original": "ノースリーブ(弱音ハク)に変化しました。",
   "translation": "变成无袖衫（弱音白）了。",
   "context": "ID: voiro_sleeveless_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sleeveless_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "767231677ddf8bd8df01c83ace9687d6",
   "original": "ノースリーブの白いダウンシャツです。これを着こなせば、クールビューティーに見られる事間違いなしですよ。",
   "translation": "白色无袖羽绒衬衫。穿上这个的话，一定会被认为是冷酷的美人哦。",
   "context": "ID: voiro_dress_shirt_seika\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_shirt_seika\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9e227ac273b61a599bba5d7a549a5bc1",
   "original": "ハイソックス(小春六花)[voiro]",
   "translation": "长筒袜（小春六花）[voiro]",
   "context": "ID: voiro_socks_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "505e726ba516b18a42994d49c2113b25",
   "original": "ハイヒール(ギャラ子)[voiro]",
   "translation": "高跟鞋（Galaco）[voiro]",
   "context": "ID: voiro_heels_galaco\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_heels_galaco\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9e2bc9ea7a32c902deecd75134e8cbf6",
@@ -6990,7 +6990,7 @@
   "original": "バーチャルアーティスト、ハルオロイド・ミナミの容姿になります。",
   "translation": "外观变为虚拟艺术家“HAL-O-ROID”。",
   "context": "ID: VOIRO_BODY_HAL-O-ROID\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→VOIRO_BODY_HAL-O-ROID\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6f5f55c952d30495ece9f9d4580b0c52",
@@ -7004,7 +7004,7 @@
   "original": "パイロットスーツ(結月ゆかり)[voiro]",
   "translation": "战斗员套装（结月缘）[voiro]",
   "context": "ID: voiro_suit_yukari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_suit_yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7fe17bcf77832b649ec20c9654567fea",
@@ -7032,7 +7032,7 @@
   "original": "パンキッシュなアイドル衣装です。使用する事でワンピース(音街ウナ)に変化します。",
   "translation": "一套夸张的偶像服装。激活以变成连衣裙（音街鳗）。",
   "context": "ID: voiro_idol_costume_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_idol_costume_una_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6ceee6585c866dfc7cdf4fb8f2de4f91",
@@ -7053,49 +7053,49 @@
   "original": "パンプス(月読アイ)[voiro]",
   "translation": "浅口皮鞋（月读爱）[voiro]",
   "context": "ID: voiro_shoes_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "56c2498b1afd9330f6e5db4463133308",
   "original": "パンプス(桜乃そら)[voiro]",
   "translation": "浅口皮鞋（樱乃空）[voiro] ",
   "context": "ID: voiro_shoes_sora\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_sora\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9e369cf4a65249db88f0c061d3f22944",
   "original": "パンプス(紲星あかり)[voiro]",
   "translation": "浅口皮鞋（绁星灯）[voiro] ",
   "context": "ID: voiro_shoes_akari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_akari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1b48541b0a36d5fb54815902c1204d76",
   "original": "パンプス(結月ゆかり)[voiro]",
   "translation": "浅口皮鞋（结月缘）[voiro]",
   "context": "ID: voiro_shoes_yukari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shoes_yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "190ed9a37ecf47b74746836084d2f256",
   "original": "パーカー(小春六花)[voiro]",
   "translation": "连帽衫（小春六花）[voiro]",
   "context": "ID: voiro_hoodie_rikka\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hoodie_rikka\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2cb662039b4c6bcaea2342597767a3cd",
   "original": "パーカー(水奈瀬コウ)[voiro]",
   "translation": "卫衣（水奈濑光）[voiro]",
   "context": "ID: voiro_hoodie_kou\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hoodie_kou\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "98a479955b13550d3788c1ae3ffd1996",
   "original": "パーカー(結月ゆかり)[voiro]",
   "translation": "卫衣（结月缘） [voiro] ",
   "context": "ID: voiro_hoodie_yukari\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hoodie_yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0c03fef7aac788ebcf79525d9770c72f",
@@ -7130,35 +7130,35 @@
   "original": "フェイクレザーの白いハイカットスニーカーです。街歩きには最適ですよ。",
   "translation": "仿皮革的白色高帮运动鞋。非常适合走在街上。",
   "context": "ID: voiro_sneakers_kou\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_sneakers_kou\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5e205fc53f1b877d94d833873921fdf1",
   "original": "フリルの付いた純白のニーソックスです。右脚側が常にずれ落ちてしまいます。",
   "translation": "带有荷叶边的纯白过膝袜。右脚侧经常会错位。",
   "context": "ID: voiro_socks_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "07de3f1a2a288aa536d8f4e362675d0f",
   "original": "フワフワの尻尾(モチノ・キョウコ)",
   "translation": "蓬松的大尾巴（望野京子）",
   "context": "ID: TAIL_FLUFFY_MOCHIKO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→TAIL_FLUFFY_MOCHIKO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6476ab05328f9575975fc1aace54a115",
   "original": "フワフワの尻尾です",
   "translation": "望野京子蓬松的大尾巴。",
   "context": "ID: TAIL_FLUFFY_MOCHIKO\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→mutation→TAIL_FLUFFY_MOCHIKO\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "981c8227b2d779dd3c6f132f0862bc4a",
   "original": "フードが付いた緑色のトレーナーです。",
   "translation": "带兜帽的绿色卫衣。",
   "context": "ID: voiro_hoodie_kou\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hoodie_kou\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0b6c375e5edfca0546385efaf0a8b051",
@@ -7186,7 +7186,7 @@
   "original": "ブラウス(春日部つむぎ)[voiro]",
   "translation": "女式衬衫（春日部紬）[voiro]",
   "context": "ID: voiro_shirt_tumugi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shirt_tumugi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "df6c78e3dcdcfdc13275b0cfbfb0d88b",
@@ -7214,119 +7214,119 @@
   "original": "ブーツ(京町セイカ)[voiro]",
   "translation": "靴子（京町精华）[voiro]",
   "context": "ID: voiro_boots_seika\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_seika\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1561d69b20b878a1839e72d4ec1dd1a6",
   "original": "ブーツ(初音ミク)[voiro]",
   "translation": "靴子（初音未来）[voiro]",
   "context": "ID: voiro_boots_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "baceadb4777f811d97890d5eed81586a",
   "original": "ブーツ(初音ミク)に変化しました。",
   "translation": "变成靴子（初音未来）了。",
   "context": "ID: voiro_boots_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f9ff63cd55b75b32f6d757693bfb805b",
   "original": "ブーツ(弱音ハク)[voiro]",
   "translation": "靴子（弱音白）[voiro]",
   "context": "ID: voiro_boots_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ecacd54ddbe488cadcae7b61c33ace31",
   "original": "ブーツ(弱音ハク)に変化しました。",
   "translation": "变成靴子（弱音白）了。",
   "context": "ID: voiro_boots_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4bf2e2455d34ec3c7cff1dbe6be0be4d",
   "original": "ブーツ(琴葉茜)[voiro]",
   "translation": "靴子（琴叶茜）[voiro]",
   "context": "ID: voiro_boots_akane\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_akane\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fce6bccaa4ae32b2be16ead5bac67dfa",
   "original": "ブーツ(琴葉葵)[voiro]",
   "translation": "靴子（琴叶葵）[voiro]",
   "context": "ID: voiro_boots_aoi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_aoi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d9e9cddf1dd563052bc2931a2ae9e136",
   "original": "ブーツ(音街ウナ)[voiro]",
   "translation": "靴子（音街鳗）[voiro]",
   "context": "ID: voiro_boots_una\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_una\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dddb44dbce443326fb828c6bacfc9330",
   "original": "ブーツ(音街ウナSpicy)[voiro]",
   "translation": "靴子（音街鳗Spicy）[voiro]",
   "context": "ID: voiro_boots_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_una_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1333e9af755bc9c77056b37623838cb7",
   "original": "ヘッドセット(京町セイカ)[voiro]",
   "translation": "耳机（京町精华）[voiro]",
   "context": "ID: voiro_headset_seika\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_seika\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "376113921b1d07070a22268fab33ff7a",
   "original": "ヘッドセット(初音ミク)[voiro]",
   "translation": "耳机（初音未来）[voiro]",
   "context": "ID: voiro_headset_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "063d3497b3170d824534a8bbc5dec3e7",
   "original": "ヘッドセット(初音ミク)に変化しました。",
   "translation": "变成耳机（初音未来）了。",
   "context": "ID: voiro_headset_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "00a9dad3ea3d3f38aa439cc044a5f1e2",
   "original": "ヘッドセット(弦巻マキ)[voiro]",
   "translation": "耳机（弦卷真纪）[voiro]",
   "context": "ID: voiro_headset_maki\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_maki\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "41a0bdac2f5f25977f4ab0319aae78da",
   "original": "ヘッドセット(弱音ハク)[voiro]",
   "translation": "耳机（弱音白）[voiro]",
   "context": "ID: voiro_headset_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c4ec472ba9d92a5b951db8242cdf7312",
   "original": "ヘッドセット(弱音ハク)に変化しました。",
   "translation": "变成耳机（弱音白）了。",
   "context": "ID: voiro_headset_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8a065266217eedf64da9d9b6c2bc361f",
   "original": "ヘッドセット(月読アイ)[voiro]",
-  "translation": "耳机(月読アイ)[voiro]",
+  "translation": "耳机(月读爱)[voiro]",
   "context": "ID: voiro_headset_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_ai\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1b5c869f0d564bb2c3d95545ada61059",
   "original": "ヘッドセット(月読ショウタ)[voiro]",
   "translation": "耳机（月读翔太）[voiro]",
   "context": "ID: voiro_headset_shota\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_headset_shota\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bc54e582cd8a252bd1c26d61b1086f9a",
@@ -7354,42 +7354,42 @@
   "original": "ベスト(京町セイカ)[voiro]",
   "translation": "背心（京町精华）[voiro] ",
   "context": "ID: voiro_vest_seika\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_vest_seika\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "804f752ec7c3870fdddc7b36be210046",
   "original": "ベルトが巻かれた白いブーツです。",
   "translation": "缠着皮带的白色靴子。",
   "context": "ID: voiro_boots_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_boots_ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "53a813fab85398ecbe82e20e35fc45be",
   "original": "ベルトで留める網タイツと、鍵盤の柄が入ったレザーストッキングの組み合わせです。使用する事でタイツ(音街ウナ)に変化します。",
   "translation": "皮带固定的丝袜和有琴键图案的皮革长筒袜的组合。使用之后会变成紧身裤（音街鳗）。",
   "context": "ID: voiro_socks_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_socks_una_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7f4f54795084073edfe8875d03a3d696",
   "original": "ベルトの中央に「悪」の文字のバックルが付いた悪いベルトです。",
   "translation": "皮带中央有“恶”字皮带扣的恶之皮带。",
   "context": "ID: voiro_belt_evil\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_belt_evil\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9afda8867b643a21cfe6eaea5d6a7f3e",
   "original": "ベルボトムパンツ(弱音ハク)[voiro]",
   "translation": "细筒裤（弱音白）[voiro]",
   "context": "ID: voiro_pants_haku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_pants_haku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4a25f62fdeb3e97bf520b62aa79a76a4",
   "original": "ベルボトムパンツ(弱音ハク)に変化しました。",
   "translation": "变成细筒裤（弱音白）了。",
   "context": "ID: voiro_skirt_miku\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_skirt_miku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8eea49e9cf8974b66edb4d004e726910",
@@ -7424,7 +7424,7 @@
   "original": "ポイポン8(音楽)[voiro]",
   "translation": "Poipon 8（音乐）[voiro]",
   "context": "ID: voiro_poipon8_music\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8_music\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e573e9a9bda736fff163428051641c99",
@@ -7445,7 +7445,7 @@
   "original": "ポイポンU92 Pro (音楽)[voiro]",
   "translation": "Poipon U92 Pro（音乐）[voiro]",
   "context": "ID: voiro_atomic_poipon_u92_music\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_atomic_poipon_u92_music\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3c0d34c5d6855d959868a98d5c0c9330",
@@ -7459,14 +7459,14 @@
   "original": "ポケットの無いシンプルな無地のドレスシャツ。襟がビシッと決まっています。",
   "translation": "没有口袋的朴素白色礼服衬衫。领子很整齐。",
   "context": "ID: voiro_dress_shirt_takahashi\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_dress_shirt_takahashi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7f812a6d4a8bf51e3199d52c89618a9f",
   "original": "マイク(音街ウナSpicy)[voiro]",
   "translation": "麦克风（音街鳗Spicy）[voiro]",
   "context": "ID: voiro_mic_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_mic_una_spicy\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "94bd1718613a1a08922129d25f145096",
@@ -7494,7 +7494,7 @@
   "original": "マーチングバンドの指揮者をイメージする可愛らしい衣装です。使用する事でアイドル衣装(音街ウナSpicy)に変化します。",
   "translation": "给人以行军乐队指挥印象的可爱服装。使用之后会变成偶像服装（音街鳗Spicy）。",
   "context": "ID: voiro_idol_costume_una_sugar\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_idol_costume_una_sugar\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3c8d2c8b93a926f914d485221fb71244",
@@ -7515,7 +7515,7 @@
   "original": "メジャーバトン(音街ウナSugar)[voiro]",
   "translation": "大指挥棒（音街鳗Sugar）[voiro]",
   "context": "ID: voiro_majorbaton\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_majorbaton\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8f044bc5f5e82a625642329a2b52c568",
