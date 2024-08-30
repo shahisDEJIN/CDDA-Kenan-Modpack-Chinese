@@ -794,6 +794,11 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         await useActionMsg(useAction);
       }
     }
+    if (typeof item.transform === 'object'){
+      if (item.transform?.msg_transform){
+        item.transform.msg_transform = await translateFunction(item.transform.msg_transform);
+      }
+    }
     if (typeof item.use_action === 'object') {
       await useActionMsg(item.use_action);
     }
