@@ -11827,7 +11827,7 @@
   "original": "まあ...そらそうやな...。\n気にせんでええよ、なんとかうちの方で探してみるから",
   "translation": "嗯…也对呢…。\n别放心上，咱会自己找找看的",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "89f1a60d39123cc6ed9f20bdc2f0c258",

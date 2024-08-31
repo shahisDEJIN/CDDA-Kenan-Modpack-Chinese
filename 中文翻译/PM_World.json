@@ -1283,7 +1283,7 @@
   "key": "7eb45e07ff6124a812c40cd2423cfac8",
   "original": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
   "translation": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
-  "context": "ID: beak_mag_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag_red\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_mag_medium(difficulty3)\n",
   "stage": 1
  },
  {
@@ -1346,7 +1346,7 @@
   "key": "c3118a161ba4d6e6b48bc13f57d8bff8",
   "original": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird, it grants the wearer increased speed and agility, as well as the ability to carry more.",
   "translation": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird，it grants the wearer increased speed and agility，as well as the ability to carry more.",
-  "context": "ID: ego_soda_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_soda_gift\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_soda_gift(difficulty7)\n",
   "stage": 1
  },
  {
@@ -1456,7 +1456,7 @@
   "key": "6132295fcf5570fb8b0a944ef322a598",
   "original": "Alpha",
   "translation": "阿尔法",
-  "context": "ID: NC_ALPHA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ALPHA\n",
+  "context": "ID: alpha_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→alpha_npc\n",
   "stage": 1
  },
  {
@@ -1558,7 +1558,7 @@
   "key": "d2d051ef130b601a72ed73d059f9a84c",
   "original": "As if to prove that size doesn't matter when it comes to force, the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
   "translation": "As if to prove that size doesn't matter when it comes to force，the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
-  "context": "ID: ego_weapon_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_beak\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_weapon_soda(difficulty7)\n",
   "stage": 1
  },
  {
@@ -1759,7 +1759,7 @@
   "key": "0f891fef261105dc27c92212c926e15c",
   "original": "Bongbong",
   "translation": "邦邦",
-  "context": "ID: NC_BONGBONG\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_BONGBONG\n",
+  "context": "ID: bongbong_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→bongbong_npc\n",
   "stage": 1
  },
  {
@@ -2173,7 +2173,7 @@
   "key": "dd53ef65bfd450dfe7964a6f3b9a92db",
   "original": "F-05-52 Document",
   "translation": "F-05-52 Document",
-  "context": "ID: p_soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_soda_book\n",
+  "context": "ID: soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→soda_book\n",
   "stage": 1
  },
  {
@@ -2444,7 +2444,7 @@
   "key": "d7ad223a94b1cdb31734ad5fb25df4bd",
   "original": "Gin",
   "translation": "银",
-  "context": "ID: NC_KR_GIN\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR_GIN\n",
+  "context": "ID: gin_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→gin_npc\n",
   "stage": 1
  },
  {
@@ -3082,7 +3082,7 @@
   "key": "ae5f9be0953255382bfd82ae4254d106",
   "original": "Isadora",
   "translation": "伊莎多拉",
-  "context": "ID: NC_ZW_ISADORA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_ISADORA\n",
+  "context": "ID: isadora_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isadora_npc\n",
   "stage": 1
  },
  {
@@ -3096,7 +3096,7 @@
   "key": "d746ef426409bd08b2bc7a49903abae7",
   "original": "Isao",
   "translation": "ISAO",
-  "context": "ID: NC_ISAO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ISAO\n",
+  "context": "ID: isao_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isao_npc\n",
   "stage": 0
  },
  {
@@ -3124,7 +3124,7 @@
   "key": "16661311ae9005c8e9100c44548b1b57",
   "original": "It's sleek without a dent. The suit was originally very small, barely wearable by a child. As more blood stains the armor, the chestplate writhes subtly as if it were alive.",
   "translation": "It's sleek without a dent. The suit was originally very small，barely wearable by a child. As more blood stains the armor，the chestplate writhes subtly as if it were alive.",
-  "context": "ID: ego_suit_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_beak\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_suit_soda(difficulty7)\n",
   "stage": 1
  },
  {
@@ -3138,7 +3138,7 @@
   "key": "2344521e389d6897ae7af9abf16e7ccc",
   "original": "Julia",
   "translation": "朱莉娅",
-  "context": "ID: NC_ZW_JULIA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_JULIA\n",
+  "context": "ID: julia_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→julia_npc\n",
   "stage": 1
  },
  {
@@ -4831,14 +4831,14 @@
   "key": "3289eca25483173c636cacbd318bb483",
   "original": "The bullet's surface is covered with numerous spikes resembling small fangs, so it can inflict quite a lot of pain when it penetrates an enemy.",
   "translation": "The bullet's surface is covered with numerous spikes resembling small fangs，so it can inflict quite a lot of pain when it penetrates an enemy.",
-  "context": "ID: soda_bullet_grape\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet_grape\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_bullet_grape(difficulty4)\n",
   "stage": 1
  },
  {
   "key": "bc3942c73066d9a1abaf37cce2cd36e9",
   "original": "The bullet's surface is covered with numerous spikes resembling small teeth, so it can inflict quite a bit of pain when it penetrates an enemy.",
   "translation": "The bullet's surface is covered with numerous spikes resembling small teeth，so it can inflict quite a bit of pain when it penetrates an enemy.",
-  "context": "ID: beak_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_bullet(difficulty3)\n",
   "stage": 1
  },
  {
@@ -5323,7 +5323,7 @@
   "key": "e1229bab1c271d1f1796cb0c52ab9933",
   "original": "Walter",
   "translation": "沃尔特",
-  "context": "ID: NC_ZW_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_WALTER\n",
+  "context": "ID: walter_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→walter_npc\n",
   "stage": 1
  },
  {
@@ -6284,7 +6284,7 @@
   "key": "17d4d4fb5dffdcb48236d9f9bfdd24f1",
   "original": "Zonya",
   "translation": "佐尼娅",
-  "context": "ID: NC_LC_ZONYA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_ZONYA\n",
+  "context": "ID: zonya_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zonya_npc\n",
   "stage": 1
  },
  {
@@ -6765,7 +6765,7 @@
   "key": "b45b36c2391d17dfcb28fc411ba9006d",
   "original": "copies of F-05-52 document",
   "translation": "copies of F-05-52 document",
-  "context": "ID: p_soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→p_soda_book\n",
+  "context": "ID: soda_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BOOK→soda_book\n",
   "stage": 1
  },
  {
