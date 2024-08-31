@@ -46,7 +46,7 @@
         ],
         "entries": [
           { "group": "charged_cell_phone" },
-          { "item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "voiro_headset_ai" }
+          { "item": "light_battery_cell", "ammo-item": "battery", "charges": 300, "container-item": "voiro_headset_ai" }
         ]
       }
     }
@@ -78,7 +78,7 @@
         ],
         "entries": [
           { "group": "charged_cell_phone" },
-          { "item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "voiro_headset_shota" }
+          { "item": "light_battery_cell", "ammo-item": "battery", "charges": 300, "container-item": "voiro_headset_shota" }
         ]
       }
     }
@@ -509,8 +509,7 @@
         ],
         "entries": [
           { "group": "charged_smart_phone" },
-          { "item": "light_battery_cell", "charges": 100 , "container-item": "voiro_stick_seika" },
-          { "item": "light_disposable_cell", "ammo-item": "battery", "charges": 300, "container-item": "voiro_headset_seika" }
+          { "item": "light_battery_cell", "charges": 100 , "container-item": "voiro_stick_seika" }
         ]
       }
     }
@@ -1265,7 +1264,7 @@
         "entries": [
           { "group": "charged_cell_phone" },
           { "item" : "jumper_cable" },
-          { "item": "light_plus_battery_cell", "ammo-item": "battery", "charges": 150, "container-item": "voiro_monocle_sora" }
+          { "item" : "light_battery_cell", "ammo-item": "battery", "charges": 150, "container-item": "voiro_monocle_sora" }
         ]
       }
     }
