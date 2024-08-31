@@ -1283,9 +1283,9 @@
  {
   "key": "b33e20dd2c2fe1286c5cca1b5f7c84ac",
   "original": "※IA専用※\n服に隠れるおさげと前髪の一部を前に表示する用の見た目アイテムです。",
-  "translation": "※IA専用※\n外观道具，用于展示被衣服挡住的辫子。",
+  "translation": "※IA专用※\n外观道具，用于展示被衣服挡住的辫子。",
   "context": "ID: voiro_hair_ia\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/extension.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_hair_ia\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "33a705376d9a98951077b9deab5a7040",
@@ -3768,9 +3768,9 @@
  {
   "key": "2e3f67058ad2cbcd00a01ffdb92252e7",
   "original": "ずんだアローに宿るずんだ餅の精。使用する事でずんだアローへ変身します。",
-  "translation": "寄宿在俊达弓上的俊达饼之妖精。使用之后变成俊达弓。",
+  "translation": "寄宿在俊达弓上的俊达饼之妖精。激活后变成俊达弓。",
   "context": "ID: voiro_zundamon\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_zundamon\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "c327cba9052100d7d76389832b59f3a3",
@@ -3929,9 +3929,9 @@
  {
   "key": "aba33d950d51cc92eff9d3c3470fa83a",
   "original": "そらロボ[voiro]",
-  "translation": "“宇宙”机器人[voiro]",
+  "translation": "空中机器人[voiro]",
   "context": "ID: voiro_sorarobo\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_sorarobo\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "87ed71054be56d80de92b7306e844b5d",
@@ -7870,9 +7870,9 @@
  {
   "key": "c5ab506914f05b57e9e083b9529477ac",
   "original": "九州そら",
-  "translation": "九州そら",
+  "translation": "九州宇宙",
   "context": "ID: NC_VOIRO_SORA_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→npc_class→NC_VOIRO_SORA_2\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "3426af42c3568b643c8fe40d6dc1c084",
@@ -10922,7 +10922,7 @@
  {
   "key": "078c9c42203ebbbe946c0da6f69a40f2",
   "original": "薄くて軽い、洗練されたデザイン。超高速ワイヤレス接続。そして豊富に揃ったアプリケーション。精細な地図の表示、苦しい家計の計算、そして世界征服。あなたがしたいと思うすべてのことを、驚くほどのスピードで、思いのままに。ポイポン8は、最高のパートナーです。",
-  "translation": "轻薄而精致的设计，超高速无线连接，以及丰富多样的应用程序。无论是详细的地图显示，痛苦的家庭收支计算，还是世界的征服， Poipon 8都能以惊人的速度助你随心所欲地实现任何想做的事情。Poipon 8，你最理想的伙伴。",
+  "translation": "轻薄而精致的设计，超高速无线连接，以及丰富多样的应用程序。无论是详细的地图显示，繁琐的家庭收支计算，还是世界的征服， Poipon 8都能以惊人的速度助你随心所欲地实现任何想做的事情。Poipon 8，你最理想的伙伴。",
   "context": "ID: voiro_poipon8\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8\n",
   "stage": 3
  },
