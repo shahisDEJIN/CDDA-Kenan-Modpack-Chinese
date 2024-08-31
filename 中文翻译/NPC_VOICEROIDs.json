@@ -6304,7 +6304,7 @@
   "original": "おお、人や！\n良かった～～！！\nうちの名前は琴葉茜や、一人で困ってたやんけど、君が良ければ一緒に行動してくれへんかな？",
   "translation": "哦哦，是人啊！\n太好了～～！！\n咱叫琴叶茜，一个人挺为难的，如果你愿意的话，能不能一起行动呢？",
   "context": "ID: TALK_STRANGER_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKANE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5fdf76affa843888750cf6d5d8a36f54",
@@ -6764,7 +6764,7 @@
  {
   "key": "253e2bb6e9c800b275ff5575353c6697",
   "original": "お水がこんなにおいしく感じるなんて、今まで無かったな",
-  "translation": "没想到水会觉得这么好喝，以前从没感受过呢",
+  "translation": "没想到会觉得水这么好喝，以前从没感受过呢",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[5]\n",
   "stage": 3
  },
