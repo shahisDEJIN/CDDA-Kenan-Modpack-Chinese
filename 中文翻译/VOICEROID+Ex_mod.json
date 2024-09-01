@@ -2410,16 +2410,16 @@
  {
   "key": "ce768c877e96fc611c6dc43fbff6e039",
   "original": "あれから目を離しちゃダメだね…あれは",
-  "translation": "不可以从那里移开视线……那是",
+  "translation": "别忘了注意那边……那是",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[30]\n",
   "stage": 3
  },
  {
   "key": "ba2b0ff9f87543ffc9b54ce29b245c5c",
   "original": "あれから目を離しちゃダメですね…あれは",
-  "translation": "不可以从那里移开视线...那个是",
+  "translation": "别忘了注意那边...那个是",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_ZUNKO.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[30]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "f854bef8d5b79d6f91262cb12c8c9ee8",
@@ -2487,16 +2487,16 @@
  {
   "key": "f54782bbbfde91811756646d7163a228",
   "original": "あーしに任せて！あ、今日のご飯はカレーでヨロシクー♪",
-  "translation": "就交给咱吧！啊，今天去吃咖喱好吗—♪",
+  "translation": "就交给人家吧！啊，今天去吃咖喱好吗—♪",
   "context": "ID: TALK_TUMUGI_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TUMUGI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TUMUGI_SAN_2\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "002f0f1214b958b1c3337c2d37b60089",
   "original": "あーしは春日部つむぎだよ",
-  "translation": "咱叫春日部紬哦！",
+  "translation": "人家叫春日部紬哦！",
   "context": "ID: TALK_TUMUGI_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TUMUGI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TUMUGI_SAN_1\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "5c7c39d0fd174b2b5ff66699c0d90065",
