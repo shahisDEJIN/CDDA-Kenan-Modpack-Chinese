@@ -1283,7 +1283,7 @@
   "key": "7eb45e07ff6124a812c40cd2423cfac8",
   "original": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
   "translation": "A red magazine containing special Beak EGO bullets. This one has a bullet capacity of 24 rounds.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_mag_medium(difficulty3)\n",
+  "context": "ID: beak_mag_red\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MAGAZINE→beak_mag_red\n",
   "stage": 1
  },
  {
@@ -1346,7 +1346,7 @@
   "key": "c3118a161ba4d6e6b48bc13f57d8bff8",
   "original": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird, it grants the wearer increased speed and agility, as well as the ability to carry more.",
   "translation": "A string of yellow beads holding a sharp but tiny dagger made of bone. Given to those who earn the approval of Punishing Bird，it grants the wearer increased speed and agility，as well as the ability to carry more.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_soda_gift(difficulty7)\n",
+  "context": "ID: ego_soda_gift\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_soda_gift\n",
   "stage": 1
  },
  {
@@ -1558,7 +1558,7 @@
   "key": "d2d051ef130b601a72ed73d059f9a84c",
   "original": "As if to prove that size doesn't matter when it comes to force, the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
   "translation": "As if to prove that size doesn't matter when it comes to force，the weapon has a high firepower despite its small size. \n\n Unleash it on those standing in the way with no hesitation or forgiveness.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_weapon_soda(difficulty7)\n",
+  "context": "ID: ego_weapon_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GUN→ego_weapon_beak\n",
   "stage": 1
  },
  {
@@ -3124,7 +3124,7 @@
   "key": "16661311ae9005c8e9100c44548b1b57",
   "original": "It's sleek without a dent. The suit was originally very small, barely wearable by a child. As more blood stains the armor, the chestplate writhes subtly as if it were alive.",
   "translation": "It's sleek without a dent. The suit was originally very small，barely wearable by a child. As more blood stains the armor，the chestplate writhes subtly as if it were alive.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→ego_suit_soda(difficulty7)\n",
+  "context": "ID: ego_suit_beak\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→ego_suit_beak\n",
   "stage": 1
  },
  {
@@ -4063,14 +4063,12 @@
   "key": "76d47f6922318b93e8683c9708b32f21",
   "original": "Research of Beak EGO",
   "translation": "Research of Beak EGO",
-  "context": "ID: beak_study_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→beak_study_selector\n",
   "stage": 1
  },
  {
   "key": "1eaee7bd2206c0e402c91c3d97ec5bdc",
   "original": "Research the Extracted EGO \"Beak\" and explore its secrets and potential applications.",
   "translation": "Research the Extracted EGO \"Beak\" and explore its secrets and potential applications.",
-  "context": "ID: beak_study_selector\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Research.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→beak_study_selector\n",
   "stage": 1
  },
  {
@@ -4831,14 +4829,14 @@
   "key": "3289eca25483173c636cacbd318bb483",
   "original": "The bullet's surface is covered with numerous spikes resembling small fangs, so it can inflict quite a lot of pain when it penetrates an enemy.",
   "translation": "The bullet's surface is covered with numerous spikes resembling small fangs，so it can inflict quite a lot of pain when it penetrates an enemy.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_bullet_grape(difficulty4)\n",
+  "context": "ID: soda_bullet_grape\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/Egocheers.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→soda_bullet_grape\n",
   "stage": 1
  },
  {
   "key": "bc3942c73066d9a1abaf37cce2cd36e9",
   "original": "The bullet's surface is covered with numerous spikes resembling small teeth, so it can inflict quite a bit of pain when it penetrates an enemy.",
   "translation": "The bullet's surface is covered with numerous spikes resembling small teeth，so it can inflict quite a bit of pain when it penetrates an enemy.",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→recipe→soda_bullet(difficulty3)\n",
+  "context": "ID: beak_bullet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→AMMO→beak_bullet\n",
   "stage": 1
  },
  {
