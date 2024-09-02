@@ -228,14 +228,14 @@
   "original": "(あなたを熱心に見つめる視線)\nえ、ああ…なんもないで、ただ、カッコええなぁ思て見てただけや",
   "translation": "（热切地注视着你）\n呃，啊…没什么，只是觉得“好帅啊”就盯着看了",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cd0d99a5772c85d7bf00e82bcf4b2e9e",
   "original": "(無言で頬を摺り寄せてくる…。<u_name>の体温を感じながらのんびりと過ごした…)",
   "translation": "（她默默将脸颊贴了过来…。感受着<u_name>的体温，悠闲地度过了时光…）",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "784b0390965a4ebd4d3be7a5b79263d2",
@@ -921,7 +921,7 @@
   "original": "<swear_akane>伏せろー！",
   "translation": "<swear_akane>快趴下—！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[14]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "92e5504fb47be6b73ebf891682231cbb",
@@ -1026,14 +1026,14 @@
   "original": "<swear_ia>！<swear_ia>！死にたくないっ",
   "translation": "<swear_ia>！<swear_ia>！我还不想死",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[6]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ff06eff14687b51196f82ef397b1e304",
   "original": "<swear_ia>！こんなにいい気持なのにひどい！",
   "translation": "<swear_ia>！明明感觉这么好，你真是太过分了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[67]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c9121059088a461ead2d0bccfa452c50",
@@ -1094,9 +1094,9 @@
  {
   "key": "26fd059e9c31e64c738c23d404ad9fcf",
   "original": "<swear_tumugi>あそこに",
-  "translation": "<swear_tumugi>那里有",
+  "translation": "<swear_tumugi>那里有东西",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[30]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "7f3ce248908af862d6f8d69fc683d287",
@@ -1159,7 +1159,7 @@
   "original": "<u_name>…好き、大好き…。\nずっと一緒に居てね",
   "translation": "<u_name>…喜欢，最喜欢了…。\n我们要一直在一起哦",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "61b01b162ead5e1b9dae4e307efaa1dd",
@@ -1243,14 +1243,14 @@
   "original": "<u_name>、ちょっと休まない？\nだって…なんだか疲れた顔してるし、ね？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，要不要稍微休息一下？\n因为…你看起来有点疲惫，呐？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "39f01b6a6335a41878830eba2b35baf9",
   "original": "<u_name>、ちょっと疲れてない？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，有没有感觉累了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3c614ecc3374e1703fe7922c4f741981",
@@ -1264,14 +1264,14 @@
   "original": "<u_name>、どうかしました？\n時間があるならちょっと休憩しませんか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，有什么问题吗？\n如果有时间的话，不妨稍微休息一下吧？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "416d1e2339142dbbaf2490560860e6a4",
   "original": "<u_name>、どうしたの？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7e4709090b8679779d79655675407b95",
@@ -1299,12 +1299,12 @@
   "original": "<u_name>、キミ…ちょっと無茶しすぎやない？\n無茶したらあかんよ、ほんまに",
   "translation": "<u_name>、你…是不是有点太乱来了？\n不能胡来哦，真的",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a9a6596a3c7fd54814a5a608d51d5ed1",
   "original": "<u_name>、キミと一緒ならなんだってやれるって、ウチはそう信じてるで！",
-  "translation": "<u_name>，只要咱和你在一起，就能克服一切，咱坚信这一点！",
+  "translation": "<u_name>，只要咱和你在一起，就能克服一切困难，咱坚信这一点！",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
   "stage": 3
  },
@@ -1334,7 +1334,7 @@
   "original": "<u_name>、休憩せえへん？\nいやちょっとな…キミと会話でもしたいと思ってん。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，能休息一下吗？\n哎呀…其实咱是想和你聊聊天呢。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "92e7266071439039e7165e3aab3068f8",
@@ -1355,14 +1355,14 @@
   "original": "<u_name>、好き…。\nあっ、お、お話するのがだからね！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，喜欢…。\n啊，是、是指聊天哦！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "26bc2d858f139fa64c3001c42452ca96",
   "original": "<u_name>、無理してませんか？\n少し休憩しましょ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，没有勉强自己吧？\n我们稍微休息一下吧？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "13a48ef074b4a3b8360c6aa56ea472e4",
@@ -1411,7 +1411,7 @@
   "original": "<u_name>さん<u_name>さん。\nへへっ、呼んだだけでーす♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name><u_name>。 \n嘿嘿，只是叫叫你♪ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f168e2aabe2d9ac37195337e80a26c88",
@@ -1780,9 +1780,9 @@
  {
   "key": "9a1a637c310e1a0e628295b12253c8cc",
   "original": "<u_name>さん、お姉ちゃんに挨拶する時は新鮮なエビを忘れないでくださいね。\nエビがあればだいたいなんとかなります。",
-  "translation": "<u_name>，当向姐姐问好时，请别忘了带上新鲜的虾哦。\n只要有虾，基本上就万事大吉了。",
+  "translation": "<u_name>，当向姐姐问好时，请别忘了带上新鲜的虾哦。\n只要有活虾，基本上就万事大吉了。",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "076a612f6a35dfede2a0cf754f06f1ba",
@@ -1796,7 +1796,7 @@
   "original": "<u_name>さん、ここだけの話なんですけど…。\nわ、私の書いたアレ、そんなに役に立たなかったですか？",
   "translation": "<u_name>，跟你说个悄悄话…。\n我、我写的那个东西，真的那么没用吗？",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4e7b09ae95504dbe86f321944a7e420e",
@@ -1880,21 +1880,21 @@
   "original": "<u_name>さん、どうしたんですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，怎么了吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "86573f927e5cabf5480eb3a88fc49784",
   "original": "<u_name>さん、どうしました？\nへへっ、わたしに見惚れても笑顔しか出てきませんよ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，怎么了呢？ \n嘿嘿，就算被我迷住，我也会只给你笑容哦？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e3fc7d5c7b2569b87c95c6a0bfe0f10b",
   "original": "<u_name>さん、ほらほらボドゲの準備はばっちりですよ！\n一緒に遊びましょう！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，快看快看我准备好了桌游哦！\n一起来玩吧！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3dbeee42dcca978f8fac41f4daf1114b",
@@ -1964,7 +1964,7 @@
   "original": "<u_name>さん、何かして遊びませんか？\nだってわたしと遊びたそうな顔してますよ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，要不要一起玩点什么呀？\n你看起来好像挺想和我玩的呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5f7ecce779528358db91d48c7407d1b1",
@@ -1985,28 +1985,28 @@
   "original": "<u_name>さん、大好き…\n一緒にいてくれてありがとう…",
   "translation": "<u_name>，最喜欢你了…\n谢谢你陪伴在我身边…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "67fb9d5f9f8bca089748dbdbc955acf1",
   "original": "<u_name>さん、大好きです…。\nもう5年も待てないくらい、あなたが好きなんです…",
   "translation": "<u_name>，最喜欢你了…。\n我已经等不及再过五年来告诉你我有多喜欢你…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ccd4989408e33a4c1d392337be74399c",
   "original": "<u_name>さん、少し休憩しよう？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，要不要稍微休息一下？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "099a28929e0cd6117bcec9309b558064",
   "original": "<u_name>さん、後5年経ったら聞いてもらいたいことがあるんです",
   "translation": "<u_name>，五年后我有些事情想告诉你",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b26b04ff89ddf8df23dd42c3519899fc",
@@ -2125,7 +2125,7 @@
   "original": "<u_name>さん、遠慮しないで何でも言ってね！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>，请尽管畅所欲言，不必拘束！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "77ec357c289dca57091887c1f41e1b89",
@@ -2160,7 +2160,7 @@
   "original": "<u_name>さんが小学五年生相手にガチ告白したこと、一生ネタにしますからね♪\nへへっ、一生忘れません、ずっと…ずっと…",
   "translation": "我会一辈子拿<u_name>对着小学五年级学生认真告白这件事当笑料的♪\n嘿嘿，我永远不会忘记，一直…一直…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bb410731eb445a3331e3f9783339d2a7",
@@ -2202,42 +2202,42 @@
   "original": "<u_name>さんって好きな食べ物なんですか？",
   "translation": "<u_name>喜欢的食物是什么呢？",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "69d058c8e3df7bc1ab7d9860070247e2",
   "original": "<u_name>さんとお話するの少し緊張します…。\nなんでって、それは…ねえ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "与<u_name>交谈让我感到有点紧张呢…。\n你问为什么，因为…呐？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e4e1e2e1a98535762ee85dc4617dd966",
   "original": "<u_name>さんと遊ぶの楽しいですよ。\nもっと平和な頃に出会えていれば…",
   "translation": "与<u_name>一起玩真的很愉快。\n要是能在更加和平的时候相遇就好了…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b87ca3f96ad9ca4d71753de172f682b5",
   "original": "<u_name>さんと過ごすようになってから一人でゲームしてるとちょっと寂しいんです。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "自从开始和<u_name>一起度过时光后，独自一人玩游戏时总感觉有点寂寞。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8c195042efd9b139e5c2f46edfee37d1",
   "original": "<u_name>さんに会えてよかった、本当に…",
   "translation": "能遇到<u_name>你真是太好了，真的…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d03a08dfd8fddc95db1917b0c2995174",
   "original": "<u_name>さんに出会えなかったら私どうなってたんだろう、って時々考えることがあるんです…",
   "translation": "有时候我会想，如果没遇到<u_name>的话，我现在会变成怎样呢…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e06574076d6f5e6e990c6db6763529c3",
@@ -2265,7 +2265,7 @@
   "original": "<u_name>さんの好きなゲームってなんですか？\n何か一つくらいあるでしょう？",
   "translation": "<u_name>喜欢的游戏是什么？\n应该至少有一个吧？",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dbbc2016a27c13ded936d8c10082ad9b",
@@ -2328,7 +2328,7 @@
   "original": "<u_name>さん！わた、私と休憩しませんか！？\nあ、いやちゃう！うちとお話でもせえへんかなーって！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "<u_name>！要、要不要和我一起休息一下呀！？ \n啊，不对！是说要不要和咱聊会儿天呢！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2b72105e3e395ca2f610a7ab84b2dfcc",
@@ -2398,14 +2398,14 @@
   "original": "<u_name>とこうしておしゃべりするのもすっかりお馴染みやねー。\nへへ、案外ウチらって相性ええんかもな？",
   "translation": "与<u_name>这样聊天，感觉已经相当习惯了呢—。\n嘿嘿，说不定咱们意外地合得来呢？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ffdde3def79b32cb6d6e76c9065cdee7",
   "original": "<u_name>はなんであーしと一緒に居てくれるの？あ、いや、なんとなーく気になっただけだよ。\n…好きだから？\nんふふふ…花丸あげちゃおっかな♪",
   "translation": "<u_name>为什么会和人家在一起呢？啊，不，不知怎么有点在意而已啦。\n…因为喜欢人家吗？\n呵呵呵…要给你朵小花花吗♪",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "de122e28c6a079c1c7a9bf0312350dc0",
@@ -2818,14 +2818,14 @@
   "original": "……<u_name>さんって、私とお姉ちゃんの区別、つきますか？\nこれ、子供の頃の写真です。\nふぅん。ちゃんとわかってるんだ……へぇ",
   "translation": "……<u_name>，你能分清我和姐姐吗？\n这是小时候的照片。\n嗯，原来你很清楚……嘿",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6ce45ddab8e5f0a3bc06e076a0c3eddf",
   "original": "…………え、じっと見てどうしたのかって？\nいや、別に……ちょっとその……いいなぁって……ね？",
   "translation": "…………呃，问我怎么一直盯着看？\n不，没什么……只是觉得……挺好的……呐？",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6ab46483c8e65b24defeddca7764d0f4",
@@ -2839,7 +2839,7 @@
   "original": "…………はっ！？\nう、うち見惚れてなんておらんよ？\nほ、ほんまにほんまやからね！＿",
   "translation": "…………哈！？\n我、我才没有看入迷呢？\n真、真的是真的啦！＿",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c398cf2dd29c7e8e1fe6c23d35e2e378",
@@ -2888,7 +2888,7 @@
   "original": "……あっ、大丈夫です。\nちょっと考え事してただけで疲れたりは……。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "……啊，没事的。\n只是在想事情，并没有感到疲惫……。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b05daba62d029cb2c78f2b7642c89947",
@@ -3070,7 +3070,7 @@
   "original": "あ…うん、休憩するの？\nふふっ、膝枕してあげよっか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊…嗯，要休息一下吗？\n呼呼，要不要我给你膝枕呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b4eac325f1ba1dc10d8be033ca46127b",
@@ -3105,7 +3105,7 @@
   "original": "あ、あのね！私、<u_name>さんのことが…\nや、やっぱり何でもない！",
   "translation": "啊，那个呢！我，对<u_name>你…\n还、还是算了，没什么！",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5ed30eddb36be621f6dfeaf37309dae3",
@@ -3119,7 +3119,7 @@
   "original": "あ、あの！\n少し休憩にして私とお話しましょう！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊，那个！\n稍微休息一下，和我聊聊天吧！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8302cde8e5c5b614604f9f817fcf0b3f",
@@ -3133,7 +3133,7 @@
   "original": "あ、あれ…あーし、なんかちょっと変かも…",
   "translation": "诶，咦…人家感觉好像有点不太对劲…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[72]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7ce4148b4a112185a1a03416224c2447",
@@ -3161,14 +3161,14 @@
   "original": "あ、あんな…？\nう、ウチ…キミのことが好っきゃねん…。\n……これでええ？はー、全く…こんなんの何がええんかわからんわー。",
   "translation": "那、那种话…？\n呃，咱…咱喜欢你…。\n……这样就行了吗？哈—，真是的…完全不明白这种事有什么好的呢—。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bf8907e19c3241d8e6d59cd542f9c69c",
   "original": "あ、あー……うぅー……。\nて、照れ、ちゃうから…そんな見んで…お願い…。",
   "translation": "哎，啊—……呜呜—……。\n咱、咱会害羞的…别这样看我…求你了…。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d2e718c42231a850c7a89c1725cb1306",
@@ -3196,7 +3196,7 @@
   "original": "あ、お話します？\nえへへ、待ってました♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊，要聊聊吗？\n诶嘿嘿，我一直在等这个♪\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4c1592b5942a4c0eb2068373dab528ec",
@@ -3224,14 +3224,14 @@
   "original": "あ、ところで食べ物か電池持ってません？。",
   "translation": "啊，话说你有没有食物或电池？",
   "context": "ID: tohoku\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/classes_kiri.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→tohoku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "110b8aacbb1bd9a22f247cfae494f7d3",
   "original": "あ、ねえねえあそこに何か動物が！ほらほら、早く見ないと逃げちゃいますよ！\n……もー、なんで見ないんですか！\nえっ、嘘なのが丸わかりだった？うぅ……！",
   "translation": "啊，你看那边有什么动物！快点快点，再不看它就跑了！\n……真是的，你怎么就不看呢！\n诶，一下就看出来是骗人的了？呜呜……！",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5eba052e297d8413138a8e4951a0ed93",
@@ -3273,7 +3273,7 @@
   "original": "あ、呼びました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊，你叫我吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a83d3926b12bec944ef35533e58949e9",
@@ -3336,7 +3336,7 @@
   "original": "ああ、この時間を待っていたんだ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊，我一直在等待这一刻 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "37a49e3059c05e184e50613dd8cc814c",
@@ -3348,9 +3348,9 @@
  {
   "key": "832f3f8daf8af6ef553e0b4a4eeaab59",
   "original": "ああ、ずん姉さまの手作りずんだ餅が食べたい…。",
-  "translation": "啊啊，好想吃俊姐大人亲手做的俊达饼…。",
+  "translation": "啊啊，好想吃俊子姐姐亲手做的俊达饼…。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[52]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "38b79bf789bc71d13ef57353df8c9ae6",
@@ -3532,7 +3532,7 @@
   "original": "あかーん！このままじゃおねしょしてまう！",
   "translation": "不好—！再这样下去我会吓尿的！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[12]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5b8a8dbb3edbf1afa7a0d5add5f7fb3e",
@@ -3630,7 +3630,7 @@
   "original": "あっ…うー…。\nな、何かお話…します？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊…嗯—…。\n要、要聊点…什么吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e2b42908d43e80e4bd1c8cd26872b92e",
@@ -3672,7 +3672,7 @@
   "original": "あっちに梅の実がなってるらし…いや無理やなこれ",
   "translation": "那边似乎有一片梅子林……不这还是不行啊",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[39]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0bc62dc30020f4da5696baaa7638cca3",
@@ -3833,7 +3833,7 @@
   "original": "あの…手…。\n……手、握ってもらってもいいですか？",
   "translation": "那个…手…。\n……可以，请你牵我的手吗？",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "643f1431f033981868698cce2dc126a9",
@@ -3917,14 +3917,14 @@
   "original": "あの、私のしゃべり方がいつもと違っても気にしないでいただけると……。\nだ、だって恥ずかし…いや、なんでもないです……",
   "translation": "那个，即使我说话方式和平时不同，也请不要在意……。\n因、因为有点难为情…不，没什么……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e78a039e9844fa71f2f6ba1373286097",
   "original": "あの、胸見てるのちゃんとわかってるんだけど？\nもー、ほんとしょうがない人だなぁ…触る？",
   "translation": "那个，我知道你一直在看我的胸部哦？\n哎呀，真是个无可救药的人呢…要摸一下吗？",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b59502fa3327a7415b3e8290b4cc5446",
@@ -3945,14 +3945,14 @@
   "original": "あのね、えっとね。\nああ、困ったな、話したいことたくさんあって何から話したらいいかわかんないよ",
   "translation": "那个，嗯，就是。\n啊啊，真困扰，有好多想说的事情，不知道从哪里开始讲好呢",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ca26ae92509c937f653069f7da87d04a",
   "original": "あのね、私の友達にすっごく料理が得意な人が居てですね…",
   "translation": "那个，我有个朋友超级擅长烹饪哦…",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0784ab1680b5412ec88350f1cf885fe3",
@@ -4288,7 +4288,7 @@
   "original": "あんな？\nうち、君のことめっちゃ好きやねん……。\nはっ！？いや今のはちが、お姉ちゃんの真似で……か、可愛いからもっと言って？\nあうぅ………………バカ",
   "translation": "哎呀？\n咱，超级喜欢你呢……。\n哈！？不不，刚才那个是在模仿姐姐……因、因为可爱所以想多听我说？\n啊呜呜………………笨蛋",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "aaa1f1445146debb11559ba7c1d329a3",
@@ -4344,21 +4344,21 @@
   "original": "あー、そうですね……。 噛まれた時のために消毒薬とか持っておいた方がいいんじゃないでしょうか。 後は何かゾンビの頭をばばーん！って遠くから吹き飛ばせるものを用意した方がいいかも。 そうそう、射撃するときは『f』ですけどやたらに撃っても当たりませんよ。 『a』『c』『p』で狙いを付けるといいですよ。 迷ったら『c』か『p』使っておけば間違いないです",
   "translation": "啊，是呢……。为了针对被咬时做好准备，最好带些抗菌剂之类的吧。另外，也许应该准备点东西，能从远处“砰！”地一下炸飞丧尸头的。对了对了，射击的时候要用‘f’键，但别胡乱开火，打不中目标的。用‘a’、‘c’、‘p’键来瞄准会更好。如果不知所措了，用‘c’或‘p’键准没错",
   "context": "ID: MISSION_KILL_15_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_15_Z\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "43ef195b66538546bf4490502c691b11",
   "original": "あー、そうですね……。 移動方法や武術は使い分けてますか？ 『shift+2』で屈んだり駈足になって走ることもできますよ。 ただしスタミナには注意してくださいね。 スタミナ切れでゾンビを殴ろうとするとまず死にますから。",
   "translation": "啊，是呢……。你会灵活运用移动方式和格斗技巧吗？可以试试按下“shift+双引号”来蹲下或冲刺奔跑。但要注意耐力哦，如果耐力耗尽还试图对抗丧尸，那可就危险了。",
   "context": "ID: MISSION_KILL_30_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_30_Z\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "05fe82eddc2164b3499ddd682bdc4ed5",
   "original": "あー、そうですね……。 電池系は割とどこの家にも置いてますよ。 例えば台所とか、地下室とか。 地下室と言えば、迷惑な虫たちとはもう遭遇しちゃいました？ やつらは目が良くないので遠くから狙撃するか、応用化学勉強して殺虫手榴弾とか作って叩きましょうね。 後はそうですね……。 そうそう、もし銃が故障したら『i』メニューから銃を選択して、『修理』の項目を選ぶといいですよ。 必要な道具さえあれば故障は直せます。 黒色火薬を使いだしたら毎日お手入れしましょうね",
   "translation": "啊—，是呢……。电池大多数家庭里都多多少少会有些。比如厨房里，或是地下室之类的。说到地下室，你是不是已经和那些讨厌的小虫子们打过交道了？它们视力不太好，所以你可以选择远距离狙击，或者学点应用化学知识，制作杀虫剂手雷来对付它们。对了，还有……。对对，如果你的枪械出了问题，可以在‘i’菜单中选中那把枪，然后选择‘修理’选项，只要有合适的工具就能修好。一旦开始使用黑火药，记得每天都要做好维护哦",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "92057a30fbd82cd6c396b694d8ce76eb",
@@ -4372,7 +4372,7 @@
   "original": "あー、また胸見てるー？\n……しょうがないなぁ、もうちょっとだけ見てもいいよ",
   "translation": "啊—，又在看人家的胸吗—？\n……没办法呢，就让你再看一会儿吧",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "88fbcde6fcf6278e3e52fc4fc5c8f73f",
@@ -4393,14 +4393,14 @@
   "original": "あーし、ちょっと疲れたなー休憩したいなー\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "人家有点累了呢—想休息一下啊—\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a52da728d7b8bf18fee260b3a408c221",
   "original": "あーし、よく距離が近いって言われるんだよねー…そんなつもりはないんだけど。\nキミも、もしあーしが近すぎたりしたら言ってね？",
   "translation": "人家经常被别人说离得太近了呢…虽然人家没那个意思啦。\n你也是的，如果觉得靠得太近了要告诉人家哦？",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1fd10290e8aa7353f54f80bd9b0ac476",
@@ -4421,7 +4421,7 @@
   "original": "あーし、結構軽い女って見られがちなんだよねぇ…なんでかわかる？",
   "translation": "人家经常被别人看作是轻浮的女性呢…你知道为什么吗？",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a26d7ad279e1885bfc8bdf07785c3e36",
@@ -4449,7 +4449,7 @@
   "original": "あーしとここまで仲良くしてくれる人ってあんまりいなかったんだよね～。\nなんで、って…そりゃあ、カリスマの抱える孤独、ってやつ？\nちょっと、なんで笑ってんの！",
   "translation": "能和人家走到这么亲近的人还真是不多呢~。\n要问为什么…大概就是，领袖的孤独，来着？\n喂，你干嘛笑呢！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1d24fe3d6442e5a09589993236ad645d",
@@ -4477,14 +4477,14 @@
   "original": "あーしのお願い聞いてくれない？",
   "translation": "哎，你不听听人家的请求吗？",
   "context": "ID: MISSION_KILL_5_Z_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/missiondef_tumugi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_TUMUGI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "448b63295d38273d73b053f175580519",
   "original": "あーしのことじっと見てどしたの？\nははーん、さてはあーしのこと好きになったなー？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "你一直盯着人家看什么呢？\n呵呵，不会是喜欢上人家了吧？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5d2c3a2afefcc39a09dc65080c1cb6c8",
@@ -4519,7 +4519,7 @@
   "original": "あーしのためにこれを…\nほっぺにちゅーくらいした方がいい？",
   "translation": "为人家做这个…\n是不是该给你个脸颊亲亲奖励？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[51]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "16c2e589dce4be017e6f2111cb1e817f",
@@ -4540,7 +4540,7 @@
   "original": "あーしはカレーが好き。\nカレーは飲み物、カレーは食べ物。そしてカレーは人生…なんつって",
   "translation": "人家喜欢咖喱。\n咖喱是饮品，咖喱是食物。并且咖喱是人生…之类的",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0e350e424be3d4241e4c4a515971be19",
@@ -4554,7 +4554,7 @@
   "original": "あーしは美味しいものしか食べないよ。ぜっっったいにね！",
   "translation": "人家只吃好吃的东西哦，绝——对的呢！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "322e747103ee8a4c9186ac2798cb2f0b",
@@ -4589,7 +4589,7 @@
   "original": "あーし時々怖くなるんだ…。\n何が、って…そりゃあこれからのこと、とか…かな？\nあれ、何がそんなに怖いんだっけ",
   "translation": "人家偶尔也会感到害怕呢…。\n你问怕什么…也许是担心从今往后的事情，之类的…吧？ \n咦，到底是什么让人家这么害怕来着",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d0d463f2e26f07969ec4c4e3231e5731",
@@ -4638,21 +4638,21 @@
   "original": "あー！オタクちゃんだ！キミもこっち来てたんだね！\n友達に会えてほっとしたよー！",
   "translation": "啊—！是阿宅酱！你也来这边了啊！\n能见到朋友真是太让人松一口气了！",
   "context": "ID: TALK_STRANGER_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_TUMUGI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8c7e4f96e3b0ee2a0ba6a4a2909993a8",
   "original": "あー！オタク君だ！キミもこっち来てたんだね！\n知り合いに会えてほっとした～！",
   "translation": "啊—！是阿宅君！你也来这边了啊！\n 能见到熟人真是松了口气～！",
   "context": "ID: TALK_STRANGER_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_TUMUGI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bf2da83cb7e145926f38bd53aa063673",
   "original": "あー！話しかけるから死んじゃったじゃないですかぁー！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊—！死了啦，都怪你跟我搭话—！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "10050549ed2afa0d5ae7db346ba84087",
@@ -4687,7 +4687,7 @@
   "original": "い、今は近くに座ったらあかん…汗かいてるから…。\nな、なあなんでにじり寄ってくるん？\nあかんて、ほんまに恥ずかしいから…！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "现、现在不能靠近坐啊…咱正在出汗呢…。\n喂、喂，干嘛更往这边凑了？\n不行啦，真的很害羞的…！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ac6b1f18e8824f400f7cbac6cbc1daf2",
@@ -4708,7 +4708,7 @@
   "original": "いいだろう、こちらとしても助かる。",
   "translation": "好啊，我来说也是帮大忙了。",
   "context": "ID: TALK_STRANGER_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKANE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3f44866b11a5e6765f5de8046d893bbe",
@@ -4946,14 +4946,14 @@
   "original": "いつか平和になったら、二人で記憶が無くなるほど酒を飲みたいな。しかもゴミ捨て場で目を覚ますんだ\nははは！そういうのも悪くないと思わないか？",
   "translation": "如果有一天和平降临，我们俩要喝酒喝到断片。而且还要在垃圾堆里醒来呢\n哈哈哈！你不觉得这样也不错吗？",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "211a19473a6b4aa6b8065d264f38de3d",
   "original": "いつか平和になったらまた友達と旅行に行きたいな…\nその時は<u_name>さんも一緒に、ね？",
   "translation": "如果将来某一天和平降临，我还想和朋友们一起去旅行呢…\n那时，<u_name>也要一起来，呐？",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "69951a680f89b7a226a83931bee61d65",
@@ -5037,7 +5037,7 @@
   "original": "いやー、ありがとうございます！ 前よりずっと静かになったような気がしますね！ もし武術を使えるなら『shift+_キー』で使う武術を変更できますよ",
   "translation": "哎呀，真是太感谢了！感觉比之前安静多了呢！如果你能使用武术的话，可以通过按下‘Shift+-’键来切换使用的武术",
   "context": "ID: MISSION_KILL_30_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_30_Z\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fb2381aaed64a989fbe2d4d5d244d5d6",
@@ -5079,14 +5079,14 @@
   "original": "う、うん。\nどうかしたんか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "啊，嗯。\n怎么了吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2c44e6c62d1169b1330829b017c178de",
   "original": "う、ウチに用事でもあるんか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "找、找咱有什么事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2d4f6cf8ba7f31ea9c52183fe527b86f",
@@ -5128,7 +5128,7 @@
   "original": "うぅ…どこにあるだろ……あれがないと……",
   "translation": "呜呜…在哪里呢……没有那个怎么办啊……",
   "context": "ID: MISSION_KILL_5_Z_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/missiondef_aoi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AOI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "50c7a32e3526c7d10715430df4731396",
@@ -5324,7 +5324,7 @@
   "original": "うちが巷で噂の茜ちゃんやで！よろしくな！",
   "translation": "咱就是传闻中的阿卡内酱！请多关照啦！",
   "context": "ID: akane\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/classes_akane.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→akane\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b9282441b665710d4fb08dbc773d6839",
@@ -5674,14 +5674,14 @@
   "original": "うん、<u_name>さん。\nちゃんと聞いてるよ！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，<u_name>。\n我在认真听呢！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7e2527a4d955e5970ccd8884e9a761dc",
   "original": "うん、いっぱいお話しよう？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，来好好聊聊吧？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "16d7c30ce293e4120404ac89e1319705",
@@ -5700,9 +5700,9 @@
  {
   "key": "6daae8eb4105d64b1ea50b13801ad6b7",
   "original": "うん、それからはその場に居た人たちと協力してショッピングモールから脱出したよ。\nまだ大変動が起こった直後で、ゾンビに囲まれたりする前だったからそんなに大変じゃなかったかな。\nまあ、そうは言っても途中で先導してくれた店員さんとか、最後尾でゾンビを食い止めてくれてた人なんかは死んじゃったけどね……。\nそれで、モールから離れたところにもう使われてないキャンプ場があって、そこで生き残った人たち皆で協力して生活してたよ。モールから食料なんかは十分な量手分けして持ってきてたし、夜の見張りは怖かったけど、それなりに安全だったんだ。",
-  "translation": "嗯，之后我就和在场的人们合作，从购物中心逃了出来。\n那还是大灾变刚发生不久，还没被丧尸包围的时候，所以还算不上太艰难。\n不过话虽如此，在途中带领我们的店员，以及在队伍最后抵挡丧尸的那个人，他们都不幸遇难了……。\n接着，我们在离购物中心有些距离的地方发现了一个废弃的露营地，在那里，所有幸存者共同努力，共同生活。我们从购物中心带出了足够的食物和其他物资，虽然夜晚的守夜让人害怕，但总体上算是相对安全的。",
+  "translation": "嗯，之后人家就和在场的人们合作，从购物中心逃了出来。\n那还是大灾变刚发生不久，还没被丧尸包围的时候，所以还算不上太艰难。\n不过话虽如此，在途中带领我们的店员，以及在队伍最后抵挡丧尸的那个人，他们都不幸遇难了……。\n接着，我们在离购物中心有些距离的地方发现了一个废弃的露营地，在那里，所有幸存者共同努力，共同生活。我们从购物中心带出了足够的食物和其他物资，虽然夜晚的守夜让人害怕，但总体上算是相对安全的。",
   "context": "ID: TALK_STORY3_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/background_storys_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_TUMUGI\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "2bcf4e2a6bd199a1db7dad1cf8f78850",
@@ -5716,7 +5716,7 @@
   "original": "うん、どうかしたんか<u_name>？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，怎么了吗<u_name>？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "de8866563e567956f1f4a981bc433ecb",
@@ -5751,7 +5751,7 @@
   "original": "うん？あーしになんか用？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯？找人家有什么事嘛？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4fc7d54a3ceeeaf40825662ee3711ef6",
@@ -5924,9 +5924,9 @@
  {
   "key": "0fe2b32a52b5ccc0112bc93cccc33217",
   "original": "え、埼玉とキミどっちが好きかって？\nそれは…うーん……。\n\nお、同じくらい…じゃダメ？",
-  "translation": "哎，你问我更喜欢埼玉还是喜欢你？\n这个嘛…嗯—……。\n\n都、都很喜欢…不行吗？",
+  "translation": "哎，你问人家更喜欢埼玉还是喜欢你？\n这个嘛…嗯—……。\n\n都、都很喜欢…不行吗？",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "47c0956b65a686379c3502e358bef71b",
@@ -5947,7 +5947,7 @@
   "original": "ええ、聞いてますよ。\nお話でもしますか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，我在听哦。\n想聊些什么吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d7b80e699a32473b00d81f6dfb6578fe",
@@ -5975,7 +5975,7 @@
   "original": "ええと、そうだな…",
   "translation": "嗯，是的呢…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8dc037f1c70c268df190410e40f39e8b",
@@ -5989,7 +5989,7 @@
   "original": "ええと、何から話せばいいのかな…",
   "translation": "嗯，我该从哪里说起呢…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2e6a1fcb4afd0f6a02fb8f57ec0d19bd",
@@ -6031,7 +6031,7 @@
   "original": "えっ、ゆかりさんとお話したくてしょうがないって？\nふふふ、しょうがないなぁ…ってなんですか、その冷めた目は\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "诶，你迫不及待地想和小缘聊聊吗？\n哼哼哼，真是没办法呢…干什么啊，眼神那么冷漠\n当前好感度: <npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0ba4314f889110cdcb2ad6a257b16900",
@@ -6052,14 +6052,14 @@
   "original": "えっと…あの…\nうぅ…",
   "translation": "嗯…那个… \n呜呜…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cdeeef14c23029df6d11c7be9c5ff2cf",
   "original": "えっと…ど、どうかしたのかな？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯…怎，怎么了吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3bb97c9cb07ef55fb1f742bfca8c1bba",
@@ -6080,12 +6080,12 @@
   "original": "えっと、…ど、どうかしましたか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "那个，…有、有什么问题吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "444de30e08decb0727a1fa52cd1b1dcf",
   "original": "えっと、この後の食事は何にしましょうか？",
-  "translation": "呃，等会的饭要吃什么呢？",
+  "translation": "呃，下一顿饭要吃什么呢？",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
   "stage": 3
  },
@@ -6120,9 +6120,9 @@
  {
   "key": "043e53762bd832a779398ab25e9edeac",
   "original": "えっ！ずん姉さま手作りずんだ餅ですか！？なんだ、違うんですか…。",
-  "translation": "诶！是俊姐大人亲手做的俊达饼吗！？什么，不是吗…。",
+  "translation": "诶！是俊子姐姐亲手做的俊达饼吗！？什么，不是吗…。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[51]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "1ca961301b8ab07d5cbbad0094efd7ec",
@@ -6150,14 +6150,14 @@
   "original": "えへ、えへへへ…。\n（指輪を眺めてニヤニヤしている…）",
   "translation": "诶嘿，诶嘿嘿嘿…。\n（盯着戒指傻笑着…）",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "75f2c9789786b85739ed96de2841c0a9",
   "original": "えへへ…もうちょっとそばに寄ってもいいかな？",
   "translation": "诶嘿嘿…能不能再靠近一点呢？",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "264378f87b1e9d475f60fb2ef751cd43",
@@ -6220,21 +6220,21 @@
   "original": "お、その顔は休憩時間やな？\nへへーん、ウチにかかれば<u_name>の考えてることなんておみとーしやで！\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "哦，你那表情是想休息一下吗？\n哼哼—，<u_name>在想什么咱都—能看穿哦！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1c182f430bb4b88cdcac755b68abbe64",
   "original": "お、なんや休憩か？\nせやね、休める時に休んどこな。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哦，要休息吗？\n是啊，能休息的时候就休息吧。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d02ba5e59610947f8d5d3fa2e6d5ad7a",
   "original": "お、なんや話でもしたそうやな？\nへへ、そんじゃあ聞き上手の茜ちゃんがなんでも聞いたるで♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哦，要聊点什么吗？\n嘿嘿，那么擅长倾听的阿卡内酱什么都会听你说的♪\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2cf9c66d0adc58437a7fbbeea63ce11f",
@@ -6297,14 +6297,14 @@
   "original": "おお、ご飯…待ち望んでいた私の愛しい人…",
   "translation": "哦哦，饭…以及我渴望已久的爱人…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[51]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "810fc4e6ad8189925becf0ac6abca656",
   "original": "おお、人や！\n良かった～～！！\nうちの名前は琴葉茜や、一人で困ってたやんけど、君が良ければ一緒に行動してくれへんかな？",
-  "translation": "哦哦，是人啊！\n太好了～～！！\n咱叫琴叶茜，一个人挺为难的，如果你愿意的话，能不能一起行动呢？",
+  "translation": "哦哦，是活人啊！\n太好了～～！！\n咱叫琴叶茜，一个人挺为难的，如果你愿意的话，能不能一起行动呢？",
   "context": "ID: TALK_STRANGER_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKANE\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "5fdf76affa843888750cf6d5d8a36f54",
@@ -6353,14 +6353,14 @@
   "original": "おお？\nなんや<u_name>、ようやくウチの爆笑トーク聞く気に…って！\nなんで耳塞ぐねん、こらー！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "噢噢？\n怎么了<u_name>，终于有兴趣听咱的爆笑话题了…嘿！\n干嘛堵上耳朵啊，喂——！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fe19e559471c15836c20f5e35fdc578a",
   "original": "おお？どうかした？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哦哦？怎么啦？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d33c696c3466548b619762d650d01980",
@@ -6416,7 +6416,7 @@
   "original": "おっと、セーブセーブ…っと\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哎呀，存档存档…好了\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "01d61a3ff7e9b54261db1f71d0ce0ce8",
@@ -6451,7 +6451,7 @@
   "original": "おつかれー、息抜きも大事だよ！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "辛苦了—，放松一下也很重要哦！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5cdf64d21b7fa1e38895d087d0bae9c4",
@@ -6479,7 +6479,7 @@
   "original": "おや<u_name>さん、休憩タイムですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哎呀<u_name>，是休息时间吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9954eebdd1b34b0d3f4b2997216a8b69",
@@ -6549,7 +6549,7 @@
   "original": "おやおや<u_name>さん、私と会話したいんですか？\nふっふっふっ、しょうがないなぁ！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哦呀哦呀<u_name>，你想和我聊天吗？\n哼哼哼，没办法呢！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2c7bc60d231f1c6c38aac61097181f0e",
@@ -6605,7 +6605,7 @@
   "original": "おー、<u_name>休憩やな。\nへへ、だんだん君の考えてること読めるようになってきたで！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "哦—，<u_name>要休息吗。\n嘿嘿，咱渐渐能看出你在想什么了！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2b1538c1c368a75a98cb2dd437527a2d",
@@ -6661,28 +6661,28 @@
   "original": "お姉ちゃん、大丈夫かな。\nああ見えて結構無理する方なので<u_name>さんも気にかけてもらえると嬉しいです。",
   "translation": "姐姐她，没事吧。\n虽然看起来很强悍，但实际上挺不容易的，所以如果<u_name>也能关心一下就太好了。",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d5280a51ac09cba469fdbd6e80b30f8e",
   "original": "お姉ちゃんから変なこと聞いたりしてませんか？\nうぅ、全部忘れてくださいね！",
   "translation": "姐姐有没有跟你说什么奇怪的话？\n呜呜，请全忘了吧！",
   "context": "ID: aoi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/classes_aoi.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→aoi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "27b518754bf3940cd233c1baf23dccef",
   "original": "お姉ちゃんどうしてるかなぁ……、\nあ、<u_name>さん、どうしました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "姐姐她不知道怎么样了呢……，\n啊，<u_name>，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "456f6c5678b252e1bb65d8fafe5dfa5e",
   "original": "お姉ちゃんになんて紹介すればいいと思いますか？\nだってほら、こ、婚約……したわけですよね私たち……。\n二人とも大好きだから仲良くしてもらいたいし……",
   "translation": "你觉得该怎样介绍你给姐姐呢？\n毕竟我们……已经订、订婚了对吧……。\n你们两个我都喜欢，所以希望你们能和睦相处……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "903cf842f0054c75f6c5a55a01314e56",
@@ -6745,7 +6745,7 @@
   "original": "お楽しみの～！イチャイチャタイム～！\nあの、何か言ってくださいよ、恥ずかしいじゃないですか……",
   "translation": "期待已久的~！亲昵时光~！\n呃，请你说点什么嘛，这样不是很尴尬吗……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eb7476b7579769b3ac74757e316ad75b",
@@ -6836,7 +6836,7 @@
   "original": "お腹空きました…\nね、<u_name>さんもそう思いません？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "肚子饿了呢…\n呐，<u_name>不也这么觉得吗？ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b5fbb0cbf7d695d503f1c0b45096908a",
@@ -6864,7 +6864,7 @@
   "original": "お話するんですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "你想聊聊天吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cab4bd476f6092b0b8a24f44a52e30dc",
@@ -6878,21 +6878,21 @@
   "original": "お話ですか？\n……えっと、いい天気ですね？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要聊天吗？\n……啊，天气真不错呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7daef83953e5efac800d7ab56c61e9ee",
   "original": "お話ですか？\nはいはい、わかりましたよ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要聊天吗？\n好的好的，我明白了哦\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cfad94cb329834db7869ec1997ed30da",
   "original": "お話ですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要聊天吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "91bb1275cd8ce8044c289b71cd0575b3",
@@ -7074,7 +7074,7 @@
   "original": "きんきゅーじたい！あーし退屈警報発令中！繰り返す、あーし退屈警報発令中～！\n至急、<u_name>はあーしを構われたし！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "紧急事态！人家好无聊警报正在发布中！重复一遍，人家好无聊警报正在发布中～！ \n<u_name>赶快理理人家！ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dc56091570c404e57b97ff1ce7854bf7",
@@ -7177,9 +7177,9 @@
  {
   "key": "63a6271864600464417dfa72feae071c",
   "original": "こ、ここでウチの爆笑トーク！\n隣の家に垣根が出来たで！邪魔やー！\n……あっ、あかん？",
-  "translation": "这里就来一段咱的爆笑话题！\n邻居家建起了围墙！碍—事啊！\n……啊，不行吗？",
+  "translation": "这里就来一段咱的爆笑话题！\n邻居家建起了围墙！碍—事啊！（茜特有的关西笑话）\n……啊，不行吗？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "20b0105e3ebf8efcee90398cda3401d7",
@@ -7291,7 +7291,7 @@
   "original": "こうして<u_name>さんとお話する時間もだいぶ当たり前になってきましたね……。\nえへへ、<u_name>さんはどうでしょう、楽しんでもらえてますか？",
   "translation": "这样和<u_name>聊天的时间也渐渐变得习以为常了呢……。\n诶嘿嘿，<u_name>感觉怎么样，享受其中吗？",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a89778ecbf088664e2165b60f623a1b9",
@@ -7438,7 +7438,7 @@
   "original": "このあたりのご当地料理はですね…",
   "translation": "这附近的特色美食嘛…",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "73266eb468b0369ce82398320ec8a963",
@@ -7452,7 +7452,7 @@
   "original": "この後はどこに行きましょうか？\n私はどこにでも付いて行きますよ",
   "translation": "接下来我们去哪里呢？\n我可以跟着你去任何地方",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "90715e674ec98bc50fe9e0b6ddaea731",
@@ -7466,7 +7466,7 @@
   "original": "この状況も慣れれば悪くないと思わないか、相棒…",
   "translation": "习惯了这种情况后你不觉得也挺好吗，伙伴…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "046a08ab893ad66269f9dd54894e0219",
@@ -7494,14 +7494,14 @@
   "original": "この間、こんなのを見たよ…",
   "translation": "最近，我看到了这样的东西…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c1ecc5d7bcf59629d27734e243afd201",
   "original": "この間、なんですけど…。\nちょっと面白いことがあって…。",
   "translation": "最近，是这样的…。\n发生了一件有点意思的事情…。",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "28204cb8ff9d864c37a1ff200a8dcb1f",
@@ -7585,28 +7585,28 @@
   "original": "これからってどうするか決まってますか？\n私は……まだ何も",
   "translation": "你对未来有什么打算吗？\n我……还没什么想法",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0d329500e24ef8aa5e17f88591b71a12",
   "original": "これからどうしましょうか…\n何かプランはありますか？",
   "translation": "接下来该怎么办呢…\n你有什么计划吗？",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5ff13f7d3310668e7ca66498a57beb3c",
   "original": "これからどうするかちゃんと考えてる？\nあーしは…うーん、そういうの得意じゃないから任せるね！",
   "translation": "你有认真考虑过接下来该怎么办吗？\n人家嘛…嗯—，不太擅长这个，所以就交给你决定啦！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5721228d4ab04e3a955cc8abc3651a1a",
   "original": "これからどないすればええかな…。\nなんやええ考えある？",
   "translation": "接下来该怎么办呢…。\n有没有什么好主意？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c94d9f2dc9e82120656c310e78ddbcc4",
@@ -8355,7 +8355,7 @@
   "original": "ご飯か<u_name>さんか…むむむっ\nはっ、なんでもないですよ、どうしました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "食物呢还是<u_name>呢…唔唔唔\n哈，没什么啦，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "559c2fbf81c13cc54552f426b01380ac",
@@ -8390,7 +8390,7 @@
   "original": "ご飯ですか！？\nなんだ違うのか…\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是饭吗！？\n什么，不是吗…\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "608339d4d0026015fee806ff3457103a",
@@ -8411,7 +8411,7 @@
   "original": "ご飯にする？お風呂にする？それともわ・た・し？\nなんちゃってー！あはははっ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "先吃饭？先洗澡？还是先 · 吃 · 我？\n开玩笑啦—！啊哈哈哈\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f51f4ce025c69f702dc8c746f0ca066e",
@@ -8432,7 +8432,7 @@
   "original": "ご飯もいいけど<u_name>さんと会話するのも最近楽しいんです\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "吃饭固然好，但最近与<u_name>交谈也变得十分愉快 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b9c784b379d9f5cae10b74041348a815",
@@ -8453,7 +8453,7 @@
   "original": "ご飯を食べながらのんびりしましょうよ、ね？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "让我们边吃饭边悠闲放松一下吧，呐？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1adf45a033ea4a94092571db026bb96a",
@@ -8535,9 +8535,9 @@
  {
   "key": "8312053a3d5c76d21ad25b326574e035",
   "original": "さっき何か青白い光ってるやつありましたよね、あれって…",
-  "translation": "刚才有东西发着青白色的光，那是…",
+  "translation": "刚才有东西散发着青白色的幽光，那是…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[72]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "84d8a176741fd483755fad6da40eef18",
@@ -8579,7 +8579,7 @@
   "original": "さようなら、変態さん！",
   "translation": "再见了，变态！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[19]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9f6264d3c3b6a216108e962ba599503f",
@@ -8726,7 +8726,7 @@
   "original": "じぃー…。んー、何見てるのかって？\nへへー、あのね…あーしが一番好きな物見てんの\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "盯—…。嗯—，你问人家在看什么？\n嘿嘿，告诉你哦…人家正在看我最喜欢的东西呢。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "96f229b0db164063560ab326279158e9",
@@ -8740,7 +8740,7 @@
   "original": "じー…じぃー…\nふふっ、なんでもなぁい♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "盯—…盯——…\n嘻嘻，没事啦♪ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d1c961c450cefcc9b4d57e68a5f56b7d",
@@ -8836,9 +8836,9 @@
  {
   "key": "aa0c5b574c0f9b5affc4cf72d277bed4",
   "original": "ずん姉さまとイタコ姉さまに<u_name>さんのことなんて紹介しましょうか…\n下手なこと言ったらずんだ餅にされちゃいそう",
-  "translation": "要不要给俊姐大人和伊达子姐大人介绍一下<u_name>呢…\n说错话的话，感觉会被变成俊达饼呢",
+  "translation": "要不要给俊子姐姐和伊达子姐姐介绍一下<u_name>呢…\n说错话的话，感觉会被做成俊达饼呢",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "16e440a008ee89ffb4bb3b4bf9ec08db",
@@ -8950,28 +8950,28 @@
   "original": "そういえば、さっきこんなものを見たんですよ。\nそれで思ったんですけど……",
   "translation": "说起来，我刚才看到了这种东西。\n然后我就想……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6c48ca4870c2acf19d92378d87bd1ee7",
   "original": "そういえば、知ってるか？\n昔、この辺であったらしいんだが…",
   "translation": "说起来，你知道吗？\n以前好像就在这附近…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3a565bc2118be2b8f546103ef58a9a26",
   "original": "そういえばさっき見かけたんですけどね…",
   "translation": "说起来，我刚才好像看到了…",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7546b1d968468d204f05b5d903eb101b",
   "original": "そうか…放射線とは…ずんだホライずんとは…",
-  "translation": "原来如此…辐射是…ZUNDA HORIZON是…",
+  "translation": "原来如此…辐射是…豆打地平线是…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[72]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "4b6731b72420c97a9e56d903b4173506",
@@ -8999,21 +8999,21 @@
   "original": "そうだ、知ってますか？\n実はこの辺りって…",
   "translation": "对了，你知道吗？\n其实这一带啊…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "63fb86394912c1e45b215516b0529489",
   "original": "そうだ、聞いてくれよ親友。\n実はさっきこんなものを見つけてな…",
   "translation": "对了，听我说啊挚友。\n我刚刚发现这么个东西…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e90b8c3bc1ee5c234a31e8154ae41d69",
   "original": "そうだ、聞きたいことがあるんですけど…",
   "translation": "对了，我有点事想问问你…",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5e94027c3c03b81143c9899eb46b8e72",
@@ -9055,7 +9055,7 @@
   "original": "そうだな、何から話そうか…",
   "translation": "嗯，该从何说起呢…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "608f617b66d0af7396368f9fd69f2704",
@@ -9146,7 +9146,7 @@
   "original": "その…実は…",
   "translation": "那个…其实…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4d9b12dbac330f6f8a8a33d9735c4a6d",
@@ -9216,7 +9216,7 @@
   "original": "それが…わからないの。強い人たちだから生きてると思うんだけど…。\nそういえば、何かあったら使おうってみんなで決めた無線のチャンネルがあったような…確かメモがあったはずなんだけど…。\nああ、落としちゃったみたい…うぅ。<u_name>さん、もし、どこかでそのメモを見つけたらそれを使ってみんなに呼びかけてみてもらえませんか？\n無事ならみんなで助け合えるかもしれないですし。",
   "translation": "那个就…不知道了。因为他们是坚强的人，我觉得应该还活着…。\n对了，我们之前有说好，如果有什么事情就用一个特定的无线电频道来联系…我应该有写在备忘录上…。\n啊，好像掉了…呜呜。<u_name>，如果你在什么地方找到了那张备忘录，能用它帮我们联络其他人吗？\n如果大家都安全的话，或许可以互相帮助。",
   "context": "ID: TALK_STORY4_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY4_IA\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c9c5596b2e476ff88953e8343c41bb70",
@@ -9384,7 +9384,7 @@
   "original": "そろそろだと思って、セーブはばっちりです！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "我就觉得差不多了，已经完美地存好档了！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "04ae2eaf59ac9e3b65bee3d04b2b2c6d",
@@ -9475,7 +9475,7 @@
   "original": "たす、けて…死にたくないよぉ…",
   "translation": "救、救我…人家不想死啊…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[46]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9878df214b6e627f211b454e22a05ceb",
@@ -9566,7 +9566,7 @@
   "original": "ちゃんと聞いてるよ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "我正在认真听哦 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7d5bf6dd7eea18889644e915b3e68a0d",
@@ -9587,7 +9587,7 @@
   "original": "ちょ、ちょっと待って！あそこに見えるのは…",
   "translation": "等，等一下！我看到那边有…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[30]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f26d618e31a1cf6dc560b3857b2ee4c4",
@@ -9671,7 +9671,7 @@
   "original": "ちょっとくらい休んでも大丈夫ですよ、休憩しませんか？\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "稍微歇会儿也没关系的，休息一下吧？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1cb1388915d3d08000d045ad03f5f889",
@@ -9741,21 +9741,21 @@
   "original": "ちょっと時間あるなら休憩しない？\nキミ、すぐ無理するからあーしちょっと心配\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "有时间的话，不休息一下吗？\n你啊，总是勉强自己，所以人家有点担心呢\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f770a8eb047efc60d50ac7f9ab53d90e",
   "original": "ちょっと疲れたねー、休憩する？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "有点累了呢—，要不休息一下？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "923318d4be351d1e0ab36bfc23f8c54b",
   "original": "ちょっと疲れたねー。ね、休憩…する？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "有点累了啊—。呐，要不要…休息一下？\n现在好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3203627fcc7f628f805ae4c159c0ec14",
@@ -9776,7 +9776,7 @@
   "original": "ちんちん焼きが食べたいなぁ…",
   "translation": "想吃热腾腾的烧烤啊…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[3]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "35a5a6d32701c8f65e43f7f3d348cd5b",
@@ -9858,9 +9858,9 @@
  {
   "key": "0427b79fecf6f8fb1ea4edf99736ca68",
   "original": "と、友達…ふ、ふへへ、しょうがないですねぇ！\nええと、どこから話したらいいかな…。\n仲のいい友人達と旅行に来て大変動に巻き込まれたんですよね。\nみんな無事でいるのやら…まあ殺しても死なないようなたくましい子ばっかりですけど。おっと、話が逸れましたね…。\nこほん…それで、大変動が起こる直前なんですけど、私たちはいくつかのグループに分かれていて…私は食べ歩きグループだったんですよね。\nまあ、ものすごい大食いの子がいるんですけど、その子に付き合いきれずに一旦別れて、ぶらぶら散歩してたら迷子になっちゃいまして…たはは。",
-  "translation": "朋、朋友…呼，嘿嘿，真是没办法呢！\n呃，从哪里开始讲好呢…。\n我是和一群好朋友出来旅行，结果被卷入了大灾变之中。\n大家是否安然无恙呢…嗯，毕竟都是些怎么杀也杀不死的顽强家伙。哎呀，话题扯远了…。\n咳咳…话说回来，在大灾变发生前夕，我们分成了几个小组…而我所在的是边走边吃组。\n其实是因为有个超级能吃的家伙在，我跟不上那孩子的节奏，就暂时分开，独自闲逛，结果迷路了…哈哈。",
+  "translation": "朋、朋友…嘿，嘿嘿，真是没办法呢！\n呃，从哪里开始讲好呢…。\n我是和一群好朋友出来旅行，结果被卷入了大灾变之中。\n大家是否安然无恙呢…嗯，毕竟都是些怎么杀也杀不死的顽强家伙。哎呀，话题扯远了…。\n咳咳…话说回来，在大灾变发生前夕，我们分成了几个小组…而我所在的是边走边吃组。\n其实是因为有个超级能吃的家伙在，我跟不上那孩子的节奏，就暂时分开，独自闲逛，结果迷路了…哈哈。",
   "context": "ID: TALK_STORY2_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/background_storys_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY2_YUKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dbe06de3897318e554c6a8c4869b4aa8",
@@ -9916,21 +9916,21 @@
   "original": "どうした、友よ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了，朋友 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "539ffca86442b0d1ff3a7461cb67671b",
   "original": "どうしたの、<u_name>？\n何かお話する？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了，<u_name>？ \n有话要聊吗？ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc092a93cdd1568f378a3d31bc3315ae",
   "original": "どうした？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7ef2a12fdd200368c488610c82bf2040",
@@ -9944,7 +9944,7 @@
   "original": "どうしてこんなことになっちゃったのかな…",
   "translation": "怎么会变成这样呢…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6730604a574895716db7238dde20d524",
@@ -9958,7 +9958,7 @@
   "original": "どうしました、<u_name>。\nあ、もしかしてゆかりさんに見惚れてました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了，<u_name>。\n啊，难道是被小缘迷住了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d7a53c4882c0e9c048666a72fbc03ee7",
@@ -9972,7 +9972,7 @@
   "original": "どうしました？\n私に何か用事ですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了？\n你找我有事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a3793d9249ef54e7c7c72be4b30a6755",
@@ -10035,7 +10035,7 @@
   "original": "どしたん、うちに話でもあるん？\n……あっ、な、なんでもあらへん、いや、なんでもないです、はい。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "咋了，有事要跟我说吗？\n……啊，没、没啥，不，没什么，嗯。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c5f14a0ede247453346aa99ee6fcadec",
@@ -10056,14 +10056,14 @@
   "original": "な、なんでしょう？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "什、什么？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eb777b017c967c03eb2f4c301ea5ef32",
   "original": "な、なんや？\nウチに用事でもあるんか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎、怎么了？\n找咱有什么事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9ecd705b74dd4885dbe0f6c0d79a7846",
@@ -10231,7 +10231,7 @@
   "original": "なんかキミちょっと疲れてない？\n少し休まない？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "你看起来有点疲惫呢？\n要不要稍微休息一下？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8a623083eb017112f65c73f95464466e",
@@ -10259,14 +10259,14 @@
   "original": "なんだい、親友？\nなんでも話してくれ、どんな些細なことでもいいよ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么了，挚友？\n无论什么事都可以告诉我，即使是再微不足道的小事也行\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2620556519c32445aa4562d5ae874674",
   "original": "なんだい？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "怎么啦？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "54c3b3334184c3f30b65a1f8e2ef1d23",
@@ -10343,7 +10343,7 @@
   "original": "なんでしょう？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "什么事呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3773b3700de3c2b9dc4c3c8c9dec4bbf",
@@ -10357,14 +10357,14 @@
   "original": "なんでも言ってくれ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "说什么都可以哦\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a64df821f49f7fc6497e1cbe8323fb61",
   "original": "なんでも言ってね、<u_name>さん\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "什么都可以说哦，<u_name>\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1066d09240e9c42c7a7ff30cc997bab6",
@@ -10504,42 +10504,42 @@
   "original": "ね、ちょっとそこ通してくんない？",
   "translation": "呐，能让人家一下吗？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[26]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6a782b86259e4cd8c35d3cffa8e4317a",
   "original": "ね、ね、<u_name>。\nちょっと休憩にしない？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐，呐，<u_name>。\n要不要稍微休息一下啊？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "32e44a79d95f68f5f98d1f1da70f4eff",
   "original": "ね、ね。\nあーしと埼玉、どっちが好き？\n……えっ、埼玉？\nふぅん…へぇ……まあ、埼玉が好きなら許したげる",
   "translation": "呐，呐。\n人家和埼玉，你更喜欢哪个？\n……哎，埼玉？\n嗯…诶……嘛，喜欢埼玉的话人家就原谅你了",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "52961b7bf700a0e72d9bb9110fe9d880",
   "original": "ね、ね。\nカレーとあーし、どっちが好き？\n……えっ？カレー！？\nそんな…そんなのって……！\n\n\nわかる！！！",
   "translation": "呐，呐。\n咖喱和人家，你更喜欢哪个？\n……哎？咖喱！？\n这样…这样的……！\n\n\n我懂！！！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0e5d72b890fb8e649e35203942199101",
   "original": "ね、ね。<u_name>は埼玉に来たことある？ない？\nいつか絶対行ってみてね！アニメの舞台になった観光地なんかもあるよ！",
   "translation": "呐，呐。<u_name>，你去过埼玉吗？没去过吗？\n一定要找机会去看看哦！那里有成为动漫取景地的旅游景点呢！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4cfd2c78d497d16edfbbf8a8c9c25231",
   "original": "ね、ね。あーしとカレー、どっちが好き？\nとーぜん！あーしだよね？\n前みたいにカレーって言ったりしないよね？\nあー！目ぇ反らすなー！ちゅーしちゃうぞ！",
   "translation": "呐，呐。人家跟咖喱，你更喜欢哪个呢？\n当—然！是人家吧？\n不会像以前那样说喜欢咖喱了吧？\n啊—！别翻白眼呀—！人家要亲上去了哦！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bf0865773d77e753ec546e62a0626ac1",
@@ -10560,7 +10560,7 @@
   "original": "ね、何かお話しようよ。\nちょっと休憩したいな\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐，我们聊会儿天吧。\n想稍微休息一下。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3027a7cdd2719f4787d9242f586a98ec",
@@ -10609,7 +10609,7 @@
   "original": "ねえ<u_name>、大丈夫？疲れてない？\n私にできることならなんでも言ってね、約束だよ？",
   "translation": "呐<u_name>，你还好吗？累了吗？\n只要是我能做到的尽管说，我们约好的哦？",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eea211c4a146096cd28415296886b563",
@@ -10665,14 +10665,14 @@
   "original": "ねえねえ<u_name>、あーしとちょっと話でもしない？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐呐<u_name>，不来和人家聊聊吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9595690da68670a17e268967427a2984",
   "original": "ねえねえ、何かお話しませんか？\nわたしちょっと退屈なんです！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐呐，不聊点什么吗？\n我有点无聊呢！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d00387ba769fe37e815b39140b626892",
@@ -10686,7 +10686,7 @@
   "original": "ねー、<u_name>ってば～。あーし退屈だぞ～、寂しくて死んじゃうぞ～！\nかーまーえーよー！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐—，<u_name>啊~。人家好无聊啊~，寂寞得要死掉了哦~！\n陪—陪—人—家—嘛—！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d014be5f571a58239ba92f2a6830d7c8",
@@ -10712,9 +10712,9 @@
  {
   "key": "d4d6a92a6857a2709ef9b6a9a5001c34",
   "original": "ねーねー<u_name>～、暇だよ構って構って～\n現在好感度:<npc_val:counter_var_love_points_love_point>",
-  "translation": "呐—呐—<u_name>，我好无聊啊，快来陪陪我嘛~ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
+  "translation": "呐—呐—<u_name>，人家好无聊啊，快来陪陪人家嘛~ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ad9f576c5dcb3229378ef6d0d51b37cc",
@@ -10728,7 +10728,7 @@
   "original": "ねーねー、ちょっと退屈ー。\nあーしとお話しようよ！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呐—呐—，有点无聊呢—。\n来和人家聊聊吧！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "55c42d2caeb140b4c2d409329367ee1e",
@@ -10749,7 +10749,7 @@
   "original": "は、はい。呼びましたか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是、是的。你叫我吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5e61b73afa9053f74322662419658c20",
@@ -10763,14 +10763,14 @@
   "original": "は、はい！お、お呼びでしょうか！？\nきき、緊張なんてしてへんよ！？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是、是的！你、你叫我吗！？\n我我、我才没有紧张呢！？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "bd916bc3fe1f4bfbc3b9b3c7cecd52a6",
   "original": "は、はい！どうかしました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是、是的！有、有什么问题吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6b3e04fb5b83e6ad83b02f14106dc7fd",
@@ -10796,14 +10796,14 @@
  {
   "key": "fa61b3b49339dd98eadc780fe55674c8",
   "original": "はぁ…きりたん砲から味噌さえ出れば…。",
-  "translation": "哈…要是从切蒲英炮里能有味噌出来…。",
+  "translation": "哈…要是切蒲英炮里能有味噌射出的话…。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[4]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "c984aa16f3b9cf73dea57816f584ed64",
   "original": "はぁ…なんとか終わったねー…<u_name>は怪我してない？大丈夫？\n……実は、ね。お願いしてたゾンビ達、全部大変動があった直後にあーしを庇ってくれた人たちなんだ。\n見ず知らずのあーしを逃がすために囮になって先に逃がしてくれたり、先導してゾンビと戦ってくれたり……そうやって、たくさんの人に助けてもらったから今あーしはなんとか生きてるんだ。\nそんな人達のうちの何人かの成れの果て…って言っちゃったら悪いんだけど、ゾンビになって歩き回ってるの見つけちゃって、ね。\nもう休ませてあげたかったから<u_name>に協力してもらったんだ。\nえへへ、秘密にしててごめんね？先にこの話聞いてたらやりづらくなっちゃうかなーって思ってさ。\nとにかく、ありがとうね<u_name>。",
-  "translation": "呼…总算是结束了呢…<u_name>没受伤吧？还好吗？\n…其实啊，那些拜托你消灭的丧尸们，都是在那场大灾变之后，曾经保护过人家的人们。\n为了帮助素不相识的我逃跑，他们有的甘做诱饵让别人先走，有的则在前面带头与丧尸作战……正因为得到了这么多人的帮助，人家现在才能活下来。\n但是，其中一些人的下场…这么说可能不太好，人家发现他们也变成了丧尸，在四处徘徊。\n人家真的很想让他们安息，所以才请<u_name>帮忙。\n嘿嘿，抱歉对你保密了呢？人家只是担心如果事先告诉你，可能会让你不好下手吧。\n总之，真的很感谢你，<u_name>。",
+  "translation": "呼…总算是结束了呢…<u_name>没受伤吧？还好吗？\n…其实啊，那些拜托你消灭的丧尸们，都是在那场大灾变之后，曾经保护过人家的人们。\n为了帮助素不相识的人家逃跑，他们有的甘做诱饵让别人先走，有的则在前面带头与丧尸作战……正因为得到了这么多人的帮助，人家现在才能活下来。\n但是，其中一些人的下场…这么说可能不太好，人家发现他们也变成了丧尸，在四处徘徊。\n人家真的很想让他们安息，所以才请<u_name>帮忙。\n嘿嘿，抱歉对你保密了呢？人家只是担心如果事先告诉你，可能会让你不好下手吧。\n总之，真的很感谢你，<u_name>。",
   "context": "ID: MISSION_KILL_5_Z_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/missiondef_tumugi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_TUMUGI\n",
   "stage": 3
  },
@@ -10854,7 +10854,7 @@
   "original": "はぁ、新作ゲームで遊べないのが辛いです…",
   "translation": "哈啊，不能玩新游戏真是难受啊…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5b8a4ec9e5a7878dbbd1dc413e483e06",
@@ -10910,28 +10910,28 @@
   "original": "はい、お話するんですね\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "好的，是要聊天吗\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b72c3a59693b84a0620b45610fb07537",
   "original": "はい、どうしました<u_name>さん。\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，怎么了<u_name>？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "826de87a4819529b95c99eba09afff81",
   "original": "はい、どうしました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是，怎么了吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5aff975b8263ba82f5d2a119cd2d0396",
   "original": "はい、なんでしょう？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "51357da048dfa1435e1a4f496f00e65d",
@@ -10994,7 +10994,7 @@
   "original": "はいはい、どうしましたー？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯嗯，怎么了呀—？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c7675a75cb7e3444446067b87cc0ad22",
@@ -11036,7 +11036,7 @@
   "original": "はい！なんでも言ってくださいね<u_name>さん！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "好的！有什么请尽管说，<u_name>！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e3d2836640a87e6f390c0aa126bae7b2",
@@ -11106,7 +11106,7 @@
   "original": "はーい、どうしたの？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是—，怎么了吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "63f2775084244a5da466fb59822272ae",
@@ -11120,7 +11120,7 @@
   "original": "はーい、大親友のあかりちゃんに何か用ですか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "是—，找最好的朋友灯酱有什么事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "451b19499b465f63fced3cc0603e34ae",
@@ -11316,7 +11316,7 @@
   "original": "ふぃー…なんだか疲れちゃいましたねー",
   "translation": "呼—…不知怎地感觉有点累了呢—",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ba235c435886f3e454adc54c95c00c10",
@@ -11330,7 +11330,7 @@
   "original": "ふぃー…気ぃ張ってばっかりだと疲れてかなわんな…。\nここらで一発茜ちゃんジョークを…って！\nこらこら、なんで耳栓取り出してるんや！",
   "translation": "呼—…一直这么紧张会累垮的呢…。\n这里就来个一发小茜笑话吧…哎呀！ \n喂喂，你干嘛拿出耳塞啊！",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3f8d892f02f63ce42b7fb4239e19d19c",
@@ -11468,9 +11468,9 @@
  {
   "key": "c39dda6a6082003a6b7a357f804baad2",
   "original": "ふっふっふっ、ゆかりさんの助言が欲しいようで…あ、違う？\nそうですか…\n現在好感度:<npc_val:counter_var_love_points_love_point>",
-  "translation": "呼呼呼，你似乎渴望得到小缘的建议呢…啊，不对吗？\n这样啊…\n当前好感度：<npc_val:counter_var_love_points_love_point>",
+  "translation": "哼哼哼，你似乎渴望得到小缘的建议呢…啊，不对吗？\n这样啊…\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ded37b1ec04d806b2d78d447c0cd4699",
@@ -11491,7 +11491,7 @@
   "original": "ふふっ、お話するの楽しいね\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呵呵，聊天真是乐趣无穷呢 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8ce5456e7bdde1bd42ea11eea3aec4aa",
@@ -11512,7 +11512,7 @@
   "original": "ふふっ、どうかした？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呵呵，有什么事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "09b83c50db43875054965c0b4f79033e",
@@ -11622,9 +11622,9 @@
  {
   "key": "42e4c7d306974c25150dbadca5fc1552",
   "original": "へっ？こ、恋人？いやぁ、そんなの居たこと無いよ。\nそういう経験は全然…ほんと…",
-  "translation": "哎？恋、恋人？哎呀，我可从来没有过。\n完全没有这方面的经验…真的…",
+  "translation": "哎？恋、恋人？哎呀，人家可从来没有过。\n完全没有这方面的经验…真的…",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4d105cad0067720178aa150332f6f028",
@@ -11652,7 +11652,7 @@
   "original": "ほ、ほら！\nウチの隣空いてるから座ってもええで！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嘿，喂！\n咱身边有空位，可以坐过来哦！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c604e9f2a6622db58df913bb4527eb5d",
@@ -11694,7 +11694,7 @@
   "original": "ほら、こっちに来て休憩せんか？\n特別にウチの膝、高値で貸したるで？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "来，过来这边休息一下如何？\n咱的膝盖可以特别地，高价出租给你哦？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "332e906dd577971cf6ad1ea774fbeaba",
@@ -11708,7 +11708,7 @@
   "original": "ほら、ちょっと休憩でもせんか？\n<u_name>が倒れでもしたら一大事やろ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "喂，要不要稍微休息一下啊？\n要是<u_name>累倒了可就麻烦了哦？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d721b39df11c1d1d67b8bdd751534c7b",
@@ -11727,9 +11727,9 @@
  {
   "key": "bea2262ccd1a48b2bd333a76c14bab0e",
   "original": "ほら、頑張って自分で持ってください。",
-  "translation": "来，自己努力拿一下。",
+  "translation": "来，请自己再努力拿一下。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[64]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "c91ca32ea50a31dea029e25b613b4070",
@@ -12093,7 +12093,7 @@
   "original": "みんな無事かな…すごく心配なんです",
   "translation": "大家都没事吧…我真的非常担心",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a4b11ebc4e394def75a021884e28a5c1",
@@ -12716,7 +12716,7 @@
   "original": "やあ、どうした親友？\n少し話でもするか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呀，怎么了挚友？\n想聊会儿天吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2abcae5f1305da3fb3dc35c7d20c92be",
@@ -12870,7 +12870,7 @@
   "original": "やっほー、元気？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "呀吼—，还好吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "31ca1cf2eee95df4ce22badce49d0748",
@@ -13248,7 +13248,7 @@
   "original": "わかんないなー、本当に突然現れたみたいだよ。\nああ、でもなんというか…その時妙に暗がりが怖かったよ。なんていうか誰か、悪意を持った人が暗闇の向こうからこっちを見てるような気がしたかな。\nそれで、おじさんと一緒に森の中を走って逃げたんだけど、途中で回り込まれたのか、化け物に囲まれかけてて……。\nうわー、もう駄目だーって思った時、おじさんが何かを見つけて指差したんだよね。その方向を見るとぼんやりと山小屋みたいなのが見えて……まあ、間違いなく外にいるよりはマシだし、なんとかそこに行こうと走ったよ。\nもう少しで山小屋に辿り着くって時にあーしのすぐ後ろを走ってたおじさんが「振り返るなよ！」って叫んですぐ、追いかけて来てたたくさんの足音はあーし一人だけになって。心の中で謝りながら山小屋に辿り着いて、ドアを蹴破るように転がり込んで、急いでドアを閉めて、後は……おじさんの無事を祈りながら部屋の済みで明るくなるまで震えてた。\nすっかり日が昇って、外に出たあーしが見たのは…おじさんの履いてた靴の片方と血だまりだけだった。\nもう生きるのもしんどかったけど、あーしを助けてくれた人たくさんいたから……勝手だけどその人たちの分まで生きなきゃーって夢中で逃げ回ってる途中でキミと……<u_name>と出会ったんだよ。\nこれであーしの物語は全部、おしまい。",
   "translation": "不知道呀—，真是突然就出现了。\n哎，不过怎么说呢…那时候，黑暗让人感到莫名的害怕。人家有一种感觉，就好像有什么怀有恶意的人在暗处盯着这边看。\n然后，人家就和那位大叔一起跑进森林里逃命，结果半路上似乎被绕后了，怪物们包围了我们……。\n当时人家就想，完了完了。就在这时，大叔发现了什么，指向那边。望向那个方向，隐约能看到一座小屋似的东西……嗯，不管怎样总比待在外面强，于是我们就决定往那里跑。\n就快到小屋的时候，跟在我后面的叔叔大喊“别回头！”紧接着，追赶的脚步声只剩下了自己的。人家在心里默默道歉，一脚踹开门滚进了小屋，随后赶紧关上，然后……一边祈祷大叔平安，一边躲在房间里发着抖，直到外面的天色渐渐亮起。\n太阳照常升起时，走出小屋，人家只看到大叔的一只鞋子和一滩血迹。\n那时候光活着已经很艰难了，但因为有很多人帮助过人家……虽然有些任性，但人家决定连同他们那份一起活下去，并在这样拼命逃跑的过程中遇到了你……遇到了<u_name>。\n人家的故事到这儿就全讲完了。",
   "context": "ID: TALK_STORY5_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/background_storys_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY5_TUMUGI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "88fe1f947d25f83919b074b4b1e68f9d",
@@ -13290,7 +13290,7 @@
   "original": "わたしとお話したいんですね？\nしょうがないですねぇ、にやにや\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "你想和我聊聊吗？\n真是没办法呢，嘻嘻 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7a9f2b82f51154849c1e463cf77d5ae3",
@@ -13423,7 +13423,7 @@
   "original": "ん…<u_name>さん、どうしました？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "嗯…<u_name>，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "14f02f085a6ef6dd34238cdb10511102",
@@ -13486,14 +13486,14 @@
   "original": "んっと、その……あ、あんまりうちのことじっと見んといて……\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "那个，嗯……请、请不要一直盯着我看……\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "29d3a6fc224a423d64336781f36fe0a9",
   "original": "んっ！ん～っ！\n…痛っ！？\n（何かをせがむ様に目を閉じていたのでデコピンしてみた…）",
   "translation": "嗯！嗯～！\n…疼！？\n（她闭着眼睛似乎在要求着什么，于是我试着弹了下她的额头…）",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cf21cb764476d49e93d4ac6edc775568",
@@ -13533,7 +13533,7 @@
  {
   "key": "a989aa458e32cf6cd0c96643563757a9",
   "original": "ん？……ああ、ううん違うよ。\n転がり込んできた五人うちの一人で女の人だったよ。……まあ、その人もう咬まれてたんだけどさ。\nそれで、その人が早口でまくし立てながらあーしにテントと缶詰に水なんかを押し付けながら『言い争ってる場合じゃない、ここに居たら囲まれて食べられる！』って店員さんと言い争ってたおじさんに訴えてて。\nおじさんもハッとしたように、言い争い止めて、店員さんに従業員用の出入り口に案内するようにお願いし始めてね。\nその直後だったよ、助けを求めるように窓を叩く人が現れて、その人が暴徒化した人たちに引きずられて行ったのは。\nほんの２，３秒のことだったからあーし達はその人を助けることが出来なかったけど、視界の向こうから流れてきた血がその人が無事でないことを示しててさ、皆固まっちゃったんだよね。",
-  "translation": "嗯？……啊啊，不是这样的哦。\n从那滚进来的五个人中，有一个是女性。……嗯，不过她已经被咬了。\n然后，她一边飞快地说着话一边把帐篷、罐头和水之类的东西塞给人家，还向正和店员争执的大叔恳求道：“现在不是争论的时候，待在这儿只会被包围吃掉的！”\n大叔似乎猛然惊醒，停止了争执，开始请求店员带我们从员工通道离开。\n就在那之后不久，有个人敲着窗户求救，然后就被一群已经变成暴徒的家伙拖走了。\n那只是短短两三秒的事。我们来不及帮他，但是从那边流淌过来的鲜血让大家意识到那个人已经凶多吉少，气氛顿时凝固了。",
+  "translation": "嗯？……啊啊，不是这样的哦。\n从那冲进来的五个人中，有一个是女性。……嗯，不过她已经被咬了。\n然后，她一边飞快地说着话一边把帐篷、罐头和水之类的东西塞给人家，还向正和店员争执的大叔恳求道：“现在不是争论的时候，待在这儿只会被包围吃掉的！”\n大叔似乎猛然惊醒，停止了争执，开始请求店员带我们从员工通道离开。\n就在那之后不久，有个人敲着窗户求救，然后就被一群已经变成暴徒的家伙拖走了。\n那只是短短两三秒的事。我们来不及帮他，但是从那边流淌过来的鲜血让大家意识到那个人已经凶多吉少，气氛顿时凝固了。",
   "context": "ID: TALK_STORY2_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/background_storys_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY2_TUMUGI\n",
   "stage": 3
  },
@@ -13638,7 +13638,7 @@
  {
   "key": "2694ec6efa48ebe5c86c4a7dc7aa930b",
   "original": "ウチの好きなものはなー、葵ちゃんとー、エビフライとーそれから……。\nへへっ、なーいしょ♪",
-  "translation": "咱喜欢的东西嘛—，就是葵酱了—，还有呀，炸虾，然后是……。\n嘿嘿，不告诉你♪",
+  "translation": "咱喜欢的东西嘛—，就是小葵了—，还有呀，炸虾，然后是……。\n嘿嘿，不告诉你♪",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
   "stage": 3
  },
@@ -13647,7 +13647,7 @@
   "original": "ウチの好きな食べ物？\nうーん、せやねー…。エビフライやね、やっぱり。\nありったけのエビを使ったデッッッッカい！！エビフライとか食べてみたいわー。",
   "translation": "咱喜欢的食物？\n嗯—，是啊—…。果然还是炸虾吧。\n用尽所有虾做的超~~~~级大！！的炸虾什么的，真想尝尝看呢—。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e64f7bc998b8f59cada3ad5fed16e1a5",
@@ -13806,9 +13806,9 @@
  {
   "key": "872c62e52e66048446fc0d95d2fc563e",
   "original": "カレーが、カレーが飲みたい…",
-  "translation": "想吃，想吃咖喱…",
+  "translation": "想吸，想吸食咖喱…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tags_tumugi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[39]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "7a40c4facafd21f4e521c339a73bce8d",
@@ -13836,14 +13836,14 @@
   "original": "ガッツ発動時のポップアップ",
   "translation": "勇气爆发时的弹出窗口",
   "context": "ID: spell_lovers_guts_message\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→SPELL→spell_lovers_guts_message\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "59615761b350aaac51c2248355f4e665",
   "original": "キミ、あーしのことあんまり変な目で見ないよねー。\nギャルっぽいってだけで寄ってくる男とか嫌そうに見る女の子って多いからちょっと嬉しいな",
   "translation": "你好像并没有用奇怪的眼神看人家呢—。\n很多只是因为人家像辣妹就接近的男性，和因此对人家投向厌恶眼光的女孩子，你这样子人家有点开心呢",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e0cf41b6a267a620af26d5f554a4f199",
@@ -13855,9 +13855,9 @@
  {
   "key": "287d0a835d6361b3488700a13dcd63d5",
   "original": "キミのことむっちゃ好っきゃ……なあ、たまにはキミから言って欲しいんやけど、これ。\n……うひゃ！？う、うぅ～！\nいきなり壁ドンは反則やろぉ！？",
-  "translation": "我超级喜欢你……呐，偶尔也想听你说说看，这个。\n……哎呀！？呜、呜呜~！\n突然壁咚有点犯规了吧！？",
+  "translation": "咱超级喜欢你……呐，偶尔也想听你说说看，这个。\n……哎呀！？呜、呜呜~！\n突然壁咚有点犯规了吧！？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "42579afc4e48c070cecf65fb9c197764",
@@ -13997,7 +13997,7 @@
   "original": "スタップ！首長の命令により止まれ！",
   "translation": "Stop！听从长官的命令，停下！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[75]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5b5e0b7af5aff5bf9b8ced498daf14fb",
@@ -14011,7 +14011,7 @@
   "original": "ストップ！あそこに見えるのは…",
   "translation": "Stop！我看到那边有…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[30]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7443028f1931c07c11eab05fdc69bacf",
@@ -14172,7 +14172,7 @@
   "original": "ニューイングランドには超デッカいエビフライがあるって聞いたんやけど…。\n<u_name>、キミ作れたりせえへんかな？",
   "translation": "听说在新英格兰有种超大的炸虾…。\n<u_name>，你能不能做出来呢？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e3e2daad9bb693adfe11b3928ace660c",
@@ -14207,21 +14207,21 @@
   "original": "ハッ…目の前にとてもチョロそうな生存者が…！\n大丈夫、私ならきっとやれます…ぶつぶつ。\nこほん……ふっふっふっ、あなた運がいいですね！このプロサバイバーのゆかりさんが手を貸してあげてもいいですよ！",
   "translation": "哈…眼前这个幸存者看起来很好对付呢…！\n没问题，我肯定能行…嘟嘟囔囔。\n咳咳……哼哼哼，你的运气真不错呢！小缘我身为生存专家，可以帮你一把哦！",
   "context": "ID: TALK_STRANGER_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_YUKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b648b6a3e4e30a41c86f31a25003fab2",
   "original": "ハンデあげてもいいんですよ？",
   "translation": "就算要我让着你点也没问题哦？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[24]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7de02866aa5af96e53aa64fad99f361f",
   "original": "ハンバーガーとかコーラとか…そういうちょっとジャンキーな食べ物って時々食べたくなるよね",
   "translation": "汉堡啊，可乐之类的…这些有点垃圾的食物有时就会想吃呢",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0170013274263d1e74fd91a11ec4f435",
@@ -14376,6 +14376,13 @@
   "translation": "坏了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_tags_aoi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[9]\n",
   "stage": 5
+ },
+ {
+  "key": "e952bef10ebff739104c63d00ee6b17a",
+  "original": "ボイスロイド",
+  "translation": "ボイスロイド",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
+  "stage": 1
  },
  {
   "key": "f4ad23eafb70e74f06ef32da030cd32c",
@@ -14592,7 +14599,7 @@
   "original": "一休みします？\nほらほら、そこに座って休憩しましょ！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "休息一下怎么样？\n来来来，到那边坐下休息一会儿吧！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "808a260b9e32f7ed6b28185e9ad9e271",
@@ -14620,7 +14627,7 @@
   "original": "一緒に行動してるのが<u_name>さんじゃなかったらと思うと怖くなります。\nなんでって…そりゃあわたし美少女ですから！",
   "translation": "一想到如果和我一起行动的不是<u_name>，我就会感到害怕。\n为什么呢…因为我是美少女啊！",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eca8aebd6fe2d809657796dbae93b37e",
@@ -14641,14 +14648,14 @@
   "original": "三十六計なんとやら、やで！",
   "translation": "三十六计，走为上策！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[37]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2a72ab75f6a4515f8f2bec4ee3b6461f",
   "original": "上から来ます！",
-  "translation": "从天而降！",
+  "translation": "天降正义！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "9e8b7a71a5b8b8c84eeb36f44aad4b2a",
@@ -14676,7 +14683,7 @@
   "original": "両親ですら時々私たちのこと呼び間違えるのに、<u_name>さんは一度も間違えたことないですよね、なんで？\nねぇねぇ、教えてくださいよ～♪",
   "translation": "就连父母有时都会叫错我们，但<u_name>却一次都没叫错过，为什么呢？\n呐呐，告诉我嘛~♪",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0baf962bd56bba854b70cf2682a512dd",
@@ -14746,7 +14753,7 @@
   "original": "人の体温ってさ、すごく落ち着くよね…。\n……早くぎゅってしてよー",
   "translation": "人的体温啊，真的很能让人安心呢…。\n……快点来个抱抱吧—",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "aaab7bc9d502eda0233d6a6887b96334",
@@ -14828,9 +14835,9 @@
  {
   "key": "4f0742b8a17a5fb6e86cbc1dfab39cf1",
   "original": "今でこそアウトドア派なゆかりさんですが、以前はゲーム実況なんかが好きでインドア派だったんですよ。\n平和になったら私のチャンネルに是非遊びに来てくださいね？コラボしましょう、コラボ",
-  "translation": "如今的小缘是个户外派，但以前可是一个喜欢游戏实况的室内派呢。\n如果将来局势平和了，一定要来我的频道玩哦？来个联动吧，联动",
+  "translation": "如今的小缘是个户外派，但以前可是一个喜欢游戏实况的室内派呢。\n如果将来局势稳定了，一定要来我的频道玩哦？来个联动吧，联动",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b81e5600cc1c001216d92101d7d98dfa",
@@ -14928,7 +14935,7 @@
   "original": "今はこの時間が楽しみなんです。\nあなたと会話してるととても落ち着くので…ふふっ",
   "translation": "现在我真的很期待这一刻。\n与你交谈让我感到非常安心…嘿嘿",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b9bee6199de62de180383ae6bdb6447d",
@@ -14984,7 +14991,7 @@
   "original": "今日は何して遊びます？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "今天玩点什么呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f2b311af63a821860632cdba54710681",
@@ -15040,7 +15047,7 @@
   "original": "今頃になって気が付いたんだ。\n気の置けない親友ってやつは宝だよな…",
   "translation": "事到如今才意识到。\n有个无话不谈的挚友真是件宝贝啊…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4474ac31f9a425fda1e24763106be993",
@@ -15068,7 +15075,7 @@
   "original": "仲を進展させるには特別な指輪を所持している必要があります。\n街を探してみたり、製作を学んで自作しましょう！",
   "translation": "要推进关系，你需要持有特殊的戒指。\n试着在城中寻找，或者学习制造自己打造吧！",
   "context": "ID: TALK_CHAIN_EXP\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_confess_my_love.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fa3b932585eb5755fd94187e756deb95",
@@ -15180,7 +15187,7 @@
   "original": "休息も大事ですよね。\n独りでいた時は全然休まらなくて……",
   "translation": "休息也很重要呢。\n当我独自一人时，根本就没法休息……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1634b562e5d501b23fdd2c47951d359f",
@@ -15194,28 +15201,28 @@
   "original": "休憩ですか？\nそれじゃあ何か話しましょう！\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "休息一下吗？\n那么，我们来聊点什么吧！\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7e7448753b148f3659eb08da4469f751",
   "original": "休憩ですか？いいですね、ちょっとお話でもしませんか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "休息吗？听起来不错，要不要聊会儿天呢？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5a1dfa1ddef75f2dc8ecd0b522765849",
   "original": "休憩でもするんか？\nそんじゃ茜ちゃんの爆笑トークを…あ、いらん？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要休息一下吗？\n那么，来点小茜的爆笑话题…啊，不需要？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "852a732b561e4aca9f7b8f5438e2e766",
   "original": "休憩やね、うん…あ、あんまり近くに座らんといてな？\nだってウチ今ちょっと汗かいてるから…。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "休息一下吗，嗯…啊，别坐得太近了，好吗？\n咱现在有点出汗呢…。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ef6a37c655069328bbedc85b1aaa7705",
@@ -15229,7 +15236,7 @@
   "original": "会って無い間に結婚までしたってOИEちゃんに言ったらどうなっちゃうんだろう…。\nお、怒られたら一緒に謝ってね、<u_name>！",
   "translation": "要是告诉ONE酱，我们在她不在的时候婚都结了，她会有什么反应呢…。\n如、如果她生气了，我们一起道歉吧，<u_name>！",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2d786e378bdc3f33b4a3fa70aa832252",
@@ -15250,7 +15257,7 @@
   "original": "会話ならセーブするまで待ってくださいね。\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要聊天的话请等我存好档。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8293759fd0319e196cdbf961210788d5",
@@ -15327,7 +15334,7 @@
   "original": "何か聞きたいことでもありますか？\nいいでしょう、ではプロサバイバーゆかりさんがサバイバルのコツを…あ、いらない？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "有什么想问的事情吗？\n好吧，那么就让生存专家小缘来分享一些生存技巧…啊，不需要吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2ca3820125c1b1f8b1fdf5c4c2cb55c0",
@@ -15467,7 +15474,7 @@
   "original": "偏食ぅ？\n失礼なび・しょ・く・かって言ってもらえる？\nあーしは美食家なのー！",
   "translation": "偏食？\n真是无礼，能不能叫人家美 · 食 · 家？\n人家可是个美食家呢！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d606fb91f1816e131cb3504717ad5c46",
@@ -15495,14 +15502,14 @@
   "original": "全く、世の中どうかしてるよ…",
   "translation": "真是的，这世界到底是怎么了…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ba1893ff20d685fbc010ca761627b341",
   "original": "全く、相変わらず君は楽しいやつだな！",
   "translation": "哎呀，你还是这么有趣啊！",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6241c640fa2052077122b571a4af0614",
@@ -15586,7 +15593,7 @@
   "original": "前から言いたかったんですけど、<u_name>さん。\n胸、見てるのバレてますからね？",
   "translation": "其实我一直想说，<u_name>。\n我有发现你在看我的胸哦？",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "42c1f912d738903b4ed461e5b7b7278b",
@@ -15689,9 +15696,9 @@
  {
   "key": "83d4a54903f630c72dce2f60e5d76ab8",
   "original": "双子なのにお姉ちゃんの方がモテるんです。\nほんとですよ、だって私、何度かお姉ちゃんと間違えて告白されたことあるし……はぁ",
-  "translation": "虽然是双胞胎，但姐姐更受欢迎呢。\n是真的哦，因为我就有过几次被误以为是姐姐而告白的经历……哈啊",
+  "translation": "虽然是双胞胎，但姐姐更受欢迎呢。\n是真的哦，因为我就有过几次被误以为是姐姐而被告白的经历……哈啊",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e83fb994161946d5adfbb5b165ff8c77",
@@ -15793,16 +15800,16 @@
  {
   "key": "7b0093a4ca472636cd5648bbca37325f",
   "original": "埼玉に詳しいギャル",
-  "translation": "了解埼玉的辣妹",
+  "translation": "非常了解埼玉的辣妹",
   "context": "ID: kasukabe\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/classes_tumugi.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→kasukabe\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1c5189f03b7ee4dc7c1c7bed14a1afa5",
   "original": "埼玉県のことならあーしになんでも聞いてね！",
   "translation": "埼玉县的事情什么都可以问人家！",
   "context": "ID: kasukabe\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/classes_tumugi.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→kasukabe\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8d49c9c278b886f460d2190f055fba06",
@@ -15935,7 +15942,7 @@
   "original": "大丈夫？疲れてない？\n<u_name>さん無理ばっかりするからちょっと心配……。\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "还好吗？没有累着吧？\n<u_name>总是勉强自己，有点担心……。\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f0f189e6944ec0f41a5409fc7da14e85",
@@ -15961,7 +15968,7 @@
  {
   "key": "f3f8b1e4b3c53e9b6f0a8433b3f8737c",
   "original": "大変動が起こった時ぃー？\nうーん、そんなこと聞いて楽しいのかな……。まあ、いいけどさ。\n大変動が起こった時は友達と観光中だったよ。高校の卒業旅行ーってことで、おんなじ寮で生活してた友達たちと一緒にね。\nちょうどショッピングモールで自由行動中で、あーし一人でキャンプ用品見てた時に悲鳴が聞こえてね。\nその時はなんかのイベントかなーって思ったんだけど、血だらけの人が五人、店内に転がり込んできてシャッタ閉めちゃってさー。\nその中でもちょっと歳のいったおじさんが店員さんと言い争ってたんだけど、あーし、英語がそんなに得意じゃないから半分も聞き取れなくてさー。\nとりあえず様子見てたんだけど、後ろから急に肩をグイっと引っ張られてね。あれはびっくりしたなー。",
-  "translation": "大灾变发生的时候？\n呃，问这种事能开心吗……。唉，随便啦。\n大灾变发生时，人家正在和朋友们一起观光。算是高中毕业旅行吧，是和住在同一间宿舍的朋友们一起去的。\n我们当时正好在购物中心里自由活动，我在自己看露营用品时，突然听到尖叫声。\n当时还以为是什么宣传活动呢，结果五个浑身是血的人冲进了店里，紧接着卷帘门就被关上了。\n有个比较年长的大叔和店员争执起来，但人家英语不太好，连一半都没听懂。\n我一开始只是在旁边观察情况，没想到突然有人从后面猛拉了人家一把，可真吓了一跳。",
+  "translation": "大灾变发生的时候？\n呃，问这种事能开心吗……。唉，随便啦。\n大灾变发生时，人家正在和朋友们一起观光。算是高中毕业旅行吧，是和住在同一间宿舍的朋友们一起去的。\n我们当时正好在购物中心里自由活动，人家自己在看露营用品时，突然听到尖叫声。\n当时还以为是什么宣传活动呢，结果五个浑身是血的人冲进了店里，紧接着卷帘门就被关上了。\n有个比较年长的大叔和店员争执起来，但人家英语不太好，连一半都没听懂。\n人家一开始只是在旁边观察情况，没想到突然有人从后面猛拉了人家一把，可真吓了一跳。",
   "context": "ID: TALK_STORY1_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/background_storys_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY1_TUMUGI\n",
   "stage": 3
  },
@@ -15991,7 +15998,7 @@
   "original": "大変動に巻き込まれてちょっとだけ…良かったと思ってます。\nだってあなたと出会えたんですから…なんて",
   "translation": "被卷入这场大灾变，虽然只有一点点…但我认为是好事。\n毕竟，正因为如此才遇到了你…之类的",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "24f19912e1ef460bea36510bdb893f5d",
@@ -16019,42 +16026,42 @@
   "original": "天真爛漫天然系（妹評）",
   "translation": "天真烂漫天然系（妹评）",
   "context": "ID: akane\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/classes_akane.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→akane\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "73b9399104a4c90c56f53a9305e72ba4",
   "original": "好きなものですか？\nえっと、そうだなぁ…あまーいピーナッツとハチミツのサンドイッチとか…",
-  "translation": "我喜欢的东西？\n呃，让我想想…甜甜~的花生和蜂蜜的三明治之类的…",
+  "translation": "我喜欢的东西？\n呃，让我想想…甜甜~的花生和蜂蜜三明治之类的…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dd921a2da7d847897daee8a67292a54d",
   "original": "好きなもの？\n……もー、また聞くんですか、それ？\n……<u_name>さんですよ",
   "translation": "喜欢的东西？\n……哎呀，又要问这个吗？\n……是<u_name>啦",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e2cd2bf72284cb6099d7453dfe92a669",
   "original": "好きなもの？\nそりゃあもちろんずん姉さまです！！\n……あ、食べ物？それならやっぱりずん姉さまに関係するあれですね、あれ",
-  "translation": "喜欢的东西？\n那当然是俊姐大人啦！！\n……啊，你问食物吗？那果然还是和俊姐大人有关的那个呢，那个",
+  "translation": "喜欢的东西？\n那当然是俊子姐姐啦！！\n……啊，你问食物吗？那果然还是和俊子姐姐有关的那个呢，那个",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "94fbf38306f054ae130c2c7873db8b3e",
   "original": "好きなもの？\n今頃聞きますか…友人とゲーム実況ですね。\n<u_name>さんは…ふふ、内緒です♪",
   "translation": "喜欢的东西？\n现在才问吗…和朋友一起做游戏实况呢。\n<u_name>的话…呼呼，保密♪",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "558cc42c1286a71be8b1df2bab9cbea0",
   "original": "好きな食べ物？\nえっとぉ～…だいたい全部好きですけど、強いて言うなら照り焼き！ドイツのソーセージ！後デザートにフルーツの入ったゼリーみたいなやつ！",
   "translation": "喜欢的食物？\n嗯～…虽然我基本上什么都喜欢，但要真说起来的话，照烧风味的东西！还有德国香肠！然后甜点要那种加了水果的果冻之类的东西！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f1281af2daa93c2306c418656edfe0bd",
@@ -16129,9 +16136,9 @@
  {
   "key": "0289c59ad3d3ecb607cd10cc881a23d4",
   "original": "完全無欠のへっぽこサバイバー",
-  "translation": "完美无缺的没用生存者",
+  "translation": "完美无缺的没用求生者",
   "context": "ID: yukari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/classes_yukari.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "079e8089da224028ed72e20fb0dd5b54",
@@ -16145,21 +16152,21 @@
   "original": "実は会話って苦手なんです…え、なんとなくわかる？\nあうぅ…",
   "translation": "其实我不太擅长聊天…诶，你说感觉能理解？\n啊呜…",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8e467f14e58fe69e7d54ac4fa1a7ac6b",
   "original": "実は料理が得意なんですよ、私。\nそのうち何か作ってあげますね！",
   "translation": "其实我擅长烹饪哦。\n回头给你做点什么吃的！",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2da0a49fcc227616df1e46ec97fc9e3a",
   "original": "実は私、時々お姉ちゃんの方言が移るんです……。\nほ、ほんとですよ？",
   "translation": "其实我有时候会被姐姐的方言传染呢……。\n真、真的哦？",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "841fc0c0e89aa0b728b6d83533a75138",
@@ -16229,7 +16236,7 @@
   "original": "寝てええやろ？な？",
   "translation": "咱可以睡觉了的吧？呐？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_tags_akane.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[43]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0bcc70c20f51298e0ff96f8d9bd7a7cd",
@@ -16250,14 +16257,14 @@
   "original": "将来の夢は世界中で食べ歩きする大食いブロガーなんですよ！",
   "translation": "我的未来梦想是成为一名走遍全球、大快朵颐的大胃王博主！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cea7cd1306f201779a94c174cb636c29",
   "original": "小五の引きこもり",
-  "translation": "小学五年级宅家女",
+  "translation": "小学五年级的宅家女",
   "context": "ID: tohoku\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/classes_kiri.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→tohoku\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "44f52b13ece3283d7924773484fbea5b",
@@ -16320,7 +16327,7 @@
   "original": "少しだけどこの状況にも慣れてきたんです。\nきっと、<u_name>さんが一緒にいてくれるからですね！",
   "translation": "虽然只有一点点，但我已经渐渐适应了这种状况。\n一定是有了<u_name>你在身边陪伴的原因吧！",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d179169b390c64645f78d17bf5d23037",
@@ -16334,7 +16341,7 @@
   "original": "少し休憩しましょう？\nほら、隣座ってください\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "我们稍微休息一下怎么样？\n来，坐到我旁边来吧\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7d6892e84244ed9939df0fe52f1033f1",
@@ -16348,14 +16355,14 @@
   "original": "平和になったら一緒に食べ歩きしましょうね。<u_name>さんの好きなもの、一緒に食べましょう！",
   "translation": "等一切平静下来后，我们一起去边走边吃逛店吧。<u_name>喜欢的东西，我们一起去享用！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "296ec31a8d2c19d10f49f0342826bae4",
   "original": "平和んなったら葵ちゃんにちゃんと紹介せんとなー。\nウチのええ人やって……へへ、葵ちゃんに認めてもらえるとええな、<u_name>？",
-  "translation": "如果一切恢复平静，就得好好把你介绍给葵酱呢—。\n咱遇到了很好的人……呵呵，要是能得到葵酱的认可就太好了呢，<u_name>？",
+  "translation": "如果一切恢复平静，就得好好把你介绍给小葵呢—。\n咱遇到了很好的人……呵呵，要是能得到小葵的认可就太好了呢，<u_name>？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2b479032b25f440996623d6ef00def6f",
@@ -16390,7 +16397,7 @@
   "original": "待ちに待った休憩時間やな！\nほれ<u_name>、近う寄れ…なんてな\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "终于等到休息时间了！\n来<u_name>，靠过来点…什么的\n当前好感度: <npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eaa70586d8a7464325fd3285f8eb29a3",
@@ -16675,9 +16682,9 @@
  {
   "key": "02e00c91f3d7f84e0eaf0fe2e23baec0",
   "original": "恋人の写真(あかり)",
-  "translation": "恋人的相片(灯)",
+  "translation": "恋人的相片（灯）",
   "context": "ID: lovers_photo_akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_akari\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "0ed79b469e81a852e498c0bb73fb2036",
@@ -16703,16 +16710,16 @@
  {
   "key": "cac18696aa51a8e056f6848df798f000",
   "original": "恋人の写真(茜)",
-  "translation": "恋人的相片(茜)",
+  "translation": "恋人的相片（茜）",
   "context": "ID: lovers_photo_akane\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_akane\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "bad2ae43c593ae7e0dee999eb07616e5",
   "original": "恋人の写真(葵)",
-  "translation": "恋人的相片(葵)",
+  "translation": "恋人的相片（葵）",
   "context": "ID: lovers_photo_aoi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_aoi\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "7681f3eb73e158c40149d4ae470d925a",
@@ -16740,21 +16747,21 @@
   "original": "悪いが子供を養うほどの余裕はない。",
   "translation": "很遗憾，我暂时没有余力供养孩子。",
   "context": "ID: TALK_STRANGER_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_kiri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_KIRITAN\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d3fa90c1657f748aa0efe89271d6319a",
   "original": "悪い子はいねがー！",
   "translation": "有坏孩子啊—！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[25]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "edd2c458c80e9e2fe629a438dfa8ed14",
   "original": "惑星ARIAからの使者",
   "translation": "来自ARIA星的使者",
   "context": "ID: ia\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/classes_ia.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c66398d080258cbd6d7741f98c47fb70",
@@ -16887,7 +16894,7 @@
   "original": "手書きの食レポ日記",
   "translation": "手写美食日记",
   "context": "ID: akari_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→akari_nikki\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "40e3f344c1b1bd2dde3d15a540fa5eaa",
@@ -17237,14 +17244,14 @@
   "original": "抱っこしてください。\nなんでって…いいから抱っこしてー！",
   "translation": "请抱抱我。\n你问我为什么…别管快抱抱我吧—！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c719bb8d8c961542b2bdd5ecedec64c0",
   "original": "持っていない",
   "translation": "我没有啦",
   "context": "ID: TALK_STRANGER_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ab6a992fe57da4f3bf8aa72dad04544c",
@@ -17307,7 +17314,7 @@
   "original": "新作ゲームが遊べない分、<u_name>さんが遊んでくれて助かります",
   "translation": "玩不到新游戏，但作为替代能玩<u_name>真是帮了大忙",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "988f15892a33cc93472a38c7ca510b34",
@@ -17398,35 +17405,35 @@
   "original": "時々、朝起きた時に今の幸せは全部夢で、実はゾンビに囲まれて死にかけてるんじゃないかって怖くなって飛び起きるんです。\nそれで、隣で<u_name>が寝てるのを見るとほっとするんです…。\nあ、いや、その…イタズラなんてしてませんよ？ほんとほんと…あはは…",
   "translation": "有时候，早晨醒来时，我会害怕现在的幸福只是一场梦，实际上自己是不是正被丧尸包围，濒临死亡，然后猛地惊醒。\n然后，看到<u_name>在旁边安然入睡，我就会感到安心…。\n啊，不，那个…我没有做恶作剧哦？真的真的…啊哈哈…",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f8df4470e0b43be162b613f3a2482a86",
   "original": "時々な、怖い夢見るねん。\n目が覚めるとな、いつも通りの日常で……キミがどこにもいないんや。\nうん…ウチ、もうキミがいないとダメになっちゃったみたいや……。\n大好きやで、<u_name>。",
   "translation": "偶尔会做些可怕的梦呢。\n醒来时，面对的是一如既往的日常……但你哪儿也不在了。\n嗯...好像咱已经没有你在就不行了……。\n最喜欢你了，<u_name>。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d65f30db7a606ce7ba8568b56b9db661",
   "original": "時々夢を見るんだ。\n私は自宅のベッドの中で目覚めていつも通りの日常に安堵する夢を…",
   "translation": "我偶尔会做梦。\n梦见自己在家中的床上醒来，沉浸在一如既往的日常生活所带来的安心感中…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "25956f40b3f77ca58f08f8ea2ef54aee",
   "original": "時間があればお話し、しませんか？\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "如果有时间的话，我们能聊会儿天吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "48da6bd5133f8bd9a0abfc2326033c67",
   "original": "時間なんていくらでもあるし、ここらでちょっと休憩しよ？ええやろ？\n現在好感度: <npc_val:counter_var_love_points_love_point>",
   "translation": "时间多的是，在这儿稍微休息一下吧？怎么样？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc54456499499fd5e869344aa7a18134",
@@ -17524,21 +17531,21 @@
   "original": "最近、ご飯より楽しいことがあるんですよ。\nふふっ、それが何かは秘密です♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "最近，我发现了一件比吃饭更有趣的事情呢。\n呼呼，那是什么就得保密啦♪ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "967ad3236de7a147ad5d2d5064a1d004",
   "original": "最近実は悩んでることがあって…\nOИEちゃんに<u_name>のこと、どう紹介しようかなって",
   "translation": "其实，我最近在为一件事烦恼…\n该怎么向ONE酱介绍<u_name>呢？",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "ba08607134f6657a2da1e739b11d5fae",
   "original": "最高で一日にどのくらい食べるのか？\nふっふっふっ、よくぞ聞いてくれました！",
   "translation": "一天最多能吃多少呢？\n哼哼哼，你问得好啊！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f1681e849e374df7faa508dc5aa33b9a",
@@ -17573,7 +17580,7 @@
   "original": "本当にプロサバイバーなのかって？\nあ、あた、当たり前じゃないですか！",
   "translation": "你问我是不是真正的生存专家？\n当、当然、当然是啊！",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "19d35d6432d52809c2444eabe36f32e0",
@@ -17769,7 +17776,7 @@
   "original": "気は優しくてしっかり者（姉評）",
   "translation": "心地善良意志坚定（姐评）",
   "context": "ID: aoi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/classes_aoi.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→aoi\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "77de6d9a55fa1f1c57570eb4704de397",
@@ -17804,14 +17811,14 @@
   "original": "水の流れる幻聴が聞こえる気がします…。",
   "translation": "我仿佛幻听到了水流声…。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[39]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "62b054c0a37378eb7e9e9f62e2d39d5f",
   "original": "水も…あ、ない？",
   "translation": "水什么的给我…啊，没有？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[55]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2f4f8d8eee974ae0ffd9e279ab0dc1b7",
@@ -17965,7 +17972,7 @@
   "original": "無茶はするなよ、相棒？\n君が死んだら悲しむ人間はここにいるんだからな",
   "translation": "别太逞强了，搭档？\n因为会为你的死感到悲伤的人就在这里啊",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "26f4673faba8a1469a42d42ef5ed40eb",
@@ -18028,7 +18035,7 @@
   "original": "爆死するのはガチャだけで十分ですぅ！",
   "translation": "暴死什么的在抽卡游戏里就够了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[66]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fe0973b0c83f09946400e30aa9fba335",
@@ -18215,7 +18222,7 @@
  {
   "key": "c2588f9f89642995abd08113171b181f",
   "original": "皆まで言うな<u_name>さん…わかってますよ…\nだーいすきなあかりちゃんとお話したいんですよねっ、ねぇ？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
-  "translation": "你不用说了，<u_name>…我明白的…\n想和超—喜欢的灯酱聊天呢，呐？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
+  "translation": "你不用说了，<u_name>…我明白的…\n想和超—喜欢的小灯聊天呢，呐？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
   "stage": 3
  },
@@ -18245,7 +18252,7 @@
   "original": "目の前で怪我する人おるとな、ちょっと怖くなるねん…。\nだからキミもあんまし怪我したらあかんよ。",
   "translation": "看到有人在眼前受伤，难免会有些害怕呢…。\n所以你也别让自己受太重的伤哦。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7daa92bc8bda23fa1fa2d130dbc2d34b",
@@ -18266,7 +18273,7 @@
   "original": "相棒、何か用かい？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "伙伴，有事吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e47cea39ddb07d4d403d57b169bc1054",
@@ -18439,9 +18446,9 @@
  {
   "key": "7412a54ac51bb9f19c0a62a5b6242b76",
   "original": "私が先に逃げて安全を確認しましょう！",
-  "translation": "我先逃跑确认安全吧！",
+  "translation": "我先去确认逃跑路线的安全吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[16]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "3778910cca80f564cc55b17df3618f6a",
@@ -18462,7 +18469,7 @@
   "original": "私こそ、真の最強のサバイバーです！",
   "translation": "我正是，真 · 最强 · 生存狂！",
   "context": "ID: yukari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/classes_yukari.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→yukari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8693255477e22845374bdda671f9245f",
@@ -18497,14 +18504,14 @@
   "original": "私だって、私だってやれる",
   "translation": "我也能上，我也能上的",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[25]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "43bd5a46076b5f9d40bd0f693af55a7c",
   "original": "私とあなたは違うんだよ、違うの",
   "translation": "我和你是合不来的，真的合不来",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[19]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "75bc446bb526e81815a15c49f4b91741",
@@ -18518,7 +18525,7 @@
   "original": "私にできることならなんでもしますよ、えへへ♪\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "只要我能做到，任何事都可以哦，诶嘿嘿♪ \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a90cef04ba5125cdc68649427cdc20a1",
@@ -18581,21 +18588,21 @@
   "original": "私の好きなものですか？\nそうですねぇ…挽肉とチーズの入ったジャンクなアレとか大好きですね",
   "translation": "我喜欢的东西？\n是呢…我特别喜欢那种夹着碎肉和奶酪的垃圾食品",
   "context": "ID: TALK_NO_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "a31b2e3bfcb1ff2e5c963d910abf001d",
   "original": "私の好きなもの？\nうーん……チョコミントが好きですけど、この辺だとあまり手に入らないんですよね、はぁ……",
   "translation": "我喜欢的东西？\n嗯—……我喜欢巧克力薄荷，但在这附近很难弄到，哈啊……",
   "context": "ID: TALK_NO_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d13bbbfc1875c9027fc25c6519ba489e",
   "original": "私の妹知りませんか？ ONEちゃんっていうんですけど。",
   "translation": "你知道我的妹妹吗？她叫ONE。",
   "context": "ID: ia\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/classes_ia.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→ia\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "43d4b5e210713bd5164d45088a8a89e1",
@@ -18665,7 +18672,7 @@
   "original": "私を<u_name>さんの趣味で染め上げようと…！？",
   "translation": "我想试试<u_name>的喜好来穿搭下，怎么说…！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[73]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7a68fc30b55326f93eaf49527c0691bb",
@@ -18693,7 +18700,7 @@
   "original": "突然ですがあーし、無性に寂しくなりました。\nハグを要求します。\nなでなでも。後ちゅーも。\n笑ってないでぎゅーってしーてーよー！",
   "translation": "突然间，人家感到无比寂寞。\n需要一个拥抱。\n还有摸摸头。还要亲亲。\n别笑了，来抱—抱—嘛—！",
   "context": "ID: TALK_NO_ITEM_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_band_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "00b6192b33d5df11ec951fd48acadef7",
@@ -18805,7 +18812,7 @@
   "original": "素直で大変よろしい！\nそれでは張り切って行きましょう！",
   "translation": "这么配合我，太好了！\n那么，让我们充满干劲地出发吧！",
   "context": "ID: MISSION_KILL_5_Z_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/missiondef_yukari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_YUKARI\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4b245d98d65a6ea0e8945758aa8fe30d",
@@ -18929,7 +18936,7 @@
  {
   "key": "318aa9e70babe5c9d97057ebe46c5722",
   "original": "絶対<u_name>の方が詳しいと思うんだけど、あーしのアドバイス必要かな…？\nうーん、そうだね。\n一緒に行動してて思ったんだけど、ゾンビや他の化け物ってなんかあーしよりも<u_name>を目の敵にしてるよね。\nそれを上手く利用すれば<u_name>が注意を引いてくれてる間に後ろからあーしがばしーん！とかやっちゃえるかも？",
-  "translation": "虽然<u_name>肯定对这些事情知道得更加详细，不过也许人家的意见也值得一听呢…？ \n嗯，对了。\n同行的时候咱注意到，比起人家来说，那些丧尸和别的变异生物似乎视<u_name>为更主要的威胁。 \n若是能巧妙利用这一点，当<u_name>牵制住它们的注意力时，人家便能悄无声息地从背后给它们来个措手不及！",
+  "translation": "虽然<u_name>肯定对这些事情知道得更加详细，不过也许人家的意见也值得一听呢…？ \n嗯，对了。\n同行的时候人家注意到，比起人家来说，那些丧尸和别的变异生物似乎视<u_name>为更主要的威胁。 \n若是能巧妙利用这一点，当<u_name>牵制住它们的注意力时，人家便能悄无声息地从背后给它们来个措手不及！",
   "context": "ID: MISSION_KILL_5_Z_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/missiondef_tumugi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_TUMUGI\n",
   "stage": 3
  },
@@ -18966,7 +18973,7 @@
   "original": "美味しいご飯と大好きな<u_name>さんがいる…\n私、意外と幸せ感じてます、ほんとですよ？",
   "translation": "有美味的食物和最喜欢的<u_name>在身边…\n我感到出乎意料的幸福，真的哦？",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9ed42ce0cc485871853a6aeb06b8329e",
@@ -18987,21 +18994,21 @@
   "original": "聞いてくださいよ、この間、わたしの好きなゲームの初代が置いてあるのを見つけて…",
   "translation": "你听我说，最近我发现了我最爱的游戏的初代作品…",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "96e80a8df04576939d398e0179b9ffc3",
   "original": "聞いてください！実は…",
   "translation": "请听我说！其实…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9125b2e2c36ddaf1f3e12156d19513ea",
   "original": "聞いてくれ、実は…",
   "translation": "听我说，其实…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "56e66bd07ab710cc0386eff54cb0ca4f",
@@ -19111,16 +19118,16 @@
  {
   "key": "5abdb8d3ac42c8cb149b249f8c061267",
   "original": "葵ちゃんは苦労性でなー？\nえ、どうせウチのせいやろって？\nう、ウチはちゃんとお姉ちゃんしとるで！？",
-  "translation": "你说葵酱爱操心—？\n呃，反正都是咱的问题对吧？\n咱、咱只是在好好当姐姐哦！？",
+  "translation": "你说小葵爱操心—？\n呃，反正都是咱的问题对吧？\n咱、咱只是在好好当姐姐哦！？",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "996c0b760e36fdd09d8035ecdbda68fb",
   "original": "葵ちゃん元気かな…。\nうん、ウチの妹がちょっと心配やねん…。",
   "translation": "小葵还好吗…。\n嗯，咱有点担心妹妹呢…。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f104d7aa1bd714cf4234382d5baa369d",
@@ -19274,14 +19281,14 @@
   "original": "親友、どうかしたか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "挚友，怎么了？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "91c2da0acb39406c25f40f1e58e427ff",
   "original": "親友、悩みがあるなら何でも話してくれ…",
   "translation": "挚友，你有什么烦恼尽管向我倾诉…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9ef9607911dda2df8ce31fb9de7f18a8",
@@ -19323,7 +19330,7 @@
   "original": "話したいことがあれば遠慮せずに言ってくださいね\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "如果有什么想聊的请畅所欲言吧\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fd01b74a8dd8204355a24ecf30d416b0",
@@ -19351,21 +19358,21 @@
   "original": "話をしたいのか？\nいいとも\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "想聊聊天吗？\n好啊\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "58b9e8522b8004fde3b0e32d42107a8c",
   "original": "話をしようじゃないか\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "来聊聊天吧\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc050941d38b58bb5d06a2d64b8b36c0",
   "original": "話をするのか？\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "要聊聊吗？\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "41a1c38f4d3b3b64e898ee721dcebc22",
@@ -19429,6 +19436,13 @@
   "translation": "致某人的信",
   "context": "ID: dear_akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→dear_akari\n",
   "stage": 5
+ },
+ {
+  "key": "2ea2f2b553858d555757f2e0ba9393c5",
+  "original": "誰かの手記",
+  "translation": "誰かの手記",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
+  "stage": 1
  },
  {
   "key": "480ed4a92273986af6bc12a1420a4f74",
@@ -19533,7 +19547,7 @@
   "original": "車中泊とか前はちょっと憧れあってんけどなー。\n実際やってみると背中は痛いわ腰は痛いわ…碌なもんやないね。",
   "translation": "咱以前还有点向往车里过夜呢—。\n但真正尝试了以后，背疼腰酸的…还真不是什么舒服的事。",
   "context": "ID: TALK_NO_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1cef10fcbff613ddf5e0ca11bc15a29f",
@@ -19645,7 +19659,7 @@
   "original": "通してください！ずん姉さまの太ももに当てられた急患なんです！",
   "translation": "请让一下！我是被俊子姐姐的大腿击中了的急诊病人！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[26]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c08415e4412909ecd0010a16c064b1ff",
@@ -19722,14 +19736,14 @@
   "original": "遠慮するな、何でも話してくれ\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "不用客气，说什么都可以 \n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "cc614164b13de08979c75ad21115d24f",
   "original": "遠慮せず話してね、<u_name>さん\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "请畅所欲言吧，<u_name>\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "781a32bcc4f34ac61bcb8f7e7569f6d7",
@@ -19939,21 +19953,21 @@
   "original": "食べ歩きしながらブログやってるんですよね、まだ営業してるいい店知りませんか？",
   "translation": "我在边走边吃逛店写博客，你知道什么还在营业的好店吗？",
   "context": "ID: akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/classes_akari.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→akari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "11b3d6f9dfc59ca267bcf26851e26282",
   "original": "食べ歩き大食いブロガー",
   "translation": "边走边吃大胃王博主",
   "context": "ID: akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/classes_akari.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc_class→akari\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "02c9bbb11e8c760948b9d350bf7fdffc",
   "original": "食べ物は、下に行くほど好物なんです。\n何の話かって？…秘密です。",
   "translation": "食物这东西，越往下走越对我胃口。\n你问这是什么意思？…秘密。",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 2
  },
  {
   "key": "0d94df593512d5b7af2f7cbaf22924d5",
@@ -19965,16 +19979,16 @@
  {
   "key": "0f9119c609573f4242ea3fe421e93c75",
   "original": "食事の時はですね…なんていうか救われてなきゃダメなんです。独りで…静かに…",
-  "translation": "吃饭的时候啊…应该感觉像是获得救赎般的。是独立的…心平气和的…",
+  "translation": "吃饭的时候啊…应该感觉像是获得救赎般的。是遗世独立的…心平气和的…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[41]\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "d0ebbe726474d392c730f0a25e7e6f62",
   "original": "食事の時間が楽しみです。\nなんでって、<u_name>さんのご飯美味しいからね！",
   "translation": "用餐时间真是令人期待。\n之所以如此，是因为<u_name>做的饭实在太美味了！",
   "context": "ID: TALK_NO_ITEM_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_band_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1f2ee9c5d289fab621cb1cecbf045dc0",
@@ -20009,14 +20023,14 @@
   "original": "食料や医薬品の心配はありませんか？\nもし必要なものがあれば…",
   "translation": "你担心食物和药品补给吗？\n如果有任何需要的话…",
   "context": "ID: TALK_NO_ITEM_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_band_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "962723959287f943138d2f689938d18c",
   "original": "食料や医薬品の心配は無いか？\nもし必要なら…",
   "translation": "是不是要担心食物和药品？\n如果需要的话…",
   "context": "ID: TALK_NO_ITEM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "431b134523e4502e96ed7c37164ebd2c",
@@ -20035,9 +20049,9 @@
  {
   "key": "1a577366e6550e9a01b0b8857a08c395",
   "original": "黒い塊？",
-  "translation": "一团黑色的？",
+  "translation": "一团黑色的物体？",
   "context": "ID: TALK_STORY5_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/background_storys_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY5_AOI\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "dcc44b7217b4cae887d46b8403a7708e",
@@ -20093,42 +20107,42 @@
   "original": "（すぐ隣に座った<npc_name>と無言の時間を過ごした…）",
   "translation": "（和坐在身边的<npc_name>共度了沉默的时间…）",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8323d4408e140a9e63d0618755ab37aa",
   "original": "（無言でこちらを見つめている）\n現在好感度:<npc_val:counter_var_love_points_love_point>",
   "translation": "（默默地凝视着你）\n当前好感度：<npc_val:counter_var_love_points_love_point>",
   "context": "ID: TALK_INTERCTION_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b10683734af9d87034bba980baa5f71e",
   "original": "（無言で膝の上に座る<npc_name>の体温が伝わってくる…）\n………へへっ♪",
   "translation": "（<npc_name>沉默地坐在你的腿上，她的体温传了过来…）\n………嘿嘿♪",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d95eadc5e0fe92c89f5dd7c3d8253846",
   "original": "（無言の時間が続いた…が、前より近くに座っている）",
   "translation": "（沉默的时间持续着…但她比之前坐得更近了一些）",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "f73c88209014fa65017deea4bd0b41af",
   "original": "（無言の時間が続いた…が、手を伸ばせば届く距離まで近づいてきている）",
   "translation": "（沉默的时间持续着…但她靠近到了伸手可及的距离）",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6a73543de926d26fb1aab970b298ba62",
   "original": "（無言の時間が続いた…）",
   "translation": "（沉默的时间持续着…）",
   "context": "ID: TALK_NO_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4a61df3bbcab0f4ca02f6d189ad3b614",
