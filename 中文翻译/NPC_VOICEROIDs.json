@@ -2576,6 +2576,13 @@
   "stage": 5
  },
  {
+  "key": "c60ff2a07520615bf4b3f46064cfcea2",
+  "original": "CSC_誰かの手記_ボイスロイド",
+  "translation": "CSC_誰かの手記_ボイスロイド",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
+  "stage": 1
+ },
+ {
   "key": "14a6e141ec427d713d10e32d130934ca",
   "original": "FEMAキャンプ……そこにならONEちゃんいるのかな？",
   "translation": "联邦应急管理局营地……那里会有ONE酱吗？",
@@ -17613,7 +17620,7 @@
   "key": "c1ee72d4b16a204762b33637ed99a11c",
   "original": "某人的笔记",
   "translation": "某人的笔记",
-  "context": "ID: CC_某人的笔记\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe_category→CC_某人的笔记\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
   "stage": 1
  },
  {
@@ -19447,7 +19454,7 @@
   "key": "2ea2f2b553858d555757f2e0ba9393c5",
   "original": "誰かの手記",
   "translation": "某人的笔记",
-  "context": "ID: CC_誰かの手記\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe_category→CC_誰かの手記\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
   "stage": 3
  },
  {
