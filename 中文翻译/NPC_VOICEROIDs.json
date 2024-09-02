@@ -2576,13 +2576,6 @@
   "stage": 5
  },
  {
-  "key": "c60ff2a07520615bf4b3f46064cfcea2",
-  "original": "CSC_誰かの手記_ボイスロイド",
-  "translation": "CSC_誰かの手記_ボイスロイド",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
-  "stage": 1
- },
- {
   "key": "14a6e141ec427d713d10e32d130934ca",
   "original": "FEMAキャンプ……そこにならONEちゃんいるのかな？",
   "translation": "联邦应急管理局营地……那里会有ONE酱吗？",
@@ -14388,6 +14381,7 @@
   "key": "e952bef10ebff739104c63d00ee6b17a",
   "original": "ボイスロイド",
   "translation": "VOICEROID",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
   "stage": 3
  },
  {
@@ -17615,13 +17609,6 @@
   "translation": "这水真是不错，不比东北的水差，虽然我不太清楚就是。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[5]\n",
   "stage": 5
- },
- {
-  "key": "c1ee72d4b16a204762b33637ed99a11c",
-  "original": "某人的笔记",
-  "translation": "某人的笔记",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/recipe.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→recipe→[7]\n",
-  "stage": 1
  },
  {
   "key": "41dff70bba4074890f0ef5bc8d445127",
