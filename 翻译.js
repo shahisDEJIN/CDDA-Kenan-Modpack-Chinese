@@ -1094,9 +1094,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     // "CSC_SECRONOM_FLESH",
     // "CSC_SECRONOM_FLESH ARMOR",
     // "CSC_SECRONOM_FLESH ALTERATION"
-    const categoryTrans = await category(categoryName);
-    const prefix = categoryTrans.replace('CC_', 'CSC_') + '_'; //CSC_谁的手记_
-    const realCategoryName = subCategoryName.replace(prefix, '');//voiceroid
+    const prefix = categoryName.replace('CC_', 'CSC_') + '_'; 
+    const realCategoryName = subCategoryName.replace(/.*_/, '');//ボイスロイド
     const translated = await translateFunction(realCategoryName);
     return prefix + translated;
   };
