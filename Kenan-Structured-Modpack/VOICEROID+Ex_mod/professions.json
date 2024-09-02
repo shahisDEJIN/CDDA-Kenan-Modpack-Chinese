@@ -476,7 +476,7 @@
         ],
         "entries": [
           { "group": "charged_cell_phone" },
-          { "item": "light_battery_cell", "charges": 16, "container-item": "mp3" }
+          { "item": "mp3", "charges": 50 }
         ]
       }
     }
