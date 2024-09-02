@@ -2446,7 +2446,7 @@
     "description": "左目に取り付ける女子力を測る機械です。今は女子力スカウターの代わりにカメラが内臓しています。",
     "ammo": [ "battery" ],
     "flags": [ "WATER_BREAK_ACTIVE" ],
-    "charges_per_use": 5,
+    "charges_per_use": 2,
     "use_action": [ "CAMERA" ],
     "pocket_data": [
       {
