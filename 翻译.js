@@ -1076,6 +1076,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     item.name_unique = await translateFunction(item.name_unique);
     item.name_suffix = await translateFunction(item.name_suffix);
   };
+  const category_id = async (category_id) => {
+    const prefix = 'CC_';
+    const realCategoryId = category_id.replace(prefix, '');
+    const translated = await translateFunction(realCategoryId);
+    return prefix + translated
+  }
   const category = async (categoryName) => {
     const prefix = 'CC_';
     const realCategoryName = categoryName.replace(prefix, '');
@@ -1088,8 +1094,9 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     // "CSC_SECRONOM_FLESH",
     // "CSC_SECRONOM_FLESH ARMOR",
     // "CSC_SECRONOM_FLESH ALTERATION"
-    const prefix = categoryName.replace('CC_', 'CSC_') + '_';
-    const realCategoryName = subCategoryName.replace(prefix, '');
+    categoryTrans = category(categoryName);
+    const prefix = categoryTrans.replace('CC_', 'CSC_') + '_'; //CSC_谁的手记_
+    const realCategoryName = subCategoryName.replace(prefix, '');//voiceroid
     const translated = await translateFunction(realCategoryName);
     return prefix + translated;
   };
@@ -1186,15 +1193,14 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.city_building = namePlDesc;
   translators.requirement = namePlDesc;
   translators.recipe = async (item) => {
-    await namePlDesc(item);
     if (item?.subcategory && item?.category === 'CC_誰かの手記') {
       item.category = await category(item.category);
       item.subcategory = await subCategory(item.subcategory, item.category);
     }
   };
   translators.recipe_category = async (item) => {
-    await namePlDesc(item);
     if (Array.isArray(item.recipe_subcategories) && item?.id === 'CC_誰かの手記') {
+      item.id = await category_id(item.id)
       item.recipe_subcategories = await Promise.all(
         item.recipe_subcategories.map((name) => subCategory(name, item.id))
       );
