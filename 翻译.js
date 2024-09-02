@@ -1076,7 +1076,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     item.name_unique = await translateFunction(item.name_unique);
     item.name_suffix = await translateFunction(item.name_suffix);
   };
-
+  const category = async (categoryName) => {
+    const prefix = 'CC_';
+    const realCategoryName = categoryName.replace(prefix, '');
+    const translated = await translateFunction(realCategoryName);
+    return prefix + translated;
+  }
   const subCategory = async (subCategoryName, categoryName) => {
     if (subCategoryName === 'CSC_ALL') return subCategoryName;
     // CC_SECRONOM
@@ -1182,17 +1187,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.requirement = namePlDesc;
   translators.recipe = async (item) => {
     await namePlDesc(item);
-    // if (item.subcategory && item.category) {
-    //   item.subcategory = await subCategory(item.subcategory, item.category);
-    // }
+    if (item?.subcategory && item?.category === 'CC_誰かの手記') {
+      item.category = await category(item.category);
+      item.subcategory = await subCategory(item.subcategory, item.category);
+    }
   };
   translators.recipe_category = async (item) => {
     await namePlDesc(item);
-    // if (Array.isArray(item.recipe_subcategories) && item.id) {
-    //   item.recipe_subcategories = await Promise.all(
-    //     item.recipe_subcategories.map((name) => subCategory(name, item.id))
-    //   );
-    // }
+    if (Array.isArray(item.recipe_subcategories) && item?.id === 'CC_誰かの手記') {
+      item.recipe_subcategories = await Promise.all(
+        item.recipe_subcategories.map((name) => subCategory(name, item.id))
+      );
+    }
   };
   translators.uncraft = namePlDesc;
   translators.enchantment = namePlDesc;
