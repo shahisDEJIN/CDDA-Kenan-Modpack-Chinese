@@ -21,7 +21,7 @@
       { "item": "socks", "count": 3 },
       { "item": "gloves_tactical" },
       { "item": "light_battery_cell", "charges": 16 },
-      { "item": "light_battery_cell", "charges": 16, "container-item": "flashlight" },
+      { "item": "medium_battery_cell", "charges": 56, "container-item": "flashlight" },
       { "item": "light_battery_cell", "charges": 16, "container-item": "radio" },
       { "item": "lighter", "charges": 100 },
       { "item": "pockknife" },

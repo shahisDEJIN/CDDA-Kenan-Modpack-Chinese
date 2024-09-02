@@ -180,7 +180,7 @@
         ],
         "entries": [
           { "group": "charged_cell_phone" }, { "item": "irradiated_tomato", "count": 2 },
-          { "item": "light_battery_cell", "charges": 16 , "container-item": "portable_game" }
+          { "item": "portable_game", "charges": 48  }
         ]
       }
     }
