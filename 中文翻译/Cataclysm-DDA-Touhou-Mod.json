@@ -94,35 +94,30 @@
   "key": "97a894e4f0ce7324f05428d056e12985",
   "original": "1 piece (default)",
   "translation": "1块（默认）",
-  "context": "ID: TALK_TRANSFORMATE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→talk_topic→TALK_TRANSFORMATE\n",
   "stage": 3
  },
  {
   "key": "a8bb5647777d7c8d6dc74922c78ae905",
   "original": "<context_val:u_val('mana')> H",
   "translation": "<context_val:u_val('mana')> H",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
   "key": "c512ef3326388306c0d077660ac1f735",
   "original": "<context_val:var_corpseexplosion_dmg> D",
   "translation": "<context_val:var_corpseexplosion_dmg> D",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
   "key": "ba6d8322f6173aca506cd94c693c910b",
   "original": "<global_val:u_val('mana')> G",
   "translation": "<global_val:u_val('mana')> G",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
   "key": "521db4bcfa57ec500573d5d954635311",
   "original": "<global_val:var_corpseexplosion_dmg> C",
   "translation": "<global_val:var_corpseexplosion_dmg> C",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
@@ -149,14 +144,12 @@
   "key": "860e93c7d360335b3579f54a61206958",
   "original": "<npc_val:u_val('mana')> F",
   "translation": "<npc_val:u_val('mana')> F",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
   "key": "4243c0c6062b5e1f381f1c4b8d88ee09",
   "original": "<npc_val:var_corpseexplosion_dmg> B",
   "translation": "<npc_val:var_corpseexplosion_dmg> B",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
@@ -533,14 +526,12 @@
   "key": "7a670ec54982a9b17caa4fd8aaac9919",
   "original": "<u_val:u_val('mana')> E",
   "translation": "<u_val:u_val('mana')> E",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
   "key": "54534f11d78f4b221de503d397162efb",
   "original": "<u_val:var_corpseexplosion_dmg> A",
   "translation": "<u_val:var_corpseexplosion_dmg> A",
-  "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
   "stage": 3
  },
  {
@@ -1576,7 +1567,15 @@
   "key": "e1faffb3e614e6c2fba74296962386b7",
   "original": "AAA",
   "translation": "AAA",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
   "stage": 3
+ },
+ {
+  "key": "9fa1d4d9069aff0f4b85b9e1654fc472",
+  "original": "Actions are slowed down.",
+  "translation": "Actions are slowed down.",
+  "context": "ID: youmumyon2_slasheternal2_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmumyon2_slasheternal2_slow\n",
+  "stage": 1
  },
  {
   "key": "f18c3273a57d3195840d695741e4ab91",
@@ -1647,6 +1646,13 @@
   "stage": 3
  },
  {
+  "key": "2a2849d452a697023c7f0b8f401e015b",
+  "original": "All exit points have been reset.",
+  "translation": "All exit points have been reset.",
+  "context": "ID: kasen_fangshu_delete_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_delete_1\n",
+  "stage": 1
+ },
+ {
   "key": "afee0e413968ba5a03fbe3ed5e80e945",
   "original": "Allows using \"Repulse the intruder\" and \"Stay out\" after blocking attacks.",
   "translation": "允许在阻挡攻击后使用“螺旋前挤”和“弹抖肩靠”。",
@@ -1680,6 +1686,13 @@
   "translation": "允许你飞跃露台。",
   "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
   "stage": 3
+ },
+ {
+  "key": "0455c9700ee97b36230a570481ea653b",
+  "original": "Allows you to fly over ledges.  Also increases your movement speed when not running.",
+  "translation": "Allows you to fly over ledges.  Also increases your movement speed when not running.",
+  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
+  "stage": 1
  },
  {
   "key": "eb98380ec5229f32fd8fe16aaba5a1f5",
@@ -1786,6 +1799,13 @@
   "stage": 1
  },
  {
+  "key": "48f2b8b726ba1260b81a71a723664977",
+  "original": "Anger (effect)",
+  "translation": "Anger (effect)",
+  "context": "ID: kokoro_unleash_anger_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_unleash_anger_effect\n",
+  "stage": 1
+ },
+ {
   "key": "1e88c6a1e1593a70604896c7ec49c167",
   "original": "Another uneventful day: holding the gates, doing repeats, not napping… The Mistress called you, very unusual for her to be awake at daytime.  She asked to lock down everything and go track the head maid for \"security reasons\".  You complied, almost caught up, really just at the boundary of your vision, when she… vanished?  Seems that you lost yourself too, you can't recall the last time humans walked without qi.",
   "translation": "又是平淡无奇的一日：看门、重复传话、不能打瞌睡…大小姐在叫你过去了，对大小姐来说在白天还醒着是很不寻常的。出于“安全考虑”，她让你把所有东西都锁好，然后找女仆长领班。你照做了，就差一点就赶上了，但她出现在视线边缘时，她就那样…消失了？随后你也迷失了自我，现在你已经想不起来，上一次人类没有气还能走是什么时候了。",
@@ -1823,6 +1843,34 @@
   "original": "Attack for mon_darksphere_seiga ",
   "translation": "Attack for mon_darksphere_seiga ",
   "context": "ID: darksphere_attack\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→darksphere_attack\n",
+  "stage": 1
+ },
+ {
+  "key": "49ecf2bc0cbec73e2c8d29d99c28ef45",
+  "original": "Attack for mon_houso ",
+  "translation": "Attack for mon_houso ",
+  "context": "ID: houso_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→houso_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "a685b1ca775d484c6fa269d1131b449f",
+  "original": "Attack for mon_kanda ",
+  "translation": "Attack for mon_kanda ",
+  "context": "ID: kanda_zoom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kanda_zoom\n",
+  "stage": 1
+ },
+ {
+  "key": "e534fe8f81ac92c6dfc0c227dbd4efb0",
+  "original": "Attack for mon_koutei ",
+  "translation": "Attack for mon_koutei ",
+  "context": "ID: koutei_breath\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→koutei_breath\n",
+  "stage": 1
+ },
+ {
+  "key": "5b86680c5c0119b1c18b5bcf329b1392",
+  "original": "Attack for mon_mukou ",
+  "translation": "Attack for mon_mukou ",
+  "context": "ID: mukou_discharge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mukou_discharge\n",
   "stage": 1
  },
  {
@@ -2022,7 +2070,6 @@
   "key": "e7d5e57d5d2d1a71acb404c76f6e7a57",
   "original": "Black sun",
   "translation": "黑色的太阳",
-  "context": "ID: mon_utsuho_minisun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_utsuho_minisun\n",
   "stage": 3
  },
  {
@@ -2329,6 +2376,13 @@
   "translation": "韵律",
   "context": "ID: style_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kokoro\n",
   "stage": 3
+ },
+ {
+  "key": "18d3ffdd79d690b9eb2ac868d21274c3",
+  "original": "Call forth any of your pets at the location, but for a moment.  They're so eager to help you, they intersect each other through the portal, so they show up at random.",
+  "translation": "Call forth any of your pets at the location, but for a moment.  They're so eager to help you, they intersect each other through the portal, so they show up at random.",
+  "context": "ID: kasen_summon_pet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet\n",
+  "stage": 1
  },
  {
   "key": "8ebb536214797d3675896aa5a80b9f3c",
@@ -2642,6 +2696,125 @@
   "original": "Consumed human.",
   "translation": "Consumed human.",
   "context": "ID: morale_hblood_vitamin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_morale_types.json\n类型为 morale_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→morale_type→morale_hblood_vitamin\n",
+  "stage": 1
+ },
+ {
+  "key": "7874d84d7c46cf515a7419095baf7650",
+  "original": "Convert 1 cast iron chunk into 1 kappascrap.",
+  "translation": "Convert 1 cast iron chunk into 1 kappascrap.",
+  "context": "ID: nitori_transformate_chunk_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_chunk_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "f309b32d4db0a9b2391d541a9b73acb9",
+  "original": "Convert 1 steel chunk into 1 kappascrap.",
+  "translation": "Convert 1 steel chunk into 1 kappascrap.",
+  "context": "ID: nitori_transformate_steel_chunk_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_steel_chunk_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "310e1b6ba59b99c4d9cd82139257f21f",
+  "original": "Convert 100 cast iron scrap into 20 kappascrap.",
+  "translation": "Convert 100 cast iron scrap into 20 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "b6b65c82e6bdc6e7ad7ca799ce832f80",
+  "original": "Convert 100 iron scrap into 20 kappascrap.",
+  "translation": "Convert 100 iron scrap into 20 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "8a5b3e0b786e92a10046333755e2e45a",
+  "original": "Convert 20 cast iron chunks into 20 kappascrap.",
+  "translation": "Convert 20 cast iron chunks into 20 kappascrap.",
+  "context": "ID: nitori_transformate_chunk_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_chunk_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "9328974ac86b748533874ec262507320",
+  "original": "Convert 20 steel chunks into 20 kappascrap.",
+  "translation": "Convert 20 steel chunks into 20 kappascrap.",
+  "context": "ID: nitori_transformate_steel_chunk_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_steel_chunk_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "9b7c21a741ee581481496de0bd42adf8",
+  "original": "Convert 25 cast iron scrap into 5 kappascrap.",
+  "translation": "Convert 25 cast iron scrap into 5 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "b6bd498318705eb23d044e8c3dc9daf2",
+  "original": "Convert 25 iron scrap into 5 kappascrap.",
+  "translation": "Convert 25 iron scrap into 5 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "1e12cd535a98c87c585a5fe0ad47ce9f",
+  "original": "Convert 5 cast iron chunks into 5 kappascrap.",
+  "translation": "Convert 5 cast iron chunks into 5 kappascrap.",
+  "context": "ID: nitori_transformate_chunk_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_chunk_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "0c5df1287e96600cd4064bd72bae376d",
+  "original": "Convert 5 cast iron scrap into 1 kappascrap.",
+  "translation": "Convert 5 cast iron scrap into 1 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_cast_iron_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_cast_iron_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "799d6a6a4517237026087606447ff444",
+  "original": "Convert 5 iron scrap into 1 kappascrap.",
+  "translation": "Convert 5 iron scrap into 1 kappascrap.",
+  "context": "ID: nitori_transformate_scrap_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "75d42079df16a9928a9fea480d8211f7",
+  "original": "Convert 5 steel chunks into 5 kappascrap.",
+  "translation": "Convert 5 steel chunks into 5 kappascrap.",
+  "context": "ID: nitori_transformate_steel_chunk_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_steel_chunk_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "c5d42f5752b3a03b46b5a999f07fdc05",
+  "original": "Convert cast iron chunks into kappascrap.",
+  "translation": "Convert cast iron chunks into kappascrap.",
+  "context": "ID: nitori_transformate_obtain_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_obtain_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "829da255b953c23fe7a4fe2791eaf216",
+  "original": "Convert cast iron scrap into kappascrap.",
+  "translation": "Convert cast iron scrap into kappascrap.",
+  "context": "ID: nitori_transformate_obtain_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_obtain_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "f75156426efd2c705f4ba9f3bf3167f2",
+  "original": "Convert iron scrap into kappascrap.",
+  "translation": "Convert iron scrap into kappascrap.",
+  "context": "ID: nitori_transformate_obtain_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_obtain_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "030d7526c4b7407d7cc3023ed1a1e37f",
+  "original": "Convert scrap and chunks of human metal into kappascrap.",
+  "translation": "Convert scrap and chunks of human metal into kappascrap.",
+  "context": "ID: nitori_transformate_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "5ff3fc54fa816721462564e0829187ac",
+  "original": "Convert steel chunks into kappascrap.",
+  "translation": "Convert steel chunks into kappascrap.",
+  "context": "ID: nitori_transformate_obtain_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_obtain_eoc\n",
   "stage": 1
  },
  {
@@ -3067,7 +3240,7 @@
   "key": "a7956deabf9ad83adf216281be85897a",
   "original": "Damage component for tec_kasen_palmfly ",
   "translation": "Damage component for tec_kasen_palmfly ",
-  "context": "ID: kasen_palmfly2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly2\n",
+  "context": "ID: kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly\n",
   "stage": 3
  },
  {
@@ -3081,7 +3254,7 @@
   "key": "e8730138ad19afaa33389d06ed8af2c9",
   "original": "Damage component for tec_kasen_punch_right ",
   "translation": "Damage component for tec_kasen_punch_right ",
-  "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n",
+  "context": "ID: kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right\n",
   "stage": 3
  },
  {
@@ -3297,7 +3470,6 @@
   "key": "4edd10253ee09cb066af34febbf1907d",
   "original": "Dark sphere",
   "translation": "Dark sphere",
-  "context": "ID: mon_darksphere_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_darksphere_seiga\n",
   "stage": 1
  },
  {
@@ -3404,6 +3576,20 @@
   "stage": 3
  },
  {
+  "key": "f3e44597b20095f50f0799ba74dc2868",
+  "original": "Delete all exit points",
+  "translation": "Delete all exit points",
+  "context": "ID: kasen_fangshu_delete_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_delete_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "651436a854f7a3c02509450b1bfa037b",
+  "original": "Delete all placed exit points.",
+  "translation": "Delete all placed exit points.",
+  "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "696c204132e7ee26cd2e27a3712ba2b2",
   "original": "Demons' dinner fork",
   "translation": "恶魔的餐叉",
@@ -3424,6 +3610,13 @@
   "stage": 3
  },
  {
+  "key": "1e92df7232d9af8c454490aa6b55f179",
+  "original": "Deploy a Kappa tech turret MK III.IV at the location.  Costs 20 kappascrap.",
+  "translation": "Deploy a Kappa tech turret MK III.IV at the location.  Costs 20 kappascrap.",
+  "context": "ID: nitori_transformate_build_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_build_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "67d14633564343bc65998ef03f93f9cd",
   "original": "Deploy a turret that shoots nearby enemies with water.",
   "translation": "部署一个用水攻击附近敌人的炮塔。",
@@ -3436,6 +3629,13 @@
   "translation": "部署：河童科技炮塔 MK III.IV",
   "context": "ID: nitori_turretdeploy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_turretdeploy\n",
   "stage": 3
+ },
+ {
+  "key": "1dce68fe2c370c6a04fa46379e453f22",
+  "original": "Despawns Kanda after they attack",
+  "translation": "Despawns Kanda after they attack",
+  "context": "ID: kanda_zoom2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kanda_zoom2\n",
+  "stage": 1
  },
  {
   "key": "1aead23c89e5a7bd856d6b42320000c8",
@@ -3874,6 +4074,13 @@
   "stage": 3
  },
  {
+  "key": "e8d920ed9dcdfa798d5ddd0d2340e1ca",
+  "original": "EEE",
+  "translation": "EEE",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "fe658bf71a95d8a3285d26bf37e3f4de",
   "original": "EOC check for kaenbyou_infernoburst double dmg",
   "translation": "EOC check for kaenbyou_infernoburst double dmg",
@@ -4101,6 +4308,27 @@
   "stage": 3
  },
  {
+  "key": "601ea4d03530d516d807dafd98d18381",
+  "original": "Extendo aaarm",
+  "translation": "Extendo aaarm",
+  "context": "ID: nitori_extendo_arm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm\n",
+  "stage": 1
+ },
+ {
+  "key": "7590f56e20a9cdaa58a0a6e50354bef2",
+  "original": "Extendo aaarm (pull)",
+  "translation": "Extendo aaarm (pull)",
+  "context": "ID: nitori_extendo_arm_pull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm_pull\n",
+  "stage": 1
+ },
+ {
+  "key": "29373285b41a6a339d149d0ec0a8a141",
+  "original": "Extendo aaarm (self-pull)",
+  "translation": "Extendo aaarm (self-pull)",
+  "context": "ID: nitori_extendo_arm_self_pull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm_self_pull\n",
+  "stage": 1
+ },
+ {
   "key": "7a7b280dd6c52890d01fb450bc00bc3c",
   "original": "Extinguish the targeted fire.",
   "translation": "熄灭目标位置的火焰。",
@@ -4184,6 +4412,13 @@
   "stage": 3
  },
  {
+  "key": "2804890a4b43e24d922447ddaaad3b2a",
+  "original": "FFF",
+  "translation": "FFF",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "ff3b742848886f9eff7b09e592fa454e",
   "original": "Fancy and comfortable leather shoes.",
   "translation": "精致舒适的皮鞋。",
@@ -4204,18 +4439,30 @@
   "stage": 3
  },
  {
+  "key": "8015f67afb6f00146d5de82b2155ea97",
+  "original": "Fangshu enables you to manipulate the cracks in space time, enabling quick movement between points.  \nYou can have a maximum of three exit points at any time.",
+  "translation": "Fangshu enables you to manipulate the cracks in space time, enabling quick movement between points.  \nYou can have a maximum of three exit points at any time.",
+  "context": "ID: kasen_fangshu_selector\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_selector\n",
+  "stage": 1
+ },
+ {
   "key": "cd431888497482e45f137f6e738aac69",
   "original": "Fangshu: Enter",
   "translation": "方术：入",
-  "context": "ID: kasen_fangshu_move\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_move\n",
   "stage": 3
  },
  {
   "key": "6b8e3783f790bb5d211c7c2895b00131",
   "original": "Fangshu: Exit",
   "translation": "方术：出",
-  "context": "ID: kasen_fangshu_place\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_place\n",
   "stage": 3
+ },
+ {
+  "key": "b6cd6dbdca033cfa0932e2ee9582ad89",
+  "original": "Fangshu: Path",
+  "translation": "Fangshu： Path",
+  "context": "ID: kasen_fangshu_selector\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_selector\n",
+  "stage": 1
  },
  {
   "key": "a7806cd555d08a38aea7c0ce59cc0964",
@@ -4742,6 +4989,13 @@
   "stage": 3
  },
  {
+  "key": "9af3a2bdc0c8780394fe540db548e97d",
+  "original": "GGG",
+  "translation": "GGG",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "6a23dda5579bb02aa57b88f1f50d2d78",
   "original": "Gatekeeper of the Devil",
   "translation": "红魔馆的门卫",
@@ -4953,6 +5207,13 @@
   "translation": "月兔尾巴",
   "context": "ID: GYOKUTO_TAIL\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_TAIL\n",
   "stage": 3
+ },
+ {
+  "key": "e2ed0f788ae9f65e06ce86d83fb7853e",
+  "original": "HHH",
+  "translation": "HHH",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
  },
  {
   "key": "ae0c8ec50c69288828ed7bdc249deefe",
@@ -5447,6 +5708,27 @@
   "stage": 3
  },
  {
+  "key": "0092e21c28dbfca492799ad160780700",
+  "original": "Houso",
+  "translation": "Houso",
+  "context": "ID: mon_houso\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_houso\n",
+  "stage": 1
+ },
+ {
+  "key": "b547648ff324666f41167159af71053d",
+  "original": "Houso claws!",
+  "translation": "Houso claws!",
+  "context": "ID: houso_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→houso_slash\n",
+  "stage": 1
+ },
+ {
+  "key": "e5b611d0f9f66ec9fa062374e79507d4",
+  "original": "Houso slash",
+  "translation": "Houso slash",
+  "context": "ID: houso_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→houso_slash\n",
+  "stage": 1
+ },
+ {
   "key": "c1bb19b27818343c1926119b958741b5",
   "original": "Human",
   "translation": "Human",
@@ -5507,6 +5789,13 @@
   "translation": "火男面（欢喜）（增强）",
   "context": "ID: kokoro_happiness_effect_boost\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_happiness_effect_boost\n",
   "stage": 3
+ },
+ {
+  "key": "51ac4581fa82be87a28f7c080e026ae6",
+  "original": "III",
+  "translation": "III",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
  },
  {
   "key": "90c8c021a5925d5daef7d11a9cdc75e0",
@@ -5791,6 +6080,13 @@
   "stage": 3
  },
  {
+  "key": "4e90bf5c6e89b179005004f6ef56fda1",
+  "original": "JJJ",
+  "translation": "JJJ",
+  "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "95fada3180a91bcafbbf150c2e792da5",
   "original": "Jack the Knife",
   "translation": "飞刀杰克",
@@ -5798,11 +6094,46 @@
   "stage": 3
  },
  {
+  "key": "be3d6c212004a3b0b4545f9429575ca3",
+  "original": "Kanda",
+  "translation": "Kanda",
+  "context": "ID: mon_kanda\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_kanda\n",
+  "stage": 1
+ },
+ {
+  "key": "5141f19b6cffb78eac8350927bc65d87",
+  "original": "Kanda charges!",
+  "translation": "Kanda charges!",
+  "context": "ID: kanda_zoom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kanda_zoom\n",
+  "stage": 1
+ },
+ {
+  "key": "bc4d35e62bc93e7bef38b997403e4d95",
+  "original": "Kanda despawn",
+  "translation": "Kanda despawn",
+  "context": "ID: kanda_zoom2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kanda_zoom2\n",
+  "stage": 1
+ },
+ {
+  "key": "0c40e749a5243f24153d0757e65cffe3",
+  "original": "Kanda zoom",
+  "translation": "Kanda zoom",
+  "context": "ID: kanda_zoom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kanda_zoom\n",
+  "stage": 1
+ },
+ {
   "key": "dfb67ab9ae22ae3b0c9ca316c0cd4096",
   "original": "Kappa",
   "translation": "河童",
   "context": "ID: KAPPA_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KAPPA_SPECIES\n",
   "stage": 3
+ },
+ {
+  "key": "f8a89cefd342f99ad4836e7f0d7ff368",
+  "original": "Kappascrap",
+  "translation": "Kappascrap",
+  "context": "ID: nitori_zz_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_zz_kappascrap\n",
+  "stage": 1
  },
  {
   "key": "5f01859f69f90bd2a47075bc13c46f8c",
@@ -6069,6 +6400,27 @@
   "translation": "Knockback effect for mokou_resurrectionphoenix ",
   "context": "ID: mokou_resurrectionphoenix3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_resurrectionphoenix3\n",
   "stage": 3
+ },
+ {
+  "key": "0559cb1b0c3ad7b904e7536b0135331a",
+  "original": "Koutei",
+  "translation": "Koutei",
+  "context": "ID: mon_koutei\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_koutei\n",
+  "stage": 1
+ },
+ {
+  "key": "c57f972a27e9df287075271d43c6e7da",
+  "original": "Koutei breath",
+  "translation": "Koutei breath",
+  "context": "ID: koutei_breath\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→koutei_breath\n",
+  "stage": 1
+ },
+ {
+  "key": "81c237cf598e59b24a1f9233baae4466",
+  "original": "Koutei breathes fire!",
+  "translation": "Koutei breathes fire!",
+  "context": "ID: koutei_breath\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→koutei_breath\n",
+  "stage": 1
  },
  {
   "key": "8a1d125fdcd447d41549d92e0630871a",
@@ -6376,6 +6728,13 @@
   "stage": 3
  },
  {
+  "key": "3353f9960aa48266ec607c246757ba80",
+  "original": "Maids of the Scarlet Devil",
+  "translation": "Maids of the Scarlet Devil",
+  "context": "ID: mon_sakuya_alternate\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_sakuya_alternate\n",
+  "stage": 1
+ },
+ {
   "key": "51c75016217aa87b46b94a3ec08868d9",
   "original": "Make use of your ability to greatly increase movement speed for a short time.",
   "translation": "利用操纵风程度的能力，短时间内大大提高你的移动速度。",
@@ -6676,7 +7035,6 @@
   "key": "0658f6ed5ef5d64d4675bf9d0ab22c29",
   "original": "More...",
   "translation": "更多...",
-  "context": "ID: TALK_TRANSFORMATE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→talk_topic→TALK_TRANSFORMATE\n",
   "stage": 5
  },
  {
@@ -6725,7 +7083,7 @@
   "key": "f510208092129c2e1be2898723ecb108",
   "original": "Movement speed is reduced.",
   "translation": "移动速度降低。",
-  "context": "ID: youmumyon2_slasheternal2_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmumyon2_slasheternal2_slow\n",
+  "context": "ID: youmu_knee_slasher_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmu_knee_slasher_slow\n",
   "stage": 3
  },
  {
@@ -6748,6 +7106,27 @@
   "translation": "富士破火山口",
   "context": "ID: mokou_fujiyamakazan\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_fujiyamakazan\n",
   "stage": 3
+ },
+ {
+  "key": "4f2a9c94973511812f4a677420be1ca3",
+  "original": "Mukou",
+  "translation": "Mukou",
+  "context": "ID: mon_mukou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_mukou\n",
+  "stage": 1
+ },
+ {
+  "key": "4ac3ed54a6d7fe9dc2e6c88c39faa4ef",
+  "original": "Mukou discharge",
+  "translation": "Mukou discharge",
+  "context": "ID: mukou_discharge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mukou_discharge\n",
+  "stage": 1
+ },
+ {
+  "key": "a41ba0a561ec38a51cd2081a2d6bb869",
+  "original": "Mukou shoots lightning!",
+  "translation": "Mukou shoots lightning!",
+  "context": "ID: mukou_discharge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mukou_discharge\n",
+  "stage": 1
  },
  {
   "key": "67964ebd29371c721d19992721b61f4e",
@@ -7060,6 +7439,27 @@
   "stage": 3
  },
  {
+  "key": "230f849a278209537c87d94b5e630d5e",
+  "original": "Open and traverse through exit point 1.",
+  "translation": "Open and traverse through exit point 1.",
+  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "6bc5b727ace884fdbb10420741be1c47",
+  "original": "Open and traverse through exit point 2.",
+  "translation": "Open and traverse through exit point 2.",
+  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "f2ffd11dcddfdeebfc4460b62cc62ca5",
+  "original": "Open and traverse through exit point 3.",
+  "translation": "Open and traverse through exit point 3.",
+  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "0fa87118e51038622869076b4e9924eb",
   "original": "Opening a path to your Senkai, you call forth Yoshika to assist you.",
   "translation": "你开启了一条连通仙界的道路，向前召唤芳香来协助你。",
@@ -7155,6 +7555,13 @@
   "original": "Palm strike (Wrap) (stun)",
   "translation": "冲掌（缠绕）（眩晕）",
   "context": "ID: kasen_palmfly3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly3\n",
+  "stage": 1
+ },
+ {
+  "key": "fa39d17cd1d38ad5f7fd98463d4ec58f",
+  "original": "Palm strike (Wrap) (tec)",
+  "translation": "Palm strike (Wrap) (tec)",
+  "context": "ID: kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly\n",
   "stage": 1
  },
  {
@@ -7444,6 +7851,13 @@
   "stage": 3
  },
  {
+  "key": "86ead6a09e015f295ec153107cf04855",
+  "original": "Pull version of nitori_extendo_arm ",
+  "translation": "Pull version of nitori_extendo_arm ",
+  "context": "ID: nitori_extendo_arm_pull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm_pull\n",
+  "stage": 1
+ },
+ {
   "key": "eb52230a669962013ae90d09eeb5d272",
   "original": "Punch (left)",
   "translation": "左勾拳",
@@ -7461,7 +7875,7 @@
   "key": "5c2c3d5f5bf8c85243828fe52b17beb2",
   "original": "Punch (right hand)",
   "translation": "右拳攻击",
-  "context": "ID: kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right\n",
+  "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n",
   "stage": 0
  },
  {
@@ -7475,7 +7889,7 @@
   "key": "dace0e91a7cea36ea8eccb47edead112",
   "original": "Punch (right) (tec)",
   "translation": "Punch (right) (tec)",
-  "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n",
+  "context": "ID: kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right\n",
   "stage": 3
  },
  {
@@ -7489,7 +7903,7 @@
   "key": "e15511bd3e10b3507afc31ca23976cd7",
   "original": "Punch with your unwrapped right hand, dealing spiritual damage.",
   "translation": "用你未缠绷带的右手进行重击，造成灵力伤害。",
-  "context": "ID: kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right\n",
+  "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n",
   "stage": 3
  },
  {
@@ -8493,6 +8907,13 @@
   "stage": 1
  },
  {
+  "key": "211894bc248dcc0ea7711167633b5ee0",
+  "original": "Self-pull version of nitori_extendo_arm ",
+  "translation": "Self-pull version of nitori_extendo_arm ",
+  "context": "ID: nitori_extendo_arm_self_pull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm_self_pull\n",
+  "stage": 1
+ },
+ {
   "key": "b5bf0b8a1b737cf15fbcbb371f0c1e59",
   "original": "Send a weather missile to the upper atmosphere to make it rain.  The effect is temporary, so the weather reverts back to its previous state after the effect ends.  Must be outdoors to use.",
   "translation": "向大气层之上发送一颗天气导弹，变成雨天。这个效果是暂时的，因此会在效果结束后变回之前的天气。必须在户外使用。",
@@ -8513,6 +8934,20 @@
   "stage": 1
  },
  {
+  "key": "7a7829c324407ccb88c588c98bc949e8",
+  "original": "Set exit point:",
+  "translation": "Set exit point:",
+  "context": "ID: kasen_fangshu_set_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_set_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "6c909144584d23220d069e3d68dccd30",
+  "original": "Set one of three exit points to traverse through.  Costs 133 mana.",
+  "translation": "Set one of three exit points to traverse through.  Costs 133 mana.",
+  "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "bbf4d3a7f56345eec13abfd183e9a539",
   "original": "Set target",
   "translation": "设定目标",
@@ -8523,15 +8958,34 @@
   "key": "66b3cf5bcc5bf49d169d6dd7067da922",
   "original": "Set up an entry point, to travel back to an existing exit point.",
   "translation": "建立一个\"入\"点，以便返回到已有的\"出\"处。",
-  "context": "ID: kasen_fangshu_move\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_move\n",
   "stage": 1
  },
  {
   "key": "45647ed9bc50b00ae43b0c3917a5a037",
   "original": "Set up an exit point between the cracks in space time.  Placing another point replaces any previous ones.",
   "translation": "在时空裂缝之间建立一个出口点。放置新的点将替换之前的任何点。",
-  "context": "ID: kasen_fangshu_place\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_fangshu_place\n",
   "stage": 0
+ },
+ {
+  "key": "fe609480c774b94c5785f51b6a51533f",
+  "original": "Set up exit point 1.",
+  "translation": "Set up exit point 1.",
+  "context": "ID: kasen_fangshu_set_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_set_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "d2714427dcaae6fdac5fa31ab53c9477",
+  "original": "Set up exit point 2.",
+  "translation": "Set up exit point 2.",
+  "context": "ID: kasen_fangshu_set_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_set_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "dc11d1e7b8bfc39b228c29b856bec7d3",
+  "original": "Set up exit point 3.",
+  "translation": "Set up exit point 3.",
+  "context": "ID: kasen_fangshu_set_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_set_eoc\n",
+  "stage": 1
  },
  {
   "key": "7275615977924ebc9ae9c8c68019284e",
@@ -9413,6 +9867,41 @@
   "stage": 3
  },
  {
+  "key": "c209378895774691248526b38dfb67ce",
+  "original": "Summon pet",
+  "translation": "Summon pet",
+  "context": "ID: kasen_summon_pet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet\n",
+  "stage": 1
+ },
+ {
+  "key": "eb574af2b233094422662ebbf027946e",
+  "original": "Summon pet (Houso)",
+  "translation": "Summon pet (Houso)",
+  "context": "ID: kasen_summon_pet_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_1\n",
+  "stage": 1
+ },
+ {
+  "key": "b54e6f4485c572ca932fcb090208c1ab",
+  "original": "Summon pet (Kanda)",
+  "translation": "Summon pet (Kanda)",
+  "context": "ID: kasen_summon_pet_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_2\n",
+  "stage": 1
+ },
+ {
+  "key": "1567235f8ec4f546a4af134426028f59",
+  "original": "Summon pet (Koutei)",
+  "translation": "Summon pet (Koutei)",
+  "context": "ID: kasen_summon_pet_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_3\n",
+  "stage": 1
+ },
+ {
+  "key": "911b78ba45348172974e5773eed146ff",
+  "original": "Summon pet (Mukou)",
+  "translation": "Summon pet (Mukou)",
+  "context": "ID: kasen_summon_pet_4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_4\n",
+  "stage": 1
+ },
+ {
   "key": "88b154440f2792041e8d16bf44cd1869",
   "original": "Summon several spears of red magic to stab in front of you.",
   "translation": "召唤若干红魔法之枪刺向前方。",
@@ -9474,6 +9963,34 @@
   "translation": "召唤: 浮空要石",
   "context": "ID: tenko_keystonefloating\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonefloating\n",
   "stage": 3
+ },
+ {
+  "key": "e2da4c5d8c7358583080f5d50a826e16",
+  "original": "Summons Houso",
+  "translation": "Summons Houso",
+  "context": "ID: kasen_summon_pet_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_1\n",
+  "stage": 1
+ },
+ {
+  "key": "a733afb73d7b44ba92176ca7f46acdee",
+  "original": "Summons Kouso",
+  "translation": "Summons Kouso",
+  "context": "ID: kasen_summon_pet_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_2\n",
+  "stage": 1
+ },
+ {
+  "key": "efefae0180c5de86a463f04974b6fcd4",
+  "original": "Summons Koutei",
+  "translation": "Summons Koutei",
+  "context": "ID: kasen_summon_pet_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_3\n",
+  "stage": 1
+ },
+ {
+  "key": "19641af883c5ddb4cb3f0b30659a72e8",
+  "original": "Summons Mukou",
+  "translation": "Summons Mukou",
+  "context": "ID: kasen_summon_pet_4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet_4\n",
+  "stage": 1
  },
  {
   "key": "0d217f519d831b7043768ac8d949dcab",
@@ -9570,7 +10087,6 @@
   "key": "033bd94b1168d7e4f0d644c3c95e35bf",
   "original": "TEST",
   "translation": "测试",
-  "context": "ID: nitori_TEST\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_TEST\n",
   "stage": 1
  },
  {
@@ -10019,8 +10535,14 @@
   "key": "d9cf61463008d0110c0381521aeaf02c",
   "original": "The path that can be walked through is not the way.  Evading attacks increase your parry chance, but makes it more difficult to evade sucessive attacks.",
   "translation": "道可道，非常道。闪避攻击会提升格挡几率，但使你更难闪避接下来的攻击。",
-  "context": "ID: style_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kasen\n",
   "stage": 3
+ },
+ {
+  "key": "03048d8ef1f3ac4e16d5dae677907fe4",
+  "original": "The path that can be walked through is not the way.  Evading attacks makes it easier to parry, but more difficult to evade sucessive attacks.",
+  "translation": "The path that can be walked through is not the way.  Evading attacks makes it easier to parry, but more difficult to evade sucessive attacks.",
+  "context": "ID: style_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kasen\n",
+  "stage": 1
  },
  {
   "key": "dc76842e6f92111a6c667130ce608b36",
@@ -10133,6 +10655,13 @@
   "translation": "你周围的世界似乎加速了！",
   "context": "ID: sakuya_contraction_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_contraction_effect\n",
   "stage": 3
+ },
+ {
+  "key": "b27cd0854d80c41d16db6162cdb4a90e",
+  "original": "There are no active exit points.",
+  "translation": "There are no active exit points.",
+  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
+  "stage": 1
  },
  {
   "key": "baf471289a0a2e7f5a99a6d602bceaa4",
@@ -10513,7 +11042,7 @@
   "key": "7a22fed6a6467ce1f9b13e5aa8b3ed4b",
   "original": "Time manipulation (Time stop)",
   "translation": "时间操纵（停止）",
-  "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n",
+  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n",
   "stage": 3
  },
  {
@@ -10630,15 +11159,34 @@
   "key": "c6f2e4f7c46d5786f583f213f8a4e5a9",
   "original": "Transformate how much human scrap?",
   "translation": "转换多少人类废料？",
-  "context": "ID: TALK_TRANSFORMATE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→talk_topic→TALK_TRANSFORMATE\n",
   "stage": 3
+ },
+ {
+  "key": "ccc374c1e4c20061eadd7aaa3a4a0c18",
+  "original": "Transformate.  Current kappascrap amount: <u_val:u_var_kappascrap>.",
+  "translation": "Transformate.  Current kappascrap amount： <u_val：u_var_kappascrap>。",
+  "context": "ID: nitori_transformate_build_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_build_eoc\n",
+  "stage": 1
  },
  {
   "key": "3891fb4d34888c4d2ec0b7de88b25aad",
   "original": "Transformed <u_val:u_var_kappascrap_transform> scrap into kappascrap",
   "translation": "已将<u_val:u_var_kappascrap_transform>块人类废料转换为河童废料",
-  "context": "ID: nitori_transformate_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_kappascrap\n",
   "stage": 3
+ },
+ {
+  "key": "6243900821eab78ae85b7091d0d14277",
+  "original": "Traverse through any previously placed exit points.",
+  "translation": "Traverse through any previously placed exit points.",
+  "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "644edc8fadfbd5aee5b6caf0449013e6",
+  "original": "Traverse through:",
+  "translation": "Traverse through:",
+  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
+  "stage": 1
  },
  {
   "key": "355de44496259812569af8a1fe18837a",
@@ -10915,7 +11463,7 @@
   "key": "c7290509ad7ca635ebfcf36e19a22b51",
   "original": "Unravel your arm and use it to punch the target, knocking them back.",
   "translation": "解开你的手臂，用它来击打目标，并将其击退。",
-  "context": "ID: kasen_palmfly\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly\n",
+  "context": "ID: kasen_palmfly2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palmfly2\n",
   "stage": 1
  },
  {
@@ -10930,6 +11478,20 @@
   "original": "Use Roukanken to canalize your spirit, empowering it and dealing heavy damage over a distance.",
   "translation": "通过楼观剑来运使你的妖力，强化武器并对远距离造成大量伤害。",
   "stage": 3
+ },
+ {
+  "key": "4dd8fbbd19374877734fdd9f46003c7e",
+  "original": "Use accumulated kappascrap to build something.",
+  "translation": "Use accumulated kappascrap to build something.",
+  "context": "ID: nitori_transformate_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "f3defedd0211ceee60ce06edcc5950dc",
+  "original": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \nCaution: May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
+  "translation": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \nCaution: May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
+  "context": "ID: nitori_extendo_arm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm\n",
+  "stage": 1
  },
  {
   "key": "bd9552b26f50708b72d5c567c34fd803",
@@ -11181,6 +11743,13 @@
   "translation": "制作中。你是一只河童，对人类有些害羞，但其实并不太介意他们。",
   "context": "ID: PROF_NITORI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_NITORI\n",
   "stage": 0
+ },
+ {
+  "key": "c777455ed532c8fc1145efeda08457b5",
+  "original": "Warning: this cannot be undone.",
+  "translation": "Warning: this cannot be undone.",
+  "context": "ID: kasen_fangshu_delete_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_delete_eoc\n",
+  "stage": 1
  },
  {
   "key": "39e40f18ce4b62627cd8f1379ed45a65",
@@ -11766,6 +12335,34 @@
   "stage": 3
  },
  {
+  "key": "c1529ed2fb369c97dd92c98e09be7dd9",
+  "original": "You don't have enough human scrap to transform, or enough kappascrap to build.",
+  "translation": "You don't have enough human scrap to transform, or enough kappascrap to build.",
+  "context": "ID: nitori_transformate_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "64b9bd4c580ef6b833680c4bfc1ee7f4",
+  "original": "You don't have enough human scrap.",
+  "translation": "You don't have enough human scrap.",
+  "context": "ID: nitori_transformate_obtain_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_obtain_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "5050491e6b80531cb9ddb8c88e93c42c",
+  "original": "You don't have enough iron scrap.",
+  "translation": "You don't have enough iron scrap.",
+  "context": "ID: nitori_transformate_scrap_1_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_scrap_1_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "03e586528b1bc085a3a339a88e6860fd",
+  "original": "You don't have enough kappascrap.",
+  "translation": "You don't have enough kappascrap.",
+  "context": "ID: nitori_transformate_not_enough_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_not_enough_kappascrap\n",
+  "stage": 1
+ },
+ {
   "key": "28601dbfd046d5a07d7582b0609090c9",
   "original": "You don't have enough mana.",
   "translation": "你没有足够的灵力。",
@@ -11783,7 +12380,6 @@
   "key": "d1a0eed17a67dde0f878e242de3a5d03",
   "original": "You don't have human scrap with you.",
   "translation": "你没带着人类废料。",
-  "context": "ID: nitori_transformate_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_2\n",
   "stage": 3
  },
  {
@@ -11853,6 +12449,13 @@
   "translation": "你充满活力！",
   "context": "ID: kokoro_unleash_happiness_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_unleash_happiness_effect\n",
   "stage": 3
+ },
+ {
+  "key": "b441972dc8d2d0e15a77086cd2d89f87",
+  "original": "You feel enraged!",
+  "translation": "You feel enraged!",
+  "context": "ID: kokoro_unleash_anger_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_unleash_anger_effect\n",
+  "stage": 1
  },
  {
   "key": "a3ff5acb4d69b1ffd58a60ff978aaabf",
@@ -11937,9 +12540,9 @@
   "stage": 3
  },
  {
-  "key": "2e5745a67ddb9316520a6172e7a5b58f",
-  "original": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nSpell cost displays how many you currently have.  \nMax 200 scrap.",
-  "translation": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nSpell cost displays how many you currently have.  \nMax 200 scrap.",
+  "key": "86002c17ceb74752ffb5d3906bdefbc3",
+  "original": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nCasting time displays how many you currently have.  \nMax 200 scrap.",
+  "translation": "You gain useful kappascrap by transformating human scrap and related pieces of technology, which you can use to craft and deploy kappa technology on the fly.  \nCasting time displays how many you currently have.  \nMax 200 scrap.",
   "context": "ID: nitori_zz_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_zz_kappascrap\n",
   "stage": 1
  },
@@ -11997,6 +12600,13 @@
   "translation": "你长出了一对相对较小的乌鸦翅膀。激活变异以开启飞行功能。",
   "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
   "stage": 3
+ },
+ {
+  "key": "924cda22674b1f1aab18136e7bf4f0b2",
+  "original": "You have already summoned all your pets.",
+  "translation": "You have already summoned all your pets.",
+  "context": "ID: kasen_summon_pet_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_summon_pet_eoc\n",
+  "stage": 1
  },
  {
   "key": "c35df1e65bfa7f6c1ae15a6766bac793",
@@ -12202,6 +12812,13 @@
   "stage": 1
  },
  {
+  "key": "4f63f10feb2923a31e2f968c08298330",
+  "original": "You haven't placed that exit point yet.",
+  "translation": "You haven't placed that exit point yet.",
+  "context": "ID: kasen_fangshu_move_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_3\n",
+  "stage": 1
+ },
+ {
   "key": "600800926f9a2dd7dc39c8c7ec3fb90e",
   "original": "You hit %s with your qi-reinforced elbow!",
   "translation": "你一记带有气劲的肘击击中了 %s!",
@@ -12348,6 +12965,13 @@
   "stage": 3
  },
  {
+  "key": "94e2330454bf942746661b355ea72289",
+  "original": "You open a crack in space time, and walk through the exit point.",
+  "translation": "You open a crack in space time，and walk through the exit point.",
+  "context": "ID: kasen_fangshu_move_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_3\n",
+  "stage": 1
+ },
+ {
   "key": "3f98a14fbe6447e7acbd04b3bc82d2ba",
   "original": "You palm strike %s with your left hand!",
   "translation": "你用左手手掌猛击 %s ！",
@@ -12377,7 +13001,6 @@
   "key": "da987be908e66e4046768c19ee70c6df",
   "original": "You pass through the entry point, and walk past the exit point.",
   "translation": "你穿过“入”点，到达了“出”处。",
-  "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
   "stage": 1
  },
  {
@@ -12598,6 +13221,13 @@
   "original": "You send your phantom half!",
   "translation": "你指挥你的半灵部分出击！",
   "context": "ID: youmu_halfbody_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→youmu_halfbody_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "b7a130dc866802f9bd815ff6f276301f",
+  "original": "You set an exit point at the location.",
+  "translation": "You set an exit point at the location.",
+  "context": "ID: kasen_fangshu_set_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_set_3\n",
   "stage": 1
  },
  {
@@ -13310,10 +13940,16 @@
   "stage": 3
  },
  {
+  "key": "692a09e6647e0919497304669d1a27bd",
+  "original": "Your limbs feel cold and rigid.  Actions are slowed down.",
+  "translation": "Your limbs feel cold and rigid.  Actions are slowed down.",
+  "context": "ID: icy_pyrexia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→icy_pyrexia\n",
+  "stage": 1
+ },
+ {
   "key": "927ca0ed13bfceb73dc8adafaf4d5788",
   "original": "Your limbs feel cold and rigid.  Movement speed is reduced.",
   "translation": "你的四肢又冷又僵硬。移动速度降低。",
-  "context": "ID: icy_pyrexia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→icy_pyrexia\n",
   "stage": 3
  },
  {
@@ -13331,10 +13967,16 @@
   "stage": 3
  },
  {
+  "key": "76e349038252fff80c325df5e2899dda",
+  "original": "Your movement speed is increased.",
+  "translation": "Your movement speed is increased.",
+  "context": "ID: seiga_mspeed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_mspeed\n",
+  "stage": 1
+ },
+ {
   "key": "074f9a56babab73e760230d23cbabc81",
   "original": "Your movement speed is slightly increased.",
   "translation": "你的移动速度略微增加。",
-  "context": "ID: seiga_mspeed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_mspeed\n",
   "stage": 3
  },
  {
@@ -13390,6 +14032,34 @@
   "original": "Your personal fighting style, learned over decades of sword training, plus some gardening component that helped too.  People say you may just be *too* tunnel-visioned about it.",
   "translation": "你个人的战斗风格，是通过几十年剑术训练磨练而成，其间还融入了一些园艺的元素，这同样功不可没。人们常说，你对剑术的专注或许已经到了过于执着的地步。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
+  "stage": 1
+ },
+ {
+  "key": "227dac961958d8299e0a6aa5c6b0fa52",
+  "original": "Your pet dragon, Koutei.",
+  "translation": "Your pet dragon, Koutei.",
+  "context": "ID: mon_koutei\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_koutei\n",
+  "stage": 1
+ },
+ {
+  "key": "6ce6fa8a045132861240d468bd6be862",
+  "original": "Your pet eagle, Kanda.",
+  "translation": "Your pet eagle, Kanda.",
+  "context": "ID: mon_kanda\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_kanda\n",
+  "stage": 1
+ },
+ {
+  "key": "ca4050217b689410066e25e1df96c4b0",
+  "original": "Your pet raijuu, Mukou.",
+  "translation": "Your pet raijuu, Mukou.",
+  "context": "ID: mon_mukou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_mukou\n",
+  "stage": 1
+ },
+ {
+  "key": "9d0d7b530dfdae635dcb789cd5688957",
+  "original": "Your pet tiger, Houso.",
+  "translation": "Your pet tiger, Houso.",
+  "context": "ID: mon_houso\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_houso\n",
   "stage": 1
  },
  {
@@ -13748,6 +14418,13 @@
   "translation": "黑色布条",
   "context": "ID: strip_black\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_misc_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→strip_black\n",
   "stage": 3
+ },
+ {
+  "key": "75f946f97cbe4e5885032cb3df6f1fe0",
+  "original": "black sun",
+  "translation": "black sun",
+  "context": "ID: mon_utsuho_minisun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_utsuho_minisun\n",
+  "stage": 1
  },
  {
   "key": "e28df605ae08253717581d295a3430ab",
@@ -14181,6 +14858,13 @@
   "translation": "弹幕",
   "context": "ID: myon_bullet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ammunition_type→myon_bullet\n",
   "stage": 3
+ },
+ {
+  "key": "77c183ea8c67d28da1acbb5355d4412a",
+  "original": "dark sphere",
+  "translation": "dark sphere",
+  "context": "ID: mon_darksphere_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_darksphere_seiga\n",
+  "stage": 1
  },
  {
   "key": "4e9ce2fe92844bd8c647bfb3200994db",
@@ -14641,7 +15325,6 @@
   "key": "2e3882f53f7355282be943b93be3e4b4",
   "original": "kappascrap",
   "translation": "河童废料",
-  "context": "ID: nitori_zz_kappascrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_zz_kappascrap\n",
   "stage": 3
  },
  {
