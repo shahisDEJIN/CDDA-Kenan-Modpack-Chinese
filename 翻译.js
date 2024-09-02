@@ -1094,9 +1094,13 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     // "CSC_SECRONOM_FLESH",
     // "CSC_SECRONOM_FLESH ARMOR",
     // "CSC_SECRONOM_FLESH ALTERATION"
-    const categoryTrans = await category(categoryName);
+    const categoryTrans = await category(categoryName);  //CC_谁的手记
     const prefix = categoryTrans.replace('CC_', 'CSC_') + '_'; //CSC_谁的手记_
-    const realCategoryName = subCategoryName.replace(prefix, '');//voiceroid
+    const presub = categoryName.replace('CC_', 'CSC_'); //CSC_誰かの手記
+    logger.log(presub)
+    logger.log(subCategoryName)
+    const realCategoryName = subCategoryName.replace(presub + '_', '');//ボイスロイド
+    logger.log(realCategoryName)
     const translated = await translateFunction(realCategoryName);
     return prefix + translated;
   };
