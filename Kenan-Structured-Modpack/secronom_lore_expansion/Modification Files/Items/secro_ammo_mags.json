@@ -157,7 +157,7 @@
     "capacity": 1000,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD", "RECHARGE" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 1000 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 503 } } ]
   },
   {
     "id": "secro_fleshmech_battery",
@@ -175,6 +175,6 @@
     "capacity": 40000,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD", "MECH_BAT" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 40000 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 20000 } } ]
   }
 ]

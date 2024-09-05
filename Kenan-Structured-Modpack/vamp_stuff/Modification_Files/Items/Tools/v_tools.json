@@ -2,7 +2,7 @@
   {
     "ammo": "battery",
     "melee_damage": { "bash": 4 },
-    "charges_per_use": 100,
+    "charges_per_use": 2,
     "color": "red",
     "description": "A primitive tool used in vampiric crafts. This is much like of a normal forge, but it requires the correct materials to work with it. Uses normal batteries whatsoever.",
     "id": "blood_forge_infuse",
@@ -32,7 +32,7 @@
   {
     "ammo": "battery",
     "melee_damage": { "bash": 3 },
-    "charges_per_use": 25,
+    "charges_per_use": 1,
     "color": "red",
     "description": "A small, heating container used in extracting water components from blood, turning it into a powder speckles. It uses common batteries.",
     "id": "bloodextractor",
@@ -62,7 +62,7 @@
   {
     "ammo": "battery",
     "melee_damage": { "bash": 3 },
-    "charges_per_use": 150,
+    "charges_per_use": 15,
     "color": "red",
     "description": "A large, essential compressing tool to make blood compacts from vast amounts of powders. The tiny tissue filaments of human cells will be reinforced into a strong and tough, leathery sheets, which is then be tailored into clothing. High battery consumption per use.",
     "id": "bloodcompressor",
@@ -89,7 +89,7 @@
   {
     "ammo": "battery",
     "melee_damage": { "bash": 3 },
-    "charges_per_use": 10,
+    "charges_per_use": 2,
     "color": "red",
     "description": "A simple blood chemistry set, much look like a copied version of human's. It has the complete tools in making chemicals and adhesives for essential projects.",
     "id": "bloodchem",
