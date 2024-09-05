@@ -2112,8 +2112,7 @@
         { "group": "guns_pistol_common", "x": 14, "y": [ 9, 10 ], "chance": 85, "repeat": [ 1, 3 ] },
         { "group": "guns_shotgun_common", "x": 15, "y": [ 9, 10 ], "chance": 85, "repeat": [ 1, 3 ] },
         { "group": "guns_rifle_common", "x": 16, "y": [ 9, 10 ], "chance": 85, "repeat": [ 1, 3 ] },
-        { "group": "mags_common", "x": [ 14, 16 ], "y": 12, "chance": 100, "repeat": [ 1, 8 ] },
-        { "group": "mags_rare", "x": [ 14, 16 ], "y": 13, "chance": 75, "repeat": [ 1, 3 ] }
+        { "group": "mags_common", "x": [ 14, 16 ], "y": 12, "chance": 100, "repeat": [ 1, 8 ] }
       ]
     }
   },
