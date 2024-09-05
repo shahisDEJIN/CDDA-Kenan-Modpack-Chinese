@@ -1070,18 +1070,6 @@
   },
   {
     "type": "terrain",
-    "id": "t_secro_atm_flesh",
-    "name": "fleshed ATM",
-    "description": "With flesh covering the entire mechanism, you can't do anything useful...",
-    "symbol": "&",
-    "color": "red",
-    "move_cost": 0,
-    "coverage": 55,
-    "flags": [ "TRANSPARENT", "NOITEM", "REDUCE_SCENT", "PERMEABLE" ],
-    "bash": { "str_min": 8, "str_max": 16, "sound": "splash!", "sound_fail": "splat!", "ter_set": "t_atm" }
-  },
-  {
-    "type": "terrain",
     "id": "t_secro_window_stained_green_flesh",
     "name": "flesh high stained glass window",
     "description": "An emerald-stained window covered in flesh.",
