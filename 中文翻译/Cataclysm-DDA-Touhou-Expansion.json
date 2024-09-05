@@ -1852,9 +1852,9 @@
  {
   "key": "e0bfc27b47c12551d9f23500ce58a2f5",
   "original": "A clump of Aegirocassis eggs.",
-  "translation": "",
+  "translation": "一团海神盔虾的卵。",
   "context": "ID: egg_aegirocassis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_aegirocassis\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dcc2a5f4ab260409a8e293000dae2cb0",
@@ -1865,9 +1865,9 @@
  {
   "key": "eee104566b4d45eaf6efbbb6332814bf",
   "original": "A clump of Anomalocaris eggs.",
-  "translation": "",
+  "translation": "一团奇虾的卵。",
   "context": "ID: egg_anomalocaris\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_anomalocaris\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "79fd76a951f163ffa47c2ec2f0cd19df",
@@ -1878,9 +1878,9 @@
  {
   "key": "ff14f12f880913acc3585030daf45d84",
   "original": "A clump of Arthropleura eggs.",
-  "translation": "",
+  "translation": "一团节胸蜈蚣的卵。",
   "context": "ID: egg_arthropleura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_arthropleura\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d724a268b2605e5c3f8fef18882e496f",
@@ -1891,9 +1891,9 @@
  {
   "key": "d46cbc8365721f9ac34a0b2741ef4322",
   "original": "A clump of Diplocaulus eggs.",
-  "translation": "",
+  "translation": "一窝笠头螈的蛋。",
   "context": "ID: egg_diplocaulus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_diplocaulus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02036f6b5d642c955896b3b6a352c157",
@@ -1904,9 +1904,9 @@
  {
   "key": "5182218dc5918b1f833646cf35831085",
   "original": "A clump of Eurypterid eggs.",
-  "translation": "",
+  "translation": "一窝广翅鲎的卵。",
   "context": "ID: egg_eurypterid_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid_small\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e5bf6cb6caebfe27ea60259473b75e25",
@@ -1917,16 +1917,16 @@
  {
   "key": "725cd095a16b30f3873c846f2ba9a066",
   "original": "A clump of Mazothairos eggs.",
-  "translation": "",
+  "translation": "A clump of Mazothairos eggs.",
   "context": "ID: egg_mazothairos\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_mazothairos\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "87ec8f4d458622845fe78f14532d0de4",
   "original": "A clump of Meganeura eggs.",
-  "translation": "",
+  "translation": "一团巨脉蜻蜓的卵。",
   "context": "ID: egg_meganeura\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_meganeura\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2c88016dcc5a9c3220be13965b116b9b",
@@ -1944,9 +1944,9 @@
  {
   "key": "2a4626e94626f1feb0139b717eff5f9f",
   "original": "A clump of Pholiderpeton eggs.",
-  "translation": "",
+  "translation": "一窝始螈的蛋。",
   "context": "ID: egg_pholiderpeton\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_pholiderpeton\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3db832fd186e7df22ff01e99ff13a691",
@@ -1965,9 +1965,9 @@
  {
   "key": "739cd363e432b053e3ccd5e56ceea401",
   "original": "A clump of ancient arthropod eggs.",
-  "translation": "",
+  "translation": "一团古老节肢动物的卵。",
   "context": "ID: egg_arthropod_aquatic_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_arthropod_aquatic_small\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d6e989059b543b199de1eeac341270f5",
@@ -1978,9 +1978,9 @@
  {
   "key": "af0635924d581d842b08523bbfb682d8",
   "original": "A clump of ancient mollusk eggs.",
-  "translation": "",
+  "translation": "一团古老软体动物的卵。",
   "context": "ID: egg_mollusk_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_mollusk_small\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6ce231b5570b84e5b80fcf6c42ff75fc",
@@ -2117,9 +2117,9 @@
  {
   "key": "77ecfb1dc0c27bcdf0097ef9078e127f",
   "original": "A complete Anzio 20mm rifle assembly and barrel, designed to fit .50 BMG ammo.",
-  "translation": "",
+  "translation": "完整的安齐奥 20mm 反器材步枪组件和枪管，适配 .50 BMG弹。",
   "context": "ID: retool_anzio20mm_50\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_anzio20mm_50\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "37c3ff904567943058dd56185d3ac950",
@@ -2173,9 +2173,9 @@
  {
   "key": "5b6144dfa1888a2b0cd3326d742707ab",
   "original": "A complete Walther WA 2000 assembly and barrel, designed to fit .308 Winchester ammo.",
-  "translation": "",
+  "translation": "完整的瓦尔特WA 2000组件和枪管，适配 .308 温彻斯特子弹。",
   "context": "ID: retool_wa2000_308\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_wa2000_308\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4dd460e072dfa0f2e6eba17a7d40a085",
@@ -2193,16 +2193,16 @@
  {
   "key": "954df3bc130d73d9e18b071a46b5bee3",
   "original": "A crocodile-looking animal, around twice longer than an alligator.  The long snout has a bump in front of the eyes, revealing the position of the nostrils, and the curious shape of the bite features a bunch of oversized front teeth to hold the doomed prey.  The base of the tail looks somewhat fat, adapted to serve as a giant paddle to impulse the animal through water, hopefully not towards yourself.",
-  "translation": "",
+  "translation": "一种形似鳄鱼的动物，体型约为鳄鱼的两倍。其眼睛前的长鼻前端具有一凸起，露出鼻孔位置。独特的咬合结构具有巨大的前齿，用于牢牢咬住猎物。该动物的尾部基部较宽，适合于在水中游动，能推动身体快速前进，你最好希望它不是朝你游过来。",
   "context": "ID: mon_smilosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_smilosuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9fcfd74edd46a9db9e6444f64c1f0515",
   "original": "A crocodile-looking animal, much longer than an alligator.  The very long snout has a bump in front of the eyes, revealing the position of the nostrils, and the curious shape of the bite features a bunch of oversized front teeth to hold the doomed prey.  The base of the tail looks somewhat fat, adapted to serve as a giant paddle to impulse the animal through water, hopefully not towards yourself.",
-  "translation": "",
+  "translation": "一种形似鳄鱼的动物，体型比鳄鱼大得多。其眼睛前极长的鼻前端具有一凸起，露出鼻孔位置。独特的咬合结构具有巨大的前齿，用于牢牢咬住猎物。该动物的尾部基部较宽，适合于在水中游动，能推动身体快速前进，你最好希望它不是朝你游过来。",
   "context": "ID: mon_redondasaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_redondasaurus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bb472cfde047dab7ca3bfe77b3c9540d",
@@ -2228,9 +2228,9 @@
  {
   "key": "bc810e0f3e129e65d65328ed33457bcc",
   "original": "A curved, double-stack plastic box magazine box magazine for use with the PP-19 Vityaz.",
-  "translation": "",
+  "translation": "一个弯曲的双排塑料弹匣，适用于 PP-19 勇士冲锋枪。",
   "context": "ID: pp19vmag\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magazine/thex_magazine.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MAGAZINE→pp19vmag\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2960ad50c7b544e0a223b3a3f60d354a",
@@ -2395,7 +2395,7 @@
   "original": "A famous semi-auto, gas-operated, Soviet era DMR, using the old, trusty 7.62x54mmR, easily recognizable by the shape of the stock.  Widely known around the world with more than half a century of service, it has enough field testing to prove its reliability and effectiveness.",
   "translation": "这是一支著名的半自动、气动式苏联时代狙击步枪，采用古老而可靠的7.62x54mmR弹药，其枪托形状极易辨认。历经半个世纪以上全球范围内的服役，它经受了充分的实战检验，证明了其可靠性和高效性。",
   "context": "ID: svd\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→svd\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "78e6eca00597e291e664c6240915e0e9",
@@ -2492,14 +2492,14 @@
   "original": "A gas-operated, bolt action sniper and anti-materiel rifle.  Tested in 1994 for use in the Yugoslav wars, the revised version was modified to fit .50 BMG ammo, thus the II designation.  It features an integrated muzzle brake, which greatly reduces the recoil of the powerful ammo, a special alloy for the barrel which dramatically increases its durability to thousands of shots, and a wooden finishing for the stock and handling.",
   "translation": "一款以气体操作、采用栓动式射击的狙击及反器材步枪。该枪于1994年在南斯拉夫战争中进行了测试，修订版为了适配.50口径勃朗宁机枪弹（BMG）而进行了修改，因此得名II型。其特色包括内置的枪口制退器，能显著减小强大弹药的后坐力；枪管采用了特殊合金制造，极大提升了耐用性，可承受数千次射击；枪托及握把部分则采用了木质装饰，提升了持握手感。",
   "context": "ID: pgm_hecate\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→pgm_hecate\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "24fe8208ca382ebfc9e92e20cddb96c5",
   "original": "A gas-operated, semi-auto Serbian DMR, based on the Soviet SVD-63.  Created to fulfill the (then novel) role as its spiritual predecesor, it was first deployed during the Yugoslav Wars.  Unlike the SVD however, the M76 is actually based on the AK design, overhauled to fit the bigger 7.92x57mm Mauser.",
   "translation": "这是一款基于苏联SVD-63的半自动塞尔维亚狙击步枪，采用气体操作，为履行其精神前辈（当时新颖）的职责而创建，并首次在南斯拉夫战争中投入使用。然而，与SVD不同的是，M76实际上是基于AK设计改进而成，以适应更大的7.92x57mm毛瑟弹药。",
   "context": "ID: m76\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→m76\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "684850d9c5ded39041c553a8ae14f928",
@@ -2645,7 +2645,7 @@
   "original": "A huge lobster-looking arachnid with two huge claws and a very menacing bladed tail.  The head has the shape of an actual lobster with extra spikes, with a pair of compound eyes on top plus a pair of big barbed chelicera in front.  There are several pairs of legs, the most striking are the first, turned into some sort of barbed claw appendages, and the last being flappy, meaty appendixes for locomotion at each side of the body.  The tail features knife-sized blades, capable of grasping action.",
   "translation": "一只巨大的龙虾状蜘蛛，拥有两只巨螯和一条极具威胁性的刀片尾巴。头部形似真正的龙虾，长有额外的尖刺，顶部有一对复眼，前方则配备了一对粗大的倒钩状口器。身体有多对足，其中最显眼的是第一对已变成带倒钩的螯状附肢，以及位于躯体两侧、用于移动的扇状肉质附肢。尾巴上装备有刀片大小的利刃，能够进行抓握动作。",
   "context": "ID: mon_megalograptus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_megalograptus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4c626143254f75c965a50c7a8a32c416",
@@ -2763,21 +2763,21 @@
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  Similar to a bat mace, the \"head\" is covered by a hexagonal cap featuring metal studs, while the handle has a thick iron ring attached at the end.  Somewhat unwieldy due its size, you will need plenty of strength to use this.",
   "translation": "一件传说中的武器。相传出自鬼怪之手，曾被强壮的士兵用来折断敌军马匹的腿骨，甚至能击破铠甲。这把武器形似蝙蝠狼牙棒，其“头部”覆盖有六边形的盖帽，上面钉有金属钉，而柄部则在末端附有一圈厚实的铁环。由于其体型庞大，使用时颇为笨重，需要极大的力量才能挥动自如。",
   "context": "ID: kanabo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c0476244cba068484bf563ad937c3df6",
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  This one is crude, fully metallic with metal spikes, with a thick iron ring at one end.  Extremely heavy, seems whoever uses this should have superhuman strength.",
   "translation": "一件传说中的武器。相传源自鬼族，有记载称强大战士曾用它来折断敌军马匹的腿骨，甚至能击碎铠甲。此锤粗犷，通体金属，钉有铁刺，一端配以厚重的铁环。其重量惊人，使用者似需拥有超凡之力。",
   "context": "ID: kanabo_oni_spiked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo_oni_spiked\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cac20a2a9216b2dbd4759f4d1858685e",
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  This one is crude, fully metallic with metal studs, with a thick iron ring at one end.  Extremely heavy, seems whoever uses this should have superhuman strength.",
   "translation": "一件传说中的武器。相传源自鬼族，有记载称强大战士曾用其折断敌军马匹腿骨，甚至能击破铠甲。此锤粗犷，通体金属打造，嵌有铁钉，一端配以厚重铁环。其重量惊人，使用者似需超凡之力方可驾驭。",
   "context": "ID: kanabo_oni\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo_oni\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b08368f5810856452e1a44ace68c92b1",
@@ -2889,7 +2889,7 @@
   "original": "A mishappen beast, walking on two muscular legs with a third atrophied leg unable to fullfil its function, coming out of where the tail would be.  The skin is white, wrinkled, with patches that look like bruises, almost scaly at parts.  A pair of small, weak arms come out from the lower abdomen, pointed towards the front.  The face is somewhat ape-like, with the open mouth showing tusks, the big red eyes glowing in the darkness.",
   "translation": "一只形态扭曲的兽类，以两条强健的后腿行走，第三条萎缩的腿无法发挥其功能，从尾部的位置伸出。皮肤呈白色，布满皱纹，有些部位像是瘀伤，部分地方近乎鳞片状。一对细小无力的手臂从下腹部伸出，朝向前方。面部略似猿猴，张开的嘴中露出獠牙，硕大的红色眼睛在黑暗中闪烁着光芒。",
   "context": "ID: mon_enfield_horror\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_enfield_horror\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ce40632d3690e8ea93d80ccdbd589a4b",
@@ -3042,7 +3042,7 @@
   "original": "A retrofuturistic-looking, gas-operated, bullpup assault rifle, featuring a bakelite case.  Created in the early '60s and featuring a bakelite case, the weapon was intended to serve as a smaller, portable replacement to the AKM.  Some issues, like the shifted center of gravity, the bakelite's durability, and the radical appearance, were enough for its rejection.",
   "translation": "一款复古未来风的气动操作、犊牛式突击步枪，采用酚醛树脂外壳。这款武器诞生于60年代初期，设计初衷是为了提供一种比AKM更小巧便携的替代品。然而，诸如重心偏移、酚醛树脂耐用性问题以及其激进的外观等缺陷，最终导致了它的淘汰。",
   "context": "ID: tkb002_p\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→tkb002_p\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9176de6e7059ba173f08700aec5aa816",
@@ -3383,7 +3383,7 @@
   "original": "A small creature, having the appearance and gait of a gangly, hairless cat or dog.  The head is big relative to the rest of the body, with big black, almond shaped eyes.  The limbs end up at long fingers and toes, each having an equally long, sharp claw.  Perhaps the most noticeable part of the animal are however, the \"quills\" running down from the top of the head its lower back.",
   "translation": "一种小型生物，外形和步态类似瘦长、无毛的猫或狗。头部相对身体其他部分较大，拥有一双大而黑、杏仁状的眼睛。四肢末端为细长的手指和脚趾，每个都配备了一枚同样修长锋利的爪子。然而，该动物最引人注目的特征莫过于从头顶一直延伸至背部下方的“棘刺”。",
   "context": "ID: mon_chupacabra_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_chupacabra_small\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d96feb0e75d96b678d69a533d405922c",
@@ -3411,7 +3411,7 @@
   "original": "A small lobster-looking thing, with a weird tentacle-arm going in front of what would be its face.  The head features five composite eyes on top, which makes it look even more alien.  The animal has a fleshy \"skirt\" which undulates for allowing locomotion.  Perhaps the less revealing part is the tail, which looks similar enough from that of a lobster for you to consider cooking it as if it were one.",
   "translation": "一只形似小龙虾的生物，其前端拥有一根奇异的触手臂，位置恰在面部之前。头顶特征显著，长有五只复眼，更添几分异星色彩。这生物周身围着一圈肉质“裙边”，波浪般摆动以助其移动。或许最不显突兀的是那条尾巴，与小龙虾的尾巴颇为相似，足以让你考虑是否能如法炮制一番。",
   "context": "ID: mon_opabinia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_opabinia\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3d07b583115b5e47cfcd24449d8629cc",
@@ -3508,7 +3508,7 @@
   "original": "A small, mishappen humanoid, covered by some sort of organic or plastic shell that's slowly falling off as it moves.  The head is big and has a pair of two very big eyes, a small mouth, with the nose being difficult to differentiate, if it is even there.  The skin is translucent, you can see something beneath it.  The limbs are thin and look frail, the torso has surgery scars and weird prosthethics.  The more you look at it, the more it seem to warp, towards the un-earthly side.",
   "translation": "一个身形矮小、畸形的人形生物，身体覆盖着某种正在缓慢脱落的有机或塑料外壳。头部硕大，长着一双异常巨大的眼睛，嘴巴很小，鼻子几乎难以辨认，甚至可能不存在。皮肤呈半透明状，可以隐约看到皮下的物体。四肢细弱，看起来十分脆弱，躯干上布满了手术疤痕和奇异的义体。你越仔细观察，越觉得它的形态在扭曲，向着非地球生物的奇异方向变化。",
   "context": "ID: mon_mib_alien\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_alien\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1bbb517bca6585c7f843c084d7b049ab",
@@ -3633,21 +3633,21 @@
   "original": "A standard issue automatic MIB weapon.  Modeled like a sub machine gun for ease of concealment on the field, it's adapted to use highly advanced alien technology.  Like most MIB weapons, it's powered by batteries, conveniently compatible with those used by civilians.",
   "translation": "一种标准配置的自动MIB武器。其设计模仿了冲锋枪，以便在战场上便于隐蔽携带，且采用了高度先进的外星科技进行改良。与大多数MIB武器一样，它由电池供能，方便地使用了与民用电池相兼容的类型。",
   "context": "ID: mib_smg_7\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_mib_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→mib_smg_7\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e1aa72947d37fd3b58b0720169f23420",
   "original": "A standard issue automatic MIB weapon.  Usually deployed when agents require a larger than average amount of firepower, it's based on the same concept as the standard issue firearm, expanded both in firerate and delivered energy.  Like most MIB weapons, it's powered by batteries, conveniently compatible with those used by civilians.",
   "translation": "一种标准配置的自动MIB武器。通常在特工需要超出常规水平的火力时部署，其设计基于标准配枪的理念，但在射速和能量释放上进行了扩展。与大多数MIB武器一样，它由电池供能，方便地与民用电池兼容。",
   "context": "ID: mib_rifle_4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_mib_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→mib_rifle_4\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "65f83e3c5f5c9a79f04c4fb516ff5668",
   "original": "A standard issue semi-auto MIB weapon.  Modeled like a pistol for ease of concealment on the field, it's adapted to use highly advanced alien technology.  Like most MIB weapons, it's powered by batteries, conveniently compatible with those used by civilians.",
   "translation": "一种标准配置的半自动MIB武器。其设计模仿手枪，便于在战场上隐蔽携带，且适应了高度先进的外星科技。与大多数MIB武器一样，它由电池供电，方便地与民用电池兼容。",
   "context": "ID: mib_pistol_sidearm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_mib_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→mib_pistol_sidearm\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bc28303a7e8a0ae3ad375fceb58fca73",
@@ -3800,7 +3800,7 @@
   "original": "A uncannily looking entity.  At first glance it kind of looks like a primate: bipedal posture, prensile hands at the end of very long arms, binocular vision.  Yet you realize it's not covered by hair but something… else you can't tell.  The large eyes seem to glow in the dark; you can?  hear it talk, yet you see no mouth.",
   "translation": "一个令人不安的生物。乍看之下，它有点像灵长类动物：双足直立，极长的手臂末端有抓握能力，双眼并用。但你意识到覆盖着它的并不是毛发，而是一种……你难以名状的物质。那双大眼睛在黑暗中似乎发出幽光；你仿佛能听到它说话，却看不见它的嘴。",
   "context": "ID: mon_sewer_ape\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_sewer_ape\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "126d5958e61759b9fc99a2766632c561",
@@ -3897,7 +3897,7 @@
   "original": "A very large, vaguely looking humanoid-beast entity.  By the body alone you can't tell if it's a primate, a bear-thing, or a mix between both.  Due that, the \"face\" is very, very uncanny looking.",
   "translation": "一个身形巨大、轮廓模糊的人形兽实体。仅凭身体，你无法分辨它是灵长类动物、熊类生物，还是二者的混合体。因此，它的“面部”看起来异常怪异。",
   "context": "ID: mon_mapinguari\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mapinguari\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "20ee99ba20d7edf4acba2623446c9aa4",
@@ -4006,7 +4006,7 @@
   "original": "A x4 scope, designed for medium-range engagements.  Thanks to the tritium painting on the reticle, it can be used in low light conditions.  This is fixed to the weapon, so it can't be removed.",
   "translation": "一款适用于中距离交战的4倍瞄准镜。其十字线上涂有氚光涂料，使得在低光环境下也能正常使用。该瞄准镜固定于武器上，无法拆卸。",
   "context": "ID: susat_scope2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_sight.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→susat_scope2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "255ea1f2ad5156c1bb40a97f897e55bd",
@@ -4323,7 +4323,7 @@
   "key": "f211ca7bfd34d42d5ed3305c4e76321c",
   "original": "An elaborate dish based on rice, consisting of different types of meat and several kinds of seafood, cooked and traditionally served in the same pan it was cooked.",
   "translation": "一道以米饭为基础的精致佳肴，汇聚了多种肉类与各式海鲜，烹制完成后，传统上直接在烹饪用的同一口锅内呈上。",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3bc29609d1fe2b2239c49a71109eed7f",
@@ -4466,7 +4466,7 @@
   "original": "An old Japanese firearm.  It was designed to be used as takedown rifle, which explains the hinge at the middle of the wooden frame.  There is an inscription at one side, reading \"Ni-shiki Teishin Rakkasan Shōjū\".",
   "translation": "一把旧式的日本火枪。其设计初衷为拆卸式步枪，因此木制枪身中部设有铰链。枪身一侧刻有铭文，写道：“二式挺进落下伞小銃”。",
   "context": "ID: tera_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_reference_guns.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→tera_2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9fb83215c91159e2c88b6fad6223a115",
@@ -4494,7 +4494,7 @@
   "original": "An ugly looking arthropod.  Somewhat flat, the two frontal, barbed appendages extend in front of the head like an open claw, serving as tactory and olfactory organs instead.  Small feet-like limbs beneath the flaps work for locomotion, as the animal seems unable to swim.",
   "translation": "一只相貌丑陋的节肢动物。其身形略显扁平，头部前方伸出两只带倒钩的附肢，如同张开的爪子，起到触觉和嗅觉器官的作用。在扁平结构下方，有着类似小脚的肢体负责移动，因为这种生物似乎无法游泳。",
   "context": "ID: mon_pambdelurion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pambdelurion\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d1cb186963351a47619459573020ea78",
@@ -4528,7 +4528,7 @@
   "original": "An unnatural beast.  Vaguely shaped like a human walking on all fours, the face is covered, no, fused to an animal's skull, with twig-like black horns growing from the back, and locked on a semi-closed position.  The bizarrely long, thin limbs end with large, equally thin clawed extremities.  The arched back forces the head downwards, and is covered by what look like black twigs.",
   "translation": "一只非自然的怪兽。外形隐约像一个人类四肢着地行走，面部被覆盖，不，是与动物头骨融合在一起，后背生长出细枝般的黑色角，固定在半闭合的状态。其异常修长而纤细的四肢末端是硕大而同样纤薄的爪状肢体。拱起的背部迫使头部向下低垂，全身覆盖着看似黑色细枝的物体。",
   "context": "ID: mon_skinwalker_twig\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_twig\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5f2ce8f34b316c3fff5cd68ad1b8b79a",
@@ -4910,7 +4910,7 @@
   "original": "Catching.",
   "translation": "捕捉。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_mib→44\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "242f1b2c19df5114f9110eb95df58e15",
@@ -5019,7 +5019,7 @@
   "original": "Clo ser!",
   "translation": "接近！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_skinwalker_witch_cow→76\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a0e1a652aa9db2d9adde668c909ec2d4",
@@ -5309,7 +5309,7 @@
   "original": "Engaging.",
   "translation": "交战中。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_mib→54\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "166218853e773acd3cf6437aaba26933",
@@ -7184,49 +7184,49 @@
   "original": "Reloaded 7.92x33mm Kurz case, with 124 gr steel core, copper jacket bullet.  This slightly penetration, at the cost of reduced damage.",
   "translation": "重装填的7.92x33毫米短弹壳，配以124格令钢芯、铜被甲子弹。这种配置牺牲了一定的杀伤力，以换取略高的穿透性。",
   "context": "ID: reloaded_792x33_prvi\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/792x33.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_792x33_prvi\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9fa7306ec60b3a9e3d7595ab3bb15aad",
   "original": "Reloaded 7.92x33mm Kurz case, with 124 gr steel core, copper jacket, steel case bullet.  This slightly increases penetration, at the cost of reduced damage.",
-  "translation": "重装填的7.92x33毫米短弹壳，配备124格令钢芯、铜被甲和钢壳子弹。这略微提高了穿透力，但代价是降低了伤害值。",
+  "translation": "重装填的7.92x33毫米短弹壳，配备124格令钢芯、铜被甲和钢壳子弹。这略微提高了穿透力，但代价是降低了杀伤力。",
   "context": "ID: reloaded_792x33_me\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/792x33.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_792x33_me\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e4c64052d9537c5adb07e3577ef54d6e",
   "original": "Reloaded 7.92x57mm Arg. ammunition with 153 gr steel core, copper jacket bullet.  This slightly increases penetration at the cost of reduced damage.",
-  "translation": "重装填的7.92x57mm阿根廷弹药，采用153格令钢芯，铜被甲子弹。这略微提高了穿透力，但代价是降低了伤害值。",
+  "translation": "重装填的7.92x57mm阿根廷弹药，采用153格令钢芯，铜被甲子弹。这略微提高了穿透力，但代价是降低了杀伤力。",
   "context": "ID: reloaded_765x53_arg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/765x53.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_765x53_arg\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3cabb1e25aab175aabc84bbb1d737a7b",
   "original": "Reloaded 7.92x57mm Mauser ammunition with 171 gr steel core, copper jacket bullet.  This slightly increases penetration at the cost of reduced damage.",
-  "translation": "重装填的7.92x57mm毛瑟弹药，采用171格令钢芯、铜被甲子弹。这略微提高了穿透力，但代价是降低了伤害值。",
+  "translation": "重装填的7.92x57mm毛瑟弹药，采用171格令钢芯、铜被甲子弹。这略微提高了穿透力，但代价是降低了杀伤力。",
   "context": "ID: reloaded_792x57_m75\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/792x57.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_792x57_m75\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8703a98638d7daeb6c6ada6cefa5c8cb",
   "original": "Reloaded 7.92x57mm Mauser ammunition with 171 gr steel core, copper jacket, steel case bullet.  This process slightly reduces damage.",
   "translation": "重装填的7.92x57mm毛瑟弹药，采用171格令钢芯、铜被甲、钢壳子弹。此重装过程会使伤害略微降低。",
   "context": "ID: reloaded_792x57_sme\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/792x57.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_792x57_sme\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "738c7403a4031beebd976b62b0f7e99d",
   "original": "Reloaded 9x39mm case, with 248 gr steel core, FMJ bullets.  This process slightly reduces damage.",
   "translation": "重装填的9x39毫米弹壳，装有248格令钢芯全金属被甲（FMJ）子弹。此过程会略微降低伤害。",
   "context": "ID: reloaded_9x39_sp5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/9x39.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_9x39_sp5\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ed286293c13ac4b0de57e2e8e845d250",
   "original": "Reloaded 9x39mm case, with 250 gr heat-hardened steel core, FMJ bullets.  This process slightly reduces damage.",
   "translation": "重装填的9x39毫米弹壳，装有250格令热处理硬化钢芯，全金属被甲（FMJ）子弹。这一过程略微降低了伤害。",
   "context": "ID: reloaded_9x39_sp6\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/9x39.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_9x39_sp6\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a52eb53168ebeeee5ac80e60aa2d7205",
@@ -9485,9 +9485,9 @@
  {
   "key": "be94b8b93ab1d9317e19132fbdc9bdd9",
   "original": "Yo   u  ",
-  "translation": "你",
+  "translation": "亻尔",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_white_lady_angry→112\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3c622632d291d0eb8e320504df5f7442",
@@ -10080,14 +10080,14 @@
   "original": "alien entities",
   "translation": "外星实体",
   "context": "ID: mon_mib_alien\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_alien\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "68d4fa980b530ba10bf375f8a60ff2cc",
   "original": "alien entity",
   "translation": "外星实体",
   "context": "ID: mon_mib_alien\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_alien\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3c10d0375a0666d6d0cba72158572fc2",
@@ -11427,16 +11427,16 @@
  {
   "key": "335104be7451ca2a6852649a71a81160",
   "original": "esper's cloak",
-  "translation": "esper的斗篷",
+  "translation": "超能力者的斗篷",
   "context": "ID: esper_cloak\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/esper_cloak.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→ARMOR→esper_cloak\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0b8283a98d86cb3b5c4f1881b95a397a",
   "original": "esper's cloaks",
-  "translation": "esper斗篷",
+  "translation": "超能力者的斗篷",
   "context": "ID: esper_cloak\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/esper_cloak.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→ARMOR→esper_cloak\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "69d626d801167da038650872a72c646f",
@@ -13606,7 +13606,7 @@
   "original": "the appendages",
   "translation": "附肢",
   "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "de72ea2bbc7552384cd27ba133253107",
