@@ -1244,9 +1244,9 @@
  {
   "key": "082ce7dc76f46a2cd76b900751174d1f",
   "original": "A Boverisuchus egg.",
-  "translation": "",
+  "translation": "A Boverisuchus egg.",
   "context": "ID: egg_boverisuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_boverisuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8bec126bfe333ce631c7d38769d05816",
@@ -1555,9 +1555,9 @@
  {
   "key": "d80597f386a585a9a6d02dca789048fd",
   "original": "A baby Boverisuchus.  You can swear you hear them mooing softly.",
-  "translation": "",
+  "translation": "A baby Boverisuchus.  You can swear you hear them mooing softly.",
   "context": "ID: mon_boverisuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_boverisuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "06ac53084f49afa6ad6f7f1778afb2bd",
@@ -1582,16 +1582,16 @@
  {
   "key": "dc120e12f95f35f186a3724242e9c190",
   "original": "A baby Erythrosuchus.  They will love libraries.",
-  "translation": "",
+  "translation": "A baby Erythrosuchus.  They will love libraries.",
   "context": "ID: mon_erythrosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_erythrosuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e8dffc7e5ba16dc1c2074c411295c160",
   "original": "A baby Fasolasuchus.  They're not medicinal.",
-  "translation": "",
+  "translation": "A baby Fasolasuchus.  They're not medicinal.",
   "context": "ID: mon_fasolasuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_fasolasuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "83012bc6e795955f760f21e1b47fa571",
@@ -1624,9 +1624,9 @@
  {
   "key": "b8560c9a177a43ca952e16bf346b4b63",
   "original": "A baby Prestosuchus.  Young enough to not shave.",
-  "translation": "",
+  "translation": "A baby Prestosuchus.  Young enough to not shave.",
   "context": "ID: mon_prestosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_prestosuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4da529e0987f06ed262f169598679ce4",
@@ -1735,30 +1735,30 @@
  {
   "key": "2832bbadb1e7a4b642d51a34ffbe9d62",
   "original": "A bizarre, crocodile-like animal.  The long snout is curved in such a way that makes it look \"big nosed\".  The stubby legs, look almost unable to allow movement, yet the beast moves quicker than one would expect.  The back of the animal is protected by osteoderm, starting from where the shoulders would be to the end of the fat and thick tail.  Doesn't look friendly.",
-  "translation": "",
+  "translation": "A bizarre, crocodile-like animal.  The long snout is curved in such a way that makes it look \"big nosed\".  The stubby legs, look almost unable to allow movement, yet the beast moves quicker than one would expect.  The back of the animal is protected by osteoderm, starting from where the shoulders would be to the end of the fat and thick tail.  Doesn't look friendly.",
   "context": "ID: mon_belodon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_belodon\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "71e4cb52166dbea58bc1d068984528b3",
   "original": "A bizarre-looking animal.  Around the size of a pig, this reptile not just features a beak, but also a somewhat short sail on its back.  As if that were not enough, the front claws are prensile and able to grasp.",
-  "translation": "",
+  "translation": "A bizarre-looking animal.  Around the size of a pig, this reptile not just features a beak, but also a somewhat short sail on its back.  As if that were not enough, the front claws are prensile and able to grasp.",
   "context": "ID: mon_lotosaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_lotosaurus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f3f1487fc8d325c522dd258f0ac51c5d",
   "original": "A bizarre-looking animal.  The whole wide body is protected by osteoderm that goes from the neck to the end of the tail, which is even more armored.  The back limbs are twice as large as the front limbs, giving it a permanently sloped walk.  The disproportionally small, conical head is somewhat flattened towards the snout.  The neck features one large bony horn at each side, which is unlikely to serve as protection.",
-  "translation": "",
+  "translation": "A bizarre-looking animal.  The whole wide body is protected by osteoderm that goes from the neck to the end of the tail, which is even more armored.  The back limbs are twice as large as the front limbs, giving it a permanently sloped walk.  The disproportionally small, conical head is somewhat flattened towards the snout.  The neck features one large bony horn at each side, which is unlikely to serve as protection.",
   "context": "ID: mon_typothorax\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_typothorax\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3315159fda0bd8b65f94713276fc1fe1",
   "original": "A bizarre-looking crocodilian.  The head, which takes a third of the whole body, looks very sturdy, and very eager to crunch stuff for consumption.",
-  "translation": "",
+  "translation": "A bizarre-looking crocodilian.  The head, which takes a third of the whole body, looks very sturdy, and very eager to crunch stuff for consumption.",
   "context": "ID: mon_erythrosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_erythrosuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "42c099a3b5a58760fa30841dd114be68",
@@ -1804,9 +1804,9 @@
  {
   "key": "45e434cec6e57ab64735e83ff01c82ab",
   "original": "A bunch of Eurypterid egg.",
-  "translation": "",
+  "translation": "A bunch of Eurypterid egg.",
   "context": "ID: egg_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_eurypterid\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f43204393f5bc6327a53db9ed04757aa",
@@ -2276,9 +2276,9 @@
  {
   "key": "d882eb081dd1c857fd414dc64d7ef13c",
   "original": "A dog-looking… beast, this animal looks like a mix between a big cat, a bear, a dinosaur and other animals you can't think at the moment.  The gait is simultaneously awkward yet agile.  The tail is thick and short, the limbs are robust, with the hind limbs shorter than the front limbs, each of them ends on paws with short claws, capable of rudimentary grappling.  The huge trapezoidal head displays saber-teeth like fangs.  Looking at it forces a primal bubble of fear from the depths of your mind come to the surface, ready to cavitate.",
-  "translation": "",
+  "translation": "A dog-looking… beast, this animal looks like a mix between a big cat, a bear, a dinosaur and other animals you can't think at the moment.  The gait is simultaneously awkward yet agile.  The tail is thick and short, the limbs are robust, with the hind limbs shorter than the front limbs, each of them ends on paws with short claws, capable of rudimentary grappling.  The huge trapezoidal head displays saber-teeth like fangs.  Looking at it forces a primal bubble of fear from the depths of your mind come to the surface, ready to cavitate.",
   "context": "ID: mon_inostrancevia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ccc0692ed8617508f3942d893ddbca3a",
@@ -2289,9 +2289,9 @@
  {
   "key": "1b52dceef9ef8dd7bf7f0c79e6dab835",
   "original": "A dog-looking… beast, this animal looks like a mix between a dog and a lizard, at the very least.  The gait is simultaneously awkward yet agile.  The hairless tail is thick and long, the limbs are robust, with the hind limbs somewhat shorter than the front limbs.  The huge head displays two relatively small saber-teeth like fangs.  It looks dangerously faster than it should be.",
-  "translation": "",
+  "translation": "A dog-looking… beast, this animal looks like a mix between a dog and a lizard, at the very least.  The gait is simultaneously awkward yet agile.  The hairless tail is thick and long, the limbs are robust, with the hind limbs somewhat shorter than the front limbs.  The huge head displays two relatively small saber-teeth like fangs.  It looks dangerously faster than it should be.",
   "context": "ID: mon_pampaphoneus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_stem_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pampaphoneus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4f64a468c3ac0c5364146709d39aa295",
@@ -2309,9 +2309,9 @@
  {
   "key": "de71055e1fe0e5efbac8f653c468a8fb",
   "original": "A dog-looking… beast, this animal mimics man's best friend and a saber tooth cat, with a thick and short tail.  The gait is almost agile, or better put, almost not awkward.  Each limb ends in small paws with short yet sharp claws.  The very robust, trapezoidal head, features sharp fangs showing well past the lips.  It hunts their prey as if they were toying with it.",
-  "translation": "",
+  "translation": "A dog-looking… beast, this animal mimics man's best friend and a saber tooth cat, with a thick and short tail.  The gait is almost agile, or better put, almost not awkward.  Each limb ends in small paws with short yet sharp claws.  The very robust, trapezoidal head, features sharp fangs showing well past the lips.  It hunts their prey as if they were toying with it.",
   "context": "ID: mon_moschorhinus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_moschorhinus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3336683023b063065676c5de97d833de",
@@ -2427,9 +2427,9 @@
  {
   "key": "60c5cf83ee1c4b3236fd7b7679eefb29",
   "original": "A flying lizard-looking creature, with two twists.  First, the wings extend from the sides of the animal, instead of the arms, which leaves them free, and give it a curious appearance mid flight.  Second, it actually doesn't fly, but glides.",
-  "translation": "",
+  "translation": "A flying lizard-looking creature, with two twists.  First, the wings extend from the sides of the animal, instead of the arms, which leaves them free, and give it a curious appearance mid flight.  Second, it actually doesn't fly, but glides.",
   "context": "ID: mon_weigeltisaurus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_weigeltisaurus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a409ddcdb401527ff7e5389a4647c2da",
@@ -2532,9 +2532,9 @@
  {
   "key": "df954ccc5d3ade4775bc25696fbc028e",
   "original": "A giant dragonfly-looking animal.  Looks somewhat thicker than modern dragonflies, with a head proportionally smaller to the width of its abdomen.",
-  "translation": "",
+  "translation": "A giant dragonfly-looking animal.  Looks somewhat thicker than modern dragonflies, with a head proportionally smaller to the width of its abdomen.",
   "context": "ID: mon_mazothairos\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mazothairos\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5e617da1ed3000ed7a5d218e945ef526",
@@ -2553,9 +2553,9 @@
  {
   "key": "a73e953860d7917a471c58bb6ce4906c",
   "original": "A giant, ancient bird.  Looks like a robust goose, with a shorter neck and smaller wings that don't seem able to support flight.",
-  "translation": "",
+  "translation": "A giant, ancient bird.  Looks like a robust goose, with a shorter neck and smaller wings that don't seem able to support flight.",
   "context": "ID: mon_garganornis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_bird.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_garganornis\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d29dab3e13045946d5d83913322f5464",
@@ -2602,9 +2602,9 @@
  {
   "key": "dee9439a940550a0b700621449f10d8c",
   "original": "A horned hare with a brown fur coat, slightly larger than your average jackrabbit.",
-  "translation": "",
+  "translation": "A horned hare with a brown fur coat, slightly larger than your average jackrabbit.",
   "context": "ID: mon_jackalope\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_jackalope\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9cd43892072cbfbc6734a677598b0d9a",
@@ -2622,9 +2622,9 @@
  {
   "key": "618f941ead16120970f4296f6a7e51c6",
   "original": "A huge anti-materiel rifle, featuring a 20mm bore, basically \"hand\"held artillery - assuming you're strong enough to hold this 27 kilo monster it from the hip.",
-  "translation": "",
+  "translation": "A huge anti-materiel rifle, featuring a 20mm bore, basically \"hand\"held artillery - assuming you're strong enough to hold this 27 kilo monster it from the hip.",
   "context": "ID: anzio20mm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→anzio20mm\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "524c2750bec0d8d870ed0e758b20f424",
@@ -2706,9 +2706,9 @@
  {
   "key": "acaafe5989e1b280df1ab22c21162c52",
   "original": "A large crocodile-looking animal.  It proudly stands over the ground, supported by strong legs that end in hooves.  Unlike modern crocodiles, this is perfectly capable of running not so short distances.",
-  "translation": "",
+  "translation": "A large crocodile-looking animal.  It proudly stands over the ground, supported by strong legs that end in hooves.  Unlike modern crocodiles, this is perfectly capable of running not so short distances.",
   "context": "ID: mon_boverisuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_boverisuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "32a0b00f0dc0919650958d0b81705b54",
@@ -2727,9 +2727,9 @@
  {
   "key": "71ac523a8445b361089071f5d96ef162",
   "original": "A large, vaguely pig-like predator.  The snout is reminiscent of a hippo's, the large teeth are only seen after ritualistic yawns.  The elephantine skin covering the entire body is almost hairless.  Noticing the hooves at the end of its limbs makes you wonder what is this thing related to.",
-  "translation": "",
+  "translation": "A large, vaguely pig-like predator.  The snout is reminiscent of a hippo's, the large teeth are only seen after ritualistic yawns.  The elephantine skin covering the entire body is almost hairless.  Noticing the hooves at the end of its limbs makes you wonder what is this thing related to.",
   "context": "ID: mon_andrewsarchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_andrewsarchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1dfc1d6ccfc6e36be9e1845cc1cdc594",
@@ -2907,9 +2907,9 @@
  {
   "key": "f1ee51b3c3e351762fad8c5bda93fea2",
   "original": "A normal computer, if it wasn't for the fact that's \"walking\" with help of wires and other unidentified pieces of hardware.",
-  "translation": "",
+  "translation": "A normal computer, if it wasn't for the fact that's \"walking\" with help of wires and other unidentified pieces of hardware.",
   "context": "ID: mon_computer_possessed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_tsukumogami.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_computer_possessed\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e5e6f7361b274e0c050b7bedea72fc78",
@@ -2998,9 +2998,9 @@
  {
   "key": "d36b0de10c114631beb3b52bc091590a",
   "original": "A puppy Pampaphoneus.  Long dog-creature.",
-  "translation": "",
+  "translation": "A puppy Pampaphoneus.  Long dog-creature.",
   "context": "ID: mon_pampaphoneus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_stem_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pampaphoneus_pup\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "278f697e15c3687512a3cc3b617ab2e7",
@@ -3159,9 +3159,9 @@
  {
   "key": "b55dd85ee5bb96a60c843c366baf9487",
   "original": "A small Chasmataspis, reminiscent of a shrimp, if shrimps were flat and not curved.",
-  "translation": "",
+  "translation": "A small Chasmataspis, reminiscent of a shrimp, if shrimps were flat and not curved.",
   "context": "ID: mon_chasmataspis_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_chasmataspis_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e68d39d43a81c9d8582c56746a45f831",
@@ -3192,9 +3192,9 @@
  {
   "key": "eaeb7791671c2b1de82a3da626f77514",
   "original": "A small Endoceras.  Pranks fish by poking them in their eyes.",
-  "translation": "",
+  "translation": "A small Endoceras.  Pranks fish by poking them in their eyes.",
   "context": "ID: mon_endoceras_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mollusk.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_endoceras_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a499846070c683ee35e4a72c086a2ba1",
@@ -3234,9 +3234,9 @@
  {
   "key": "e71a90ab764cbe78579e4a6a2742fb59",
   "original": "A small Mazothairos nymph.  Fatter but not cuter.",
-  "translation": "",
+  "translation": "A small Mazothairos nymph.  Fatter but not cuter.",
   "context": "ID: mon_mazothairos_nymph\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mazothairos_nymph\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "188ba9eb51ab988afd0a577afbc4307b",
@@ -3297,16 +3297,16 @@
  {
   "key": "22f8b0d916325f200b0f51b446b7bc16",
   "original": "A small Simosuchus.  It's like a croco-rat.",
-  "translation": "",
+  "translation": "A small Simosuchus.  It's like a croco-rat.",
   "context": "ID: mon_simosuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_simosuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "30f51dd5d4b4cb8a04d1aa1cae53bacb",
   "original": "A small Sivaterium calf.  Looks like your average giraffe calf.",
-  "translation": "",
+  "translation": "A small Sivaterium calf.  Looks like your average giraffe calf.",
   "context": "ID: mon_sivatherium_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_sivatherium_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e04555f117675dc5edbcd9c004434949",
@@ -3325,9 +3325,9 @@
  {
   "key": "17261c4a8d354fed218880d498d92f2c",
   "original": "A small baby dinopithecus.  Wants to play with phones.",
-  "translation": "",
+  "translation": "A small baby dinopithecus.  Wants to play with phones.",
   "context": "ID: mon_dinopithecus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_dinopithecus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1daa881159e0e6f70527b6c224cc0391",
@@ -3388,9 +3388,9 @@
  {
   "key": "d96feb0e75d96b678d69a533d405922c",
   "original": "A small crocodile-like animal.  Its size, around that of a dog or a large cat, alongside its short snout makes it look quite unthreatening.",
-  "translation": "",
+  "translation": "A small crocodile-like animal.  Its size, around that of a dog or a large cat, alongside its short snout makes it look quite unthreatening.",
   "context": "ID: mon_simosuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_simosuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "25320a3f96744ee8790d93364b9d5286",
@@ -3486,9 +3486,9 @@
  {
   "key": "1f596c082664fec5ce7300f287557df6",
   "original": "A small, hunch-backed being vaguely reminiscent of a human.  Horned and red-skinned, it's not as weak as it looks, demonstrated by its crude behavior, smashing anything that comes close.",
-  "translation": "",
+  "translation": "A small, hunch-backed being vaguely reminiscent of a human.  Horned and red-skinned, it's not as weak as it looks, demonstrated by its crude behavior, smashing anything that comes close.",
   "context": "ID: mon_oni_lesser\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_oni.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_oni_lesser\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a4d1b64ec23c25b81445f2af2326352b",
@@ -3561,9 +3561,9 @@
  {
   "key": "ffad8d712cf477de177c117ed38c0cff",
   "original": "A smaller Ichthyosaurus.  This would be a curious animal to keep in a big fish tank in the hall, if you were the plotting villain of a movie.",
-  "translation": "",
+  "translation": "A smaller Ichthyosaurus.  This would be a curious animal to keep in a big fish tank in the hall, if you were the plotting villain of a movie.",
   "context": "ID: mon_ichthyosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b51d106af6319f471fc15d3cd8e640c3",
@@ -3840,23 +3840,23 @@
  {
   "key": "278e6ca52eb1835b29d56622a71b4e26",
   "original": "A very large baboon-looking beast.  Its imponent fangs are displayed frequently as the animal searches for food.  That, alongside it's quite humanoid appearance, makes you feel uncomfortable.",
-  "translation": "",
+  "translation": "A very large baboon-looking beast.  Its imponent fangs are displayed frequently as the animal searches for food.  That, alongside it's quite humanoid appearance, makes you feel uncomfortable.",
   "context": "ID: mon_dinopithecus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_dinopithecus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4234edc333ff7c8801acbc4ad297df86",
   "original": "A very large tortoise.  Moving slowly in search of nourishment, it pays no attention to the world around it.  Although that doesn't mean it wouldn't retaliate if necessary.",
-  "translation": "",
+  "translation": "A very large tortoise.  Moving slowly in search of nourishment, it pays no attention to the world around it.  Although that doesn't mean it wouldn't retaliate if necessary.",
   "context": "ID: mon_carbonemys\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_carbonemys\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ba43a28defd18bd4417eb185793cc9da",
   "original": "A very large, crocodile-looking beast.  Despite appearing very similar to a now outdated conception of theropods, its frame is crocodilesque once you focus on the details, with very notable differences.  For example, it can walk upright.  It is also adapted to hunt, instead of stalking for prey.  And last, but not least important, it can run.",
-  "translation": "",
+  "translation": "A very large, crocodile-looking beast.  Despite appearing very similar to a now outdated conception of theropods, its frame is crocodilesque once you focus on the details, with very notable differences.  For example, it can walk upright.  It is also adapted to hunt, instead of stalking for prey.  And last, but not least important, it can run.",
   "context": "ID: mon_fasolasuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_fasolasuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d57e916a7710f0755e77690dc99d7ada",
@@ -3909,9 +3909,9 @@
  {
   "key": "88fd314433b0ba094517774a09275485",
   "original": "A weird, boomerang-headed amphibian.  Despite it's appearance, it's quite docile.",
-  "translation": "",
+  "translation": "A weird, boomerang-headed amphibian.  Despite it's appearance, it's quite docile.",
   "context": "ID: mon_diplocaulus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_amphibian.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_diplocaulus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b8dfd3f24d41b8b298ccea1c24074ea7",
@@ -10393,9 +10393,9 @@
  {
   "key": "a87d1209af6230cb934cb30e0e2c4bdd",
   "original": "baby boverisuchus",
-  "translation": "",
+  "translation": "baby boverisuchus",
   "context": "ID: mon_boverisuchus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_boverisuchus_baby\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fd3d91b6c7425ddff158a86d5bbe9ad9",
@@ -10897,16 +10897,16 @@
  {
   "key": "bb38697a10656b4ab0810efa32c0a755",
   "original": "boverisuchus",
-  "translation": "",
+  "translation": "boverisuchus",
   "context": "ID: mon_boverisuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_boverisuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "73efa6f59fc069f1077ec5d6c850cd41",
   "original": "boverisuchus egg",
-  "translation": "",
+  "translation": "boverisuchus egg",
   "context": "ID: egg_boverisuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_boverisuchus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02810b0b55f2c808fdccd6dd6338f13c",
