@@ -171,8 +171,8 @@
     "symbol": "=",
     "color": "light_red",
     "ammo_type": [ "battery" ],
-    "count": 40000,
-    "capacity": 40000,
+    "count": 20000,
+    "capacity": 20000,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD", "MECH_BAT" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 20000 } } ]
