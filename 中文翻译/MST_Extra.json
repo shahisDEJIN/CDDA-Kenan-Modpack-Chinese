@@ -43,7 +43,7 @@
  {
   "key": "9d924a2caa21bcaa1f9fa7b1cfe766d9",
   "original": "A comfy wool quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
-  "translation": "A comfy wool quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "translation": "一张可以披在肩上的羊毛被，也可以像斗篷一样别到合适的位置上来固定住。累赘更小，因为解放了你的双手，而且不会绊倒你。",
   "context": "ID: cloak_makeshift_quilt\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt\n",
   "stage": 1
  },
@@ -139,7 +139,7 @@
  {
   "key": "c8d2412b24f4a2e60d47413a5459321d",
   "original": "A huge patchwork quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
-  "translation": "A huge patchwork quilt, draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
+  "translation": "一张可以披在肩上的布块被，也可以像斗篷一样别到合适的位置上来固定住。累赘更小，因为解放了你的双手，而且不会绊倒你。",
   "context": "ID: cloak_makeshift_quilt_patchwork\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt_patchwork\n",
   "stage": 1
  },
@@ -436,14 +436,14 @@
  {
   "key": "c76310aeeabb825bf05a70797c12cddb",
   "original": "A traditional Roman drink made of water mixed with a bit of sour wine, then spiced up with herbs and honey.  Good for unwinding after a long march.",
-  "translation": "A traditional Roman drink made of water mixed with a bit of sour wine, then spiced up with herbs and honey.  Good for unwinding after a long march.",
+  "translation": "历史悠久的罗马酒，由廉价且味酸的葡萄酒兑水冲淡而成，通常会混合着香草和蜂蜜来增添风味。适合在长途行军后放松身心。",
   "context": "ID: posca_hard\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca_hard\n",
   "stage": 1
  },
  {
   "key": "f461667e0ea4faf005101cf80da7489c",
   "original": "A traditional Roman drink made of water mixed with a bit of vinegar, then spiced up with herbs and honey.  A good way to quench one's thirst on a long march.",
-  "translation": "A traditional Roman drink made of water mixed with a bit of vinegar, then spiced up with herbs and honey.  A good way to quench one's thirst on a long march.",
+  "translation": "历史悠久的罗马酒，由食醋兑水冲淡而成，通常会混合着香草和蜂蜜来增添风味。适合长途行军后用来解渴。",
   "context": "ID: posca\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca\n",
   "stage": 1
  },
@@ -519,9 +519,9 @@
  {
   "key": "2aaf2bda1e45935c45f32149de5a675a",
   "original": "A warm blanket draped around the shoulders and pinned in place to wear like a cloak.  Less encumbering since it leaves your hands free, and won't trip you up.",
-  "translation": "一张羽绒毯，披在肩上，并在适当的位置上固定，穿起来就像一件披风一样。累赘更小，因为它解放了你的双手，并且不会绊倒你。",
+  "translation": "一张可以披在肩上的羽绒毯，也可以像斗篷一样别到合适的位置上来固定住。累赘更小，因为解放了你的双手，并且不会绊倒你。",
   "context": "ID: cloak_makeshift_down_blanket\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_down_blanket\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "54d21c01f5f67af6125d5866032e9004",
@@ -1177,21 +1177,21 @@
   "original": "You play a simple rhythm on the drum.",
   "translation": "你在鼓上敲打出一个简单的节奏。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1cda046d768a60e6a675a6696692add4",
   "original": "You strike a steady beat on the side drum.",
   "translation": "你在侧鼓上敲打出稳定的节拍。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ea212c01e9f55f3e6ba18131c0802c6a",
   "original": "Your drum beats with the cadence of an army on the march.",
   "translation": "你的鼓声如同行军队伍般节奏分明。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "756ba592ffa46120e6f709314fd43e88",
@@ -1476,7 +1476,7 @@
  {
   "key": "27e7661dcd90b086ff874f16b7483ddd",
   "original": "hard posca",
-  "translation": "hard posca",
+  "translation": "烈波斯卡酒",
   "context": "ID: posca_hard\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca_hard\n",
   "stage": 1
  },
@@ -1710,7 +1710,7 @@
  {
   "key": "bb5e204c41ab416b1a79538d175cfb4c",
   "original": "makeshift patchwork quilt cloak",
-  "translation": "makeshift patchwork quilt cloak",
+  "translation": "简易布块被披风",
   "context": "ID: cloak_makeshift_quilt_patchwork\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt_patchwork\n",
   "stage": 1
  },
@@ -1724,7 +1724,7 @@
  {
   "key": "d4d78b2da39bf0cf098d2d820bcbf3eb",
   "original": "makeshift quilt cloak",
-  "translation": "makeshift quilt cloak",
+  "translation": "简易羊毛被披风",
   "context": "ID: cloak_makeshift_quilt\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→cloak_makeshift_quilt\n",
   "stage": 1
  },
@@ -1906,7 +1906,7 @@
   "original": "play a simple rhythm on the drum.",
   "translation": "在鼓上敲打出一个简单的节奏。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "613df504baaefdb5b10f6c7f7098970c",
@@ -2075,7 +2075,7 @@
   "original": "sound the cadence of an army on the march.",
   "translation": "响起行军队伍的节奏声。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e2cced6a4067c75887beb9ad68b787c6",
@@ -2117,7 +2117,7 @@
   "original": "strike a steady beat on the side drum.",
   "translation": "在军鼓上敲打出稳定的节拍。",
   "context": "ID: side_drum_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→side_drum_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "147a3bee81af416852c66f3ffeb94b19",
