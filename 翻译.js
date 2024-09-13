@@ -1004,7 +1004,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         }
       }
     }
-    if (Array.isArray(item.repeat_responses)) {
+    if (item.repeat_responses) {
       for (const response of item.repeat_responses) {
         if (response.text === '<topic_item>') {
           continue;
