@@ -1832,6 +1832,13 @@
   "stage": 3
  },
  {
+  "key": "56037bc5e19637287012d2ad4cf493e2",
+  "original": "At first, you thought it was some sort of prank or plot coming from her, to get you involved in the next incident.  Curiosity caused you to go check for yourself, and just when you crossed the second Barrier, you realized something was wrong.  It's just you now.",
+  "translation": "At first, you thought it was some sort of prank or plot coming from her, to get you involved in the next incident.  Curiosity caused you to go check for yourself, and just when you crossed the second Barrier, you realized something was wrong.  It's just you now.",
+  "context": "ID: kasen_ibaraki\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→kasen_ibaraki\n",
+  "stage": 1
+ },
+ {
   "key": "92e14441c7de735a05a7bea8c0ffaf35",
   "original": "Ate a cucumber.",
   "translation": "Ate a cucumber.",
@@ -2039,6 +2046,13 @@
   "stage": 3
  },
  {
+  "key": "d2131b3d220cb49c68c9d4a3cad8a1e2",
+  "original": "Bean",
+  "translation": "Bean",
+  "context": "ID: bean\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→bean\n",
+  "stage": 1
+ },
+ {
   "key": "fccd6bc91061da88162fc773763dbc7d",
   "original": "Become imperceptible to those around you.",
   "translation": "让周围的人察觉不到你。",
@@ -2126,6 +2140,13 @@
   "stage": 3
  },
  {
+  "key": "747f992097b9e5c9df7585931537150a",
+  "original": "Blood",
+  "translation": "Blood",
+  "context": "ID: blood\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→blood\n",
+  "stage": 1
+ },
+ {
   "key": "6bdd4e218d3a2ff5e7b5277b472f9e11",
   "original": "Blood Death (chasm)",
   "translation": "Blood Death (chasm)",
@@ -2194,6 +2215,13 @@
   "translation": "血之渴望（极重）",
   "context": "ID: bloodthirst_veryhigh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→bloodthirst_veryhigh\n",
   "stage": 3
+ },
+ {
+  "key": "d790f0e7721581ed25c97eef3f5e9021",
+  "original": "Bone",
+  "translation": "Bone",
+  "context": "ID: bone\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→bone\n",
+  "stage": 1
  },
  {
   "key": "6d19b234f937b69936b3e82aaccf68e6",
@@ -2617,6 +2645,13 @@
   "stage": 3
  },
  {
+  "key": "a67778b3dcc82bfaace0f8bc0061f20e",
+  "original": "Cheese",
+  "translation": "Cheese",
+  "context": "ID: cheese\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→cheese\n",
+  "stage": 1
+ },
+ {
   "key": "4a621fa1100b8d07b387faaf7dab7461",
   "original": "Clumps of human egg cells.  While extremely lurid, these can be used for substitutes in certain dark Taoist techniques.",
   "translation": "人类的卵细胞团块，尽管相当令人毛骨悚然，但可以用来替代某些黑暗道术。",
@@ -3016,6 +3051,13 @@
   "stage": 3
  },
  {
+  "key": "bf5018aff8ce06ac7164304052638e7a",
+  "original": "Cured Meat",
+  "translation": "Cured Meat",
+  "context": "ID: cured_meat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→cured_meat\n",
+  "stage": 1
+ },
+ {
   "key": "6e44ea325202bd2b7131ae87ad2fb94b",
   "original": "Curse of corpses",
   "translation": "尸体的诅咒",
@@ -3091,6 +3133,13 @@
   "translation": "DDD",
   "context": "ID: sakuya_timestop_end\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_end\n",
   "stage": 3
+ },
+ {
+  "key": "4b02a5b8da403b36083763c143a56854",
+  "original": "Dairy",
+  "translation": "Dairy",
+  "context": "ID: milk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→milk\n",
+  "stage": 1
  },
  {
   "key": "222c3871d5554508c3af40b844089c40",
@@ -4026,6 +4075,13 @@
   "stage": 3
  },
  {
+  "key": "4a2a4f5ea344e8977fcfff6e8b7a14c5",
+  "original": "Dried Vegetable",
+  "translation": "Dried Vegetable",
+  "context": "ID: dried_vegetable\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→dried_vegetable\n",
+  "stage": 1
+ },
+ {
   "key": "29f58df00dbaf9a20f878f8241b73e26",
   "original": "Drill strike (kick)",
   "translation": "钻击踢",
@@ -4149,6 +4205,13 @@
   "stage": 3
  },
  {
+  "key": "f04ba3c635d301c987d90fc75c71775b",
+  "original": "Egg",
+  "translation": "Egg",
+  "context": "ID: egg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→egg\n",
+  "stage": 1
+ },
+ {
   "key": "3dc97367a78104de51a262b578931123",
   "original": "Elbow strike",
   "translation": "肘劲",
@@ -4180,7 +4243,7 @@
   "key": "b1f8bea0dcbb2faa867af15d3b44e7cf",
   "original": "Emotionless and expressive Menreiki",
   "translation": "能面且感情丰富的面灵气",
-  "context": "ID: PROF_KOKORO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KOKORO\n",
+  "context": "ID: PROF_KOKORO_morale\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KOKORO_morale\n",
   "stage": 3
  },
  {
@@ -4685,6 +4748,13 @@
   "stage": 3
  },
  {
+  "key": "76b3600561b0723b1634aeac8e29d2f9",
+  "original": "Flesh",
+  "translation": "Flesh",
+  "context": "ID: flesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→flesh\n",
+  "stage": 1
+ },
+ {
   "key": "4459a17b73ab4ee3ef64c218cf9c3bd7",
   "original": "Floating keystone controls.",
   "translation": "浮空要石的操纵台.",
@@ -4958,6 +5028,13 @@
   "stage": 3
  },
  {
+  "key": "f31948ce13c3cb24f2d80a26659a57cc",
+  "original": "Fruit Matter",
+  "translation": "Fruit Matter",
+  "context": "ID: fruit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→fruit\n",
+  "stage": 1
+ },
+ {
   "key": "989f12fae91ed08203fab139802c7121",
   "original": "Fusion blade",
   "translation": "聚变光刃",
@@ -4993,6 +5070,13 @@
   "original": "GGG",
   "translation": "GGG",
   "context": "ID: nitori_extendo_arm_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_extendo_arm_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "26f556ab266d057f9adf6e28589f3027",
+  "original": "Garlic",
+  "translation": "Garlic",
+  "context": "ID: garlic\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→garlic\n",
   "stage": 1
  },
  {
@@ -5667,6 +5751,13 @@
   "stage": 0
  },
  {
+  "key": "8dc0611245a871ac51bbeebb85f33a58",
+  "original": "Honey",
+  "translation": "Honey",
+  "context": "ID: honey\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→honey\n",
+  "stage": 1
+ },
+ {
   "key": "c09f0b277509c0099fbde21096fdbe43",
   "original": "Horse Ranch",
   "translation": "牧马场",
@@ -5798,6 +5889,13 @@
   "stage": 1
  },
  {
+  "key": "4905f67693c1e057a2d9b8c9de8f863b",
+  "original": "Ice Cream",
+  "translation": "Ice Cream",
+  "context": "ID: ice_cream\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→ice_cream\n",
+  "stage": 1
+ },
+ {
   "key": "90c8c021a5925d5daef7d11a9cdc75e0",
   "original": "Icy pyrexia (disease)",
   "translation": "冰烧（疾病）",
@@ -5899,6 +5997,20 @@
   "stage": 3
  },
  {
+  "key": "ef3be02a051f71b8bb9e42760af4b55c",
+  "original": "Impure",
+  "translation": "Impure",
+  "context": "ID: IMPURE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→IMPURE\n",
+  "stage": 1
+ },
+ {
+  "key": "1535f2e3b1757adcc7d538cccf2ef228",
+  "original": "Impurity",
+  "translation": "Impurity",
+  "context": "ID: impurity\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_vitamin.json\n类型为 vitamin\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vitamin→impurity\n",
+  "stage": 1
+ },
+ {
   "key": "e56f67d7e6498a33bff3117ea1787dc4",
   "original": "Inari mask (determination)",
   "translation": "稻荷面（决意）",
@@ -5983,6 +6095,13 @@
   "stage": 3
  },
  {
+  "key": "8b5aff245f5bca10e8f22bbac66d851b",
+  "original": "Insect Flesh",
+  "translation": "Insect Flesh",
+  "context": "ID: iflesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→iflesh\n",
+  "stage": 1
+ },
+ {
   "key": "f0e5b1a4e35f648e633447f38de58da0",
   "original": "Insightful sword",
   "translation": "洞察之剑",
@@ -6049,8 +6168,14 @@
   "key": "cd4a81044a00ce465110ef8923fba3ca",
   "original": "It was sales day at the nearby market, so you left home at the entrance to try that new \"coffee\" product, perhaps share it at the weekly danmaku exhibitions, or at the hotsprings.  However, seems you somehow lost yourself on the way back, not recognizing landmarks, and not meeting anyone to ask about it.",
   "translation": "今天是附近市场的打折日，于是你离开家门去尝试新品“咖啡”，也许能在每周的弹幕表演或泡温泉时分享给其他人。但是，你在回家的路上不知道怎么的迷路了，没有认识的地标，也没有遇到可以问路的人。",
-  "context": "ID: yamame_kurodani\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→yamame_kurodani\n",
   "stage": 3
+ },
+ {
+  "key": "fce0ff213744c84851fcd502183a5101",
+  "original": "It was sales day at the nearby market, so you left home at the entrance to try that new \"coffee\" product, perhaps share it at the weekly danmaku exhibitions, or at the hotsprings.  However, you somehow lost yourself on the way back, not recognizing any landmarks.",
+  "translation": "It was sales day at the nearby market, so you left home at the entrance to try that new \"coffee\" product, perhaps share it at the weekly danmaku exhibitions, or at the hotsprings.  However, you somehow lost yourself on the way back, not recognizing any landmarks.",
+  "context": "ID: yamame_kurodani\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→yamame_kurodani\n",
+  "stage": 1
  },
  {
   "key": "0639228257dd331890bc19ce77d2bc61",
@@ -7129,6 +7254,13 @@
   "stage": 1
  },
  {
+  "key": "b93c3d9029fa42815abf0551db0cec98",
+  "original": "Mushroom",
+  "translation": "Mushroom",
+  "context": "ID: mushroom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→mushroom\n",
+  "stage": 1
+ },
+ {
   "key": "67964ebd29371c721d19992721b61f4e",
   "original": "Myon",
   "translation": "半灵",
@@ -7342,6 +7474,13 @@
   "translation": "核能爆发",
   "context": "ID: utsuho_nuke5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke5\n",
   "stage": 3
+ },
+ {
+  "key": "8bf7f3c31cb4b455397f1ca228ca5597",
+  "original": "Nut",
+  "translation": "Nut",
+  "context": "ID: nut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→nut\n",
+  "stage": 1
  },
  {
   "key": "b7d0250cd61dbb706bdf8010f1f734c0",
@@ -7821,6 +7960,13 @@
   "translation": "概率噪声",
   "context": "ID: reisen_pnoise\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→reisen_pnoise\n",
   "stage": 3
+ },
+ {
+  "key": "b791e5d84f223953f91b16084d77ca56",
+  "original": "Processed Food",
+  "translation": "Processed Food",
+  "context": "ID: processed_food\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→processed_food\n",
+  "stage": 1
  },
  {
   "key": "e6addd363f86f023f0377e34b733eff0",
@@ -8482,8 +8628,14 @@
   "key": "bb56d2ba2c485d550e1e5af801cfb285",
   "original": "Resuming your duties after lunch, you master asked you to go look for Orin, and she was indeed missing again.  You went to the surface, noticing the friendly cave spider wasn't at her usual spot, maybe both went together!  You know she likes to go nap at the Shrine, so you went… to the wrong one, and noticing this was no mountain, nothing close.  Looking back, you saw no \"back\".  You're aware you can get lost sometimes, but this is too much even for yourself.  Now you have to find Orin, find the Tsuchigumo, and return.",
   "translation": "吃午饭后你开始了工作，主人让你去找阿燐，果然她又失踪了。你去了地面，发现那友善的土蜘蛛不在平时的位置，也许她们两人一起走了吧！你知道她喜欢在神社打盹，于是你去了…错误的那一个。你发现这里没有山，什么也没有。回过头，你却发现找不到归路了。你知道自己有时会迷路，但这对你来说太离谱了。现在你必须找到阿燐和土蜘蛛，然后回家。",
-  "context": "ID: utsuho_reiuji\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→utsuho_reiuji\n",
   "stage": 3
+ },
+ {
+  "key": "91193412e3b48fb5878d1e84345e9db6",
+  "original": "Resuming your duties after lunch, you master asked you to go look for Orin, and she was indeed missing again.  You went to the surface, noticing the friendly cave spider wasn't at her usual spot, maybe both went together!  You know she likes to go nap at the Shrine, so you went… to the wrong one.  Noticing there was no mountain, nothing close.  Looking back, you saw no \"back\".  You're aware you can get lost sometimes, but this is too much even for yourself.  Now you have to find Orin, find the Tsuchigumo, and return.",
+  "translation": "Resuming your duties after lunch, you master asked you to go look for Orin, and she was indeed missing again.  You went to the surface, noticing the friendly cave spider wasn't at her usual spot, maybe both went together!  You know she likes to go nap at the Shrine, so you went… to the wrong one.  Noticing there was no mountain, nothing close.  Looking back, you saw no \"back\".  You're aware you can get lost sometimes, but this is too much even for yourself.  Now you have to find Orin, find the Tsuchigumo, and return.",
+  "context": "ID: utsuho_reiuji\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→utsuho_reiuji\n",
+  "stage": 1
  },
  {
   "key": "1efe39dd4665159ead559a8c6d206eb0",
@@ -11074,6 +11226,13 @@
   "stage": 3
  },
  {
+  "key": "77bd79b3dca1f49815655b6f2df760ba",
+  "original": "Tomato",
+  "translation": "Tomato",
+  "context": "ID: tomato\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→tomato\n",
+  "stage": 1
+ },
+ {
   "key": "59e5ee3a0e98bc5b81940d236a2384db",
   "original": "Too bad you can't actually die for good.",
   "translation": "你永远无法消逝长眠，真遗憾啊。",
@@ -11610,6 +11769,13 @@
   "stage": 3
  },
  {
+  "key": "fbcb06bb07ac6b2147b9142b578344c8",
+  "original": "Vegetable Matter",
+  "translation": "Vegetable Matter",
+  "context": "ID: veggy_heaven\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→veggy_heaven\n",
+  "stage": 1
+ },
+ {
   "key": "3805a71d9249b3a2d3514c6abde612dd",
   "original": "Veil's like water",
   "translation": "羽衣若水",
@@ -11715,7 +11881,7 @@
   "key": "60f2bfeaed0a36ff9864e008e1e67a36",
   "original": "WIP",
   "translation": "制作中",
-  "context": "ID: kasen_ibaraki\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→kasen_ibaraki\n",
+  "context": "ID: mon_kappa_turret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_kappa_turret\n",
   "stage": 3
  },
  {
@@ -11749,6 +11915,13 @@
   "original": "Warning: this cannot be undone.",
   "translation": "Warning: this cannot be undone.",
   "context": "ID: kasen_fangshu_delete_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_delete_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "27634ff8002b12e75d98e07ccd005d18",
+  "original": "Water",
+  "translation": "Water",
+  "context": "ID: water\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→water\n",
   "stage": 1
  },
  {
@@ -11841,6 +12014,20 @@
   "translation": "你周围的蛛网纷纷脱落。",
   "context": "ID: web_dismiss_terfur\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_ter_transform.json\n类型为 ter_furn_transform\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ter_furn_transform→web_dismiss_terfur\n",
   "stage": 3
+ },
+ {
+  "key": "f18e950224108c8adb645bd41cabfd47",
+  "original": "Well, that's it.  You've gained impurity.  The good news is that Earthly food doesn't feel as… empty anymore.",
+  "translation": "Well, that's it.  You've gained impurity.  The good news is that Earthly food doesn't feel as… empty anymore.",
+  "context": "ID: IMPURE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→IMPURE\n",
+  "stage": 1
+ },
+ {
+  "key": "966d953817980d045a3538d3b8bbb468",
+  "original": "Wheat",
+  "translation": "Wheat",
+  "context": "ID: wheat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→wheat\n",
+  "stage": 1
  },
  {
   "key": "8016e2be7f2e39d70beb6a72d8acdf0c",
@@ -13639,10 +13826,16 @@
   "stage": 3
  },
  {
+  "key": "064f05a945e09a87f35e0e5b8417412a",
+  "original": "You're a wicked, amoral hermit with the ability to pass through walls and enslave the undead.  You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the Cataclysm should be… interesting.",
+  "translation": "You're a wicked, amoral hermit with the ability to pass through walls and enslave the undead.  You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the Cataclysm should be… interesting.",
+  "context": "ID: seiga_kaku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→seiga_kaku\n",
+  "stage": 1
+ },
+ {
   "key": "1fa6fd8108f04c06a05734751da61bff",
   "original": "You're a wicked, amoral hermit with the ability to pass through walls and enslave the undead.  You never really cared about anyone else, only seeing fit to manipulate them for your own ends. Surviving the cataclysm should be… interesting.",
   "translation": "你是一个邪恶、无道德可言的仙人，具有穿墙和奴役僵尸的能力。你从不关心别人，只是为了达到目的而操纵他们。在大灾变中活下来也许是一件…有趣的事。",
-  "context": "ID: seiga_kaku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→seiga_kaku\n",
   "stage": 5
  },
  {
