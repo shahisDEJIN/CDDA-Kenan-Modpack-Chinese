@@ -2725,9 +2725,9 @@
  {
   "key": "c3865f2e0b4f2b39bee73fad51cf05ac",
   "original": "Love is over.",
-  "translation": "爱是会消失的。",
+  "translation": "爱是会消失的",
   "context": "ID: love_is_over\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→love_is_over\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "5bbe83200116a866cf1d50dc35626c57",

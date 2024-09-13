@@ -4650,9 +4650,9 @@
  {
   "key": "0021a60160de0f5ba2e4c185cc814a4b",
   "original": "Ay! Mis hijos!",
-  "translation": "哎！我的孩子们！",
+  "translation": "啊！我的孩子们！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_lallorona→30\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "38a1e5dcdec96eed3f23c5bcfc558b1e",
@@ -5024,9 +5024,9 @@
  {
   "key": "a0e1a652aa9db2d9adde668c909ec2d4",
   "original": "Co me!",
-  "translation": "离我远点！",
+  "translation": "来！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_skinwalker_witch_deer→83\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e83d87520bd5a3d2cf3ea2b84d3a161c",
@@ -5184,7 +5184,7 @@
   "original": "Desist!",
   "translation": "住手！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_mib→37\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8e701f21c8a0f0d228d739e8ef46b834",
@@ -5433,14 +5433,14 @@
   "original": "Ezou wolf",
   "translation": "埃佐狼",
   "context": "ID: mon_ezou_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reference.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ezou_wolf\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f83a34e5263042d252e76a5ffe8c92e9",
   "original": "Ezou wolves",
   "translation": "埃佐狼群",
   "context": "ID: mon_ezou_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reference.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ezou_wolf\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2dea8787eb84c90b3bdfcd20f3df8c3b",
@@ -5503,7 +5503,7 @@
   "original": "Follow më.",
   "translation": "跟我来。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_skinwalker_witch_cow→77\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4552bc065b690b38eb132ecd6462ec8b",
@@ -5517,7 +5517,7 @@
   "original": "Found it.",
   "translation": "找到了。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_mib→38\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "93525bdd46b19533714411462bc4bb2a",
@@ -5621,7 +5621,7 @@
   "original": "Go away…",
   "translation": "走开……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_jinmenken→23\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "afddf089b196ec4deeb9c649607045cb",
@@ -6283,7 +6283,7 @@
   "original": "Leave me alone…",
   "translation": "别管我……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_jinmenken→20\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "16c2d42e6562663bee37b35d78aaac14",
