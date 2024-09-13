@@ -1141,6 +1141,13 @@
   "stage": 3
  },
  {
+  "key": "938c0a120c753bcb18ba5a97d8d0e224",
+  "original": "<topic_item>を渡す",
+  "translation": "<topic_item>を渡す",
+  "context": "ID: TALK_CHAIN_EXP\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_confess_my_love.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
+  "stage": 1
+ },
+ {
   "key": "1ccdc6fbdee5948b84a6e9c22b134fd6",
   "original": "<u_name>…<speech_warning_akane>",
   "translation": "<u_name>…<speech_warning_akane>",
