@@ -1004,12 +1004,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         }
       }
     }
-    if (Array.isArray(item.repeat_responses)) {
-      for (const response of item.repeat_responses) {
-        if (response.text === '<topic_item>') {
+    if (item.repeat_responses) {
+      for (const responses of item.repeat_responses) {
+        if (responses.response.text === '<topic_item>') {
           continue;
         } else {
-          response.text = await translateFunction(response.text);
+          responses.response.text = await translateFunction(responses.response.text);
         }
       }
     }
