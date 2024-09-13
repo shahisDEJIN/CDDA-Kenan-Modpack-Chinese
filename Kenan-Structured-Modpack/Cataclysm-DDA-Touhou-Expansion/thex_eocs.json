@@ -4,25 +4,24 @@
     "type": "effect_on_condition",
     "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
-      { "u_add_var": "var_wind_blessing_dex", "type": "number", "context": "wind_priestess_charm", "value": "0" },
-      { "u_add_var": "var_wind_blessing_int", "type": "number", "context": "wind_priestess_charm", "value": "0" },
-      { "u_add_var": "var_wind_blessing_per", "type": "number", "context": "wind_priestess_charm", "value": "0" },
-      { "u_add_var": "var_wind_blessing_str", "type": "number", "context": "wind_priestess_charm", "value": "0" },
       { "run_eocs": [ "daily_randomization_eoc" ] }
     ]
   },
   {
     "id": "daily_randomization_eoc",
     "type": "effect_on_condition",
-    "recurrence": "24 hours",
     "effect": [
       { "math": [ "night_parade_proc", "=", "rand(99)" ] },
       { "math": [ "silence_hour_proc", "=", "rand(99)" ] },
-      { "math": [ "silence_hour_hour", "=", "rand(23)" ] },
-      { "math": [ "silence_hour_minute", "=", "rand(59)" ] },
-      { "math": [ "silence_hour_second", "=", "rand(59)" ] }
+      { "math": [ "silence_hour_second", "=", "rand(86399)" ] },
+      { "math": [ "weather_blood_rain_proc", "=", "rand(99)" ] },
+      { "math": [ "weather_carnian_proc", "=", "rand(99)" ] },
+      { "math": [ "weather_carnian_active", "=", "0" ] },
+      { "math": [ "weather_scarlet_proc", "=", "rand(99)" ] },
+      { "queue_eocs": [ "daily_randomization_eoc" ], "time_in_future": { "math": [ "86400 - time_since('midnight', 'unit': 'seconds')" ] } }
     ],
-    "//": "These re-roll daily, for use in special events "
+    "//": "Re-rolls daily at 00:00:00, for use in special events",
+    "//WIP": "Carnian weather is disabled, it requires weather_carnian_active >= 1"
   },
   {
     "id": "guevaudan_attacked_melee_eoc",

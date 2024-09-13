@@ -22,7 +22,7 @@
     "melee_skill": 4,
     "melee_dice": 3,
     "melee_dice_sides": 3,
-    "melee_damage": [ { "damage_type": "electric", "amount": 6 } ],
+    "melee_damage": [ { "damage_type": "electric", "amount": 3 } ],
     "dodge": 2,
     "armor": { "bash": 2, "cut": 2, "stab": 2, "bullet": 2, "acid": 4, "biological": 4, "cold": 4, "electric": 16, "heat": 4 },
     "luminance": 2,
@@ -34,7 +34,19 @@
 	"grab_strength": 16,
     "special_attacks": [ 
       [ "shock_15", { "math": [ "1 + rand(2)" ] } ], 
-      { "id": "mon_computer_possessed_1", "type": "spell", "spell_data": { "id": "entangle" }, "cooldown": { "math": [ "7 + rand(5)" ] } } 
+      { 
+        "id": "mon_computer_possessed_1", 
+        "type": "spell", 
+        "spell_data": { "id": "entangle" }, 
+        "condition": {
+          "and": [
+            { "not": { "npc_has_effect": "zapped" } },
+            { "not": { "npc_has_effect": "entangle_effect" } }
+          ]
+        },
+        "cooldown": { "math": [ "7 + rand(5)" ] }, 
+        "monster_message": "" 
+      } 
     ],
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "STALK" ],
     "flags": [ "ELECTRIC", "HEARS", "NO_BREATHE", "SEES" ]
@@ -65,10 +77,22 @@
     },
     "special_attacks": [ 
       [ "shock_11", { "math": [ "1 + rand(2)" ] } ],
-      { "id": "mon_computer_laptop_possessed_1", "type": "spell", "spell_data": { "id": "entangle" }, "cooldown": { "math": [ "7 + rand(5)" ] } } 
+      { 
+        "id": "mon_computer_laptop_possessed_1", 
+        "type": "spell", 
+        "spell_data": { "id": "entangle" }, 
+        "condition": {
+          "and": [
+            { "not": { "npc_has_effect": "zapped" } },
+            { "not": { "npc_has_effect": "entangle_effect" } }
+          ]
+        },
+        "cooldown": { "math": [ "7 + rand(5)" ] }, 
+        "monster_message": "" 
+      } 
     ],
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "ELECTRIC", "HARDTOSHOOT", "HEARS", "NO_BREATHE", "SEES" ]
+    "flags": [ "ELECTRIC", "HARDTOSHOOT", "HEARS", "NOGIB", "NO_BREATHE", "SEES", "SMALL_HIDER" ]
   },
   {
     "id": "mon_scarecrow_inactive",
@@ -100,12 +124,18 @@
     "vision_day": 6,
     "vision_night": 16,
     "special_attacks": [ 
-      { "id": "mon_scarecrow_inactive_1", "type": "spell", "spell_data": { "id": "scarecrow_wakeup" }, "cooldown": 1 } 
+      { 
+        "id": "mon_scarecrow_inactive_1", 
+        "type": "spell", 
+        "spell_data": { "id": "scarecrow_wakeup", "hit_self": true }, 
+        "cooldown": 1, 
+        "monster_message": "The scarecrow wakes up!" 
+      } 
     ],
     "death_drops": "scarecrow_drops",
     "burn_into": "mon_scarecrow_scorched",
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
-    "flags": [ "BASHES", "CAMOUFLAGE", "HEARS", "IMMOBILE", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES" ]
+    "flags": [ "BASHES", "CAMOUFLAGE", "HEARS", "IMMOBILE", "NOGIB", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES" ]
   },
   {
     "id": "mon_scarecrow",
@@ -119,7 +149,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
 	"special_attacks": [ [ "claw_17", { "math": [ "1 + rand(2)" ] } ] ],
-    "flags": [ "BASHES", "HEARS", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES" ]
+    "flags": [ "BASHES", "HEARS", "NOGIB", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES" ]
   },
   {
     "id": "mon_scarecrow_scorched",
@@ -155,7 +185,7 @@
     "special_attacks": [ [ "claw_17_heat", { "math": [ "1 + rand(2)" ] } ] ],
     "death_drops": "scarecrow_drops_burnt",
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
-    "flags": [ "BASHES", "HEARS", "NO_BREATHE", "PATH_AVOID_FALL", "SEES" ]
+    "flags": [ "BASHES", "HEARS", "NOGIB", "NO_BREATHE", "PATH_AVOID_FALL", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_seat_airplane_1",
@@ -187,7 +217,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HEARS", "NO_BREATHE", "NOHEAD", "SEES" ]
+    "flags": [ "HEARS", "NO_BREATHE", "NOGIB", "NOHEAD", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_armchair_1",
@@ -219,7 +249,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HEARS", "NOHEAD", "NO_BREATHE", "SEES" ]
+    "flags": [ "HEARS", "NOGIB", "NOHEAD", "NO_BREATHE", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_seat_chair_1",
@@ -251,7 +281,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HEARS", "NOHEAD", "NO_BREATHE", "SEES" ]
+    "flags": [ "HEARS", "NOGIB", "NOHEAD", "NO_BREATHE", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_seat_stool_1",
@@ -283,7 +313,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HEARS", "NOHEAD", "NO_BREATHE", "SEES" ]
+    "flags": [ "HEARS", "NOGIB", "NOHEAD", "NO_BREATHE", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_table_1",
@@ -315,7 +345,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HEARS", "LOUDMOVES", "NOHEAD", "NO_BREATHE", "SEES" ]
+    "flags": [ "HEARS", "LOUDMOVES", "NOGIB", "NOHEAD", "NO_BREATHE", "SEES" ]
   },
   {
     "id": "mon_tsukumogami_talking_doll_1",
@@ -349,7 +379,7 @@
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
 	"upgrades": { "half_life": 42, "into_group": "GROUP_TSUKUMOGAMI_TALKINGDOLL_UPGRADE" },
-    "flags": [ "HARDTOSHOOT", "HEARS", "NO_BREATHE", "SEES" ]
+    "flags": [ "HARDTOSHOOT", "HEARS", "NOGIB", "NO_BREATHE", "SEES", "SMALL_HIDER" ]
   },
   {
     "id": "mon_tsukumogami_talking_doll_2",
@@ -382,7 +412,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HARDTOSHOOT", "HEARS", "NO_BREATHE", "PATH_AVOID_FALL", "SEES" ]
+    "flags": [ "HARDTOSHOOT", "HEARS", "NOGIB", "NO_BREATHE", "PATH_AVOID_FALL", "SEES", "SMALL_HIDER" ]
   },
   {
     "id": "mon_tsukumogami_talking_doll_3",
@@ -415,6 +445,6 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 32 },
     "anger_triggers": [ "FRIEND_DIED", "HURT", "PLAYER_CLOSE", "STALK" ],
-    "flags": [ "HARDTOSHOOT", "HEARS", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES" ]
+    "flags": [ "HARDTOSHOOT", "HEARS", "NOGIB", "NO_BREATHE", "PATH_AVOID_FALL", "PATH_AVOID_FIRE", "SEES", "SMALL_HIDER" ]
   }
 ]

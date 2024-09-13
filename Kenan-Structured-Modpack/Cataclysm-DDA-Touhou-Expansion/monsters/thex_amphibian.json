@@ -62,7 +62,7 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 8 },
     "anger_triggers": [ "HURT" ],
-    "reproduction": { "baby_type": { "baby_egg": "egg_diplocaulus" }, "baby_count": 12, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_diplocaulus", "baby_count": 12, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ [ "EAT_CARRION", { "math": [ "40 + rand(20)" ] } ], [ "EAT_FOOD", { "math": [ "40 + rand(20)" ] } ] ],
     "flags": [ "ANIMAL", "EATS", "HEARS", "SEES", "SMELLS", "SWIMS" ],
@@ -123,7 +123,7 @@
     "vision_night": 32,
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
-    "reproduction": { "baby_type": { "baby_egg": "egg_eryops" }, "baby_count": 8, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_eryops", "baby_count": 8, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ [ "EAT_CARRION", { "math": [ "40 + rand(20)" ] } ], [ "EAT_FOOD", { "math": [ "40 + rand(20)" ] } ] ],
     "flags": [ "ANIMAL", "EATS", "SEES", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],
@@ -185,10 +185,10 @@
     "vision_night": 24,
     "path_settings": { "max_dist": 8 },
     "anger_triggers": [ "HURT" ],
-    "reproduction": { "baby_type": { "baby_egg": "egg_pederpes" }, "baby_count": 12, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_pederpes", "baby_count": 12, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ [ "EAT_CARRION", { "math": [ "40 + rand(20)" ] } ], [ "EAT_FOOD", { "math": [ "40 + rand(20)" ] } ] ],
-    "flags": [ "ANIMAL", "EATS", "SEES", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],
+    "flags": [ "ANIMAL", "EATS", "SEES", "SMALL_HIDER", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],
     "//": "Based on Pederpes finneyae. I couldn't find almost anything other than the size at 1 m average so most numbers are estimates",
     "//2": "These tetrapods were more or less stem-tetrapods, a sister clade of actual tetrapods (containing amphibians + amniots + a bunch of other salamander slash frog animals), instead of being 'true' amphibians"
   },
@@ -229,7 +229,7 @@
     "melee_skill": 5,
     "stomach_size": 20000,
     "vision_night": 6,
-    "reproduction": { "baby_type": { "baby_egg": "egg_pholiderpeton" }, "baby_count": 12, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_pholiderpeton", "baby_count": 12, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(20)" ] } ], 
@@ -237,7 +237,7 @@
       { 
         "id": "sprint", 
         "type": "spell", 
-        "spell_data": { "id": "sprint_spell_3" }, 
+        "spell_data": { "id": "sprint_spell_3_s", "hit_self": true }, 
         "condition": {
           "and": [
             { "not": { "u_has_effect": "ambush_effect1" } },
@@ -245,12 +245,13 @@
             { "not": { "u_has_effect": "ambush_effect3" } }
           ]
         },
-        "cooldown": { "math": [ "6 + rand(6)" ] } 
+        "cooldown": { "math": [ "6 + rand(6)" ] }, 
+        "monster_message": "" 
       },
       { 
         "id": "ambush_speed", 
         "type": "spell", 
-        "spell_data": { "id": "ambush_speed_spell" }, 
+        "spell_data": { "id": "ambush_speed_spell", "hit_self": true }, 
         "condition": {
           "and": [
             "u_is_underwater",
@@ -261,7 +262,8 @@
           ]
         },
         "cooldown": { "math": [ "1 + rand(1)" ] }, 
-        "allow_no_target": true 
+        "allow_no_target": true, 
+        "monster_message": "" 
       }
     ],
     "flags": [ "ANIMAL", "EATS", "SEES", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],
@@ -306,7 +308,7 @@
     "melee_damage": [ { "damage_type": "cut", "amount": 7 } ],
     "stomach_size": 25000,
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
-    "reproduction": { "baby_type": { "baby_egg": "egg_platyoposaurus" }, "baby_count": 12, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_platyoposaurus", "baby_count": 12, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(20)" ] } ], 
@@ -314,7 +316,7 @@
       { 
         "id": "sprint", 
         "type": "spell", 
-        "spell_data": { "id": "sprint_spell_3" }, 
+        "spell_data": { "id": "sprint_spell_3", "hit_self": true }, 
         "condition": {
           "and": [
             { "not": { "u_has_effect": "ambush_effect1" } },
@@ -322,12 +324,13 @@
             { "not": { "u_has_effect": "ambush_effect3" } }
           ]
         },
-        "cooldown": { "math": [ "6 + rand(6)" ] } 
+        "cooldown": { "math": [ "6 + rand(6)" ] }, 
+        "monster_message": "" 
       },
       { 
         "id": "ambush_speed", 
         "type": "spell", 
-        "spell_data": { "id": "ambush_speed_spell" }, 
+        "spell_data": { "id": "ambush_speed_spell", "hit_self": true }, 
         "condition": {
           "and": [
             "u_is_underwater",
@@ -338,7 +341,8 @@
           ]
         },
         "cooldown": { "math": [ "1 + rand(1)" ] }, 
-        "allow_no_target": true 
+        "allow_no_target": true, 
+        "monster_message": "" 
       }
     ],
     "flags": [ "ANIMAL", "EATS", "HEARS", "SEES", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],
@@ -387,7 +391,7 @@
     "dodge": 4,
     "stomach_size": 20000,
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
-    "reproduction": { "baby_type": { "baby_egg": "egg_prionosuchus" }, "baby_count": 12, "baby_timer": 240 },
+    "reproduction": { "baby_egg": "egg_prionosuchus", "baby_count": 12, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(40)" ] } ], 
@@ -395,7 +399,7 @@
       { 
         "id": "sprint", 
         "type": "spell", 
-        "spell_data": { "id": "sprint_spell_3" }, 
+        "spell_data": { "id": "sprint_spell_3", "hit_self": true },  
         "condition": {
           "and": [
             { "not": { "u_has_effect": "ambush_effect1" } },
@@ -403,12 +407,13 @@
             { "not": { "u_has_effect": "ambush_effect3" } }
           ]
         },
-        "cooldown": { "math": [ "6 + rand(6)" ] } 
+        "cooldown": { "math": [ "6 + rand(6)" ] }, 
+        "monster_message": "" 
       },
       { 
         "id": "ambush_speed", 
         "type": "spell", 
-        "spell_data": { "id": "ambush_speed_spell" }, 
+        "spell_data": { "id": "ambush_speed_spell", "hit_self": true },  
         "condition": {
           "and": [
             "u_is_underwater",
@@ -419,7 +424,8 @@
           ]
         },
         "cooldown": { "math": [ "1 + rand(1)" ] }, 
-        "allow_no_target": true 
+        "allow_no_target": true, 
+        "monster_message": "" 
       }
     ],
     "flags": [ "ANIMAL", "EATS", "SEES", "SMELLS", "SWIMS", "WATER_CAMOUFLAGE" ],

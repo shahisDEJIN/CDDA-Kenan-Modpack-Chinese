@@ -1,5 +1,52 @@
 [
   {
+    "type": "effect_type",
+    "id": "zapped",
+    "name": [ "Zapped" ],
+    "desc": [ "You've been zapped with electricity and are barely able to move!" ],
+    "apply_message": "You're zapped!",
+    "rating": "bad",
+    "max_duration": "1 s",
+    "dur_add_perc": -20,
+    "base_mods": { "speed_mod": [ -1000 ], "dex_mod": [ -100 ] },
+    "show_in_info": true,
+    "limb_score_mods": [
+      { "limb_score": "manip", "modifier": 0.8, "scaling": -0.05 },
+      { "limb_score": "lift", "modifier": 0.9, "scaling": -0.1 },
+      { "limb_score": "block", "modifier": 0.7, "scaling": -0.1 },
+      { "limb_score": "breathing", "modifier": 0.8, "scaling": -0.1 },
+      { "limb_score": "reaction", "modifier": 0.9, "scaling": -0.1 },
+      { "limb_score": "balance", "modifier": 0.75, "scaling": -0.05 },
+      { "limb_score": "swim", "modifier": 0.8, "scaling": -0.2 }
+    ],
+    "flags": [ "EFFECT_LIMB_SCORE_MOD" ],
+    "//": "Nerfed: max duration and negative dur_add_perc "
+  },
+  {
+    "type": "effect_type",
+    "id": "electrocuted",
+    "name": [ "Electrocuted" ],
+    "desc": [ "You're being shocked with electricity to the point of serious harm!" ],
+    "apply_message": "You're being electrocuted!",
+    "rating": "bad",
+    "dur_add_perc": -20,
+    "pain_sizing": true,
+    "hurt_sizing": true,
+    "base_mods": { "speed_mod": [ -1000 ], "dex_mod": [ -100 ], "hurt_amount": [ 15, 0 ], "hurt_min": [ 2, 1 ] },
+    "show_in_info": true,
+    "limb_score_mods": [
+      { "limb_score": "manip", "modifier": 0.8, "scaling": -0.05 },
+      { "limb_score": "lift", "modifier": 0.9, "scaling": -0.1 },
+      { "limb_score": "block", "modifier": 0.7, "scaling": -0.1 },
+      { "limb_score": "breathing", "modifier": 0.8, "scaling": -0.1 },
+      { "limb_score": "reaction", "modifier": 0.9, "scaling": -0.1 },
+      { "limb_score": "balance", "modifier": 0.75, "scaling": -0.05 },
+      { "limb_score": "swim", "modifier": 0.8, "scaling": -0.2 }
+    ],
+    "flags": [ "EFFECT_LIMB_SCORE_MOD", "NO_PSIONICS" ],
+    "//": "Nerfed: negative dur_add_perc "
+  },
+  {
     "id": "ambush_effect1",
     "type": "effect_type",
     "name": [ "Ambush effect" ],
@@ -7,8 +54,15 @@
     "remove_message": "You move normally again.",
     "max_duration": "3 s",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 45 ] },
-    "max_intensity": 1
+    "max_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 1.5 }
+        ] 
+      } 
+    ]
   },
   {
     "id": "ambush_effect2",
@@ -18,8 +72,15 @@
     "remove_message": "You move normally again.",
     "max_duration": "2 s",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 45 ] },
-    "max_intensity": 1
+    "max_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 1.5 }
+        ] 
+      } 
+    ]
   },
   {
     "id": "ambush_effect3",
@@ -29,14 +90,22 @@
     "remove_message": "You move normally again.",
     "max_duration": "1 s",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 45 ] },
-    "max_intensity": 1
+    "max_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 1.5 }
+        ] 
+      } 
+    ]
   },
   {
     "id": "entangle_effect",
     "type": "effect_type",
     "name": [ "Entangled" ],
     "desc": [ "Movement speed is reduced." ],
+    "show_in_info": true,
     "apply_message": "You're ensared!",
     "remove_message": "You move normally again.",
     "rating": "bad",
@@ -49,11 +118,21 @@
     "type": "effect_type",
     "name": [ "Silver touched" ],
     "desc": [ "" ],
+    "show_in_info": true,
     "max_duration": "60 s",
     "rating": "bad",
     "base_mods": { "speed_mod": [ -15 ] },
     "max_intensity": 1,
     "//": "This is to prevent mon_gevaudan from casting its self-healing spell"
+  },
+  {
+    "id": "monster_vanish_delay_effect",
+    "type": "effect_type",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "//": "Dummy effect so it can be used as condition for monster_vanish spells that require a brief delay"
   },
   {
     "id": "paralyze_3_effect",
@@ -69,6 +148,8 @@
     "type": "effect_type",
     "name": [ "Shrieked at" ],
     "desc": [ "It is as if hearing the shriek lacerated your soul." ],
+    "show_in_info": true,
+    "apply_message": "Hearing the shriek slows you down!",
     "remove_message": "You move normally again.",
     "rating": "bad",
     "base_mods": { "speed_mod": [ -9 ] },
@@ -76,15 +157,86 @@
     "max_intensity": 9
   },
   {
+    "id": "skinwalker_message_effect",
+    "type": "effect_type",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "//": "Dummy effect so it can be used as condition for the skinwalker witch messages"
+  },
+  {
+    "id": "skinwalker_message_remove_effect",
+    "type": "effect_type",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "removes_effects": [ "skinwalker_message_effect" ],
+    "//": "Dummy effect so it can remove the message above"
+  },
+  {
+    "id": "skinwalker_transform_success_effect",
+    "type": "effect_type",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "//": "Dummy effect so it can be used as condition for skinwalker witch transformation"
+  },
+  {
     "id": "sprint_effect",
     "type": "effect_type",
     "name": [ "Sprint" ],
     "desc": [ "Increases movement speed for a short duration" ],
     "remove_message": "You move normally again.",
-    "max_duration": "7 s",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 50 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 2.5 }
+        ] 
+      } 
+    ],
+    "//": "This should only increase ms and add ~50% attack speed, but currently MOVE_COST isn't working for monsters"
+  },
+  {
+    "id": "sprint_effect_f",
+    "type": "effect_type",
+    "name": [ "Sprint" ],
+    "desc": [ "Increases movement speed for a short duration" ],
+    "remove_message": "You move normally again.",
+    "rating": "good",
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 0.5 }
+        ] 
+      } 
+    ]
+  },
+  {
+    "id": "sprint_effect_s",
+    "type": "effect_type",
+    "name": [ "Sprint" ],
+    "desc": [ "Increases movement speed for a short duration" ],
+    "remove_message": "You move normally again.",
+    "rating": "good",
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": 3.5 }
+        ] 
+      } 
+    ]
   }
 ]

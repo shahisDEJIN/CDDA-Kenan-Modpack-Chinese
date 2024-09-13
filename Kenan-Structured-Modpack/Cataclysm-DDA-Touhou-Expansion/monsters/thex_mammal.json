@@ -32,12 +32,18 @@
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
     "fear_triggers": [ "SOUND" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_amphicyon_cub" }, "baby_count": 3, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_amphicyon_cub", "baby_count": 3, "baby_timer": 240 },
     "baby_flags": [ "SPRING" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(20)" ] } ], 
       [ "EAT_FOOD", { "math": [ "65 + rand(20)" ] } ],
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_5" }, "type": "spell", "cooldown": { "math": [ "10 + rand(10)" ] } } 
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_5_f", "hit_self": true },  
+        "type": "spell", 
+        "cooldown": { "math": [ "10 + rand(10)" ] }, 
+        "monster_message": "" 
+      } 
     ],
     "flags": [ "ANIMAL", "BASHES", "EATS", "KEENNOSE", "HEARS", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "WARM" ],
     "//": "Amphicyon ingens taken as reference when possible, because one exemplar had an estimated of 570 Kg which is a bit too much. No reproductive data",
@@ -99,12 +105,18 @@
     "path_settings": { "max_dist": 16 },
     "anger_triggers": [ "FRIEND_ATTACKED", "HURT", "PLAYER_CLOSE", "PLAYER_WEAK", "STALK" ],
     "fear_triggers": [ "SOUND" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_andrewsarchus_calf" }, "baby_count": 2, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_andrewsarchus_calf", "baby_count": 2, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(40)" ] } ], 
       [ "EAT_FOOD", { "math": [ "65 + rand(40)" ] } ],
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_7" }, "type": "spell", "cooldown": { "math": [ "11 + rand(11)" ] } }  
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_7_f", "hit_self": true }, 
+        "type": "spell", 
+        "cooldown": { "math": [ "11 + rand(11)" ] }, 
+        "monster_message": "" 
+      }  
     ],
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 12 },
     "flags": [ "ANIMAL", "BASHES", "EATS", "HEARS", "KEENNOSE", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "SMELLS", "WARM" ],
@@ -160,7 +172,7 @@
     "stomach_size": 10000,
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_NEAR_BABY" ],
     "fear_triggers": [ "SOUND" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_castoroides_cub" }, "baby_count": 4, "baby_timer": 84 },
+    "reproduction": { "baby_monster": "mon_castoroides_cub", "baby_count": 4, "baby_timer": 84 },
     "baby_flags": [ "WINTER" ],
     "special_attacks": [ [ "EAT_FOOD", { "math": [ "25 + rand(20)" ] } ] ],
     "flags": [
@@ -235,12 +247,18 @@
     "path_settings": { "max_dist": 16 },
     "anger_triggers": [ "FRIEND_ATTACKED", "HURT", "PLAYER_CLOSE", "PLAYER_WEAK" ],
     "fear_triggers": [ "SOUND" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_daeodon_piglet" }, "baby_count": 4, "baby_timer": 76 },
+    "reproduction": { "baby_monster": "mon_daeodon_piglet", "baby_count": 4, "baby_timer": 76 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "50 + rand(20)" ] } ], 
       [ "EAT_FOOD", { "math": [ "50 + rand(20)" ] } ], 
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_7" }, "type": "spell", "cooldown": { "math": [ "11 + rand(11)" ] } } 
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_7_f", "hit_self": true }, 
+        "type": "spell", 
+        "cooldown": { "math": [ "11 + rand(11)" ] }, 
+        "monster_message": "" 
+      } 
     ],
     "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 6 },
     "flags": [ "ANIMAL", "BASHES", "EATS", "HEARS", "KEENNOSE", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "SMELLS", "WARM" ],
@@ -303,7 +321,7 @@
     "path_settings": { "max_dist": 16 },
     "grab_strength": 16,
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_dinopithecus_baby" }, "baby_count": 3, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_dinopithecus_baby", "baby_count": 3, "baby_timer": 240 },
     "baby_flags": [ "SPRING" ],
     "special_attacks": [ 
       [ "EAT_CARRION", { "math": [ "65 + rand(40)" ] } ], 
@@ -369,7 +387,7 @@
     "vision_night": 12,
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_glossotherium_cub" }, "baby_count": 1, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_glossotherium_cub", "baby_count": 1, "baby_timer": 240 },
     "baby_flags": [ "SPRING" ],
     "special_attacks": [ [ "EAT_CROP", { "math": [ "65 + rand(40)" ] } ], [ "EAT_FOOD", { "math": [ "65 + rand(40)" ] } ] ],
     "flags": [ "ANIMAL", "BASHES", "EATS", "KEENNOSE", "HEARS", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "WARM" ],
@@ -431,11 +449,17 @@
     "vision_night": 6,
     "path_settings": { "max_dist": 8 },
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_glyptodont_baby" }, "baby_count": 2, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_glyptodont_baby", "baby_count": 2, "baby_timer": 240 },
     "baby_flags": [ "SPRING" ],
     "special_attacks": [ 
       [ "EAT_CROP", { "math": [ "40 + rand(20)" ] } ], 
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_3" }, "type": "spell", "cooldown": { "math": [ "6 + rand(6)" ] } } 
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_3", "hit_self": true }, 
+        "type": "spell", 
+        "cooldown": { "math": [ "6 + rand(6)" ] }, 
+        "monster_message": "" 
+      } 
     ],
     "flags": [ "ANIMAL", "BASHES", "EATS", "KEENNOSE", "HEARS", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "WARM" ],
     "//2": "Glyptodont sp. used as reference. No reproductive data",
@@ -488,10 +512,10 @@
     "stomach_size": 8,
     "anger_triggers": [ "FRIEND_ATTACKED" ],
     "fear_triggers": [ "HURT", "PLAYER_CLOSE" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_herpetotherium_cub" }, "baby_count": 8, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_herpetotherium_cub", "baby_count": 8, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ [ "EAT_CROP", { "math": [ "20 + rand(10)" ] } ], [ "EAT_FOOD", { "math": [ "20 + rand(10)" ] } ] ],
-    "flags": [ "ANIMAL", "CLIMBS", "EATS", "HEARS", "PATH_AVOID_DANGER", "SEES", "SMELLS", "WARM" ],
+    "flags": [ "ANIMAL", "CLIMBS", "EATS", "HEARS", "PATH_AVOID_DANGER", "SEES", "SMALL_HIDER", "SMELLS", "WARM" ],
     "//": "Tried to use Herpetotherium sp. as reference, but there's basically no data, so it's mostly copied from mon_opossum and mon_black_rat . No reproductive data"
   },
   {
@@ -549,7 +573,7 @@
     "vision_night": 12,
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_megatherium_cub" }, "baby_count": 1, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_megatherium_cub", "baby_count": 1, "baby_timer": 240 },
     "baby_flags": [ "SPRING" ],
     "special_attacks": [ [ "EAT_CROP", { "math": [ "100 + rand(40)" ] } ], [ "EAT_FOOD", { "math": [ "100 + rand(40)" ] } ] ],
     "flags": [ "ANIMAL", "BASHES", "EATS", "KEENNOSE", "HEARS", "PATH_AVOID_DANGER", "PUSH_MON", "SEES", "WARM" ],
@@ -609,11 +633,17 @@
     "vision_night": 6,
     "path_settings": { "max_dist": 8 },
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "STALK" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_pakicetus_pup" }, "baby_count": 4, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_pakicetus_pup", "baby_count": 4, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_FOOD", { "math": [ "80 + rand(40)" ] } ], 
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_5" }, "type": "spell", "cooldown": { "math": [ "10 + rand(10)" ] } }  
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_5", "hit_self": true }, 
+        "type": "spell",  
+        "cooldown": { "math": [ "10 + rand(10)" ] }, 
+        "monster_message": "" 
+      }  
     ],
     "flags": [ "ANIMAL", "EATS", "HEARS", "PATH_AVOID_DANGER", "SEES", "SMELLS", "SWIMS", "WARM" ]
   },
@@ -671,11 +701,17 @@
     "vision_night": 6,
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_sivatherium_baby" }, "baby_count": 1, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_sivatherium_baby", "baby_count": 1, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN" ],
     "special_attacks": [ 
       [ "EAT_CROP", { "math": [ "100 + rand(40)" ] } ], 
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_7" }, "type": "spell", "cooldown": { "math": [ "11 + rand(11)" ] } }  
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_7_f", "hit_self": true }, 
+        "type": "spell", 
+        "cooldown": { "math": [ "11 + rand(11)" ] }, 
+        "monster_message": "" 
+      }  
     ],
     "flags": [
       "ANIMAL",
@@ -734,7 +770,7 @@
     },
     "anger_triggers": [ "HURT", "PLAYER_CLOSE", "PLAYER_NEAR_BABY" ],
     "fear_triggers": [ "SOUND" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_taeniolabis_cub" }, "baby_count": 4, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_taeniolabis_cub", "baby_count": 4, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ [ "EAT_CARRION", { "math": [ "40 + rand(20)" ] } ], [ "EAT_FOOD", { "math": [ "40 + rand(20)" ] } ] ],
     "flags": [
@@ -770,7 +806,7 @@
       "stomach_size": 0.2
     },
     "upgrades": { "age_grow": 84, "into": "mon_taeniolabis" },
-    "extend": { "flags": [ "NO_BREED" ] }
+    "extend": { "flags": [ "NO_BREED", "SMALL_HIDER" ] }
   },
   {
     "id": "mon_thylacine",
@@ -803,14 +839,20 @@
     "vision_night": 16,
     "path_settings": { "max_dist": 12 },
     "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT", "PLAYER_NEAR_BABY" ],
-    "reproduction": { "baby_type": { "baby_monster": "mon_thylacine_pup" }, "baby_count": 3, "baby_timer": 240 },
+    "reproduction": { "baby_monster": "mon_thylacine_pup", "baby_count": 3, "baby_timer": 240 },
     "baby_flags": [ "SPRING", "SUMMER", "AUTUMN", "WINTER" ],
     "special_attacks": [ 
       [ "EAT_CROP", { "math": [ "80 + rand(40)" ] } ], 
       [ "EAT_CARRION", { "math": [ "80 + rand(40)" ] } ], 
       [ "EAT_FOOD", { "math": [ "80 + rand(40)" ] } ], 
       [ "PARROT", { "math": [ "3 + rand(3)" ] } ], 
-      { "id": "sprint", "spell_data": { "id": "sprint_spell_5" }, "type": "spell", "cooldown": { "math": [ "10 + rand(10)" ] } }  
+      { 
+        "id": "sprint", 
+        "spell_data": { "id": "sprint_spell_5_f", "hit_self": true }, 
+        "type": "spell", 
+        "cooldown": { "math": [ "10 + rand(10)" ] }, 
+        "monster_message": "" 
+      }  
     ],
     "biosignature": { "biosig_item": "feces_thylacine", "biosig_timer": 8 },
     "flags": [ "ANIMAL", "EATS", "GROUP_MORALE", "HEARS", "KEENNOSE", "PATH_AVOID_DANGER", "SEES", "SWARMS", "WARM" ],
@@ -838,6 +880,6 @@
       "stomach_size": 0.2
     },
     "upgrades": { "age_grow": 84, "into": "mon_thylacine" },
-    "extend": { "flags": [ "NO_BREED" ] }
+    "extend": { "flags": [ "NO_BREED", "SMALL_HIDER" ] }
   }
 ]
