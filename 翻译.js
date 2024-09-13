@@ -22,14 +22,14 @@ const getFakeId = (item, index) =>
   typeof item?.id === 'string'
     ? item.id
     : item?.type === 'recipe' && item.result && item.difficulty
-    ? `${item.result}(difficulty${item.difficulty})`
-    : item?.type === 'speech' && item.speaker
-    ? `${Array.isArray(item.speaker) ? item.speaker[0] : item.speaker}→${index}`
-    : item?.type === 'AMMO' || item?.type === 'COMESTIBLE'
-    ? item.abstract
-    : typeof index === 'number'
-    ? `[${index}]`
-    : '';
+      ? `${item.result}(difficulty${item.difficulty})`
+      : item?.type === 'speech' && item.speaker
+        ? `${Array.isArray(item.speaker) ? item.speaker[0] : item.speaker}→${index}`
+        : item?.type === 'AMMO' || item?.type === 'COMESTIBLE'
+          ? item.abstract
+          : typeof index === 'number'
+            ? `[${index}]`
+            : '';
 const getContext = (sourceModName, item, index) => `${sourceModName}→${item.type}→${getFakeId(item, index)}`;
 // const getItemBrowserLink = (item) =>
 //   item.id ? `http://cdda.aloxaf.cn/search?q=${escape(Array.isArray(item.id) ? item.id[0] : item.id)}` : '';
@@ -81,8 +81,8 @@ async function qwenTextGenerate(promptValue) {
   // 构建请求体
   const requestBody = {
     model: 'qwen-max',
-    "input":{
-      "messages":[      
+    "input": {
+      "messages": [
         {
           "role": "system",
           "content": `你是一名专业翻译员，擅长使用AI工具翻译我输入的内容。
@@ -306,7 +306,7 @@ function kvToParatranz(kvTranslationsCache, stages, contexts) {
  */
 function paratranzToKV(paratranzTranslationsContent) {
   return paratranzTranslationsContent.reduce((prev, item) => {
-		if (item.translation?.includes(TRANSLATION_ERROR)) {
+    if (item.translation?.includes(TRANSLATION_ERROR)) {
       return { ...prev, [item.original]: TRANSLATION_ERROR };
     }
     return { ...prev, [item.original]: item.translation };
@@ -685,7 +685,7 @@ WIKI:
 ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
 `
     );
-  const noop = () => {};
+  const noop = () => { };
 
   // 常用的翻译器
   const maleFemaleItemDesc = async (item) => {
@@ -708,7 +708,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     if (useAction.activation_message) {
       useAction.activation_message = await translateFunction(useAction.activation_message);
     }
-    if(useAction.summon_msg){
+    if (useAction.summon_msg) {
       useAction.summon_msg = await translateFunction(useAction.summon_msg);
     }
     await messageOrMessages(useAction);
@@ -733,16 +733,16 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     if (useAction.menu_text) {
       useAction.menu_text = await translateFunction(useAction.menu_text);
     }
-    if(Array.isArray(useAction?.player_descriptions)){
+    if (Array.isArray(useAction?.player_descriptions)) {
       useAction.player_descriptions = await Promise.all(useAction.player_descriptions.map((player_descriptions) => translateFunction(player_descriptions)));
     }
-    if(typeof useAction?.player_descriptions === 'string'){
+    if (typeof useAction?.player_descriptions === 'string') {
       useAction.player_descriptions = await translateFunction(useAction.player_descriptions)
     }
-    if(Array.isArray(useAction?.npc_descriptions)){
+    if (Array.isArray(useAction?.npc_descriptions)) {
       useAction.npc_descriptions = await Promise.all(useAction.npc_descriptions.map((npc_descriptions) => translateFunction(npc_descriptions)));
     }
-    if(typeof useAction?.npc_descriptions === 'string'){
+    if (typeof useAction?.npc_descriptions === 'string') {
       useAction.npc_descriptions = await translateFunction(useAction.npc_descriptions)
     }
   };
@@ -794,8 +794,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         await useActionMsg(useAction);
       }
     }
-    if (typeof item.transform === 'object'){
-      if (item.transform?.msg_transform){
+    if (typeof item.transform === 'object') {
+      if (item.transform?.msg_transform) {
         item.transform.msg_transform = await translateFunction(item.transform.msg_transform);
       }
     }
@@ -900,44 +900,44 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       //     now.no = await translateFunction(now.no);
       //   }
       // }
-      if (Array.isArray(line?.concatenate)){
+      if (Array.isArray(line?.concatenate)) {
         await Promise.all(line.concatenate.map(async (item) => {
           if (typeof item?.yes === 'string') {
             item.yes = await translateFunction(item.yes);
           }
-          if(Array.isArray(item?.yes)){
+          if (Array.isArray(item?.yes)) {
             item.yes = await Promise.all(item.yes.map((yes) => translateFunction(yes)));
           }
           if (typeof item?.no === 'string') {
             item.no = await translateFunction(item.no);
           }
-          if(Array.isArray(item?.no)){
+          if (Array.isArray(item?.no)) {
             item.no = await Promise.all(item.no.map((no) => translateFunction(no)));
           }
           let now;
           // typeof无法区分不是array的object
-          if((item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype) || (item?.no && Object.getPrototypeOf(item?.no) === Object.prototype)){
-            if(item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype){
+          if ((item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype) || (item?.no && Object.getPrototypeOf(item?.no) === Object.prototype)) {
+            if (item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype) {
               now = item.yes
             }
-            if(item?.no && Object.getPrototypeOf(item?.no) === Object.prototype){
+            if (item?.no && Object.getPrototypeOf(item?.no) === Object.prototype) {
               now = item.no
             }
-            while ((now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype) || (now?.no && Object.getPrototypeOf(now?.no) === Object.prototype)){
-              if(now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype){
-                if(typeof now?.no === 'string') {
+            while ((now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype) || (now?.no && Object.getPrototypeOf(now?.no) === Object.prototype)) {
+              if (now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype) {
+                if (typeof now?.no === 'string') {
                   now.no = await translateFunction(now.no);
                 }
-                if(Array.isArray(now?.no)){
+                if (Array.isArray(now?.no)) {
                   now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
                 }
                 now = now.yes
               }
-              if(now?.no && Object.getPrototypeOf(now?.no) === Object.prototype){
-                if(typeof now?.yes === 'string') {
+              if (now?.no && Object.getPrototypeOf(now?.no) === Object.prototype) {
+                if (typeof now?.yes === 'string') {
                   now.yes = await translateFunction(now.yes);
                 }
-                if(Array.isArray(now?.yes)){
+                if (Array.isArray(now?.yes)) {
                   now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
                 }
                 now = now.no
@@ -946,13 +946,13 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             if (typeof now?.yes === 'string') {
               now.yes = await translateFunction(now.yes);
             }
-            if(Array.isArray(now?.yes)){
+            if (Array.isArray(now?.yes)) {
               now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
             }
             if (typeof now?.no === 'string') {
               now.no = await translateFunction(now.no);
             }
-            if(Array.isArray(now?.no)){
+            if (Array.isArray(now?.no)) {
               now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
             }
           }
@@ -1004,9 +1004,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         }
       }
     }
+    if (Array.isArray(item.repeat_responses)) {
+      for (const response of item.repeat_responses) {
+        if (response.text === '<topic_item>') {
+          continue;
+        } else {
+          response.text = await translateFunction(response.text);
+        }
+      }
+    }
   };
-  const weakpoint_set = async(item) =>{
-    for(const weakpoint of item.weakpoints){
+  const weakpoint_set = async (item) => {
+    for (const weakpoint of item.weakpoints) {
       if (weakpoint.name) {
         weakpoint.name = await translateFunction(weakpoint.name);
       }
@@ -1034,12 +1043,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     'u_query',
     'npc_query'
   ];
-  
+
   const recursiveTranslate = async (obj) => {
     for (const key in obj) {
       if (obj.hasOwnProperty(key)) {
         const value = obj[key];
-        
+
         if (Array.isArray(value)) {
           // If the value is an array, recursively translate each element
           obj[key] = await Promise.all(value.map(async (item) => {
@@ -1059,13 +1068,13 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
         }
       }
     }
-  
+
     return obj;
   };
-  
+
   const EOC = async (item) => {
     await recursiveTranslate(item);
-  }; 
+  };
 
   const infoItem = async (item) => {
     // 注意可能有 <good>protection</good> 这样的标记
@@ -1094,7 +1103,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     // "CSC_SECRONOM_FLESH",
     // "CSC_SECRONOM_FLESH ARMOR",
     // "CSC_SECRONOM_FLESH ALTERATION"
-    const prefix = categoryName.replace('CC_', 'CSC_') + '_'; 
+    const prefix = categoryName.replace('CC_', 'CSC_') + '_';
     const realCategoryName = subCategoryName.replace(/.*_/, '');//ボイスロイド
     const translated = await translateFunction(realCategoryName);
     return prefix + translated;
@@ -1318,10 +1327,10 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.skill = namePlDesc;
   translators.snippet = async (item) => {
     if (Array.isArray(item.text)) {
-      if(typeof item.text[0] === 'string'){
+      if (typeof item.text[0] === 'string') {
         item.text = await Promise.all(item.text.map((text) => translateFunction(text)));
-      }else if(typeof item.text === 'object'){
-        for(let text in item.text){
+      } else if (typeof item.text === 'object') {
+        for (let text in item.text) {
           text.text = await translateFunction(text.text)
         }
       }
@@ -1398,11 +1407,11 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     item.heading_multiple = await translateFunction(item.heading_multiple);
     item.encumbrance_text = await translateFunction(item.encumbrance_text);
     item.smash_message = await translateFunction(item.smash_message);
-    if(item?.hp_bar_ui_text){
+    if (item?.hp_bar_ui_text) {
       item.hp_bar_ui_text = await translateFunction(item.hp_bar_ui_text);
     }
   }
-  
+
 
   return translators;
 }
@@ -1419,7 +1428,7 @@ const chunkAsync = (arr, callback, chunkSize = 1) => {
       return Promise.all(results);
     });
   }, Promise.resolve());
-  return work.finally(() => {}).then(() => Promise.all(results));
+  return work.finally(() => { }).then(() => Promise.all(results));
 };
 
 /**
