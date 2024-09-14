@@ -255,7 +255,7 @@
           "almond_milk",
           "cranberry_juice",
           "lemonade",
-          "milk_coffee_sweetned"
+          "milk_coffee_sweetened"
         ],
         "response": { "text": "<topic_item>", "topic": "TALK_EAT_ITEMS_+3" }
       },
